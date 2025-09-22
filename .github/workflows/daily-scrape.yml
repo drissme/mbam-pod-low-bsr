@@ -1,0 +1,104 @@
+name: Daily scrape and report
+
+on:
+  workflow_dispatch:    # manual runs
+  schedule:
+    - cron: "0 6 * * *"  # daily at 06:00 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "daily-scrape-${{ github.ref }}"
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Normalize urls.txt line endings
+        run: |
+          sed -i 's/\r$//' scripts/urls.txt || true
+          echo "Using URLs:" && cat scripts/urls.txt || true
+
+      - name: Run scrapes
+        shell: bash
+        env:
+          UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+          MAX_ATTEMPTS: "6"
+          BASE_BACKOFF: "10"
+          MAX_BACKOFF: "120"
+        run: |
+          set -euo pipefail
+          mkdir -p data reports
+          i=0
+          while IFS= read -r line || [ -n "$line" ]; do
+            [[ -z "$line" || "$line" =~ ^[[:space:]]*# ]] && continue
+            url=$(echo "$line" | awk '{print $1}')
+            name=$(echo "$line" | awk '{print $2}')
+            if [[ -z "$name" ]]; then i=$((i+1)); name="cat${i}"; fi
+
+            delay=$(( (RANDOM % 8) + 7 ))
+            echo "Waiting ${delay}s before scraping $name ..."
+            sleep "$delay"
+
+            outfile="data/snapshot-$(date -u +%F)-${name}.json"
+            echo "Scraping: $url -> $outfile"
+            if ! UA="$UA" MAX_ATTEMPTS="$MAX_ATTEMPTS" BASE_BACKOFF="$BASE_BACKOFF" MAX_BACKOFF="$MAX_BACKOFF" \
+               python scripts/scrape_bestsellers.py --category-url "$url" --output "$outfile" --ua "$UA"; then
+              echo "Scrape failed for $name. Writing empty snapshot and continuing."
+              printf '{"scraped_at":"%s","category_url":"%s","items":[]}\n' "$(date -u +%FT%TZ)" "$url" > "$outfile"
+            fi
+          done < scripts/urls.txt
+
+      - name: Build “new low BSR” report
+        run: |
+          python scripts/aggregate_new_low_bsr.py \
+            --data-dir data \
+            --days 7 \
+            --max-rank 50 \
+            --new-only \
+            --output-json reports/new_low_bsr.json \
+            --output-csv reports/new_low_bsr.csv
+
+      - name: Show outputs
+        run: |
+          echo "data/"; ls -lAh data || true
+          echo "reports/"; ls -lAh reports || true
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --staged --quiet; then
+            git commit -m "Daily scrape: $(date -u +%F)"
+            git pull --rebase origin main || true
+            git push origin HEAD:main
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Upload reports artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: reports
+          path: reports/
+          if-no-files-found: warn
