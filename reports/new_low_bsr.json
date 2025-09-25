@@ -1,29 +1,7 @@
 {
-  "generated_at": "2025-09-24T06:02:07.118009Z",
+  "generated_at": "2025-09-25T06:01:58.180734Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": [
-    {
-      "asin": "B0FQMLGBCN",
-      "title": "Freedom T-Shirt Freedom Merch Shirt Unisex Casual Short Sleeve Crew Neck Letter Print Graphic Tee Tops",
-      "link": "https://www.amazon.com/Freedom-T-Shirt-Unisex-Graphic-X-Large/dp/B0FQMLGBCN/ref=zg_bs_g_9056987011_d_sccl_30/142-6987327-4786941",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-09-24T06:02:07.047701Z",
-      "keywords": [
-        "freedom",
-        "merch",
-        "unisex",
-        "casual",
-        "crew",
-        "neck",
-        "letter",
-        "print",
-        "tops"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, merch, unisex, casual, crew, neck, letter, print, tops. Use clear fonts and simple iconography. Avoid trademarks."
-    }
-  ]
+  "items": []
 }
