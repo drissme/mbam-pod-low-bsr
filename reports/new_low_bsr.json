@@ -1,7 +1,82 @@
 {
-  "generated_at": "2025-09-25T06:01:58.180734Z",
+  "generated_at": "2025-09-26T06:13:35.445713Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B0FQPMZYKV",
+      "title": "Freedom Shirt – Simple Freedom Text T Shirt for Men & Women Patriotic Men's Tshirts Graphic Tee",
+      "link": "https://www.amazon.com/Freedom-Shirt-Patriotic-Tshirts-Graphic/dp/B0FQPMZYKV/ref=zg_bs_g_9056987011_d_sccl_4/147-7375850-7774056",
+      "current_rank": 4,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-09-26T06:13:35.383891Z",
+      "keywords": [
+        "freedom",
+        "simple",
+        "text",
+        "women",
+        "patriotic",
+        "tshirts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, women, patriotic, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FHC2M7VP",
+      "title": "KPop Demon Hunters Zoey Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/KPop-Demon-Hunters-Officially-Licensed/dp/B0FHC2M7VP/ref=zg_bs_g_9056987011_d_sccl_28/147-7375850-7774056",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-09-26T06:13:35.383891Z",
+      "keywords": [
+        "kpop",
+        "demon",
+        "hunters",
+        "zoey",
+        "officially",
+        "licensed"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, zoey, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FM1S5NSD",
+      "title": "Kpop Demon Hunters Halloween Mira Rumi & Zoey BFF's Collage T-Shirt",
+      "link": "https://www.amazon.com/Demon-Hunters-Halloween-Collage-T-Shirt/dp/B0FM1S5NSD/ref=zg_bs_g_9056987011_d_sccl_29/147-7375850-7774056",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-09-26T06:13:35.383891Z",
+      "keywords": [
+        "kpop",
+        "demon",
+        "hunters",
+        "halloween",
+        "mira",
+        "rumi",
+        "zoey",
+        "bff's",
+        "collage"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, halloween, mira, rumi, zoey, bff's, collage. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B01MD1CK6T",
+      "title": "Superman Classic Logo T Shirt and Stickers, Unisex Adult T Shirt Collection",
+      "link": "https://www.amazon.com/Superman-Classic-Logo-Shirt-Medium/dp/B01MD1CK6T/ref=zg_bs_g_9056987011_d_sccl_30/147-7375850-7774056",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-09-26T06:13:35.383891Z",
+      "keywords": [
+        "superman",
+        "logo",
+        "stickers",
+        "unisex",
+        "collection"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: superman, logo, stickers, unisex, collection. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
