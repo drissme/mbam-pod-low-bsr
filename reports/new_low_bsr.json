@@ -1,82 +1,63 @@
 {
-  "generated_at": "2025-09-26T06:13:35.445713Z",
+  "generated_at": "2025-09-27T06:01:36.221638Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0FQPMZYKV",
-      "title": "Freedom Shirt – Simple Freedom Text T Shirt for Men & Women Patriotic Men's Tshirts Graphic Tee",
-      "link": "https://www.amazon.com/Freedom-Shirt-Patriotic-Tshirts-Graphic/dp/B0FQPMZYKV/ref=zg_bs_g_9056987011_d_sccl_4/147-7375850-7774056",
-      "current_rank": 4,
+      "asin": "B08FCWWZ9B",
+      "title": "Crayon Tshirt Halloween Costume for Men Women Adult Size | Funny Cool Shirt idea | Graphic tee",
+      "link": "https://www.amazon.com/Crayon-Halloween-Costume-Tshirt-Graphic/dp/B08FCWWZ9B/ref=zg_bs_g_9056987011_d_sccl_23/142-0812946-6234246",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-09-26T06:13:35.383891Z",
+      "first_seen": "2025-09-27T06:01:36.161604Z",
       "keywords": [
-        "freedom",
-        "simple",
-        "text",
+        "crayon",
+        "halloween",
+        "costume",
         "women",
-        "patriotic",
-        "tshirts"
+        "idea"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, women, patriotic, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crayon, halloween, costume, women, idea. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FHC2M7VP",
-      "title": "KPop Demon Hunters Zoey Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/KPop-Demon-Hunters-Officially-Licensed/dp/B0FHC2M7VP/ref=zg_bs_g_9056987011_d_sccl_28/147-7375850-7774056",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-09-26T06:13:35.383891Z",
-      "keywords": [
-        "kpop",
-        "demon",
-        "hunters",
-        "zoey",
-        "officially",
-        "licensed"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, zoey, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FM1S5NSD",
-      "title": "Kpop Demon Hunters Halloween Mira Rumi & Zoey BFF's Collage T-Shirt",
-      "link": "https://www.amazon.com/Demon-Hunters-Halloween-Collage-T-Shirt/dp/B0FM1S5NSD/ref=zg_bs_g_9056987011_d_sccl_29/147-7375850-7774056",
+      "asin": "B079PQPLT3",
+      "title": "Dr. Seuss Thing 1 Emblem T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Thing-Emblem-T-shirt/dp/B079PQPLT3/ref=zg_bs_g_9056987011_d_sccl_29/142-0812946-6234246",
       "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-09-26T06:13:35.383891Z",
+      "first_seen": "2025-09-27T06:01:36.161604Z",
       "keywords": [
-        "kpop",
-        "demon",
-        "hunters",
-        "halloween",
-        "mira",
-        "rumi",
-        "zoey",
-        "bff's",
-        "collage"
+        "seuss",
+        "thing",
+        "emblem"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, halloween, mira, rumi, zoey, bff's, collage. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, thing, emblem. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B01MD1CK6T",
-      "title": "Superman Classic Logo T Shirt and Stickers, Unisex Adult T Shirt Collection",
-      "link": "https://www.amazon.com/Superman-Classic-Logo-Shirt-Medium/dp/B01MD1CK6T/ref=zg_bs_g_9056987011_d_sccl_30/147-7375850-7774056",
+      "asin": "B0CWGP264F",
+      "title": "Mit & Mia Custom Bootleg Rap Tee Shirt for Boyfriend Girlfriend Custom Face Tshirt Vintage Graphic Shirt Gift Idea Birthday",
+      "link": "https://www.amazon.com/Mit-Mia-Girlfriend-Boyfriend-Christmas/dp/B0CWGP264F/ref=zg_bs_g_9056987011_d_sccl_30/142-0812946-6234246",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-09-26T06:13:35.383891Z",
+      "first_seen": "2025-09-27T06:01:36.161604Z",
       "keywords": [
-        "superman",
-        "logo",
-        "stickers",
-        "unisex",
-        "collection"
+        "mit",
+        "mia",
+        "custom",
+        "bootleg",
+        "rap",
+        "boyfriend",
+        "girlfriend",
+        "face",
+        "gift",
+        "idea",
+        "birthday"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: superman, logo, stickers, unisex, collection. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mit, mia, custom, bootleg, rap, boyfriend, girlfriend, face, gift, idea, birthday. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
