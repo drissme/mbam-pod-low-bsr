@@ -1,17 +1,17 @@
 {
-  "generated_at": "2025-09-27T06:01:36.221638Z",
+  "generated_at": "2025-09-28T06:01:51.866469Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B08FCWWZ9B",
+      "asin": "B08FCTVWWT",
       "title": "Crayon Tshirt Halloween Costume for Men Women Adult Size | Funny Cool Shirt idea | Graphic tee",
-      "link": "https://www.amazon.com/Crayon-Halloween-Costume-Tshirt-Graphic/dp/B08FCWWZ9B/ref=zg_bs_g_9056987011_d_sccl_23/142-0812946-6234246",
-      "current_rank": 23,
+      "link": "https://www.amazon.com/Crayon-Halloween-Costume-Tshirt-Graphic/dp/B08FCTVWWT/ref=zg_bs_g_9056987011_d_sccl_22/134-6884934-4840326",
+      "current_rank": 22,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-09-27T06:01:36.161604Z",
+      "first_seen": "2025-09-28T06:01:51.801612Z",
       "keywords": [
         "crayon",
         "halloween",
@@ -22,13 +22,13 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: crayon, halloween, costume, women, idea. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B079PQPLT3",
-      "title": "Dr. Seuss Thing 1 Emblem T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Thing-Emblem-T-shirt/dp/B079PQPLT3/ref=zg_bs_g_9056987011_d_sccl_29/142-0812946-6234246",
-      "current_rank": 29,
+      "asin": "B079PYLZTM",
+      "title": "Dr. Seuss Thing 2 Emblem T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Thing-Emblem-T-shirt/dp/B079PYLZTM/ref=zg_bs_g_9056987011_d_sccl_24/134-6884934-4840326",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-09-27T06:01:36.161604Z",
+      "first_seen": "2025-09-28T06:01:51.801612Z",
       "keywords": [
         "seuss",
         "thing",
@@ -37,27 +37,23 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, thing, emblem. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0CWGP264F",
-      "title": "Mit & Mia Custom Bootleg Rap Tee Shirt for Boyfriend Girlfriend Custom Face Tshirt Vintage Graphic Shirt Gift Idea Birthday",
-      "link": "https://www.amazon.com/Mit-Mia-Girlfriend-Boyfriend-Christmas/dp/B0CWGP264F/ref=zg_bs_g_9056987011_d_sccl_30/142-0812946-6234246",
+      "asin": "B07GK9B91K",
+      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
+      "link": "https://www.amazon.com/Teenage-Turtles-Costume-T-Shirt-Donatello/dp/B07GK9B91K/ref=zg_bs_g_9056987011_d_sccl_30/134-6884934-4840326",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-09-27T06:01:36.161604Z",
+      "first_seen": "2025-09-28T06:01:51.801612Z",
       "keywords": [
-        "mit",
-        "mia",
-        "custom",
-        "bootleg",
-        "rap",
-        "boyfriend",
-        "girlfriend",
-        "face",
-        "gift",
-        "idea",
-        "birthday"
+        "teenage",
+        "mutant",
+        "ninja",
+        "turtles",
+        "tmnt",
+        "mens",
+        "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mit, mia, custom, bootleg, rap, boyfriend, girlfriend, face, gift, idea, birthday. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
