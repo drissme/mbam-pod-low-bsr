@@ -1,71 +1,58 @@
 {
-  "generated_at": "2025-09-29T06:14:57.555779Z",
+  "generated_at": "2025-09-30T06:02:12.418485Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0FQPH1T5N",
-      "title": "FITCOFF Freedom T-Shirt Pray Shirt Support American Values Tshirt Patriotism T Shirt",
-      "link": "https://www.amazon.com/FITCOFF-Freedom-T-Shirt-American-Patriotism/dp/B0FQPH1T5N/ref=zg_bs_g_9056987011_d_sccl_26/143-7738235-7411520",
-      "current_rank": 26,
+      "asin": "B0FRWXN68T",
+      "title": "in My Showgirl Era T-Shirt",
+      "link": "https://www.amazon.com/in-My-Showgirl-Era-T-Shirt/dp/B0FRWXN68T/ref=zg_bs_g_9056987011_d_sccl_24/146-1636527-6880213",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-09-29T06:14:57.491700Z",
+      "first_seen": "2025-09-30T06:02:12.353823Z",
       "keywords": [
-        "fitcoff",
-        "freedom",
-        "pray",
-        "support",
-        "american",
-        "values",
-        "patriotism"
+        "showgirl",
+        "era"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: fitcoff, freedom, pray, support, american, values, patriotism. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: showgirl, era. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FRGB5NKS",
-      "title": "Men's Vintage USA Flag T-Shirt – Pro America Graphic Tee, Conservative Style, Soft Cotton Blend, Casual Fit, Freedom Wear",
-      "link": "https://www.amazon.com/Signature-Charlie-Freedom-Unisex-X-Large/dp/B0FRGB5NKS/ref=zg_bs_g_9056987011_d_sccl_28/143-7738235-7411520",
+      "asin": "B08FCXMHTX",
+      "title": "Crayon Tshirt Halloween Costume for Men Women Adult Size | Funny Cool Shirt idea | Graphic tee",
+      "link": "https://www.amazon.com/Crayon-Halloween-Costume-Tshirt-Graphic/dp/B08FCXMHTX/ref=zg_bs_g_9056987011_d_sccl_28/146-1636527-6880213",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-09-29T06:14:57.491700Z",
+      "first_seen": "2025-09-30T06:02:12.353823Z",
       "keywords": [
-        "usa",
-        "flag",
-        "pro",
-        "america",
-        "conservative",
-        "style",
-        "soft",
-        "cotton",
-        "blend",
-        "casual",
-        "freedom",
-        "wear"
+        "crayon",
+        "halloween",
+        "costume",
+        "women",
+        "idea"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: usa, flag, pro, america, conservative, style, soft, cotton, blend, casual, freedom, wear. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crayon, halloween, costume, women, idea. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FQRTBYRL",
-      "title": "Trenz Shirt Company Men's Graphic T-Shirt - Distressed Charlie Kirk USA Flag Design Short Sleeve Tee",
-      "link": "https://www.amazon.com/Trenz-Shirt-Company-Graphic-T-Shirt/dp/B0FQRTBYRL/ref=zg_bs_g_9056987011_d_sccl_30/143-7738235-7411520",
-      "current_rank": 30,
+      "asin": "B07GJWVGTD",
+      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
+      "link": "https://www.amazon.com/Teenage-Turtles-Costume-Leonardo-Nickelodeon/dp/B07GJWVGTD/ref=zg_bs_g_9056987011_d_sccl_29/146-1636527-6880213",
+      "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-09-29T06:14:57.491700Z",
+      "first_seen": "2025-09-30T06:02:12.353823Z",
       "keywords": [
-        "trenz",
-        "company",
-        "distressed",
-        "charlie",
-        "kirk",
-        "usa",
-        "flag",
-        "design"
+        "teenage",
+        "mutant",
+        "ninja",
+        "turtles",
+        "tmnt",
+        "mens",
+        "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: trenz, company, distressed, charlie, kirk, usa, flag, design. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
