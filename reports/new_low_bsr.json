@@ -1,48 +1,37 @@
 {
-  "generated_at": "2025-09-30T06:02:12.418485Z",
+  "generated_at": "2025-10-01T06:14:03.543620Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0FRWXN68T",
-      "title": "in My Showgirl Era T-Shirt",
-      "link": "https://www.amazon.com/in-My-Showgirl-Era-T-Shirt/dp/B0FRWXN68T/ref=zg_bs_g_9056987011_d_sccl_24/146-1636527-6880213",
-      "current_rank": 24,
+      "asin": "B0DY7WV51H",
+      "title": "Heart Hands Taylor First Name Girl Vintage 70's 80's T-Shirt",
+      "link": "https://www.amazon.com/Heart-Hands-Name-Girl-Vintage/dp/B0DY7WV51H/ref=zg_bs_g_9056987011_d_sccl_26/139-1537946-8705669",
+      "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-09-30T06:02:12.353823Z",
+      "first_seen": "2025-10-01T06:14:03.476410Z",
       "keywords": [
-        "showgirl",
-        "era"
+        "heart",
+        "hands",
+        "taylor",
+        "first",
+        "name",
+        "girl",
+        "70's",
+        "80's"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: showgirl, era. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: heart, hands, taylor, first, name, girl, 70's, 80's. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B08FCXMHTX",
-      "title": "Crayon Tshirt Halloween Costume for Men Women Adult Size | Funny Cool Shirt idea | Graphic tee",
-      "link": "https://www.amazon.com/Crayon-Halloween-Costume-Tshirt-Graphic/dp/B08FCXMHTX/ref=zg_bs_g_9056987011_d_sccl_28/146-1636527-6880213",
+      "asin": "B07GJXVJX7",
+      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
+      "link": "https://www.amazon.com/Teenage-Turtles-Costume-Michelangelo-Nickelodeon/dp/B07GJXVJX7/ref=zg_bs_g_9056987011_d_sccl_28/139-1537946-8705669",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-09-30T06:02:12.353823Z",
-      "keywords": [
-        "crayon",
-        "halloween",
-        "costume",
-        "women",
-        "idea"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: crayon, halloween, costume, women, idea. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07GJWVGTD",
-      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
-      "link": "https://www.amazon.com/Teenage-Turtles-Costume-Leonardo-Nickelodeon/dp/B07GJWVGTD/ref=zg_bs_g_9056987011_d_sccl_29/146-1636527-6880213",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-09-30T06:02:12.353823Z",
+      "first_seen": "2025-10-01T06:14:03.476410Z",
       "keywords": [
         "teenage",
         "mutant",
