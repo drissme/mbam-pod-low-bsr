@@ -1,44 +1,75 @@
 {
-  "generated_at": "2025-10-04T06:02:46.767829Z",
+  "generated_at": "2025-10-05T06:01:54.071023Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CZJY3JN1",
-      "title": "Care Bear Belly Badge Costume T-Shirt Collection",
-      "link": "https://www.amazon.com/Funshine-Belly-Badge-Costume-T-Shirt/dp/B0CZJY3JN1/ref=zg_bs_g_9056987011_d_sccl_26/132-4435957-7218465",
-      "current_rank": 26,
+      "asin": "B09BY8PSVN",
+      "title": "Letter M Halloween Costumes T-Shirt | Funny Cool Graphic Tee Idea | for Men",
+      "link": "https://www.amazon.com/Letter-Halloween-Costumes-T-Shirt-Graphic/dp/B09BY8PSVN/ref=zg_bs_g_9056987011_d_sccl_15/137-9268010-8922229",
+      "current_rank": 15,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-04T06:02:46.702828Z",
+      "first_seen": "2025-10-05T06:01:54.013840Z",
       "keywords": [
-        "care",
-        "bear",
-        "belly",
-        "badge",
-        "costume",
-        "collection"
+        "letter",
+        "halloween",
+        "costumes",
+        "idea"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: care, bear, belly, badge, costume, collection. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: letter, halloween, costumes, idea. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DFVQVBRK",
-      "title": "In October We Wear Pink Breast Cancer Awareness T-Shirt",
-      "link": "https://www.amazon.com/October-We-Wear-Pink-Awareness/dp/B0DFVQVBRK/ref=zg_bs_g_9056987011_d_sccl_30/132-4435957-7218465",
+      "asin": "B0FR4MRB8B",
+      "title": "Retro Vintage Kirk US Flag T-Shirt",
+      "link": "https://www.amazon.com/Retro-Vintage-Kirk-Flag-T-Shirt/dp/B0FR4MRB8B/ref=zg_bs_g_9056987011_d_sccl_27/137-9268010-8922229",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-05T06:01:54.013840Z",
+      "keywords": [
+        "kirk",
+        "flag"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kirk, flag. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CHQKYCJ4",
+      "title": "Breast Cancer Support Admire Honor Breast Cancer Awareness T-Shirt",
+      "link": "https://www.amazon.com/Breast-Cancer-Support-Awareness-T-Shirt/dp/B0CHQKYCJ4/ref=zg_bs_g_9056987011_d_sccl_28/137-9268010-8922229",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-05T06:01:54.013840Z",
+      "keywords": [
+        "breast",
+        "cancer",
+        "support",
+        "admire",
+        "honor",
+        "awareness"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: breast, cancer, support, admire, honor, awareness. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FQXFMJ1W",
+      "title": "Kpop Demon Hunters Halloween Mira's Outfit Cosplay T-Shirt",
+      "link": "https://www.amazon.com/Demon-Hunters-Halloween-Cosplay-T-Shirt/dp/B0FQXFMJ1W/ref=zg_bs_g_9056987011_d_sccl_30/137-9268010-8922229",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-04T06:02:46.702828Z",
+      "first_seen": "2025-10-05T06:01:54.013840Z",
       "keywords": [
-        "october",
-        "wear",
-        "pink",
-        "breast",
-        "cancer",
-        "awareness"
+        "kpop",
+        "demon",
+        "hunters",
+        "halloween",
+        "mira's",
+        "outfit",
+        "cosplay"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: october, wear, pink, breast, cancer, awareness. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, halloween, mira's, outfit, cosplay. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
