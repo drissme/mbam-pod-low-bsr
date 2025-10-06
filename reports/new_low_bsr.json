@@ -1,75 +1,27 @@
 {
-  "generated_at": "2025-10-05T06:01:54.071023Z",
+  "generated_at": "2025-10-06T06:02:00.937300Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B09BY8PSVN",
-      "title": "Letter M Halloween Costumes T-Shirt | Funny Cool Graphic Tee Idea | for Men",
-      "link": "https://www.amazon.com/Letter-Halloween-Costumes-T-Shirt-Graphic/dp/B09BY8PSVN/ref=zg_bs_g_9056987011_d_sccl_15/137-9268010-8922229",
-      "current_rank": 15,
+      "asin": "B07GK9B91K",
+      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
+      "link": "https://www.amazon.com/Teenage-Turtles-Costume-T-Shirt-Donatello/dp/B07GK9B91K/ref=zg_bs_g_9056987011_d_sccl_23/144-9388542-7547550",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-05T06:01:54.013840Z",
+      "first_seen": "2025-10-06T06:02:00.872922Z",
       "keywords": [
-        "letter",
-        "halloween",
-        "costumes",
-        "idea"
+        "teenage",
+        "mutant",
+        "ninja",
+        "turtles",
+        "tmnt",
+        "mens",
+        "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: letter, halloween, costumes, idea. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FR4MRB8B",
-      "title": "Retro Vintage Kirk US Flag T-Shirt",
-      "link": "https://www.amazon.com/Retro-Vintage-Kirk-Flag-T-Shirt/dp/B0FR4MRB8B/ref=zg_bs_g_9056987011_d_sccl_27/137-9268010-8922229",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-05T06:01:54.013840Z",
-      "keywords": [
-        "kirk",
-        "flag"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kirk, flag. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CHQKYCJ4",
-      "title": "Breast Cancer Support Admire Honor Breast Cancer Awareness T-Shirt",
-      "link": "https://www.amazon.com/Breast-Cancer-Support-Awareness-T-Shirt/dp/B0CHQKYCJ4/ref=zg_bs_g_9056987011_d_sccl_28/137-9268010-8922229",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-05T06:01:54.013840Z",
-      "keywords": [
-        "breast",
-        "cancer",
-        "support",
-        "admire",
-        "honor",
-        "awareness"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: breast, cancer, support, admire, honor, awareness. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FQXFMJ1W",
-      "title": "Kpop Demon Hunters Halloween Mira's Outfit Cosplay T-Shirt",
-      "link": "https://www.amazon.com/Demon-Hunters-Halloween-Cosplay-T-Shirt/dp/B0FQXFMJ1W/ref=zg_bs_g_9056987011_d_sccl_30/137-9268010-8922229",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-05T06:01:54.013840Z",
-      "keywords": [
-        "kpop",
-        "demon",
-        "hunters",
-        "halloween",
-        "mira's",
-        "outfit",
-        "cosplay"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, halloween, mira's, outfit, cosplay. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
