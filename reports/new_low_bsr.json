@@ -1,27 +1,28 @@
 {
-  "generated_at": "2025-10-06T06:02:00.937300Z",
+  "generated_at": "2025-10-07T06:13:25.969109Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07GK9B91K",
-      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
-      "link": "https://www.amazon.com/Teenage-Turtles-Costume-T-Shirt-Donatello/dp/B07GK9B91K/ref=zg_bs_g_9056987011_d_sccl_23/144-9388542-7547550",
-      "current_rank": 23,
+      "asin": "B0DJ1HNZ32",
+      "title": "Halloween Building Brick Head Pumpkin Ghost Zombie Boys T-Shirt",
+      "link": "https://www.amazon.com/Halloween-Building-Pumpkin-Zombie-T-Shirt/dp/B0DJ1HNZ32/ref=zg_bs_g_9056987011_d_sccl_29/136-5461964-4952550",
+      "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-06T06:02:00.872922Z",
+      "first_seen": "2025-10-07T06:13:25.906335Z",
       "keywords": [
-        "teenage",
-        "mutant",
-        "ninja",
-        "turtles",
-        "tmnt",
-        "mens",
-        "costume"
+        "halloween",
+        "building",
+        "brick",
+        "head",
+        "pumpkin",
+        "ghost",
+        "zombie",
+        "boys"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: halloween, building, brick, head, pumpkin, ghost, zombie, boys. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
