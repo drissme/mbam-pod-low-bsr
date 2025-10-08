@@ -1,28 +1,25 @@
 {
-  "generated_at": "2025-10-07T06:13:25.969109Z",
+  "generated_at": "2025-10-08T06:13:54.421442Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DJ1HNZ32",
-      "title": "Halloween Building Brick Head Pumpkin Ghost Zombie Boys T-Shirt",
-      "link": "https://www.amazon.com/Halloween-Building-Pumpkin-Zombie-T-Shirt/dp/B0DJ1HNZ32/ref=zg_bs_g_9056987011_d_sccl_29/136-5461964-4952550",
-      "current_rank": 29,
+      "asin": "B0CKXZJKRK",
+      "title": "Letter M Halloween Group Costume Graphic Team Costume Graphic Funny T Shirt",
+      "link": "https://www.amazon.com/Letter-Graphic-Group-Costume-Halloween/dp/B0CKXZJKRK/ref=zg_bs_g_9056987011_d_sccl_28/141-9811028-2748745",
+      "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-07T06:13:25.906335Z",
+      "first_seen": "2025-10-08T06:13:54.357717Z",
       "keywords": [
+        "letter",
         "halloween",
-        "building",
-        "brick",
-        "head",
-        "pumpkin",
-        "ghost",
-        "zombie",
-        "boys"
+        "group",
+        "costume",
+        "team"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: halloween, building, brick, head, pumpkin, ghost, zombie, boys. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: letter, halloween, group, costume, team. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
