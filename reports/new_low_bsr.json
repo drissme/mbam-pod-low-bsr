@@ -1,25 +1,85 @@
 {
-  "generated_at": "2025-10-08T06:13:54.421442Z",
+  "generated_at": "2025-10-09T06:18:47.891507Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CKXZJKRK",
-      "title": "Letter M Halloween Group Costume Graphic Team Costume Graphic Funny T Shirt",
-      "link": "https://www.amazon.com/Letter-Graphic-Group-Costume-Halloween/dp/B0CKXZJKRK/ref=zg_bs_g_9056987011_d_sccl_28/141-9811028-2748745",
-      "current_rank": 28,
+      "asin": "B08LF13Q7D",
+      "title": "Crayon Tshirt Halloween Costume for Men Women Adult Size | Funny Cool Shirt idea | Graphic tee",
+      "link": "https://www.amazon.com/Crayon-Tshirt-Halloween-Costume-Graphic/dp/B08LF13Q7D/ref=zg_bs_g_9056987011_d_sccl_15/138-4829599-8551449",
+      "current_rank": 15,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-08T06:13:54.357717Z",
+      "first_seen": "2025-10-09T06:18:47.826905Z",
       "keywords": [
-        "letter",
+        "crayon",
         "halloween",
-        "group",
         "costume",
-        "team"
+        "women",
+        "idea"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: letter, halloween, group, costume, team. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crayon, halloween, costume, women, idea. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B00NUDDCWW",
+      "title": "Skeleton Rib Cage | Jumbo Print Novelty Halloween Costume Unisex T-Shirt-Adult",
+      "link": "https://www.amazon.com/Skeleton-Novelty-Halloween-Costume-T-shirt-Adult/dp/B00NUDDCWW/ref=zg_bs_g_9056987011_d_sccl_16/138-4829599-8551449",
+      "current_rank": 16,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-09T06:18:47.826905Z",
+      "keywords": [
+        "skeleton",
+        "rib",
+        "cage",
+        "jumbo",
+        "print",
+        "halloween",
+        "costume",
+        "unisex"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: skeleton, rib, cage, jumbo, print, halloween, costume, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0168YD9FY",
+      "title": "Giant Jack O' Lantern Face | Halloween Pumpkin Fun Unisex T-Shirt for Men Women",
+      "link": "https://www.amazon.com/Lantern-Halloween-Pumpkin-Unisex-T-Shirt/dp/B0168YD9FY/ref=zg_bs_g_9056987011_d_sccl_18/138-4829599-8551449",
+      "current_rank": 18,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-09T06:18:47.826905Z",
+      "keywords": [
+        "giant",
+        "jack",
+        "lantern",
+        "face",
+        "halloween",
+        "pumpkin",
+        "fun",
+        "unisex",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: giant, jack, lantern, face, halloween, pumpkin, fun, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B013F0PWKO",
+      "title": "Holiday Costume Tees | Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
+      "link": "https://www.amazon.com/Spooky-Halloween-Costume-Unisex-T-Shirt-Adult/dp/B013F0PWKO/ref=zg_bs_g_9056987011_d_sccl_25/138-4829599-8551449",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-09T06:18:47.826905Z",
+      "keywords": [
+        "holiday",
+        "costume",
+        "tees",
+        "fun",
+        "christmas",
+        "shirts",
+        "unisex"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
