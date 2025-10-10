@@ -1,75 +1,17 @@
 {
-  "generated_at": "2025-10-09T06:18:47.891507Z",
+  "generated_at": "2025-10-10T06:01:47.730542Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B08LF13Q7D",
-      "title": "Crayon Tshirt Halloween Costume for Men Women Adult Size | Funny Cool Shirt idea | Graphic tee",
-      "link": "https://www.amazon.com/Crayon-Tshirt-Halloween-Costume-Graphic/dp/B08LF13Q7D/ref=zg_bs_g_9056987011_d_sccl_15/138-4829599-8551449",
-      "current_rank": 15,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-09T06:18:47.826905Z",
-      "keywords": [
-        "crayon",
-        "halloween",
-        "costume",
-        "women",
-        "idea"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: crayon, halloween, costume, women, idea. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B00NUDDCWW",
-      "title": "Skeleton Rib Cage | Jumbo Print Novelty Halloween Costume Unisex T-Shirt-Adult",
-      "link": "https://www.amazon.com/Skeleton-Novelty-Halloween-Costume-T-shirt-Adult/dp/B00NUDDCWW/ref=zg_bs_g_9056987011_d_sccl_16/138-4829599-8551449",
+      "asin": "B013F0PUZG",
+      "title": "Holiday Costume Tees | Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
+      "link": "https://www.amazon.com/Spooky-Halloween-Costume-Unisex-T-Shirt-Adult/dp/B013F0PUZG/ref=zg_bs_g_9056987011_d_sccl_16/130-0900795-3905801",
       "current_rank": 16,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-09T06:18:47.826905Z",
-      "keywords": [
-        "skeleton",
-        "rib",
-        "cage",
-        "jumbo",
-        "print",
-        "halloween",
-        "costume",
-        "unisex"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: skeleton, rib, cage, jumbo, print, halloween, costume, unisex. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0168YD9FY",
-      "title": "Giant Jack O' Lantern Face | Halloween Pumpkin Fun Unisex T-Shirt for Men Women",
-      "link": "https://www.amazon.com/Lantern-Halloween-Pumpkin-Unisex-T-Shirt/dp/B0168YD9FY/ref=zg_bs_g_9056987011_d_sccl_18/138-4829599-8551449",
-      "current_rank": 18,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-09T06:18:47.826905Z",
-      "keywords": [
-        "giant",
-        "jack",
-        "lantern",
-        "face",
-        "halloween",
-        "pumpkin",
-        "fun",
-        "unisex",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: giant, jack, lantern, face, halloween, pumpkin, fun, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B013F0PWKO",
-      "title": "Holiday Costume Tees | Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
-      "link": "https://www.amazon.com/Spooky-Halloween-Costume-Unisex-T-Shirt-Adult/dp/B013F0PWKO/ref=zg_bs_g_9056987011_d_sccl_25/138-4829599-8551449",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-09T06:18:47.826905Z",
+      "first_seen": "2025-10-10T06:01:47.663272Z",
       "keywords": [
         "holiday",
         "costume",
@@ -80,6 +22,42 @@
         "unisex"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07GJXTLZP",
+      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
+      "link": "https://www.amazon.com/Teenage-Turtles-Costume-T-Shirt-Nickelodeon/dp/B07GJXTLZP/ref=zg_bs_g_9056987011_d_sccl_24/130-0900795-3905801",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-10T06:01:47.663272Z",
+      "keywords": [
+        "teenage",
+        "mutant",
+        "ninja",
+        "turtles",
+        "tmnt",
+        "mens",
+        "costume"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09DFPR59M",
+      "title": "Grunt Style Basic Crew T-Shirt Pack",
+      "link": "https://www.amazon.com/Grunt-Style-Ghost-T-Shirt-3-Pack/dp/B09DFPR59M/ref=zg_bs_g_9056987011_d_sccl_27/130-0900795-3905801",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-10T06:01:47.663272Z",
+      "keywords": [
+        "grunt",
+        "style",
+        "basic",
+        "crew",
+        "pack"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, basic, crew, pack. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
