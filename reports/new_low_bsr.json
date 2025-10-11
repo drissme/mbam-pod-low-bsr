@@ -1,63 +1,7 @@
 {
-  "generated_at": "2025-10-10T06:01:47.730542Z",
+  "generated_at": "2025-10-11T06:01:55.224124Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": [
-    {
-      "asin": "B013F0PUZG",
-      "title": "Holiday Costume Tees | Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
-      "link": "https://www.amazon.com/Spooky-Halloween-Costume-Unisex-T-Shirt-Adult/dp/B013F0PUZG/ref=zg_bs_g_9056987011_d_sccl_16/130-0900795-3905801",
-      "current_rank": 16,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-10T06:01:47.663272Z",
-      "keywords": [
-        "holiday",
-        "costume",
-        "tees",
-        "fun",
-        "christmas",
-        "shirts",
-        "unisex"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07GJXTLZP",
-      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
-      "link": "https://www.amazon.com/Teenage-Turtles-Costume-T-Shirt-Nickelodeon/dp/B07GJXTLZP/ref=zg_bs_g_9056987011_d_sccl_24/130-0900795-3905801",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-10T06:01:47.663272Z",
-      "keywords": [
-        "teenage",
-        "mutant",
-        "ninja",
-        "turtles",
-        "tmnt",
-        "mens",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09DFPR59M",
-      "title": "Grunt Style Basic Crew T-Shirt Pack",
-      "link": "https://www.amazon.com/Grunt-Style-Ghost-T-Shirt-3-Pack/dp/B09DFPR59M/ref=zg_bs_g_9056987011_d_sccl_27/130-0900795-3905801",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-10T06:01:47.663272Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "basic",
-        "crew",
-        "pack"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, basic, crew, pack. Use clear fonts and simple iconography. Avoid trademarks."
-    }
-  ]
+  "items": []
 }
