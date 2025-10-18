@@ -1,7 +1,114 @@
 {
-  "generated_at": "2025-10-17T06:13:23.986340Z",
+  "generated_at": "2025-10-18T06:11:33.274193Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B01MG83GAN",
+      "title": "Superman Classic Logo T Shirt and Stickers, Unisex Adult T Shirt Collection",
+      "link": "https://www.amazon.com/Superman-Classic-Logo-Shirt-Large/dp/B01MG83GAN/ref=zg_bs_g_9056987011_d_sccl_3/138-4862841-7007406",
+      "current_rank": 3,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-18T06:11:33.203609Z",
+      "keywords": [
+        "superman",
+        "logo",
+        "stickers",
+        "unisex",
+        "collection"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: superman, logo, stickers, unisex, collection. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B01M8IHCOQ",
+      "title": "Batman Classic Logo T Shirt & Stickers",
+      "link": "https://www.amazon.com/Batman-Classic-Shirt-Medium-Black/dp/B01M8IHCOQ/ref=zg_bs_g_9056987011_d_sccl_26/138-4862841-7007406",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-18T06:11:33.203609Z",
+      "keywords": [
+        "batman",
+        "logo",
+        "stickers"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: batman, logo, stickers. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09GMDDM34",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMDDM34/ref=zg_bs_g_9056987011_d_sccl_27/138-4862841-7007406",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-18T06:11:33.203609Z",
+      "keywords": [
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "crewneck",
+        "print",
+        "top",
+        "casual",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FP4QGC1Z",
+      "title": "7 Number Seven Team Sports Graphic Design Matching Varsity T-Shirt",
+      "link": "https://www.amazon.com/Sports-Graphic-Matching-Varsity-T-Shirt/dp/B0FP4QGC1Z/ref=zg_bs_g_9056987011_d_sccl_28/138-4862841-7007406",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-18T06:11:33.203609Z",
+      "keywords": [
+        "number",
+        "seven",
+        "team",
+        "sports",
+        "design",
+        "matching",
+        "varsity"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: number, seven, team, sports, design, matching, varsity. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0089GK3D6",
+      "title": "DC Comics Superman Men's Man Of Steel Distressed Logo Adult Graphic Print T-Shirt",
+      "link": "https://www.amazon.com/DC-Comics-Superman-Classic-T-shirt/dp/B0089GK3D6/ref=zg_bs_g_9056987011_d_sccl_29/138-4862841-7007406",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-18T06:11:33.203609Z",
+      "keywords": [
+        "comics",
+        "superman",
+        "man",
+        "steel",
+        "distressed",
+        "logo",
+        "print"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: comics, superman, man, steel, distressed, logo, print. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09PXL2KYL",
+      "title": "Popfunk Classic Spongebob Unisex Adult T Shirt",
+      "link": "https://www.amazon.com/Popfunk-Classic-Teenage-Turtles-Donatello/dp/B09PXL2KYL/ref=zg_bs_g_9056987011_d_sccl_30/138-4862841-7007406",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-18T06:11:33.203609Z",
+      "keywords": [
+        "popfunk",
+        "spongebob",
+        "unisex"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, spongebob, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
