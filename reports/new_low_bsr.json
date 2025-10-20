@@ -1,34 +1,69 @@
 {
-  "generated_at": "2025-10-19T06:12:43.779516Z",
+  "generated_at": "2025-10-20T06:14:20.903130Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CKXY638T",
-      "title": "Letter M Halloween Group Costume Graphic Team Costume Graphic Funny T Shirt",
-      "link": "https://www.amazon.com/Letter-Graphic-Group-Costume-Halloween/dp/B0CKXY638T/ref=zg_bs_g_9056987011_d_sccl_12/133-3397254-0106730",
-      "current_rank": 12,
+      "asin": "B07GK1CZPS",
+      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
+      "link": "https://www.amazon.com/Teenage-Turtles-Costume-Leonardo-Nickelodeon/dp/B07GK1CZPS/ref=zg_bs_g_9056987011_d_sccl_15/132-4033561-5375756",
+      "current_rank": 15,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-19T06:12:43.714395Z",
+      "first_seen": "2025-10-20T06:14:20.838050Z",
+      "keywords": [
+        "teenage",
+        "mutant",
+        "ninja",
+        "turtles",
+        "tmnt",
+        "mens",
+        "costume"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09PX8D24L",
+      "title": "Popfunk Classic Spongebob Unisex Adult T Shirt",
+      "link": "https://www.amazon.com/Popfunk-Classic-Teenage-Turtles-Michelangelo/dp/B09PX8D24L/ref=zg_bs_g_9056987011_d_sccl_25/132-4033561-5375756",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-20T06:14:20.838050Z",
+      "keywords": [
+        "popfunk",
+        "spongebob",
+        "unisex"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, spongebob, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07HGKF16Z",
+      "title": "Letter M Halloween Team Matching Costume Funny Party Men's T-Shirt",
+      "link": "https://www.amazon.com/Promotion-Beyond-Halloween-Costume-T-Shirt/dp/B07HGKF16Z/ref=zg_bs_g_9056987011_d_sccl_27/132-4033561-5375756",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-20T06:14:20.838050Z",
       "keywords": [
         "letter",
         "halloween",
-        "group",
+        "team",
+        "matching",
         "costume",
-        "team"
+        "party"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: letter, halloween, group, costume, team. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: letter, halloween, team, matching, costume, party. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B08LQPZ9C3",
+      "asin": "B08LQMBGYK",
       "title": "Mighty Morphin Power Rangers Red Blue Yellow Pink Green Black White Blue Costume T-Shirt",
-      "link": "https://www.amazon.com/Power-Rangers-Costume-T-Shirt-Medium/dp/B08LQPZ9C3/ref=zg_bs_g_9056987011_d_sccl_26/133-3397254-0106730",
-      "current_rank": 26,
+      "link": "https://www.amazon.com/Power-Rangers-Costume-T-Shirt-Large/dp/B08LQMBGYK/ref=zg_bs_g_9056987011_d_sccl_29/132-4033561-5375756",
+      "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-19T06:12:43.714395Z",
+      "first_seen": "2025-10-20T06:14:20.838050Z",
       "keywords": [
         "mighty",
         "morphin",
@@ -46,62 +81,25 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: mighty, morphin, power, rangers, red, blue, yellow, pink, green, black, white, costume. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0168YD9FY",
-      "title": "Giant Jack O' Lantern Face | Halloween Pumpkin Fun Unisex T-Shirt for Men Women",
-      "link": "https://www.amazon.com/Lantern-Halloween-Pumpkin-Unisex-T-Shirt/dp/B0168YD9FY/ref=zg_bs_g_9056987011_d_sccl_27/133-3397254-0106730",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-19T06:12:43.714395Z",
-      "keywords": [
-        "giant",
-        "jack",
-        "lantern",
-        "face",
-        "halloween",
-        "pumpkin",
-        "fun",
-        "unisex",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: giant, jack, lantern, face, halloween, pumpkin, fun, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07HGH8H2L",
-      "title": "Letter M Halloween Team Matching Costume Funny Party Men's T-Shirt",
-      "link": "https://www.amazon.com/Promotion-Beyond-Halloween-Costume-T-Shirt/dp/B07HGH8H2L/ref=zg_bs_g_9056987011_d_sccl_28/133-3397254-0106730",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-19T06:12:43.714395Z",
-      "keywords": [
-        "letter",
-        "halloween",
-        "team",
-        "matching",
-        "costume",
-        "party"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: letter, halloween, team, matching, costume, party. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FKR46XH3",
-      "title": "Kpop Demon Hunters Huntr/x Gradient Color Band Logo T-Shirt",
-      "link": "https://www.amazon.com/Demon-Hunters-Huntr-Gradient-T-Shirt/dp/B0FKR46XH3/ref=zg_bs_g_9056987011_d_sccl_30/133-3397254-0106730",
+      "asin": "B0FM1S5NSD",
+      "title": "Kpop Demon Hunters Halloween Mira Rumi & Zoey BFF's Collage T-Shirt",
+      "link": "https://www.amazon.com/Demon-Hunters-Halloween-Collage-T-Shirt/dp/B0FM1S5NSD/ref=zg_bs_g_9056987011_d_sccl_30/132-4033561-5375756",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-19T06:12:43.714395Z",
+      "first_seen": "2025-10-20T06:14:20.838050Z",
       "keywords": [
         "kpop",
         "demon",
         "hunters",
-        "huntr",
-        "gradient",
-        "band",
-        "logo"
+        "halloween",
+        "mira",
+        "rumi",
+        "zoey",
+        "bff's",
+        "collage"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, huntr, gradient, band, logo. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, halloween, mira, rumi, zoey, bff's, collage. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
