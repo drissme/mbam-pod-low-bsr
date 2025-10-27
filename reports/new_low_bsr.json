@@ -1,114 +1,82 @@
 {
-  "generated_at": "2025-10-26T06:01:54.918599Z",
+  "generated_at": "2025-10-27T06:15:49.391854Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B01M5J4JO8",
-      "title": "Superman Classic Logo T Shirt and Stickers, Unisex Adult T Shirt Collection",
-      "link": "https://www.amazon.com/Superman-Classic-Logo-Shirt-X-Large/dp/B01M5J4JO8/ref=zg_bs_g_9056987011_d_sccl_2/138-9953145-2227857",
-      "current_rank": 2,
+      "asin": "B01NAAFVGM",
+      "title": "Popfunk Sesame Street Cookie Monster T-Shirt",
+      "link": "https://www.amazon.com/Sesame-Street-Monster-Exclusive-Stickers/dp/B01NAAFVGM/ref=zg_bs_g_9056987011_d_sccl_10/131-4898499-0888953",
+      "current_rank": 10,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-26T06:01:54.849937Z",
+      "first_seen": "2025-10-27T06:15:49.325590Z",
       "keywords": [
-        "superman",
-        "logo",
-        "stickers",
-        "unisex",
-        "collection"
+        "popfunk",
+        "sesame",
+        "street",
+        "cookie",
+        "monster"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: superman, logo, stickers, unisex, collection. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, sesame, street, cookie, monster. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09BY53HVX",
-      "title": "Letter M Halloween Costumes T-Shirt | Funny Cool Graphic Tee Idea | for Men",
-      "link": "https://www.amazon.com/Letter-Halloween-Costumes-T-Shirt-Graphic/dp/B09BY53HVX/ref=zg_bs_g_9056987011_d_sccl_5/138-9953145-2227857",
-      "current_rank": 5,
+      "asin": "B0FT3C8LBX",
+      "title": "Funny 67 Six Seven Meme Couple Matching Halloween Costume T-Shirt",
+      "link": "https://www.amazon.com/Six-Seven-Meme-Couple-Matching/dp/B0FT3C8LBX/ref=zg_bs_g_9056987011_d_sccl_23/131-4898499-0888953",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-26T06:01:54.849937Z",
+      "first_seen": "2025-10-27T06:15:49.325590Z",
       "keywords": [
-        "letter",
-        "halloween",
-        "costumes",
-        "idea"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: letter, halloween, costumes, idea. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07HGHRZSZ",
-      "title": "Letter M Halloween Team Matching Costume Funny Party Men's T-Shirt",
-      "link": "https://www.amazon.com/Promotion-Beyond-Halloween-Costume-T-Shirt/dp/B07HGHRZSZ/ref=zg_bs_g_9056987011_d_sccl_6/138-9953145-2227857",
-      "current_rank": 6,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-26T06:01:54.849937Z",
-      "keywords": [
-        "letter",
-        "halloween",
-        "team",
+        "six",
+        "seven",
+        "meme",
+        "couple",
         "matching",
-        "costume",
-        "party"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: letter, halloween, team, matching, costume, party. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B01KVYX330",
-      "title": "Holiday Costume Tees | Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
-      "link": "https://www.amazon.com/Lantern-Halloween-Pumpkin-Costume-T-Shirt/dp/B01KVYX330/ref=zg_bs_g_9056987011_d_sccl_7/138-9953145-2227857",
-      "current_rank": 7,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-26T06:01:54.849937Z",
-      "keywords": [
-        "holiday",
-        "costume",
-        "tees",
-        "fun",
-        "christmas",
-        "shirts",
-        "unisex"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B01MDMAIQ7",
-      "title": "Batman Classic Logo Halloween Costume T Shirt",
-      "link": "https://www.amazon.com/Batman-Classic-Shirt-Large-Black/dp/B01MDMAIQ7/ref=zg_bs_g_9056987011_d_sccl_14/138-9953145-2227857",
-      "current_rank": 14,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-26T06:01:54.849937Z",
-      "keywords": [
-        "batman",
-        "logo",
         "halloween",
         "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: batman, logo, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: six, seven, meme, couple, matching, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B078HTBK4C",
-      "title": "Fire & Rescue Maltese Cross | Firefighter Fire Honor & Courage for Men Women T-Shirt",
-      "link": "https://www.amazon.com/Rescue-Maltese-Firefighter-Courage-T-Shirt/dp/B078HTBK4C/ref=zg_bs_g_9056987011_d_sccl_25/138-9953145-2227857",
+      "asin": "B07GJXT6MP",
+      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
+      "link": "https://www.amazon.com/Teenage-Turtles-Costume-T-Shirt-Raphael/dp/B07GJXT6MP/ref=zg_bs_g_9056987011_d_sccl_25/131-4898499-0888953",
       "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-26T06:01:54.849937Z",
+      "first_seen": "2025-10-27T06:15:49.325590Z",
       "keywords": [
-        "fire",
-        "rescue",
-        "maltese",
-        "cross",
-        "firefighter",
-        "honor",
-        "courage",
-        "women"
+        "teenage",
+        "mutant",
+        "ninja",
+        "turtles",
+        "tmnt",
+        "mens",
+        "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: fire, rescue, maltese, cross, firefighter, honor, courage, women. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07XC64RK5",
+      "title": "uideazone Mens Short Sleeve T-Shirt Casual 3D Creative Print Crewneck Graphic Tees",
+      "link": "https://www.amazon.com/uideazone-Sleeve-Printed-T-Shirt-Graphic/dp/B07XC64RK5/ref=zg_bs_g_9056987011_d_sccl_28/131-4898499-0888953",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-27T06:15:49.325590Z",
+      "keywords": [
+        "uideazone",
+        "mens",
+        "casual",
+        "creative",
+        "print",
+        "crewneck",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, casual, creative, print, crewneck, tees. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
