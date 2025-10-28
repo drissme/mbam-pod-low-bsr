@@ -1,82 +1,43 @@
 {
-  "generated_at": "2025-10-27T06:15:49.391854Z",
+  "generated_at": "2025-10-28T06:01:39.110191Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B01NAAFVGM",
-      "title": "Popfunk Sesame Street Cookie Monster T-Shirt",
-      "link": "https://www.amazon.com/Sesame-Street-Monster-Exclusive-Stickers/dp/B01NAAFVGM/ref=zg_bs_g_9056987011_d_sccl_10/131-4898499-0888953",
-      "current_rank": 10,
+      "asin": "B08JXJ68Y7",
+      "title": "DC Comics Superman Classic Chest Logo T-Shirt",
+      "link": "https://www.amazon.com/DC-Comics-Superman-Classic-T-Shirt/dp/B08JXJ68Y7/ref=zg_bs_g_9056987011_d_sccl_24/133-9000912-5761534",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-27T06:15:49.325590Z",
+      "first_seen": "2025-10-28T06:01:39.044682Z",
       "keywords": [
-        "popfunk",
-        "sesame",
-        "street",
-        "cookie",
-        "monster"
+        "comics",
+        "superman",
+        "chest",
+        "logo"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, sesame, street, cookie, monster. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: comics, superman, chest, logo. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FT3C8LBX",
-      "title": "Funny 67 Six Seven Meme Couple Matching Halloween Costume T-Shirt",
-      "link": "https://www.amazon.com/Six-Seven-Meme-Couple-Matching/dp/B0FT3C8LBX/ref=zg_bs_g_9056987011_d_sccl_23/131-4898499-0888953",
-      "current_rank": 23,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-27T06:15:49.325590Z",
-      "keywords": [
-        "six",
-        "seven",
-        "meme",
-        "couple",
-        "matching",
-        "halloween",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: six, seven, meme, couple, matching, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07GJXT6MP",
-      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
-      "link": "https://www.amazon.com/Teenage-Turtles-Costume-T-Shirt-Raphael/dp/B07GJXT6MP/ref=zg_bs_g_9056987011_d_sccl_25/131-4898499-0888953",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-10-27T06:15:49.325590Z",
-      "keywords": [
-        "teenage",
-        "mutant",
-        "ninja",
-        "turtles",
-        "tmnt",
-        "mens",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07XC64RK5",
-      "title": "uideazone Mens Short Sleeve T-Shirt Casual 3D Creative Print Crewneck Graphic Tees",
-      "link": "https://www.amazon.com/uideazone-Sleeve-Printed-T-Shirt-Graphic/dp/B07XC64RK5/ref=zg_bs_g_9056987011_d_sccl_28/131-4898499-0888953",
+      "asin": "B0FS8YQBRM",
+      "title": "Fun Six Seven 6 7 Meme Design Couples Halloween T-Shirt",
+      "link": "https://www.amazon.com/Six-Seven-Meme-Couples-Halloween/dp/B0FS8YQBRM/ref=zg_bs_g_9056987011_d_sccl_28/133-9000912-5761534",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-27T06:15:49.325590Z",
+      "first_seen": "2025-10-28T06:01:39.044682Z",
       "keywords": [
-        "uideazone",
-        "mens",
-        "casual",
-        "creative",
-        "print",
-        "crewneck",
-        "tees"
+        "fun",
+        "six",
+        "seven",
+        "meme",
+        "design",
+        "couples",
+        "halloween"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, casual, creative, print, crewneck, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: fun, six, seven, meme, design, couples, halloween. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
