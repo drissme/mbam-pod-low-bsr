@@ -1,43 +1,58 @@
 {
-  "generated_at": "2025-10-28T06:01:39.110191Z",
+  "generated_at": "2025-10-29T06:03:19.364701Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B08JXJ68Y7",
-      "title": "DC Comics Superman Classic Chest Logo T-Shirt",
-      "link": "https://www.amazon.com/DC-Comics-Superman-Classic-T-Shirt/dp/B08JXJ68Y7/ref=zg_bs_g_9056987011_d_sccl_24/133-9000912-5761534",
-      "current_rank": 24,
+      "asin": "B0FD9QZV5X",
+      "title": "Popfunk Superman (2025) Logo Unisex Adult T Shirt",
+      "link": "https://www.amazon.com/Popfunk-Superman-Unisex-Halloween-Costume/dp/B0FD9QZV5X/ref=zg_bs_g_9056987011_d_sccl_10/130-6896016-2880714",
+      "current_rank": 10,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-28T06:01:39.044682Z",
+      "first_seen": "2025-10-29T06:03:19.299978Z",
       "keywords": [
-        "comics",
+        "popfunk",
         "superman",
-        "chest",
-        "logo"
+        "2025",
+        "logo",
+        "unisex"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: comics, superman, chest, logo. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, superman, 2025, logo, unisex. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FS8YQBRM",
-      "title": "Fun Six Seven 6 7 Meme Design Couples Halloween T-Shirt",
-      "link": "https://www.amazon.com/Six-Seven-Meme-Couples-Halloween/dp/B0FS8YQBRM/ref=zg_bs_g_9056987011_d_sccl_28/133-9000912-5761534",
+      "asin": "B09PX7F5VF",
+      "title": "Popfunk Classic Spongebob Unisex Adult T Shirt",
+      "link": "https://www.amazon.com/Popfunk-Classic-Teenage-Turtles-Michelangelo/dp/B09PX7F5VF/ref=zg_bs_g_9056987011_d_sccl_18/130-6896016-2880714",
+      "current_rank": 18,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-10-29T06:03:19.299978Z",
+      "keywords": [
+        "popfunk",
+        "spongebob",
+        "unisex"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, spongebob, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FTT5V24J",
+      "title": "Number 7 Matching 67 Meme Halloween Costume Men Women Kids T-Shirt",
+      "link": "https://www.amazon.com/Matching-Halloween-Men-Women-Kids/dp/B0FTT5V24J/ref=zg_bs_g_9056987011_d_sccl_28/130-6896016-2880714",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-10-28T06:01:39.044682Z",
+      "first_seen": "2025-10-29T06:03:19.299978Z",
       "keywords": [
-        "fun",
-        "six",
-        "seven",
+        "number",
+        "matching",
         "meme",
-        "design",
-        "couples",
-        "halloween"
+        "halloween",
+        "costume",
+        "women"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: fun, six, seven, meme, design, couples, halloween. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: number, matching, meme, halloween, costume, women. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
