@@ -1,7 +1,104 @@
 {
-  "generated_at": "2025-10-31T06:20:07.693419Z",
+  "generated_at": "2025-11-01T06:03:03.839392Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B0FCXXKFQ9",
+      "title": "Popfunk Superman (2025) Logo Unisex Adult T Shirt",
+      "link": "https://www.amazon.com/Popfunk-Superman-Unisex-Halloween-Costume/dp/B0FCXXKFQ9/ref=zg_bs_g_9056987011_d_sccl_6/135-3755850-7428725",
+      "current_rank": 6,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-01T06:03:03.773812Z",
+      "keywords": [
+        "popfunk",
+        "superman",
+        "2025",
+        "logo",
+        "unisex"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, superman, 2025, logo, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09BY6QTKS",
+      "title": "Letter M Halloween Costumes T-Shirt | Funny Cool Graphic Tee Idea | for Men",
+      "link": "https://www.amazon.com/Letter-Halloween-Costumes-T-Shirt-Graphic/dp/B09BY6QTKS/ref=zg_bs_g_9056987011_d_sccl_15/135-3755850-7428725",
+      "current_rank": 15,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-01T06:03:03.773812Z",
+      "keywords": [
+        "letter",
+        "halloween",
+        "costumes",
+        "idea"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: letter, halloween, costumes, idea. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FM1ZFV5P",
+      "title": "Kpop Demon Hunters Halloween Rumi Showcase Y2K Style Poster T-Shirt",
+      "link": "https://www.amazon.com/Demon-Hunters-Halloween-Showcase-T-Shirt/dp/B0FM1ZFV5P/ref=zg_bs_g_9056987011_d_sccl_19/135-3755850-7428725",
+      "current_rank": 19,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-01T06:03:03.773812Z",
+      "keywords": [
+        "kpop",
+        "demon",
+        "hunters",
+        "halloween",
+        "rumi",
+        "showcase",
+        "y2k",
+        "style",
+        "poster"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, halloween, rumi, showcase, y2k, style, poster. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09GMFDVC8",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMFDVC8/ref=zg_bs_g_9056987011_d_sccl_20/135-3755850-7428725",
+      "current_rank": 20,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-01T06:03:03.773812Z",
+      "keywords": [
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "crewneck",
+        "print",
+        "top",
+        "casual",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B00G97GO30",
+      "title": "Ann Arbor T-shirt Co. LIFEGUARD, Red Lifeguarding Unisex Uniform Costume T-shirt for Men Women",
+      "link": "https://www.amazon.com/LIFEGUARD-Lifeguarding-Uniform-Costume-T-shirt/dp/B00G97GO30/ref=zg_bs_g_9056987011_d_sccl_21/135-3755850-7428725",
+      "current_rank": 21,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-01T06:03:03.773812Z",
+      "keywords": [
+        "ann",
+        "arbor",
+        "lifeguard",
+        "red",
+        "lifeguarding",
+        "unisex",
+        "uniform",
+        "costume",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: ann, arbor, lifeguard, red, lifeguarding, unisex, uniform, costume, women. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
