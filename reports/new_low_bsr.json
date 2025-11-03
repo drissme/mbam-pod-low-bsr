@@ -1,7 +1,84 @@
 {
-  "generated_at": "2025-11-02T06:12:43.738733Z",
+  "generated_at": "2025-11-03T06:16:23.129944Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B0C384TG9L",
+      "title": "Peanuts - Happy Thanksgiving Charlie Snoopy Woodstock T-Shirt",
+      "link": "https://www.amazon.com/Peanuts-Happy-Thanksgiving-T-Shirt/dp/B0C384TG9L/ref=zg_bs_g_9056987011_d_sccl_19/142-2579366-1667241",
+      "current_rank": 19,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-03T06:16:23.060491Z",
+      "keywords": [
+        "peanuts",
+        "happy",
+        "thanksgiving",
+        "charlie",
+        "snoopy",
+        "woodstock"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: peanuts, happy, thanksgiving, charlie, snoopy, woodstock. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FRZ51BH6",
+      "title": "Funny Six Seven 6 7 Meme Gen Alpha Slang 6 7 Hands T-Shirt",
+      "link": "https://www.amazon.com/Funny-Seven-Meme-Alpha-T-Shirt/dp/B0FRZ51BH6/ref=zg_bs_g_9056987011_d_sccl_20/142-2579366-1667241",
+      "current_rank": 20,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-03T06:16:23.060491Z",
+      "keywords": [
+        "six",
+        "seven",
+        "meme",
+        "gen",
+        "alpha",
+        "slang",
+        "hands"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: six, seven, meme, gen, alpha, slang, hands. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FM1R33Z1",
+      "title": "Kpop Demon Hunters Halloween Huntrix Golden Zoey Rumi Mira T-Shirt",
+      "link": "https://www.amazon.com/Demon-Hunters-Halloween-Huntrix-T-Shirt/dp/B0FM1R33Z1/ref=zg_bs_g_9056987011_d_sccl_28/142-2579366-1667241",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-03T06:16:23.060491Z",
+      "keywords": [
+        "kpop",
+        "demon",
+        "hunters",
+        "halloween",
+        "huntrix",
+        "golden",
+        "zoey",
+        "rumi",
+        "mira"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, halloween, huntrix, golden, zoey, rumi, mira. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FJ42PV2P",
+      "title": "KPop Demon Hunters Rumi Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/KPop-Demon-Hunters-Officially-Licensed/dp/B0FJ42PV2P/ref=zg_bs_g_9056987011_d_sccl_29/142-2579366-1667241",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-03T06:16:23.060491Z",
+      "keywords": [
+        "kpop",
+        "demon",
+        "hunters",
+        "rumi",
+        "officially",
+        "licensed"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, rumi, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
