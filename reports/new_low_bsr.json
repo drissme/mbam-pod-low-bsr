@@ -1,94 +1,25 @@
 {
-  "generated_at": "2025-11-10T06:16:06.383459Z",
+  "generated_at": "2025-11-11T06:14:42.565686Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0C4JZ1WFP",
-      "title": "I'm My Mother In Law's Favorite Child Funny Parent Men Women T-Shirt",
-      "link": "https://www.amazon.com/Mother-Laws-Favorite-Child-Funny/dp/B0C4JZ1WFP/ref=zg_bs_g_9056987011_d_sccl_15/138-9093144-0448669",
-      "current_rank": 15,
+      "asin": "B0CM6R6GN1",
+      "title": "Funny Thanksgiving Guess What Turkey Butt T-Shirt",
+      "link": "https://www.amazon.com/Funny-Thanksgiving-Guess-Turkey-T-Shirt/dp/B0CM6R6GN1/ref=zg_bs_g_9056987011_d_sccl_29/141-9030868-8182500",
+      "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-11-10T06:16:06.312504Z",
+      "first_seen": "2025-11-11T06:14:42.493076Z",
       "keywords": [
-        "i'm",
-        "mother",
-        "law's",
-        "favorite",
-        "child",
-        "parent",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: i'm, mother, law's, favorite, child, parent, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09DFPR59M",
-      "title": "Grunt Style Basic Crew T-Shirt Pack",
-      "link": "https://www.amazon.com/Grunt-Style-Ghost-T-Shirt-3-Pack/dp/B09DFPR59M/ref=zg_bs_g_9056987011_d_sccl_25/138-9093144-0448669",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-11-10T06:16:06.312504Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "basic",
-        "crew",
-        "pack"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, basic, crew, pack. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FQM4SS5N",
-      "title": "F-Caw-F Funny Chicken Humor F-Caw-F Quote Rooster Meme T-Shirt",
-      "link": "https://www.amazon.com/F-Caw-F-Funny-Chicken-Humor-Quote/dp/B0FQM4SS5N/ref=zg_bs_g_9056987011_d_sccl_26/138-9093144-0448669",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-11-10T06:16:06.312504Z",
-      "keywords": [
-        "caw",
-        "chicken",
-        "humor",
-        "quote",
-        "rooster",
-        "meme"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: caw, chicken, humor, quote, rooster, meme. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07B5GZ7ZK",
-      "title": "Peanuts Holiday Snoopy and Woodstock Stocking T-Shirt",
-      "link": "https://www.amazon.com/Peanuts-Snoopy-Woodstock-Stocking-T-shirt/dp/B07B5GZ7ZK/ref=zg_bs_g_9056987011_d_sccl_28/138-9093144-0448669",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-11-10T06:16:06.312504Z",
-      "keywords": [
-        "peanuts",
-        "holiday",
-        "snoopy",
-        "woodstock",
-        "stocking"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: peanuts, holiday, snoopy, woodstock, stocking. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0BZQCBZMP",
-      "title": "Peanuts - Thanksgiving Scene T-Shirt",
-      "link": "https://www.amazon.com/Peanuts-Thanksgiving-Scene-T-Shirt/dp/B0BZQCBZMP/ref=zg_bs_g_9056987011_d_sccl_30/138-9093144-0448669",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-11-10T06:16:06.312504Z",
-      "keywords": [
-        "peanuts",
         "thanksgiving",
-        "scene"
+        "guess",
+        "what",
+        "turkey",
+        "butt"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: peanuts, thanksgiving, scene. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: thanksgiving, guess, what, turkey, butt. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
