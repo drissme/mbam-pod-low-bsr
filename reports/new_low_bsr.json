@@ -1,25 +1,26 @@
 {
-  "generated_at": "2025-11-11T06:14:42.565686Z",
+  "generated_at": "2025-11-12T06:14:45.858082Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CM6R6GN1",
-      "title": "Funny Thanksgiving Guess What Turkey Butt T-Shirt",
-      "link": "https://www.amazon.com/Funny-Thanksgiving-Guess-Turkey-T-Shirt/dp/B0CM6R6GN1/ref=zg_bs_g_9056987011_d_sccl_29/141-9030868-8182500",
-      "current_rank": 29,
+      "asin": "B0FZBJJ1CS",
+      "title": "I Survived 67 Days of School Funny Meme Teacher Student T-Shirt",
+      "link": "https://www.amazon.com/Survived-67-Days-School-Teacher/dp/B0FZBJJ1CS/ref=zg_bs_g_9056987011_d_sccl_18/140-4835618-3118269",
+      "current_rank": 18,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-11-11T06:14:42.493076Z",
+      "first_seen": "2025-11-12T06:14:45.788218Z",
       "keywords": [
-        "thanksgiving",
-        "guess",
-        "what",
-        "turkey",
-        "butt"
+        "survived",
+        "days",
+        "school",
+        "meme",
+        "teacher",
+        "student"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: thanksgiving, guess, what, turkey, butt. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: survived, days, school, meme, teacher, student. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
