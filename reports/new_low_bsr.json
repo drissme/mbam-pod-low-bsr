@@ -1,59 +1,7 @@
 {
-  "generated_at": "2025-11-14T06:14:17.325072Z",
+  "generated_at": "2025-11-15T06:12:19.831962Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": [
-    {
-      "asin": "B0FWQ5QCZ3",
-      "title": "67 Thanksgiving Funny Turkey Thanksgiving 67 Turkey T-Shirt",
-      "link": "https://www.amazon.com/67-Thanksgiving-Funny-Turkey-T-Shirt/dp/B0FWQ5QCZ3/ref=zg_bs_g_9056987011_d_sccl_21/141-8270474-7683265",
-      "current_rank": 21,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-11-14T06:14:17.255850Z",
-      "keywords": [
-        "thanksgiving",
-        "turkey"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: thanksgiving, turkey. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FZ3PDLWW",
-      "title": "2025 Back to Back World Champions | Los Angeles D LA Series T-Shirt",
-      "link": "https://www.amazon.com/2025-World-Champions-Angeles-T-Shirt/dp/B0FZ3PDLWW/ref=zg_bs_g_9056987011_d_sccl_27/141-8270474-7683265",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-11-14T06:14:17.255850Z",
-      "keywords": [
-        "2025",
-        "back",
-        "world",
-        "champions",
-        "los",
-        "angeles",
-        "series"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 2025, back, world, champions, los, angeles, series. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FTVFH6XZ",
-      "title": "Do The Math 67 Meme Funny Six Seven Men Women Teacher T-Shirt",
-      "link": "https://www.amazon.com/Math-Meme-Six-Seven-Teacher/dp/B0FTVFH6XZ/ref=zg_bs_g_9056987011_d_sccl_28/141-8270474-7683265",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-11-14T06:14:17.255850Z",
-      "keywords": [
-        "math",
-        "meme",
-        "six",
-        "seven",
-        "women",
-        "teacher"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: math, meme, six, seven, women, teacher. Use clear fonts and simple iconography. Avoid trademarks."
-    }
-  ]
+  "items": []
 }
