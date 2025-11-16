@@ -1,7 +1,80 @@
 {
-  "generated_at": "2025-11-15T06:12:19.831962Z",
+  "generated_at": "2025-11-16T06:12:58.922454Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B0FXYFBSYW",
+      "title": "I Survived 67 Days of School Funny Six Seven 6 7 Meme Z Gen T-Shirt",
+      "link": "https://www.amazon.com/Survived-Six-Seven-Meme-T-Shirt/dp/B0FXYFBSYW/ref=zg_bs_g_9056987011_d_sccl_23/143-0383407-9551521",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-16T06:12:58.842486Z",
+      "keywords": [
+        "survived",
+        "days",
+        "school",
+        "six",
+        "seven",
+        "meme",
+        "gen"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: survived, days, school, six, seven, meme, gen. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FJ92RFFM",
+      "title": "Wicked: For Good Glinda and Elphaba Friends Forever Changed T-Shirt",
+      "link": "https://www.amazon.com/Wicked-Elphaba-Friends-Forever-Changed/dp/B0FJ92RFFM/ref=zg_bs_g_9056987011_d_sccl_25/143-0383407-9551521",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-16T06:12:58.842486Z",
+      "keywords": [
+        "wicked",
+        "good",
+        "glinda",
+        "elphaba",
+        "friends",
+        "forever",
+        "changed"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: wicked, good, glinda, elphaba, friends, forever, changed. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CJ3929TP",
+      "title": "Thankful Grateful Blessed Happy Thanksgiving Turkey Gobble T-Shirt",
+      "link": "https://www.amazon.com/Thankful-Grateful-Blessed-Happy-Thanksgiving/dp/B0CJ3929TP/ref=zg_bs_g_9056987011_d_sccl_26/143-0383407-9551521",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-16T06:12:58.842486Z",
+      "keywords": [
+        "thankful",
+        "grateful",
+        "blessed",
+        "happy",
+        "thanksgiving",
+        "turkey",
+        "gobble"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: thankful, grateful, blessed, happy, thanksgiving, turkey, gobble. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CN61HR8L",
+      "title": "turkey moo funny thanksgiving T-Shirt",
+      "link": "https://www.amazon.com/turkey-moo-funny-thanksgiving-T-Shirt/dp/B0CN61HR8L/ref=zg_bs_g_9056987011_d_sccl_30/143-0383407-9551521",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-16T06:12:58.842486Z",
+      "keywords": [
+        "turkey",
+        "moo",
+        "thanksgiving"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: turkey, moo, thanksgiving. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
