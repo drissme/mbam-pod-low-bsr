@@ -1,7 +1,62 @@
 {
-  "generated_at": "2025-11-17T06:15:35.002797Z",
+  "generated_at": "2025-11-18T06:14:09.161564Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B0DSCQTHF1",
+      "title": "Wicked Elphaba You Say Wicked Like It’s A Bad Thing T-Shirt",
+      "link": "https://www.amazon.com/Wicked-Elphaba-Like-Thing-T-Shirt/dp/B0DSCQTHF1/ref=zg_bs_g_9056987011_d_sccl_18/138-6629258-3578957",
+      "current_rank": 18,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-18T06:14:09.090865Z",
+      "keywords": [
+        "wicked",
+        "elphaba",
+        "you",
+        "say",
+        "like",
+        "bad",
+        "thing"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: wicked, elphaba, you, say, like, bad, thing. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DHYMNGVV",
+      "title": "Wicked Pink And Green Logo T-Shirt",
+      "link": "https://www.amazon.com/Wicked-Pink-Green-Logo-T-Shirt/dp/B0DHYMNGVV/ref=zg_bs_g_9056987011_d_sccl_22/138-6629258-3578957",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-18T06:14:09.090865Z",
+      "keywords": [
+        "wicked",
+        "pink",
+        "green",
+        "logo"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: wicked, pink, green, logo. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DSCRTWGM",
+      "title": "Wicked Some Of Us Are Just Different Elphaba Thropp T-Shirt",
+      "link": "https://www.amazon.com/Wicked-Different-Elphaba-Thropp-T-Shirt/dp/B0DSCRTWGM/ref=zg_bs_g_9056987011_d_sccl_25/138-6629258-3578957",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-18T06:14:09.090865Z",
+      "keywords": [
+        "wicked",
+        "some",
+        "are",
+        "just",
+        "different",
+        "elphaba",
+        "thropp"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: wicked, some, are, just, different, elphaba, thropp. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
