@@ -1,26 +1,62 @@
 {
-  "generated_at": "2025-11-19T06:14:15.604971Z",
+  "generated_at": "2025-11-20T06:01:28.200261Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DNDYYMP7",
-      "title": "Thankful For You Funny Men Womens Boy Family Matching Black T-Shirt",
-      "link": "https://www.amazon.com/Thankful-You-Funny-Matching-T-Shirt/dp/B0DNDYYMP7/ref=zg_bs_g_9056987011_d_sccl_26/130-3228447-1219331",
-      "current_rank": 26,
+      "asin": "B00PKMIOAQ",
+      "title": "Holiday Costume Tees | Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
+      "link": "https://www.amazon.com/Costume-Novelty-Christmas-Holiday-T-shirt-Adult/dp/B00PKMIOAQ/ref=zg_bs_g_9056987011_d_sccl_17/147-9697268-8537269",
+      "current_rank": 17,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-11-19T06:14:15.536073Z",
+      "first_seen": "2025-11-20T06:01:28.128428Z",
+      "keywords": [
+        "holiday",
+        "costume",
+        "tees",
+        "fun",
+        "christmas",
+        "shirts",
+        "unisex"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DL6W35P4",
+      "title": "Thankful For You Fuckers T-Shirt",
+      "link": "https://www.amazon.com/Thankful-For-You-Fuckers-T-Shirt/dp/B0DL6W35P4/ref=zg_bs_g_9056987011_d_sccl_29/147-9697268-8537269",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-20T06:01:28.128428Z",
       "keywords": [
         "thankful",
         "you",
-        "boy",
-        "family",
-        "matching",
-        "black"
+        "fuckers"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: thankful, you, boy, family, matching, black. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: thankful, you, fuckers. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CLWN5LXG",
+      "title": "Stranger Things Blue Gradient Shadow Upside Down Logo T-Shirt",
+      "link": "https://www.amazon.com/Stranger-Things-Gradient-Shadow-T-Shirt/dp/B0CLWN5LXG/ref=zg_bs_g_9056987011_d_sccl_30/147-9697268-8537269",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-20T06:01:28.128428Z",
+      "keywords": [
+        "stranger",
+        "things",
+        "blue",
+        "gradient",
+        "shadow",
+        "upside",
+        "down",
+        "logo"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, blue, gradient, shadow, upside, down, logo. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
