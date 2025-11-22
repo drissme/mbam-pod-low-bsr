@@ -1,62 +1,62 @@
 {
-  "generated_at": "2025-11-21T06:15:50.276984Z",
+  "generated_at": "2025-11-22T06:12:17.052843Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07KW25YKL",
-      "title": "Dr. Seuss Grinch Sleigh T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Grinch-Sleigh-T-shirt/dp/B07KW25YKL/ref=zg_bs_g_9056987011_d_sccl_27/143-4176576-9705368",
+      "asin": "B0D63Y9BQ8",
+      "title": "Grunt Style Dad Tax Men's T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Black-X-Large/dp/B0D63Y9BQ8/ref=zg_bs_g_9056987011_d_sccl_5/136-4233339-3085367",
+      "current_rank": 5,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-22T06:12:16.981961Z",
+      "keywords": [
+        "grunt",
+        "style",
+        "dad",
+        "tax"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, dad, tax. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B08NYSSMHZ",
+      "title": "Stop Staring At My Balls Funny Dirty Christmas Adult Humor T-Shirt",
+      "link": "https://www.amazon.com/Funny-Dirty-Christmas-Adult-Humor/dp/B08NYSSMHZ/ref=zg_bs_g_9056987011_d_sccl_27/136-4233339-3085367",
       "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-11-21T06:15:50.205988Z",
+      "first_seen": "2025-11-22T06:12:16.981961Z",
       "keywords": [
-        "seuss",
-        "grinch",
-        "sleigh"
+        "stop",
+        "staring",
+        "balls",
+        "dirty",
+        "christmas",
+        "humor"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, grinch, sleigh. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stop, staring, balls, dirty, christmas, humor. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0BHM825Y2",
-      "title": "Happy thanksgiving for turkey day family dinner T-Shirt",
-      "link": "https://www.amazon.com/Happy-thanksgiving-turkey-family-T-Shirt/dp/B0BHM825Y2/ref=zg_bs_g_9056987011_d_sccl_28/143-4176576-9705368",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-11-21T06:15:50.205988Z",
-      "keywords": [
-        "happy",
-        "thanksgiving",
-        "turkey",
-        "day",
-        "family",
-        "dinner"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: happy, thanksgiving, turkey, day, family, dinner. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09GMBP8H9",
-      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
-      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMBP8H9/ref=zg_bs_g_9056987011_d_sccl_30/143-4176576-9705368",
+      "asin": "B0FQ5SRZ58",
+      "title": "Funny Probably Just Gonna Jingle Some of The Way I'm Tired T-Shirt",
+      "link": "https://www.amazon.com/Funny-Probably-Jingle-Way-T-Shirt/dp/B0FQ5SRZ58/ref=zg_bs_g_9056987011_d_sccl_30/136-4233339-3085367",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-11-21T06:15:50.205988Z",
+      "first_seen": "2025-11-22T06:12:16.981961Z",
       "keywords": [
-        "raisevern",
-        "unisex",
-        "summer",
-        "shirts",
-        "crewneck",
-        "print",
-        "top",
-        "casual",
-        "tees"
+        "probably",
+        "just",
+        "gonna",
+        "jingle",
+        "some",
+        "way",
+        "i'm",
+        "tired"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: probably, just, gonna, jingle, some, way, i'm, tired. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
