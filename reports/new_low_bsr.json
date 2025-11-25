@@ -1,65 +1,67 @@
 {
-  "generated_at": "2025-11-24T06:15:06.466586Z",
+  "generated_at": "2025-11-25T06:15:18.784148Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B00TCVCS12",
-      "title": "Grunt Style America Patriotic Flag Men’s Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-America-T-Shirt-X-Large/dp/B00TCVCS12/ref=zg_bs_g_9056987011_d_sccl_7/136-4932933-8108543",
-      "current_rank": 7,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-11-24T06:15:06.396808Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "america",
-        "patriotic",
-        "flag"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, america, patriotic, flag. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0B9ZQRWBK",
-      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
-      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZQRWBK/ref=zg_bs_g_9056987011_d_sccl_25/136-4932933-8108543",
+      "asin": "B09JFDBPXG",
+      "title": "Tipsy Elves Funny Men's Thanksgiving Shirts - Hilarious Turkey Day and Friendsgiving Tees for Men",
+      "link": "https://www.amazon.com/Tipsy-Elves-Thanksgiving-Turkey-X-Large/dp/B09JFDBPXG/ref=zg_bs_g_9056987011_d_sccl_25/134-7264742-5311332",
       "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-11-24T06:15:06.396808Z",
+      "first_seen": "2025-11-25T06:15:18.712800Z",
       "keywords": [
-        "awesome",
-        "like",
-        "daughter",
-        "sarcastic",
-        "saying",
-        "humor",
-        "dad",
-        "joke",
-        "father",
-        "grandpa",
-        "daddy"
+        "tipsy",
+        "elves",
+        "thanksgiving",
+        "shirts",
+        "hilarious",
+        "turkey",
+        "day",
+        "friendsgiving",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tipsy, elves, thanksgiving, shirts, hilarious, turkey, day, friendsgiving, tees. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09DFPR59M",
-      "title": "Grunt Style Basic Crew T-Shirt Pack",
-      "link": "https://www.amazon.com/Grunt-Style-Ghost-T-Shirt-3-Pack/dp/B09DFPR59M/ref=zg_bs_g_9056987011_d_sccl_26/136-4932933-8108543",
+      "asin": "B0DDXYB69M",
+      "title": "Give Thanks Bro Cute Turkey Toddler Thankful Thanksgiving T-Shirt",
+      "link": "https://www.amazon.com/Thanks-Toddler-Thankful-Thanksgiving-T-Shirt/dp/B0DDXYB69M/ref=zg_bs_g_9056987011_d_sccl_26/134-7264742-5311332",
       "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-11-24T06:15:06.396808Z",
+      "first_seen": "2025-11-25T06:15:18.712800Z",
       "keywords": [
-        "grunt",
-        "style",
-        "basic",
-        "crew",
-        "pack"
+        "give",
+        "thanks",
+        "bro",
+        "cute",
+        "turkey",
+        "toddler",
+        "thankful",
+        "thanksgiving"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, basic, crew, pack. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: give, thanks, bro, cute, turkey, toddler, thankful, thanksgiving. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DKNJVCSM",
+      "title": "Turkey Gravy Beans And Rolls Casserole Funny Thanksgiving T-Shirt",
+      "link": "https://www.amazon.com/Turkey-Gravy-Casserole-Thanksgiving-T-Shirt/dp/B0DKNJVCSM/ref=zg_bs_g_9056987011_d_sccl_28/134-7264742-5311332",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-25T06:15:18.712800Z",
+      "keywords": [
+        "turkey",
+        "gravy",
+        "beans",
+        "rolls",
+        "casserole",
+        "thanksgiving"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: turkey, gravy, beans, rolls, casserole, thanksgiving. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
