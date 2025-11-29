@@ -1,42 +1,82 @@
 {
-  "generated_at": "2025-11-28T06:14:47.606021Z",
+  "generated_at": "2025-11-29T06:12:54.011263Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B091ML1ZX8",
-      "title": "Grunt Style True Colors Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-Colors-T-Shirt-Black/dp/B091ML1ZX8/ref=zg_bs_g_9056987011_d_sccl_20/138-9328186-1497307",
-      "current_rank": 20,
+      "asin": "B0FJ462SZF",
+      "title": "KPop Demon Hunters Saja Boys Heartthrob Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/KPop-Demon-Hunters-Heartthrob-Officially/dp/B0FJ462SZF/ref=zg_bs_g_9056987011_d_sccl_24/138-3829517-8970412",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-11-28T06:14:47.534361Z",
+      "first_seen": "2025-11-29T06:12:53.939964Z",
+      "keywords": [
+        "kpop",
+        "demon",
+        "hunters",
+        "saja",
+        "boys",
+        "heartthrob",
+        "officially",
+        "licensed"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, saja, boys, heartthrob, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FKRCHSYP",
+      "title": "Kpop Demon Hunters Halloween Saja Boys Group Shot T-Shirt",
+      "link": "https://www.amazon.com/Demon-Hunters-Halloween-Group-T-Shirt/dp/B0FKRCHSYP/ref=zg_bs_g_9056987011_d_sccl_26/138-3829517-8970412",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-29T06:12:53.939964Z",
+      "keywords": [
+        "kpop",
+        "demon",
+        "hunters",
+        "halloween",
+        "saja",
+        "boys",
+        "group",
+        "shot"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, halloween, saja, boys, group, shot. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B091BKPHGN",
+      "title": "Grunt Style Betsy Rifle Flag Men's T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-Betsy-Rifle-T-Shirt/dp/B091BKPHGN/ref=zg_bs_g_9056987011_d_sccl_28/138-3829517-8970412",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-11-29T06:12:53.939964Z",
       "keywords": [
         "grunt",
         "style",
-        "true"
+        "betsy",
+        "rifle",
+        "flag"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, true. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, betsy, rifle, flag. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0B2W174W8",
-      "title": "Stranger Things 4 Hellfire Club Logo Raglan Baseball Tee",
-      "link": "https://www.amazon.com/Stranger-Things-Hellfire-Raglan-Baseball/dp/B0B2W174W8/ref=zg_bs_g_9056987011_d_sccl_30/138-9328186-1497307",
+      "asin": "B00TC84BYM",
+      "title": "Grunt Style Patriot Pack 3-Pack Men's T-Shirts",
+      "link": "https://www.amazon.com/Grunt-Style-Patriot-3-Pack-T-Shirts/dp/B00TC84BYM/ref=zg_bs_g_9056987011_d_sccl_30/138-3829517-8970412",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-11-28T06:14:47.534361Z",
+      "first_seen": "2025-11-29T06:12:53.939964Z",
       "keywords": [
-        "stranger",
-        "things",
-        "hellfire",
-        "club",
-        "logo",
-        "raglan",
-        "baseball"
+        "grunt",
+        "style",
+        "patriot",
+        "pack",
+        "shirts"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, hellfire, club, logo, raglan, baseball. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, patriot, pack, shirts. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
