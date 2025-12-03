@@ -1,89 +1,42 @@
 {
-  "generated_at": "2025-12-02T06:15:19.695209Z",
+  "generated_at": "2025-12-03T06:15:09.228683Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B089DV7HF9",
-      "title": "Grunt Style American Acid Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-X-Large/dp/B089DV7HF9/ref=zg_bs_g_9056987011_d_sccl_4/147-9426973-1557863",
-      "current_rank": 4,
+      "asin": "B09ZQ481J3",
+      "title": "Fender Vintage Guitar Lineup T-Shirt",
+      "link": "https://www.amazon.com/Fender-Vintage-Guitar-Lineup-T-Shirt/dp/B09ZQ481J3/ref=zg_bs_g_9056987011_d_sccl_28/134-3642459-2201329",
+      "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-02T06:15:19.620667Z",
+      "first_seen": "2025-12-03T06:15:09.155462Z",
       "keywords": [
-        "grunt",
-        "style",
-        "american",
-        "acid"
+        "fender",
+        "guitar",
+        "lineup"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, acid. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: fender, guitar, lineup. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07QDZQX2L",
-      "title": "American Reaper 2.0 Graphic Tee 2XLarge",
-      "link": "https://www.amazon.com/Grunt-Style-American-Reaper-Short-Sleeve/dp/B07QDZQX2L/ref=zg_bs_g_9056987011_d_sccl_12/147-9426973-1557863",
-      "current_rank": 12,
+      "asin": "B0FQZ9TRBF",
+      "title": "Julian Sayin - Just Sayin (Black) - Ohio State Football T-Shirt",
+      "link": "https://www.amazon.com/Julian-Sayin-Black-Football-T-Shirt/dp/B0FQZ9TRBF/ref=zg_bs_g_9056987011_d_sccl_30/134-3642459-2201329",
+      "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-02T06:15:19.620667Z",
+      "first_seen": "2025-12-03T06:15:09.155462Z",
       "keywords": [
-        "american",
-        "reaper",
-        "2xlarge"
+        "julian",
+        "sayin",
+        "just",
+        "black",
+        "ohio",
+        "state",
+        "football"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: american, reaper, 2xlarge. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CLW6MB2N",
-      "title": "Grunt Style Strength Through Suffering Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-Strength-Suffering-Training/dp/B0CLW6MB2N/ref=zg_bs_g_9056987011_d_sccl_24/147-9426973-1557863",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-02T06:15:19.620667Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "strength",
-        "through",
-        "suffering"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, strength, through, suffering. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07JR33NHQ",
-      "title": "Grunt Style 1776 Flag",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Color-Medium/dp/B07JR33NHQ/ref=zg_bs_g_9056987011_d_sccl_25/147-9426973-1557863",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-02T06:15:19.620667Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "1776",
-        "flag"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, 1776, flag. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09DFK91TX",
-      "title": "Grunt Style Basic Crew T-Shirt Pack",
-      "link": "https://www.amazon.com/Grunt-Style-Ghost-T-Shirt-3-Pack/dp/B09DFK91TX/ref=zg_bs_g_9056987011_d_sccl_27/147-9426973-1557863",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-02T06:15:19.620667Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "basic",
-        "crew",
-        "pack"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, basic, crew, pack. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: julian, sayin, just, black, ohio, state, football. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
