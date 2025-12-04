@@ -1,42 +1,7 @@
 {
-  "generated_at": "2025-12-03T06:15:09.228683Z",
+  "generated_at": "2025-12-04T06:01:22.853338Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": [
-    {
-      "asin": "B09ZQ481J3",
-      "title": "Fender Vintage Guitar Lineup T-Shirt",
-      "link": "https://www.amazon.com/Fender-Vintage-Guitar-Lineup-T-Shirt/dp/B09ZQ481J3/ref=zg_bs_g_9056987011_d_sccl_28/134-3642459-2201329",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-03T06:15:09.155462Z",
-      "keywords": [
-        "fender",
-        "guitar",
-        "lineup"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: fender, guitar, lineup. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FQZ9TRBF",
-      "title": "Julian Sayin - Just Sayin (Black) - Ohio State Football T-Shirt",
-      "link": "https://www.amazon.com/Julian-Sayin-Black-Football-T-Shirt/dp/B0FQZ9TRBF/ref=zg_bs_g_9056987011_d_sccl_30/134-3642459-2201329",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-03T06:15:09.155462Z",
-      "keywords": [
-        "julian",
-        "sayin",
-        "just",
-        "black",
-        "ohio",
-        "state",
-        "football"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: julian, sayin, just, black, ohio, state, football. Use clear fonts and simple iconography. Avoid trademarks."
-    }
-  ]
+  "items": []
 }
