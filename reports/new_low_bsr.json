@@ -1,7 +1,61 @@
 {
-  "generated_at": "2025-12-04T06:01:22.853338Z",
+  "generated_at": "2025-12-05T06:15:20.279405Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B09XFGP4R6",
+      "title": "Grunt Style American Acid Men's T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-Military/dp/B09XFGP4R6/ref=zg_bs_g_9056987011_d_sccl_17/133-8981033-3151142",
+      "current_rank": 17,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-05T06:15:20.203850Z",
+      "keywords": [
+        "grunt",
+        "style",
+        "american",
+        "acid"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, acid. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0097M9AK8",
+      "title": "Jockey T-Shirts for Men - V Neck Undershirts, Cotton Men's T-Shirts - 3 Pack",
+      "link": "https://www.amazon.com/Jockey-Mens-T-Shirts-Classic-V-Neck/dp/B0097M9AK8/ref=zg_bs_g_9056987011_d_sccl_29/133-8981033-3151142",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-05T06:15:20.203850Z",
+      "keywords": [
+        "jockey",
+        "shirts",
+        "neck",
+        "undershirts",
+        "cotton",
+        "pack"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: jockey, shirts, neck, undershirts, cotton, pack. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B00PKMIOAQ",
+      "title": "Holiday Costume Tees | Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
+      "link": "https://www.amazon.com/Costume-Novelty-Christmas-Holiday-T-shirt-Adult/dp/B00PKMIOAQ/ref=zg_bs_g_9056987011_d_sccl_30/133-8981033-3151142",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-05T06:15:20.203850Z",
+      "keywords": [
+        "holiday",
+        "costume",
+        "tees",
+        "fun",
+        "christmas",
+        "shirts",
+        "unisex"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
