@@ -1,38 +1,17 @@
 {
-  "generated_at": "2025-12-11T06:16:20.715930Z",
+  "generated_at": "2025-12-12T06:15:26.622811Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BJZ9GT1J",
-      "title": "True Classic Mens T-Shirts – Short Sleeve Crew Neck T Shirts for Man, Cotton Blend Plain Novelty Men's T-Shirts",
-      "link": "https://www.amazon.com/True-Classic-Staple-6-Pack-X-Large/dp/B0BJZ9GT1J/ref=zg_bs_g_9056987011_d_sccl_2/132-3010833-4391113",
-      "current_rank": 2,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-11T06:16:20.642622Z",
-      "keywords": [
-        "true",
-        "mens",
-        "shirts",
-        "crew",
-        "neck",
-        "man",
-        "cotton",
-        "blend",
-        "plain"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: true, mens, shirts, crew, neck, man, cotton, blend, plain. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07JNNBYSW",
+      "asin": "B07JNF2JL9",
       "title": "Crazy Dog Mens T Shirt I Do It for The Hos Santa Claus Funny Christmas Party Tee",
-      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Christmas-Sarcastic/dp/B07JNNBYSW/ref=zg_bs_g_9056987011_d_sccl_16/132-3010833-4391113",
-      "current_rank": 16,
+      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Christmas-Sarcastic/dp/B07JNF2JL9/ref=zg_bs_g_9056987011_d_sccl_10/137-8240623-5202118",
+      "current_rank": 10,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-11T06:16:20.642622Z",
+      "first_seen": "2025-12-12T06:15:26.539968Z",
       "keywords": [
         "crazy",
         "dog",
@@ -46,53 +25,64 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, mens, hos, santa, claus, christmas, party. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0G3TJBY6L",
-      "title": "67 Christmas 6 7 Meme Hands Holiday Gen Alpha for Kids Youth T-Shirt",
-      "link": "https://www.amazon.com/Christmas-Hands-Holiday-Alpha-T-Shirt/dp/B0G3TJBY6L/ref=zg_bs_g_9056987011_d_sccl_17/132-3010833-4391113",
-      "current_rank": 17,
+      "asin": "B08599N11W",
+      "title": "uideazone Mens Short Sleeve T-Shirt Casual 3D Creative Print Crewneck Graphic Tees",
+      "link": "https://www.amazon.com/uideazone-Couples-Printed-T-Shirt-Graphic/dp/B08599N11W/ref=zg_bs_g_9056987011_d_sccl_20/137-8240623-5202118",
+      "current_rank": 20,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-11T06:16:20.642622Z",
+      "first_seen": "2025-12-12T06:15:26.539968Z",
       "keywords": [
-        "christmas",
-        "meme",
-        "hands",
-        "holiday",
-        "gen",
-        "alpha"
+        "uideazone",
+        "mens",
+        "casual",
+        "creative",
+        "print",
+        "crewneck",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: christmas, meme, hands, holiday, gen, alpha. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, casual, creative, print, crewneck, tees. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0CMVT19M1",
-      "title": "Christmas Snowflake Novelty Xmas Graphic T-Shirt",
-      "link": "https://www.amazon.com/Worlds-Tallest-Holiday-Christmas-Black12/dp/B0CMVT19M1/ref=zg_bs_g_9056987011_d_sccl_24/132-3010833-4391113",
-      "current_rank": 24,
+      "asin": "B0BPN2VFG9",
+      "title": "Mens Big Nick Energy T Shirt Funny Xmas Fat Santa Claus Saint Nicholas Tee for Guys",
+      "link": "https://www.amazon.com/Nicholas-Crazy-Dog-Premium-Graphic/dp/B0BPN2VFG9/ref=zg_bs_g_9056987011_d_sccl_27/137-8240623-5202118",
+      "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-11T06:16:20.642622Z",
+      "first_seen": "2025-12-12T06:15:26.539968Z",
       "keywords": [
-        "christmas",
-        "snowflake",
-        "xmas"
+        "mens",
+        "big",
+        "nick",
+        "energy",
+        "xmas",
+        "fat",
+        "santa",
+        "claus",
+        "saint",
+        "nicholas",
+        "guys"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: christmas, snowflake, xmas. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, big, nick, energy, xmas, fat, santa, claus, saint, nicholas, guys. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FHQMBFTK",
-      "title": "Sometimes I Just Be Fartin' Frog T-Shirt",
-      "link": "https://www.amazon.com/Sometimes-Just-Fartin-Frog-T-Shirt/dp/B0FHQMBFTK/ref=zg_bs_g_9056987011_d_sccl_28/132-3010833-4391113",
+      "asin": "B0FQPM1X67",
+      "title": "Freedom Shirt – Simple Freedom Text T Shirt for Men & Women Patriotic Men's Tshirts Graphic Tee",
+      "link": "https://www.amazon.com/Freedom-Shirt-Patriotic-Tshirts-Graphic/dp/B0FQPM1X67/ref=zg_bs_g_9056987011_d_sccl_28/137-8240623-5202118",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-11T06:16:20.642622Z",
+      "first_seen": "2025-12-12T06:15:26.539968Z",
       "keywords": [
-        "sometimes",
-        "just",
-        "fartin'",
-        "frog"
+        "freedom",
+        "simple",
+        "text",
+        "women",
+        "patriotic",
+        "tshirts"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sometimes, just, fartin', frog. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, women, patriotic, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
