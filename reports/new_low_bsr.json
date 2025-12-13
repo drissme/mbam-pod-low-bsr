@@ -1,56 +1,36 @@
 {
-  "generated_at": "2025-12-12T06:15:26.622811Z",
+  "generated_at": "2025-12-13T06:13:49.920402Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07JNF2JL9",
-      "title": "Crazy Dog Mens T Shirt I Do It for The Hos Santa Claus Funny Christmas Party Tee",
-      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Christmas-Sarcastic/dp/B07JNF2JL9/ref=zg_bs_g_9056987011_d_sccl_10/137-8240623-5202118",
-      "current_rank": 10,
+      "asin": "B00PKMIM4O",
+      "title": "Holiday Costume Tees | Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
+      "link": "https://www.amazon.com/Costume-Novelty-Christmas-Holiday-T-shirt-Adult/dp/B00PKMIM4O/ref=zg_bs_g_9056987011_d_sccl_11/140-9619363-6346743",
+      "current_rank": 11,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-12T06:15:26.539968Z",
+      "first_seen": "2025-12-13T06:13:49.848293Z",
       "keywords": [
-        "crazy",
-        "dog",
-        "mens",
-        "hos",
-        "santa",
-        "claus",
+        "holiday",
+        "costume",
+        "tees",
+        "fun",
         "christmas",
-        "party"
+        "shirts",
+        "unisex"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, mens, hos, santa, claus, christmas, party. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B08599N11W",
-      "title": "uideazone Mens Short Sleeve T-Shirt Casual 3D Creative Print Crewneck Graphic Tees",
-      "link": "https://www.amazon.com/uideazone-Couples-Printed-T-Shirt-Graphic/dp/B08599N11W/ref=zg_bs_g_9056987011_d_sccl_20/137-8240623-5202118",
-      "current_rank": 20,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-12T06:15:26.539968Z",
-      "keywords": [
-        "uideazone",
-        "mens",
-        "casual",
-        "creative",
-        "print",
-        "crewneck",
-        "tees"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, casual, creative, print, crewneck, tees. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0BPN2VFG9",
+      "asin": "B0BPN1WFVY",
       "title": "Mens Big Nick Energy T Shirt Funny Xmas Fat Santa Claus Saint Nicholas Tee for Guys",
-      "link": "https://www.amazon.com/Nicholas-Crazy-Dog-Premium-Graphic/dp/B0BPN2VFG9/ref=zg_bs_g_9056987011_d_sccl_27/137-8240623-5202118",
-      "current_rank": 27,
+      "link": "https://www.amazon.com/Nicholas-Crazy-Dog-Premium-Graphic/dp/B0BPN1WFVY/ref=zg_bs_g_9056987011_d_sccl_24/140-9619363-6346743",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-12T06:15:26.539968Z",
+      "first_seen": "2025-12-13T06:13:49.848293Z",
       "keywords": [
         "mens",
         "big",
@@ -67,22 +47,56 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: mens, big, nick, energy, xmas, fat, santa, claus, saint, nicholas, guys. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FQPM1X67",
-      "title": "Freedom Shirt – Simple Freedom Text T Shirt for Men & Women Patriotic Men's Tshirts Graphic Tee",
-      "link": "https://www.amazon.com/Freedom-Shirt-Patriotic-Tshirts-Graphic/dp/B0FQPM1X67/ref=zg_bs_g_9056987011_d_sccl_28/137-8240623-5202118",
+      "asin": "B0CMJP64ZQ",
+      "title": "Christmas Snowflake Novelty Xmas Graphic T-Shirt",
+      "link": "https://www.amazon.com/Naughty-Tried-Christmas-Funny-Novelty/dp/B0CMJP64ZQ/ref=zg_bs_g_9056987011_d_sccl_26/140-9619363-6346743",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-13T06:13:49.848293Z",
+      "keywords": [
+        "christmas",
+        "snowflake",
+        "xmas"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: christmas, snowflake, xmas. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FTHKZNQF",
+      "title": "Stranger Things Season 5 Retro Video Game Demogorgon T-Shirt",
+      "link": "https://www.amazon.com/Stranger-Things-Season-Demogorgon-T-Shirt/dp/B0FTHKZNQF/ref=zg_bs_g_9056987011_d_sccl_27/140-9619363-6346743",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-13T06:13:49.848293Z",
+      "keywords": [
+        "stranger",
+        "things",
+        "season",
+        "video",
+        "game",
+        "demogorgon"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, season, video, game, demogorgon. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CPR21WGM",
+      "title": "Catzilla Cat Japanese Art Funny Cat Gifts for Men Women Kid T-Shirt",
+      "link": "https://www.amazon.com/Catzilla-Cat-Art-Funny-Gifts/dp/B0CPR21WGM/ref=zg_bs_g_9056987011_d_sccl_28/140-9619363-6346743",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-12T06:15:26.539968Z",
+      "first_seen": "2025-12-13T06:13:49.848293Z",
       "keywords": [
-        "freedom",
-        "simple",
-        "text",
+        "catzilla",
+        "cat",
+        "japanese",
+        "art",
+        "gifts",
         "women",
-        "patriotic",
-        "tshirts"
+        "kid"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, women, patriotic, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: catzilla, cat, japanese, art, gifts, women, kid. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
