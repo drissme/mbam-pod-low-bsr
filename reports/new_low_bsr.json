@@ -1,28 +1,26 @@
 {
-  "generated_at": "2025-12-14T06:13:46.805389Z",
+  "generated_at": "2025-12-15T06:17:48.694570Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B01JHD9E1Q",
-      "title": "Well, That's Not A Good Sign Stick Figure Graphic Novelty Sarcastic Funny Tshirt",
-      "link": "https://www.amazon.com/Thats-Good-Novelty-Sarcastic-Graphic/dp/B01JHD9E1Q/ref=zg_bs_g_9056987011_d_sccl_28/136-6649508-1333938",
-      "current_rank": 28,
+      "asin": "B0FTY3TGXK",
+      "title": "Freedom Shirt – Simple Freedom Text T Shirt for Men & Women Patriotic Men's Tshirts Graphic Tee",
+      "link": "https://www.amazon.com/Freedom-Shirt-Charlie-Signature-Patriotic/dp/B0FTY3TGXK/ref=zg_bs_g_9056987011_d_sccl_25/137-6765492-4876726",
+      "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-14T06:13:46.733147Z",
+      "first_seen": "2025-12-15T06:17:48.621431Z",
       "keywords": [
-        "well",
-        "that's",
-        "not",
-        "good",
-        "sign",
-        "stick",
-        "figure",
-        "sarcastic"
+        "freedom",
+        "simple",
+        "text",
+        "women",
+        "patriotic",
+        "tshirts"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: well, that's, not, good, sign, stick, figure, sarcastic. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, women, patriotic, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
