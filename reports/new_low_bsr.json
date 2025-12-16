@@ -1,17 +1,40 @@
 {
-  "generated_at": "2025-12-15T06:17:48.694570Z",
+  "generated_at": "2025-12-16T06:16:35.538483Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0FTY3TGXK",
-      "title": "Freedom Shirt – Simple Freedom Text T Shirt for Men & Women Patriotic Men's Tshirts Graphic Tee",
-      "link": "https://www.amazon.com/Freedom-Shirt-Charlie-Signature-Patriotic/dp/B0FTY3TGXK/ref=zg_bs_g_9056987011_d_sccl_25/137-6765492-4876726",
-      "current_rank": 25,
+      "asin": "B07CNWT88T",
+      "title": "Crazy Dog Mens T Shirt I Can't Work Today My Arm is in A Cast Funny Fishing Fathers Day Tee",
+      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-T-Shirt-Fishing/dp/B07CNWT88T/ref=zg_bs_g_9056987011_d_sccl_27/144-4812511-0236521",
+      "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-15T06:17:48.621431Z",
+      "first_seen": "2025-12-16T06:16:35.460800Z",
+      "keywords": [
+        "crazy",
+        "dog",
+        "mens",
+        "can't",
+        "work",
+        "today",
+        "arm",
+        "cast",
+        "fishing",
+        "fathers",
+        "day"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, mens, can't, work, today, arm, cast, fishing, fathers, day. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FTY1SQYY",
+      "title": "Freedom Shirt – Simple Freedom Text T Shirt for Men & Women Patriotic Men's Tshirts Graphic Tee",
+      "link": "https://www.amazon.com/Freedom-Shirt-Charlie-Signature-Patriotic/dp/B0FTY1SQYY/ref=zg_bs_g_9056987011_d_sccl_29/144-4812511-0236521",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-16T06:16:35.460800Z",
       "keywords": [
         "freedom",
         "simple",
@@ -21,6 +44,25 @@
         "tshirts"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, women, patriotic, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B085ZQY3QV",
+      "title": "Funny Mens Shirts Sarcastic Tees with Funny Sayings and Cool Designs for Guys",
+      "link": "https://www.amazon.com/Sarcasm-Weather-Novelty-Sarcastic-Heather/dp/B085ZQY3QV/ref=zg_bs_g_9056987011_d_sccl_30/144-4812511-0236521",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-16T06:16:35.460800Z",
+      "keywords": [
+        "mens",
+        "shirts",
+        "sarcastic",
+        "tees",
+        "sayings",
+        "designs",
+        "guys"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, shirts, sarcastic, tees, sayings, designs, guys. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
