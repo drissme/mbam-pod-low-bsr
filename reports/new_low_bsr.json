@@ -1,41 +1,181 @@
 {
-  "generated_at": "2025-12-18T06:15:28.548150Z",
+  "generated_at": "2025-12-19T06:15:20.389297Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07PJXKL6G",
-      "title": "Christmas Snowflake Novelty Xmas Graphic T-Shirt",
-      "link": "https://www.amazon.com/Christmas-Snowflake-Graphic-Novelty-Sarcastic/dp/B07PJXKL6G/ref=zg_bs_g_9056987011_d_sccl_12/131-0030220-3129411",
-      "current_rank": 12,
+      "asin": "B08PL4YS9T",
+      "title": "Can't Hear You I'm Gaming Headset Graphic Video Games Gamer Mens Funny T Shirt",
+      "link": "https://www.amazon.com/Gaming-Graphic-Novelty-Sarcastic-Funny/dp/B08PL4YS9T/ref=zg_bs_g_9056987011_d_sccl_18/147-0108573-4278509",
+      "current_rank": 18,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-18T06:15:28.473932Z",
+      "first_seen": "2025-12-19T06:15:20.309923Z",
       "keywords": [
-        "christmas",
-        "snowflake",
-        "xmas"
+        "can't",
+        "hear",
+        "you",
+        "i'm",
+        "gaming",
+        "headset",
+        "video",
+        "games",
+        "gamer",
+        "mens"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: christmas, snowflake, xmas. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: can't, hear, you, i'm, gaming, headset, video, games, gamer, mens. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B085LNW6T3",
-      "title": "Mens My Dog Thinks Im Cool T Shirt Funny Sarcastic Humor Novelty Puppy Tee",
-      "link": "https://www.amazon.com/Funny-Shirts-Men-Graphic-Comfort/dp/B085LNW6T3/ref=zg_bs_g_9056987011_d_sccl_28/131-0030220-3129411",
+      "asin": "B0F84YSQZ1",
+      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
+      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_22/147-0108573-4278509",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-19T06:15:20.309923Z",
+      "keywords": [
+        "sarcastic",
+        "saying",
+        "shirts",
+        "husband",
+        "dad",
+        "grandpa",
+        "boyfriend",
+        "son",
+        "humor",
+        "joke"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0BL418SM2",
+      "title": "Mens Big Nick Energy T Shirt Funny Xmas Fat Santa Claus Saint Nicholas Tee for Guys",
+      "link": "https://www.amazon.com/Energy-Nicholas-Christmas-Holiday-Heather/dp/B0BL418SM2/ref=zg_bs_g_9056987011_d_sccl_23/147-0108573-4278509",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-19T06:15:20.309923Z",
+      "keywords": [
+        "mens",
+        "big",
+        "nick",
+        "energy",
+        "xmas",
+        "fat",
+        "santa",
+        "claus",
+        "saint",
+        "nicholas",
+        "guys"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, big, nick, energy, xmas, fat, santa, claus, saint, nicholas, guys. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0B9NYYRRY",
+      "title": "Naughty and Nice Christmas T Shirts Funny Xmas Party Joke Tees for Guys",
+      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Christmas-Comfortable/dp/B0B9NYYRRY/ref=zg_bs_g_9056987011_d_sccl_24/147-0108573-4278509",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-19T06:15:20.309923Z",
+      "keywords": [
+        "naughty",
+        "nice",
+        "christmas",
+        "shirts",
+        "xmas",
+        "party",
+        "joke",
+        "tees",
+        "guys"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: naughty, nice, christmas, shirts, xmas, party, joke, tees, guys. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B078VDF65Y",
+      "title": "Crazy Dog Mens Deez Nuts Funny Christmas T Shirt Nutcracker Humor Christmas Pun Shirt",
+      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Christmas-Nutcracker/dp/B078VDF65Y/ref=zg_bs_g_9056987011_d_sccl_26/147-0108573-4278509",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-19T06:15:20.309923Z",
+      "keywords": [
+        "crazy",
+        "dog",
+        "mens",
+        "deez",
+        "nuts",
+        "christmas",
+        "nutcracker",
+        "humor",
+        "pun"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, mens, deez, nuts, christmas, nutcracker, humor, pun. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CCS3QRSB",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-T-Shirt-Graphic-Festival/dp/B0CCS3QRSB/ref=zg_bs_g_9056987011_d_sccl_27/147-0108573-4278509",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-19T06:15:20.309923Z",
+      "keywords": [
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "crewneck",
+        "print",
+        "top",
+        "casual",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B00NMFDE3K",
+      "title": "Never Forget Mens Cassette Tape VHS Music Old School Mens Retro Funny T Shirt",
+      "link": "https://www.amazon.com/Never-Forget-Funny-Novelty-Charcoal/dp/B00NMFDE3K/ref=zg_bs_g_9056987011_d_sccl_28/147-0108573-4278509",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-18T06:15:28.473932Z",
+      "first_seen": "2025-12-19T06:15:20.309923Z",
       "keywords": [
+        "never",
+        "forget",
         "mens",
-        "dog",
-        "thinks",
-        "sarcastic",
-        "humor",
-        "puppy"
+        "cassette",
+        "tape",
+        "vhs",
+        "music",
+        "old",
+        "school"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, dog, thinks, sarcastic, humor, puppy. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: never, forget, mens, cassette, tape, vhs, music, old, school. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07N12KY6K",
+      "title": "You Can't Scare Me, I Have Kids | Funny Dad Daddy Daughters Children Cute Joke Men T-Shirt",
+      "link": "https://www.amazon.com/Scare-Daughters-Funny-Daddy-T-Shirt/dp/B07N12KY6K/ref=zg_bs_g_9056987011_d_sccl_30/147-0108573-4278509",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-19T06:15:20.309923Z",
+      "keywords": [
+        "you",
+        "can't",
+        "scare",
+        "have",
+        "dad",
+        "daddy",
+        "daughters",
+        "children",
+        "cute",
+        "joke"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: you, can't, scare, have, dad, daddy, daughters, children, cute, joke. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
