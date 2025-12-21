@@ -1,122 +1,77 @@
 {
-  "generated_at": "2025-12-20T06:14:05.315878Z",
+  "generated_at": "2025-12-21T06:14:07.951876Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B00PKMIMF8",
-      "title": "Holiday Costume Tees | Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
-      "link": "https://www.amazon.com/Costume-Novelty-Christmas-Holiday-T-shirt-Adult/dp/B00PKMIMF8/ref=zg_bs_g_9056987011_d_sccl_9/132-3140863-2527909",
-      "current_rank": 9,
+      "asin": "B07Q65BSKK",
+      "title": "STAR WARS Mos Eisley Cantina Tatooine Men's Adult Graphic Tee T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Cantina-Tatooine-Charcoal/dp/B07Q65BSKK/ref=zg_bs_g_9056987011_d_sccl_18/142-3705617-8906404",
+      "current_rank": 18,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-20T06:14:05.237508Z",
+      "first_seen": "2025-12-21T06:14:07.878287Z",
       "keywords": [
-        "holiday",
-        "costume",
-        "tees",
-        "fun",
-        "christmas",
-        "shirts",
-        "unisex"
+        "star",
+        "wars",
+        "mos",
+        "eisley",
+        "cantina",
+        "tatooine"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mos, eisley, cantina, tatooine. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B085Z7LQV9",
-      "title": "Funny Mens Shirts Sarcastic Tees with Funny Sayings and Cool Designs for Guys",
-      "link": "https://www.amazon.com/Sarcasm-Weather-Novelty-Sarcastic-Heather/dp/B085Z7LQV9/ref=zg_bs_g_9056987011_d_sccl_16/132-3140863-2527909",
-      "current_rank": 16,
+      "asin": "B01JHD9FIS",
+      "title": "Well, That's Not A Good Sign Stick Figure Graphic Novelty Sarcastic Funny Tshirt",
+      "link": "https://www.amazon.com/Thats-Good-Novelty-Sarcastic-Graphic/dp/B01JHD9FIS/ref=zg_bs_g_9056987011_d_sccl_19/142-3705617-8906404",
+      "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-20T06:14:05.237508Z",
+      "first_seen": "2025-12-21T06:14:07.878287Z",
       "keywords": [
-        "mens",
-        "shirts",
-        "sarcastic",
-        "tees",
-        "sayings",
-        "designs",
-        "guys"
+        "well",
+        "that's",
+        "not",
+        "good",
+        "sign",
+        "stick",
+        "figure",
+        "sarcastic"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, shirts, sarcastic, tees, sayings, designs, guys. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: well, that's, not, good, sign, stick, figure, sarcastic. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0CMBLB3KY",
-      "title": "Just Another Sexy Bald Guy | Funny Dad Husband Grandpa Joke Dude Men Humor T-Shirt",
-      "link": "https://www.amazon.com/Majestic-Shaved-Husband-Grandpa-T-Shirt/dp/B0CMBLB3KY/ref=zg_bs_g_9056987011_d_sccl_22/132-3140863-2527909",
-      "current_rank": 22,
+      "asin": "B07N11Y4VN",
+      "title": "You Can't Scare Me, I Have Kids | Funny Dad Daddy Daughters Children Cute Joke Men T-Shirt",
+      "link": "https://www.amazon.com/Scare-Daughters-Funny-Daddy-T-Shirt/dp/B07N11Y4VN/ref=zg_bs_g_9056987011_d_sccl_21/142-3705617-8906404",
+      "current_rank": 21,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-20T06:14:05.237508Z",
+      "first_seen": "2025-12-21T06:14:07.878287Z",
       "keywords": [
-        "just",
-        "another",
-        "sexy",
-        "bald",
-        "guy",
+        "you",
+        "can't",
+        "scare",
+        "have",
         "dad",
-        "husband",
-        "grandpa",
-        "joke",
-        "dude",
-        "humor"
+        "daddy",
+        "daughters",
+        "children",
+        "cute",
+        "joke"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: just, another, sexy, bald, guy, dad, husband, grandpa, joke, dude, humor. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: you, can't, scare, have, dad, daddy, daughters, children, cute, joke. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B084R5G3M6",
-      "title": "Mom's Favorite | Funny Son Brother Sibling Joke Mother's Day Holiday Family Humor T-Shirt for Men",
-      "link": "https://www.amazon.com/Ann-Arbor-T-shirt-Co-Favorite/dp/B084R5G3M6/ref=zg_bs_g_9056987011_d_sccl_23/132-3140863-2527909",
+      "asin": "B0B9NYNFYM",
+      "title": "Naughty and Nice Christmas T Shirts Funny Xmas Party Joke Tees for Guys",
+      "link": "https://www.amazon.com/Naughty-Santas-Christmas-Apparel-Novelty/dp/B0B9NYNFYM/ref=zg_bs_g_9056987011_d_sccl_23/142-3705617-8906404",
       "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-20T06:14:05.237508Z",
-      "keywords": [
-        "mom's",
-        "favorite",
-        "son",
-        "brother",
-        "sibling",
-        "joke",
-        "mother's",
-        "day",
-        "holiday",
-        "family",
-        "humor"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mom's, favorite, son, brother, sibling, joke, mother's, day, holiday, family, humor. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B08LP5HPCX",
-      "title": "Breaking News: I Don't Care | Funny Sarcasm Joke Sarcastic Humor Graphic T-Shirt for Men Women",
-      "link": "https://www.amazon.com/Ann-Arbor-T-shirt-Co-Breaking/dp/B08LP5HPCX/ref=zg_bs_g_9056987011_d_sccl_25/132-3140863-2527909",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-20T06:14:05.237508Z",
-      "keywords": [
-        "breaking",
-        "news",
-        "don't",
-        "care",
-        "sarcasm",
-        "joke",
-        "sarcastic",
-        "humor",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: breaking, news, don't, care, sarcasm, joke, sarcastic, humor, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07XZHGFB7",
-      "title": "Naughty and Nice Christmas T Shirts Funny Xmas Party Joke Tees for Guys",
-      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Bearded-Christmas/dp/B07XZHGFB7/ref=zg_bs_g_9056987011_d_sccl_26/132-3140863-2527909",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-20T06:14:05.237508Z",
+      "first_seen": "2025-12-21T06:14:07.878287Z",
       "keywords": [
         "naughty",
         "nice",
@@ -129,6 +84,44 @@
         "guys"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: naughty, nice, christmas, shirts, xmas, party, joke, tees, guys. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07PH1XDQP",
+      "title": "I Paused My Game to Be Here Graphic Tees Men Gaming Gamer Novelty Funny T Shirt",
+      "link": "https://www.amazon.com/Paused-Graphic-Novelty-Sarcastic-Funny/dp/B07PH1XDQP/ref=zg_bs_g_9056987011_d_sccl_27/142-3705617-8906404",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-21T06:14:07.878287Z",
+      "keywords": [
+        "paused",
+        "game",
+        "here",
+        "tees",
+        "gaming",
+        "gamer"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: paused, game, here, tees, gaming, gamer. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B074P9DTCD",
+      "title": "Sarcastic Comment Loading Please Wait Funny Sarcasm Humor for Men Women T-Shirt",
+      "link": "https://www.amazon.com/Sarcastic-Comment-Loading-Sarcasm-T-Shirt/dp/B074P9DTCD/ref=zg_bs_g_9056987011_d_sccl_30/142-3705617-8906404",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-21T06:14:07.878287Z",
+      "keywords": [
+        "sarcastic",
+        "comment",
+        "loading",
+        "please",
+        "wait",
+        "sarcasm",
+        "humor",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, comment, loading, please, wait, sarcasm, humor, women. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
