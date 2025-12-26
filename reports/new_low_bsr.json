@@ -1,67 +1,68 @@
 {
-  "generated_at": "2025-12-25T06:15:24.234987Z",
+  "generated_at": "2025-12-26T06:15:28.934260Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07JNNBYSW",
-      "title": "Crazy Dog Mens T Shirt I Do It for The Hos Santa Claus Funny Christmas Party Tee",
-      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Christmas-Sarcastic/dp/B07JNNBYSW/ref=zg_bs_g_9056987011_d_sccl_7/130-2952345-3102054",
-      "current_rank": 7,
+      "asin": "B07Q79F2YN",
+      "title": "STAR WARS Mos Eisley Cantina Tatooine Men's Adult Graphic Tee T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Cantina-Tatooine-Charcoal/dp/B07Q79F2YN/ref=zg_bs_g_9056987011_d_sccl_14/144-7445631-3225235",
+      "current_rank": 14,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-25T06:15:24.158668Z",
+      "first_seen": "2025-12-26T06:15:28.857626Z",
       "keywords": [
-        "crazy",
-        "dog",
-        "mens",
-        "hos",
-        "santa",
-        "claus",
-        "christmas",
-        "party"
+        "star",
+        "wars",
+        "mos",
+        "eisley",
+        "cantina",
+        "tatooine"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, mens, hos, santa, claus, christmas, party. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mos, eisley, cantina, tatooine. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07CMDTVL1",
-      "title": "Crazy Dog Mens T Shirt My Favorite People Call Me Grandpa Fathers Day Tee Idea for Dad",
-      "link": "https://www.amazon.com/Favorite-Crazy-Dog-T-Shirts-Birthday/dp/B07CMDTVL1/ref=zg_bs_g_9056987011_d_sccl_22/130-2952345-3102054",
-      "current_rank": 22,
+      "asin": "B0CWGP264F",
+      "title": "Mit & Mia Custom Bootleg Rap Tee Shirt for Boyfriend Girlfriend Custom Face Tshirt Vintage Graphic Shirt Gift Idea Birthday",
+      "link": "https://www.amazon.com/Mit-Mia-Girlfriend-Boyfriend-Christmas/dp/B0CWGP264F/ref=zg_bs_g_9056987011_d_sccl_21/144-7445631-3225235",
+      "current_rank": 21,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-25T06:15:24.158668Z",
+      "first_seen": "2025-12-26T06:15:28.857626Z",
       "keywords": [
-        "crazy",
-        "dog",
-        "mens",
-        "favorite",
-        "people",
-        "call",
-        "grandpa",
-        "fathers",
-        "day",
+        "mit",
+        "mia",
+        "custom",
+        "bootleg",
+        "rap",
+        "boyfriend",
+        "girlfriend",
+        "face",
+        "gift",
         "idea",
-        "dad"
+        "birthday"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, mens, favorite, people, call, grandpa, fathers, day, idea, dad. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mit, mia, custom, bootleg, rap, boyfriend, girlfriend, face, gift, idea, birthday. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B089DTGL59",
-      "title": "Grunt Style American Acid Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-Large/dp/B089DTGL59/ref=zg_bs_g_9056987011_d_sccl_30/130-2952345-3102054",
-      "current_rank": 30,
+      "asin": "B0B2W174W8",
+      "title": "Stranger Things 4 Hellfire Club Logo Raglan Baseball Tee",
+      "link": "https://www.amazon.com/Stranger-Things-Hellfire-Raglan-Baseball/dp/B0B2W174W8/ref=zg_bs_g_9056987011_d_sccl_25/144-7445631-3225235",
+      "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-25T06:15:24.158668Z",
+      "first_seen": "2025-12-26T06:15:28.857626Z",
       "keywords": [
-        "grunt",
-        "style",
-        "american",
-        "acid"
+        "stranger",
+        "things",
+        "hellfire",
+        "club",
+        "logo",
+        "raglan",
+        "baseball"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, acid. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, hellfire, club, logo, raglan, baseball. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
