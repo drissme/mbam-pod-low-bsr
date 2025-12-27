@@ -1,68 +1,44 @@
 {
-  "generated_at": "2025-12-26T06:15:28.934260Z",
+  "generated_at": "2025-12-27T06:14:04.819080Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07Q79F2YN",
-      "title": "STAR WARS Mos Eisley Cantina Tatooine Men's Adult Graphic Tee T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Cantina-Tatooine-Charcoal/dp/B07Q79F2YN/ref=zg_bs_g_9056987011_d_sccl_14/144-7445631-3225235",
-      "current_rank": 14,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-26T06:15:28.857626Z",
-      "keywords": [
-        "star",
-        "wars",
-        "mos",
-        "eisley",
-        "cantina",
-        "tatooine"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mos, eisley, cantina, tatooine. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CWGP264F",
-      "title": "Mit & Mia Custom Bootleg Rap Tee Shirt for Boyfriend Girlfriend Custom Face Tshirt Vintage Graphic Shirt Gift Idea Birthday",
-      "link": "https://www.amazon.com/Mit-Mia-Girlfriend-Boyfriend-Christmas/dp/B0CWGP264F/ref=zg_bs_g_9056987011_d_sccl_21/144-7445631-3225235",
-      "current_rank": 21,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-26T06:15:28.857626Z",
-      "keywords": [
-        "mit",
-        "mia",
-        "custom",
-        "bootleg",
-        "rap",
-        "boyfriend",
-        "girlfriend",
-        "face",
-        "gift",
-        "idea",
-        "birthday"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mit, mia, custom, bootleg, rap, boyfriend, girlfriend, face, gift, idea, birthday. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0B2W174W8",
-      "title": "Stranger Things 4 Hellfire Club Logo Raglan Baseball Tee",
-      "link": "https://www.amazon.com/Stranger-Things-Hellfire-Raglan-Baseball/dp/B0B2W174W8/ref=zg_bs_g_9056987011_d_sccl_25/144-7445631-3225235",
+      "asin": "B0FJ42PV2P",
+      "title": "Kpop Demon Hunters Rumi Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/Demon-Hunters-Officially-Licensed-T-Shirt/dp/B0FJ42PV2P/ref=zg_bs_g_9056987011_d_sccl_25/145-6812224-2451251",
       "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-26T06:15:28.857626Z",
+      "first_seen": "2025-12-27T06:14:04.742579Z",
+      "keywords": [
+        "kpop",
+        "demon",
+        "hunters",
+        "rumi",
+        "officially",
+        "licensed"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, rumi, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09YZ4VR26",
+      "title": "Stranger Things 4 Hellfire Club Skull & Weapons T-Shirt",
+      "link": "https://www.amazon.com/Stranger-Things-Hellfire-Weapons-T-Shirt/dp/B09YZ4VR26/ref=zg_bs_g_9056987011_d_sccl_29/145-6812224-2451251",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-27T06:14:04.742579Z",
       "keywords": [
         "stranger",
         "things",
         "hellfire",
         "club",
-        "logo",
-        "raglan",
-        "baseball"
+        "skull",
+        "weapons"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, hellfire, club, logo, raglan, baseball. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, hellfire, club, skull, weapons. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
