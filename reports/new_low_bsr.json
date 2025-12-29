@@ -1,162 +1,104 @@
 {
-  "generated_at": "2025-12-28T06:14:23.561481Z",
+  "generated_at": "2025-12-29T06:17:57.675487Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0FCTRXJQC",
-      "title": "Stranger Things Steve Boyfriend Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Stranger-Boyfriend-Officially-Licensed-T-Shirt/dp/B0FCTRXJQC/ref=zg_bs_g_9056987011_d_sccl_12/132-7564863-4051052",
+      "asin": "B0FTPSMQXR",
+      "title": "Happy New Year 2026 Disco Ball Pink Coquette Bow Family T-Shirt",
+      "link": "https://www.amazon.com/New-2026-Disco-Ball-Coquette/dp/B0FTPSMQXR/ref=zg_bs_g_9056987011_d_sccl_12/131-3313722-0187529",
       "current_rank": 12,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-28T06:14:23.485190Z",
+      "first_seen": "2025-12-29T06:17:57.598980Z",
+      "keywords": [
+        "happy",
+        "year",
+        "2026",
+        "disco",
+        "ball",
+        "pink",
+        "coquette",
+        "bow",
+        "family"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: happy, year, 2026, disco, ball, pink, coquette, bow, family. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FXJ2XQVX",
+      "title": "Stranger Things S5V1 WSQK The Squawk Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/Stranger-Things-Officially-Licensed-T-Shirt/dp/B0FXJ2XQVX/ref=zg_bs_g_9056987011_d_sccl_22/131-3313722-0187529",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-29T06:17:57.598980Z",
       "keywords": [
         "stranger",
         "things",
-        "steve",
-        "boyfriend",
+        "s5v1",
+        "wsqk",
+        "squawk",
         "officially",
         "licensed"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, steve, boyfriend, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, s5v1, wsqk, squawk, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0848R7JVB",
-      "title": "Netflix Stranger Things Steve The Babysitter Portrait T-Shirt",
-      "link": "https://www.amazon.com/Netflix-Stranger-Things-Babysitter-Portrait/dp/B0848R7JVB/ref=zg_bs_g_9056987011_d_sccl_20/132-7564863-4051052",
-      "current_rank": 20,
+      "asin": "B0CKP6B29D",
+      "title": "Happy New Year 2026 New Years Eve Party Countdown Fireworks T-Shirt",
+      "link": "https://www.amazon.com/Happy-New-Year-2025-Countdown/dp/B0CKP6B29D/ref=zg_bs_g_9056987011_d_sccl_24/131-3313722-0187529",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2025-12-28T06:14:23.485190Z",
+      "first_seen": "2025-12-29T06:17:57.598980Z",
+      "keywords": [
+        "happy",
+        "year",
+        "2026",
+        "years",
+        "eve",
+        "party",
+        "countdown",
+        "fireworks"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: happy, year, 2026, years, eve, party, countdown, fireworks. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0G1C5Z23J",
+      "title": "Happy New Year Party 2026 Funny Balloon Family Matching T-Shirt",
+      "link": "https://www.amazon.com/Happy-Year-Funny-Family-Matching/dp/B0G1C5Z23J/ref=zg_bs_g_9056987011_d_sccl_27/131-3313722-0187529",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-29T06:17:57.598980Z",
+      "keywords": [
+        "happy",
+        "year",
+        "party",
+        "2026",
+        "balloon",
+        "family",
+        "matching"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: happy, year, party, 2026, balloon, family, matching. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B083XCVT93",
+      "title": "Netflix Stranger Things Alphabet Lights T-Shirt",
+      "link": "https://www.amazon.com/Netflix-Stranger-Things-Alphabet-T-Shirt/dp/B083XCVT93/ref=zg_bs_g_9056987011_d_sccl_28/131-3313722-0187529",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2025-12-29T06:17:57.598980Z",
       "keywords": [
         "netflix",
         "stranger",
         "things",
-        "steve",
-        "babysitter",
-        "portrait"
+        "alphabet",
+        "lights"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: netflix, stranger, things, steve, babysitter, portrait. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FTHKZNQF",
-      "title": "Stranger Things Season 5 Retro Video Game Demogorgon T-Shirt",
-      "link": "https://www.amazon.com/Stranger-Things-Season-Demogorgon-T-Shirt/dp/B0FTHKZNQF/ref=zg_bs_g_9056987011_d_sccl_22/132-7564863-4051052",
-      "current_rank": 22,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-28T06:14:23.485190Z",
-      "keywords": [
-        "stranger",
-        "things",
-        "season",
-        "video",
-        "game",
-        "demogorgon"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, season, video, game, demogorgon. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0859LZJ5Q",
-      "title": "Tuxedo T-Shirt | Classic Party Humor Vintage Funny Tux Tee Joke Concert Festival Shirt for Men Women",
-      "link": "https://www.amazon.com/T-Shirt-Classic-Vintage-Concert-Festival/dp/B0859LZJ5Q/ref=zg_bs_g_9056987011_d_sccl_23/132-7564863-4051052",
-      "current_rank": 23,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-28T06:14:23.485190Z",
-      "keywords": [
-        "tuxedo",
-        "party",
-        "humor",
-        "tux",
-        "joke",
-        "concert",
-        "festival",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tuxedo, party, humor, tux, joke, concert, festival, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DD1KNBVM",
-      "title": "New Years Eve Party Supplies 2026 Happy New Year Fireworks T-Shirt",
-      "link": "https://www.amazon.com/New-Supplies-2025-Year-Fireworks/dp/B0DD1KNBVM/ref=zg_bs_g_9056987011_d_sccl_24/132-7564863-4051052",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-28T06:14:23.485190Z",
-      "keywords": [
-        "years",
-        "eve",
-        "party",
-        "supplies",
-        "2026",
-        "happy",
-        "year",
-        "fireworks"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: years, eve, party, supplies, 2026, happy, year, fireworks. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FTHJQP6P",
-      "title": "Stranger Things Season 5 WSQK The Squawk 94.5 FM Retro Logo T-Shirt",
-      "link": "https://www.amazon.com/Stranger-Things-Season-Squawk-T-Shirt/dp/B0FTHJQP6P/ref=zg_bs_g_9056987011_d_sccl_26/132-7564863-4051052",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-28T06:14:23.485190Z",
-      "keywords": [
-        "stranger",
-        "things",
-        "season",
-        "wsqk",
-        "squawk",
-        "logo"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, season, wsqk, squawk, logo. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0C4G1HLGP",
-      "title": "Tuxedo Shirts for Men Novelty Graphic Funny Formal Classic Black White Tux Print Casual Wedding Bachelor Prom T-Shirt",
-      "link": "https://www.amazon.com/Tuxedo-Graphic-Novelty-Sarcastic-College/dp/B0C4G1HLGP/ref=zg_bs_g_9056987011_d_sccl_27/132-7564863-4051052",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-28T06:14:23.485190Z",
-      "keywords": [
-        "tuxedo",
-        "shirts",
-        "formal",
-        "black",
-        "white",
-        "tux",
-        "print",
-        "casual",
-        "wedding",
-        "bachelor",
-        "prom"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tuxedo, shirts, formal, black, white, tux, print, casual, wedding, bachelor, prom. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0G19ST1P6",
-      "title": "Stranger Things Season 5 Kyle Lambert Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Stranger-Things-Lambert-Officially-Licensed/dp/B0G19ST1P6/ref=zg_bs_g_9056987011_d_sccl_29/132-7564863-4051052",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2025-12-28T06:14:23.485190Z",
-      "keywords": [
-        "stranger",
-        "things",
-        "season",
-        "kyle",
-        "lambert",
-        "officially",
-        "licensed"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, season, kyle, lambert, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: netflix, stranger, things, alphabet, lights. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
