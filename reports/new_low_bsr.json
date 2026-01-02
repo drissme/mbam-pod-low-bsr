@@ -1,48 +1,68 @@
 {
-  "generated_at": "2026-01-01T06:16:22.800116Z",
+  "generated_at": "2026-01-02T06:15:55.299072Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DR6JBLKV",
-      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
-      "link": "https://www.amazon.com/TeeUnion-Classic-Concert-Festival-Costume/dp/B0DR6JBLKV/ref=zg_bs_g_9056987011_d_sccl_20/139-9545255-9673042",
-      "current_rank": 20,
+      "asin": "B01MS918UT",
+      "title": "Add Your Own and Text Design Custom Personalized Adult T-Shirt Tee",
+      "link": "https://www.amazon.com/Design-Customizable-Personalized-Adult-T-Shirt/dp/B01MS918UT/ref=zg_bs_g_9056987011_d_sccl_25/147-7101769-2375550",
+      "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-01T06:16:22.724688Z",
+      "first_seen": "2026-01-02T06:15:55.227167Z",
       "keywords": [
-        "teeunion",
-        "tuxedo",
-        "party",
-        "concert",
-        "festival",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0BXQZ6HVV",
-      "title": "MAYATX Custom T-Shirt with Image & Text | Design Your Own Unisex Tshirt | Unisex Cotton Tee for Men & Women",
-      "link": "https://www.amazon.com/MAYATX-Custom-T-Shirts-Name-Other/dp/B0BXQZ6HVV/ref=zg_bs_g_9056987011_d_sccl_28/139-9545255-9673042",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-01-01T06:16:22.724688Z",
-      "keywords": [
-        "mayatx",
-        "custom",
-        "image",
-        "text",
-        "design",
+        "add",
         "your",
         "own",
-        "unisex",
-        "cotton",
-        "women"
+        "text",
+        "design",
+        "custom",
+        "personalized"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mayatx, custom, image, text, design, your, own, unisex, cotton, women. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: add, your, own, text, design, custom, personalized. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FH2BBMWJ",
+      "title": "F-Caw-F Funny Chicken Humor Quote Rooster Meme T-Shirt",
+      "link": "https://www.amazon.com/F-Caw-F-Funny-Chicken-Humor-Rooster/dp/B0FH2BBMWJ/ref=zg_bs_g_9056987011_d_sccl_26/147-7101769-2375550",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-02T06:15:55.227167Z",
+      "keywords": [
+        "caw",
+        "chicken",
+        "humor",
+        "quote",
+        "rooster",
+        "meme"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: caw, chicken, humor, quote, rooster, meme. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0D8K32DNN",
+      "title": "Custom Front & Back Print T-Shirt with Your Image for Men, Women and Kids by Modify by Amazon Merch on Demand",
+      "link": "https://www.amazon.com/T-Shirt-Modify-Amazon-Merch-Demand/dp/B0D8K32DNN",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-02T06:15:55.227167Z",
+      "keywords": [
+        "custom",
+        "front",
+        "back",
+        "print",
+        "your",
+        "image",
+        "women",
+        "modify",
+        "amazon",
+        "merch",
+        "demand"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: custom, front, back, print, your, image, women, modify, amazon, merch, demand. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
