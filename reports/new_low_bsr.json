@@ -1,68 +1,99 @@
 {
-  "generated_at": "2026-01-02T06:15:55.299072Z",
+  "generated_at": "2026-01-03T06:14:32.945596Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B01MS918UT",
-      "title": "Add Your Own and Text Design Custom Personalized Adult T-Shirt Tee",
-      "link": "https://www.amazon.com/Design-Customizable-Personalized-Adult-T-Shirt/dp/B01MS918UT/ref=zg_bs_g_9056987011_d_sccl_25/147-7101769-2375550",
+      "asin": "B0F9PTK4RJ",
+      "title": "Indiana in Vintage Athletic Sports Style 80s 90s T-Shirt",
+      "link": "https://www.amazon.com/Indiana-Vintage-Athletic-Sports-T-Shirt/dp/B0F9PTK4RJ/ref=zg_bs_g_9056987011_d_sccl_10/132-8752098-9912566",
+      "current_rank": 10,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-03T06:14:32.871031Z",
+      "keywords": [
+        "indiana",
+        "athletic",
+        "sports",
+        "style",
+        "80s",
+        "90s"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: indiana, athletic, sports, style, 80s, 90s. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GDLKG2KQ",
+      "title": "Stranger Things Hellfire Lives Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/Stranger-Things-Hellfire-Officially-Licensed/dp/B0GDLKG2KQ/ref=zg_bs_g_9056987011_d_sccl_12/132-8752098-9912566",
+      "current_rank": 12,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-03T06:14:32.871031Z",
+      "keywords": [
+        "stranger",
+        "things",
+        "hellfire",
+        "lives",
+        "officially",
+        "licensed"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, hellfire, lives, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0B2VJ56LY",
+      "title": "Stranger Things 4 Hellfire Club Logo T-Shirt",
+      "link": "https://www.amazon.com/Stranger-Things-Hellfire-Club-T-Shirt/dp/B0B2VJ56LY/ref=zg_bs_g_9056987011_d_sccl_25/132-8752098-9912566",
       "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-02T06:15:55.227167Z",
+      "first_seen": "2026-01-03T06:14:32.871031Z",
       "keywords": [
-        "add",
-        "your",
-        "own",
-        "text",
-        "design",
-        "custom",
-        "personalized"
+        "stranger",
+        "things",
+        "hellfire",
+        "club",
+        "logo"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: add, your, own, text, design, custom, personalized. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, hellfire, club, logo. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FH2BBMWJ",
-      "title": "F-Caw-F Funny Chicken Humor Quote Rooster Meme T-Shirt",
-      "link": "https://www.amazon.com/F-Caw-F-Funny-Chicken-Humor-Rooster/dp/B0FH2BBMWJ/ref=zg_bs_g_9056987011_d_sccl_26/147-7101769-2375550",
-      "current_rank": 26,
+      "asin": "B085LNVQPR",
+      "title": "Crazy Dog T-Shirts Hide and Seek Champion Funny Bigfoot Graphic Sarcastic Tee",
+      "link": "https://www.amazon.com/Champion-Crazy-Dog-T-Shirts-Comfortable/dp/B085LNVQPR/ref=zg_bs_g_9056987011_d_sccl_27/132-8752098-9912566",
+      "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-02T06:15:55.227167Z",
+      "first_seen": "2026-01-03T06:14:32.871031Z",
       "keywords": [
-        "caw",
-        "chicken",
-        "humor",
-        "quote",
-        "rooster",
-        "meme"
+        "crazy",
+        "dog",
+        "shirts",
+        "hide",
+        "seek",
+        "champion",
+        "bigfoot",
+        "sarcastic"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: caw, chicken, humor, quote, rooster, meme. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, shirts, hide, seek, champion, bigfoot, sarcastic. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0D8K32DNN",
-      "title": "Custom Front & Back Print T-Shirt with Your Image for Men, Women and Kids by Modify by Amazon Merch on Demand",
-      "link": "https://www.amazon.com/T-Shirt-Modify-Amazon-Merch-Demand/dp/B0D8K32DNN",
-      "current_rank": 29,
+      "asin": "B07Q9HQNXM",
+      "title": "STAR WARS Mos Eisley Cantina Tatooine Men's Adult Graphic Tee T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Cantina-Tatooine-Graphic/dp/B07Q9HQNXM/ref=zg_bs_g_9056987011_d_sccl_30/132-8752098-9912566",
+      "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-02T06:15:55.227167Z",
+      "first_seen": "2026-01-03T06:14:32.871031Z",
       "keywords": [
-        "custom",
-        "front",
-        "back",
-        "print",
-        "your",
-        "image",
-        "women",
-        "modify",
-        "amazon",
-        "merch",
-        "demand"
+        "star",
+        "wars",
+        "mos",
+        "eisley",
+        "cantina",
+        "tatooine"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: custom, front, back, print, your, image, women, modify, amazon, merch, demand. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mos, eisley, cantina, tatooine. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
