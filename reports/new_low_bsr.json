@@ -1,128 +1,114 @@
 {
-  "generated_at": "2026-01-07T06:16:07.193709Z",
+  "generated_at": "2026-01-08T06:16:13.635413Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BXQW4QK6",
-      "title": "MAYATX Custom T-Shirt with Image & Text | Design Your Own Unisex Tshirt | Unisex Cotton Tee for Men & Women",
-      "link": "https://www.amazon.com/MAYATX-Custom-T-Shirts-Name-Other/dp/B0BXQW4QK6/ref=zg_bs_g_9056987011_d_sccl_18/135-7811607-3465410",
-      "current_rank": 18,
+      "asin": "B0BJZ9GT1J",
+      "title": "True Classic Mens T-Shirts – Short Sleeve Crew Neck T Shirts for Man, Cotton Blend Plain Novelty Men's T-Shirts",
+      "link": "https://www.amazon.com/True-Classic-Staple-6-Pack-X-Large/dp/B0BJZ9GT1J/ref=zg_bs_g_9056987011_d_sccl_1/134-5738087-2925330",
+      "current_rank": 1,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-07T06:16:07.114587Z",
+      "first_seen": "2026-01-08T06:16:13.559789Z",
       "keywords": [
-        "mayatx",
-        "custom",
-        "image",
-        "text",
-        "design",
-        "your",
-        "own",
-        "unisex",
-        "cotton",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mayatx, custom, image, text, design, your, own, unisex, cotton, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CCWZ8GVF",
-      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
-      "link": "https://www.amazon.com/INTO-AM-Graphic-Trippy-Printed/dp/B0CCWZ8GVF/ref=zg_bs_g_9056987011_d_sccl_19/135-7811607-3465410",
-      "current_rank": 19,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-01-07T06:16:07.114587Z",
-      "keywords": [
-        "into",
+        "true",
+        "mens",
         "shirts",
-        "4xl",
-        "premium",
-        "quality",
-        "unique",
-        "art",
-        "tees"
+        "crew",
+        "neck",
+        "man",
+        "cotton",
+        "blend",
+        "plain"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: true, mens, shirts, crew, neck, man, cotton, blend, plain. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0BC6KR6N8",
-      "title": "Miami Florida FL Vintage Athletic Sports T-Shirt",
-      "link": "https://www.amazon.com/Miami-Florida-FL-Vintage-Athletic/dp/B0BC6KR6N8/ref=zg_bs_g_9056987011_d_sccl_21/135-7811607-3465410",
-      "current_rank": 21,
+      "asin": "B0CKHN9XM4",
+      "title": "NAZENTI Custom Bootleg Rap Tee, Custom T-Shirts with Picture, Retro Custom Bootleg, Valentine's Gifts for Him Her",
+      "link": "https://www.amazon.com/Bootleg-Vintage-T-Shirts-Customa-Birthday/dp/B0CKHN9XM4/ref=zg_bs_g_9056987011_d_sccl_23/134-5738087-2925330",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-07T06:16:07.114587Z",
+      "first_seen": "2026-01-08T06:16:13.559789Z",
       "keywords": [
-        "miami",
-        "florida",
-        "athletic",
-        "sports"
+        "nazenti",
+        "custom",
+        "bootleg",
+        "rap",
+        "shirts",
+        "picture",
+        "valentine's",
+        "gifts",
+        "him",
+        "her"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: miami, florida, athletic, sports. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nazenti, custom, bootleg, rap, shirts, picture, valentine's, gifts, him, her. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0G23QCCD7",
-      "title": "Blue Checkered I was 6 Now I'm 7 Birthday Boy Bday T-Shirt",
-      "link": "https://www.amazon.com/Blue-Checkered-Birthday-Bday-T-Shirt/dp/B0G23QCCD7/ref=zg_bs_g_9056987011_d_sccl_24/135-7811607-3465410",
+      "asin": "B0F851L627",
+      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
+      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F851L627/ref=zg_bs_g_9056987011_d_sccl_24/134-5738087-2925330",
       "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-07T06:16:07.114587Z",
+      "first_seen": "2026-01-08T06:16:13.559789Z",
       "keywords": [
-        "blue",
-        "checkered",
-        "was",
-        "now",
-        "i'm",
-        "birthday",
-        "boy",
-        "bday"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: blue, checkered, was, now, i'm, birthday, boy, bday. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0B9ZQRWBK",
-      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
-      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZQRWBK/ref=zg_bs_g_9056987011_d_sccl_25/135-7811607-3465410",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-01-07T06:16:07.114587Z",
-      "keywords": [
-        "awesome",
-        "like",
-        "daughter",
         "sarcastic",
         "saying",
-        "humor",
+        "shirts",
+        "husband",
         "dad",
-        "joke",
-        "father",
         "grandpa",
-        "daddy"
+        "boyfriend",
+        "son",
+        "humor",
+        "joke"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B01N4PMNFM",
-      "title": "Add Your Own and Text Design Custom Personalized Adult T-Shirt Tee",
-      "link": "https://www.amazon.com/Design-Customizable-Personalized-Adult-T-Shirt/dp/B01N4PMNFM/ref=zg_bs_g_9056987011_d_sccl_29/135-7811607-3465410",
+      "asin": "B0FTGQ4QF9",
+      "title": "Stranger Things Season 5 Retro Video Game Character Select T-Shirt",
+      "link": "https://www.amazon.com/Stranger-Things-Season-Character-T-Shirt/dp/B0FTGQ4QF9/ref=zg_bs_g_9056987011_d_sccl_28/134-5738087-2925330",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-08T06:16:13.559789Z",
+      "keywords": [
+        "stranger",
+        "things",
+        "season",
+        "video",
+        "game",
+        "character",
+        "select"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, season, video, game, character, select. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09NKLPNTS",
+      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
+      "link": "https://www.amazon.com/Goodstoworld-Muscle-Sleeve-Printed-Clothing/dp/B09NKLPNTS/ref=zg_bs_g_9056987011_d_sccl_29/134-5738087-2925330",
       "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-07T06:16:07.114587Z",
+      "first_seen": "2026-01-08T06:16:13.559789Z",
       "keywords": [
-        "add",
-        "your",
-        "own",
-        "text",
-        "design",
-        "custom",
-        "personalized"
+        "goodstoworld",
+        "unisex",
+        "fake",
+        "abs",
+        "shirts",
+        "shredded",
+        "chest",
+        "printed",
+        "costume",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: add, your, own, text, design, custom, personalized. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
