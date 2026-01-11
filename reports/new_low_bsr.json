@@ -1,30 +1,43 @@
 {
-  "generated_at": "2026-01-10T06:14:00.542676Z",
+  "generated_at": "2026-01-11T06:19:05.063153Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B09NJJSN7N",
-      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
-      "link": "https://www.amazon.com/Goodstoworld-Sleeve-Muscle-Printed-Clothing/dp/B09NJJSN7N/ref=zg_bs_g_9056987011_d_sccl_26/139-8491321-9233348",
-      "current_rank": 26,
+      "asin": "B0DC16JLLR",
+      "title": "Indiana Hoosiers Big 10 Football Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/Indiana-Hoosiers-Football-Officially-Licensed/dp/B0DC16JLLR/ref=zg_bs_g_9056987011_d_sccl_20/136-7502990-8771130",
+      "current_rank": 20,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-10T06:14:00.465372Z",
+      "first_seen": "2026-01-11T06:19:04.993617Z",
       "keywords": [
-        "goodstoworld",
-        "unisex",
-        "fake",
-        "abs",
-        "shirts",
-        "shredded",
-        "chest",
-        "printed",
-        "costume",
-        "tees"
+        "indiana",
+        "hoosiers",
+        "big",
+        "football",
+        "officially",
+        "licensed"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: indiana, hoosiers, big, football, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FW6NKW7Z",
+      "title": "Vintage American White Ibis with Sunglasses for Men Women T-Shirt",
+      "link": "https://www.amazon.com/Vintage-American-White-Sunglasses-T-Shirt/dp/B0FW6NKW7Z/ref=zg_bs_g_9056987011_d_sccl_23/136-7502990-8771130",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-11T06:19:04.993617Z",
+      "keywords": [
+        "american",
+        "white",
+        "ibis",
+        "sunglasses",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: american, white, ibis, sunglasses, women. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
