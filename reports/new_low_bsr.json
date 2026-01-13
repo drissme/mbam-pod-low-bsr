@@ -1,75 +1,58 @@
 {
-  "generated_at": "2026-01-12T06:18:57.571537Z",
+  "generated_at": "2026-01-13T06:16:06.759223Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CLHDJKPB",
-      "title": "Indiana Vintage City T-Shirt",
-      "link": "https://www.amazon.com/retrocity-Indiana-vintage-city-T-Shirt/dp/B0CLHDJKPB/ref=zg_bs_g_9056987011_d_sccl_14/143-2632864-3515149",
-      "current_rank": 14,
+      "asin": "B0G931SSK9",
+      "title": "Never Let It Rest T-Shirt",
+      "link": "https://www.amazon.com/Never-Let-It-Rest-T-Shirt/dp/B0G931SSK9/ref=zg_bs_g_9056987011_d_sccl_5/139-7028186-5701911",
+      "current_rank": 5,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-12T06:18:57.495100Z",
+      "first_seen": "2026-01-13T06:16:06.678957Z",
       "keywords": [
-        "indiana",
-        "city"
+        "never",
+        "let",
+        "rest"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: indiana, city. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: never, let, rest. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07Q8FK5NS",
-      "title": "STAR WARS Mos Eisley Cantina Tatooine Men's Adult Graphic Tee T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Cantina-Tatooine-Graphic/dp/B07Q8FK5NS/ref=zg_bs_g_9056987011_d_sccl_26/143-2632864-3515149",
-      "current_rank": 26,
+      "asin": "B0FS89N8Y3",
+      "title": "Retro Game Day Bear T-Shirt",
+      "link": "https://www.amazon.com/Retro-Game-Day-Bear-T-Shirt/dp/B0FS89N8Y3/ref=zg_bs_g_9056987011_d_sccl_22/139-7028186-5701911",
+      "current_rank": 22,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-12T06:18:57.495100Z",
+      "first_seen": "2026-01-13T06:16:06.678957Z",
       "keywords": [
-        "star",
-        "wars",
-        "mos",
-        "eisley",
-        "cantina",
-        "tatooine"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mos, eisley, cantina, tatooine. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FT5XJFBN",
-      "title": "Bear Down Women Kids Boys Girls Youth Teen Men T-Shirt",
-      "link": "https://www.amazon.com/Bear-Women-Kids-Men-T-Shirt/dp/B0FT5XJFBN/ref=zg_bs_g_9056987011_d_sccl_27/143-2632864-3515149",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-01-12T06:18:57.495100Z",
-      "keywords": [
-        "bear",
-        "down",
-        "women",
-        "boys",
-        "girls",
-        "teen"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: bear, down, women, boys, girls, teen. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B083WBFVBM",
-      "title": "Peanuts Snoopy Valentine's Day Letters T-Shirt",
-      "link": "https://www.amazon.com/Peanuts-Valentines-Letter-Snoopy-T-Shirt/dp/B083WBFVBM/ref=zg_bs_g_9056987011_d_sccl_30/143-2632864-3515149",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-01-12T06:18:57.495100Z",
-      "keywords": [
-        "peanuts",
-        "snoopy",
-        "valentine's",
+        "game",
         "day",
-        "letters"
+        "bear"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: peanuts, snoopy, valentine's, day, letters. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: game, day, bear. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CFW9T8Q7",
+      "title": "MTV Music Television Retro 80's Neon Pink Checkerboard Logo T-Shirt",
+      "link": "https://www.amazon.com/MTV-Music-Television-Checkerboard-T-Shirt/dp/B0CFW9T8Q7/ref=zg_bs_g_9056987011_d_sccl_29/139-7028186-5701911",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-13T06:16:06.678957Z",
+      "keywords": [
+        "mtv",
+        "music",
+        "television",
+        "80's",
+        "neon",
+        "pink",
+        "checkerboard",
+        "logo"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mtv, music, television, 80's, neon, pink, checkerboard, logo. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
