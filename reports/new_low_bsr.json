@@ -1,32 +1,53 @@
 {
-  "generated_at": "2026-01-14T06:16:35.809640Z",
+  "generated_at": "2026-01-15T06:16:02.023218Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0FPT84DKQ",
-      "title": "Miami - Throwback Design - Classic T-Shirt",
-      "link": "https://www.amazon.com/Miami-Throwback-Design-Classic-T-Shirt/dp/B0FPT84DKQ/ref=zg_bs_g_9056987011_d_sccl_23/140-7810306-4663866",
-      "current_rank": 23,
+      "asin": "B0G44WCHRF",
+      "title": "I Survived 100 Days of School Funny Pigeon 100th Day Teacher T-Shirt",
+      "link": "https://www.amazon.com/Survived-100-Days-School-Funny/dp/B0G44WCHRF/ref=zg_bs_g_9056987011_d_sccl_21/145-2811101-5692928",
+      "current_rank": 21,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-14T06:16:35.739763Z",
+      "first_seen": "2026-01-15T06:16:01.945493Z",
       "keywords": [
-        "miami",
-        "throwback",
-        "design"
+        "survived",
+        "100",
+        "days",
+        "school",
+        "pigeon",
+        "100th",
+        "day",
+        "teacher"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: miami, throwback, design. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: survived, 100, days, school, pigeon, 100th, day, teacher. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09GMFDVC8",
-      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
-      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMFDVC8/ref=zg_bs_g_9056987011_d_sccl_26/140-7810306-4663866",
-      "current_rank": 26,
+      "asin": "B0G6JTN5GD",
+      "title": "Retro Bear's Shirt for Men Women Boys Girls Kids T-Shirt",
+      "link": "https://www.amazon.com/Retro-Bears-Shirt-Women-T-Shirt/dp/B0G6JTN5GD/ref=zg_bs_g_9056987011_d_sccl_22/145-2811101-5692928",
+      "current_rank": 22,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-14T06:16:35.739763Z",
+      "first_seen": "2026-01-15T06:16:01.945493Z",
+      "keywords": [
+        "bear's",
+        "women",
+        "boys",
+        "girls"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: bear's, women, boys, girls. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09GMBCLVF",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMBCLVF/ref=zg_bs_g_9056987011_d_sccl_30/145-2811101-5692928",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-15T06:16:01.945493Z",
       "keywords": [
         "raisevern",
         "unisex",
