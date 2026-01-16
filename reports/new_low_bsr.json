@@ -1,53 +1,17 @@
 {
-  "generated_at": "2026-01-15T06:16:02.023218Z",
+  "generated_at": "2026-01-16T06:18:04.230991Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0G44WCHRF",
-      "title": "I Survived 100 Days of School Funny Pigeon 100th Day Teacher T-Shirt",
-      "link": "https://www.amazon.com/Survived-100-Days-School-Funny/dp/B0G44WCHRF/ref=zg_bs_g_9056987011_d_sccl_21/145-2811101-5692928",
+      "asin": "B09GMF83VG",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMF83VG/ref=zg_bs_g_9056987011_d_sccl_21/130-7858948-5319460",
       "current_rank": 21,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-15T06:16:01.945493Z",
-      "keywords": [
-        "survived",
-        "100",
-        "days",
-        "school",
-        "pigeon",
-        "100th",
-        "day",
-        "teacher"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: survived, 100, days, school, pigeon, 100th, day, teacher. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0G6JTN5GD",
-      "title": "Retro Bear's Shirt for Men Women Boys Girls Kids T-Shirt",
-      "link": "https://www.amazon.com/Retro-Bears-Shirt-Women-T-Shirt/dp/B0G6JTN5GD/ref=zg_bs_g_9056987011_d_sccl_22/145-2811101-5692928",
-      "current_rank": 22,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-01-15T06:16:01.945493Z",
-      "keywords": [
-        "bear's",
-        "women",
-        "boys",
-        "girls"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: bear's, women, boys, girls. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09GMBCLVF",
-      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
-      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMBCLVF/ref=zg_bs_g_9056987011_d_sccl_30/145-2811101-5692928",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-01-15T06:16:01.945493Z",
+      "first_seen": "2026-01-16T06:18:04.154453Z",
       "keywords": [
         "raisevern",
         "unisex",
@@ -60,6 +24,46 @@
         "tees"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0G1TYQ9FK",
+      "title": "100 Days Level Unlocked Gaming 100 Days of School Boys T-Shirt",
+      "link": "https://www.amazon.com/100-Days-Unlocked-School-T-Shirt/dp/B0G1TYQ9FK/ref=zg_bs_g_9056987011_d_sccl_27/130-7858948-5319460",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-16T06:18:04.154453Z",
+      "keywords": [
+        "100",
+        "days",
+        "level",
+        "unlocked",
+        "gaming",
+        "school",
+        "boys"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: 100, days, level, unlocked, gaming, school, boys. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0C958ZQ1L",
+      "title": "INTO THE AM Graphic Tees for Men S - 4XL Premium Short Sleeve Colorful T-Shirts Trippy Space Designs",
+      "link": "https://www.amazon.com/INTO-AM-Tranquil-Ascent-Tshirt/dp/B0C958ZQ1L/ref=zg_bs_g_9056987011_d_sccl_28/130-7858948-5319460",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-16T06:18:04.154453Z",
+      "keywords": [
+        "into",
+        "tees",
+        "4xl",
+        "premium",
+        "colorful",
+        "shirts",
+        "trippy",
+        "space",
+        "designs"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, tees, 4xl, premium, colorful, shirts, trippy, space, designs. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
