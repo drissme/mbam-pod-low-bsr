@@ -1,89 +1,154 @@
 {
-  "generated_at": "2026-01-17T06:16:00.751509Z",
+  "generated_at": "2026-01-18T06:14:45.355060Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BXQWZH64",
-      "title": "MAYATX Custom T-Shirt with Image & Text | Design Your Own Unisex Tshirt | Unisex Cotton Tee for Men & Women",
-      "link": "https://www.amazon.com/MAYATX-Custom-T-Shirts-Name-Other/dp/B0BXQWZH64/ref=zg_bs_g_9056987011_d_sccl_14/145-3652532-3865544",
+      "asin": "B0G4BD5ZNY",
+      "title": "Whisky Neat Because Fuck Ice Design for Men Women T-Shirt",
+      "link": "https://www.amazon.com/Whisky-Neat-Because-Design-T-Shirt/dp/B0G4BD5ZNY/ref=zg_bs_g_9056987011_d_sccl_12/134-3363260-0688504",
+      "current_rank": 12,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-18T06:14:45.277939Z",
+      "keywords": [
+        "whisky",
+        "neat",
+        "because",
+        "fuck",
+        "ice",
+        "design",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: whisky, neat, because, fuck, ice, design, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CRSWD127",
+      "title": "INTO THE AM Graphic Tees for Men S - 4XL Premium Short Sleeve Colorful T-Shirts Trippy Space Designs",
+      "link": "https://www.amazon.com/INTO-AM-Purple-Peaks-Mens/dp/B0CRSWD127/ref=zg_bs_g_9056987011_d_sccl_14/134-3363260-0688504",
       "current_rank": 14,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-17T06:16:00.671300Z",
+      "first_seen": "2026-01-18T06:14:45.277939Z",
       "keywords": [
-        "mayatx",
-        "custom",
-        "image",
-        "text",
-        "design",
-        "your",
-        "own",
-        "unisex",
-        "cotton",
-        "women"
+        "into",
+        "tees",
+        "4xl",
+        "premium",
+        "colorful",
+        "shirts",
+        "trippy",
+        "space",
+        "designs"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mayatx, custom, image, text, design, your, own, unisex, cotton, women. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, tees, 4xl, premium, colorful, shirts, trippy, space, designs. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09GMBP8H9",
-      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
-      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMBP8H9/ref=zg_bs_g_9056987011_d_sccl_18/145-3652532-3865544",
-      "current_rank": 18,
+      "asin": "B0CPTCS132",
+      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
+      "link": "https://www.amazon.com/INTO-AM-Ocean-Black-Large/dp/B0CPTCS132/ref=zg_bs_g_9056987011_d_sccl_19/134-3363260-0688504",
+      "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-17T06:16:00.671300Z",
+      "first_seen": "2026-01-18T06:14:45.277939Z",
       "keywords": [
-        "raisevern",
-        "unisex",
-        "summer",
+        "into",
         "shirts",
-        "crewneck",
-        "print",
-        "top",
-        "casual",
+        "4xl",
+        "premium",
+        "quality",
+        "unique",
+        "art",
         "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0G45KJDDF",
-      "title": "I Survived 100 Days of 67 100th Day of School Teachers Kids T-Shirt",
-      "link": "https://www.amazon.com/Survived-100-Days-School-Teachers/dp/B0G45KJDDF/ref=zg_bs_g_9056987011_d_sccl_26/145-3652532-3865544",
+      "asin": "B0GDR47WZ8",
+      "title": "Retro Miami Men Miami Women Vintage Classic Orange T-Shirt",
+      "link": "https://www.amazon.com/Retro-Miami-Men-Women-Vintage/dp/B0GDR47WZ8/ref=zg_bs_g_9056987011_d_sccl_22/134-3363260-0688504",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-18T06:14:45.277939Z",
+      "keywords": [
+        "miami",
+        "women",
+        "orange"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: miami, women, orange. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09PDXPX3Z",
+      "title": "101 Days School Dabbing Dalmatian Dog Teachers Kids T-Shirt",
+      "link": "https://www.amazon.com/Days-School-Dabbing-Dalmatian-Teachers/dp/B09PDXPX3Z/ref=zg_bs_g_9056987011_d_sccl_25/134-3363260-0688504",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-18T06:14:45.277939Z",
+      "keywords": [
+        "101",
+        "days",
+        "school",
+        "dabbing",
+        "dalmatian",
+        "dog",
+        "teachers"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: 101, days, school, dabbing, dalmatian, dog, teachers. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FQPL3RSH",
+      "title": "Freedom Shirt – Simple Freedom Text T Shirt for Men & Women Patriotic Men's Tshirts Graphic Tee",
+      "link": "https://www.amazon.com/Freedom-Shirt-Patriotic-Tshirts-Graphic/dp/B0FQPL3RSH/ref=zg_bs_g_9056987011_d_sccl_26/134-3363260-0688504",
       "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-17T06:16:00.671300Z",
+      "first_seen": "2026-01-18T06:14:45.277939Z",
       "keywords": [
-        "survived",
-        "100",
-        "days",
-        "100th",
-        "day",
-        "school",
-        "teachers"
+        "freedom",
+        "simple",
+        "text",
+        "women",
+        "patriotic",
+        "tshirts"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: survived, 100, days, 100th, day, school, teachers. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, women, patriotic, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B01MS918UT",
-      "title": "Add Your Own and Text Design Custom Personalized Adult T-Shirt Tee",
-      "link": "https://www.amazon.com/Design-Customizable-Personalized-Adult-T-Shirt/dp/B01MS918UT/ref=zg_bs_g_9056987011_d_sccl_30/145-3652532-3865544",
+      "asin": "B0GCZ9NTWB",
+      "title": "I Survived 67 33 Days of School 100 Days of School 67 Meme T-Shirt",
+      "link": "https://www.amazon.com/Survived-67-33-Days-School/dp/B0GCZ9NTWB/ref=zg_bs_g_9056987011_d_sccl_27/134-3363260-0688504",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-18T06:14:45.277939Z",
+      "keywords": [
+        "survived",
+        "days",
+        "school",
+        "100",
+        "meme"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: survived, days, school, 100, meme. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CX5PBCS7",
+      "title": "Fallout Video Game Retro Nuka Cola Ad T-Shirt",
+      "link": "https://www.amazon.com/Fallout-Video-Game-Retro-T-Shirt/dp/B0CX5PBCS7/ref=zg_bs_g_9056987011_d_sccl_30/134-3363260-0688504",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-17T06:16:00.671300Z",
+      "first_seen": "2026-01-18T06:14:45.277939Z",
       "keywords": [
-        "add",
-        "your",
-        "own",
-        "text",
-        "design",
-        "custom",
-        "personalized"
+        "fallout",
+        "video",
+        "game",
+        "nuka",
+        "cola"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: add, your, own, text, design, custom, personalized. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: fallout, video, game, nuka, cola. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
