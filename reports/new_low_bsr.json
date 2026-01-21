@@ -1,47 +1,85 @@
 {
-  "generated_at": "2026-01-20T06:18:31.359190Z",
+  "generated_at": "2026-01-21T06:20:56.907808Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CMBFSTTB",
-      "title": "Nations of The World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
-      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBFSTTB/ref=zg_bs_g_9056987011_d_sccl_20/132-2608613-2478568",
-      "current_rank": 20,
+      "asin": "B0GFGN6WZR",
+      "title": "Indiana Hoosiers CFP National Championship 2026 Icon Black T-Shirt",
+      "link": "https://www.amazon.com/Indiana-Hoosiers-National-Championship-T-Shirt/dp/B0GFGN6WZR/ref=zg_bs_g_9056987011_d_sccl_4/136-2790686-3878510",
+      "current_rank": 4,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-20T06:18:31.280427Z",
+      "first_seen": "2026-01-21T06:20:56.824263Z",
       "keywords": [
-        "nations",
-        "world",
+        "indiana",
+        "hoosiers",
+        "cfp",
         "national",
-        "pride",
-        "flag",
-        "symbol",
-        "arms",
-        "unisex",
-        "women"
+        "championship",
+        "2026",
+        "icon",
+        "black"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: indiana, hoosiers, cfp, national, championship, 2026, icon, black. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0097M9AK8",
-      "title": "Jockey T-Shirts for Men - V Neck Undershirts, Cotton Men's T-Shirts - 3 Pack",
-      "link": "https://www.amazon.com/Jockey-Mens-T-Shirts-Classic-V-Neck/dp/B0097M9AK8/ref=zg_bs_g_9056987011_d_sccl_24/132-2608613-2478568",
-      "current_rank": 24,
+      "asin": "B0FZNWWKF3",
+      "title": "I Heart Love Drake Maye Football Fan T Shirt",
+      "link": "https://www.amazon.com/Heart-Drake-Football-Shirt-Black/dp/B0FZNWWKF3/ref=zg_bs_g_9056987011_d_sccl_25/136-2790686-3878510",
+      "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-20T06:18:31.280427Z",
+      "first_seen": "2026-01-21T06:20:56.824263Z",
       "keywords": [
-        "jockey",
-        "shirts",
-        "neck",
-        "undershirts",
-        "cotton",
-        "pack"
+        "heart",
+        "love",
+        "drake",
+        "maye",
+        "football",
+        "fan"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: jockey, shirts, neck, undershirts, cotton, pack. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: heart, love, drake, maye, football, fan. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FTHJQP6P",
+      "title": "Stranger Things Season 5 WSQK The Squawk 94.5 FM Retro Logo T-Shirt",
+      "link": "https://www.amazon.com/Stranger-Things-Season-Squawk-T-Shirt/dp/B0FTHJQP6P/ref=zg_bs_g_9056987011_d_sccl_27/136-2790686-3878510",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-21T06:20:56.824263Z",
+      "keywords": [
+        "stranger",
+        "things",
+        "season",
+        "wsqk",
+        "squawk",
+        "logo"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, season, wsqk, squawk, logo. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0G7JRHDGG",
+      "title": "One Hundred 100 Days Later Funny 100th Day of School Meme T-Shirt",
+      "link": "https://www.amazon.com/Hundred-Days-Later-100th-School/dp/B0G7JRHDGG/ref=zg_bs_g_9056987011_d_sccl_28/136-2790686-3878510",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-21T06:20:56.824263Z",
+      "keywords": [
+        "one",
+        "hundred",
+        "100",
+        "days",
+        "later",
+        "100th",
+        "day",
+        "school",
+        "meme"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: one, hundred, 100, days, later, 100th, day, school, meme. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
