@@ -1,106 +1,29 @@
 {
-  "generated_at": "2026-01-22T06:17:49.349984Z",
+  "generated_at": "2026-01-23T06:16:49.226934Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BJZ9GT1J",
-      "title": "True Classic Mens T-Shirts – Short Sleeve Crew Neck T Shirts for Man, Cotton Blend Plain Novelty Men's T-Shirts",
-      "link": "https://www.amazon.com/True-Classic-Staple-6-Pack-X-Large/dp/B0BJZ9GT1J/ref=zg_bs_g_9056987011_d_sccl_1/139-5140526-3396443",
-      "current_rank": 1,
+      "asin": "B0DM8WDBFG",
+      "title": "100 Days Smarter 101st Day School Dalmatian Dog Teacher Kids T-Shirt",
+      "link": "https://www.amazon.com/100-Smarter-Day-School-Dalmatian/dp/B0DM8WDBFG/ref=zg_bs_g_9056987011_d_sccl_23/139-4458885-1100043",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-22T06:17:49.271184Z",
-      "keywords": [
-        "true",
-        "mens",
-        "shirts",
-        "crew",
-        "neck",
-        "man",
-        "cotton",
-        "blend",
-        "plain"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: true, mens, shirts, crew, neck, man, cotton, blend, plain. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DQW1NS81",
-      "title": "100 Days of School Dinosaur 100 Days Smarter 100th Day Kids T-Shirt",
-      "link": "https://www.amazon.com/Dinosaur-Happy-100th-School-Gifts/dp/B0DQW1NS81/ref=zg_bs_g_9056987011_d_sccl_15/139-5140526-3396443",
-      "current_rank": 15,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-01-22T06:17:49.271184Z",
+      "first_seen": "2026-01-23T06:16:49.147719Z",
       "keywords": [
         "100",
         "days",
-        "school",
-        "dinosaur",
         "smarter",
-        "100th",
-        "day"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 100, days, school, dinosaur, smarter, 100th, day. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B08R5KD3W1",
-      "title": "Marvel Spider-Man Spidey Hearts Valentine's Day T-Shirt",
-      "link": "https://www.amazon.com/Marvel-Spider-Man-Spidey-Valentines-T-Shirt/dp/B08R5KD3W1/ref=zg_bs_g_9056987011_d_sccl_27/139-5140526-3396443",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-01-22T06:17:49.271184Z",
-      "keywords": [
-        "marvel",
-        "spider",
-        "man",
-        "spidey",
-        "hearts",
-        "valentine's",
-        "day"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, spider, man, spidey, hearts, valentine's, day. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GFC5MNLN",
-      "title": "Bruh It's My 67 33 Days of School Boys 100th Day of School T-Shirt",
-      "link": "https://www.amazon.com/Days-School-Boys-100th-T-Shirt/dp/B0GFC5MNLN/ref=zg_bs_g_9056987011_d_sccl_28/139-5140526-3396443",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-01-22T06:17:49.271184Z",
-      "keywords": [
-        "bruh",
-        "it's",
-        "days",
-        "school",
-        "boys",
-        "100th",
-        "day"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: bruh, it's, days, school, boys, 100th, day. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0BNPL7V7V",
-      "title": "100 Days of Kindergarten Happy 100th Day of School Teachers T-Shirt",
-      "link": "https://www.amazon.com/Kindergarten-Happy-School-Teachers-T-Shirt/dp/B0BNPL7V7V/ref=zg_bs_g_9056987011_d_sccl_30/139-5140526-3396443",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-01-22T06:17:49.271184Z",
-      "keywords": [
-        "100",
-        "days",
-        "kindergarten",
-        "happy",
-        "100th",
+        "101st",
         "day",
         "school",
-        "teachers"
+        "dalmatian",
+        "dog",
+        "teacher"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 100, days, kindergarten, happy, 100th, day, school, teachers. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: 100, days, smarter, 101st, day, school, dalmatian, dog, teacher. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
