@@ -1,29 +1,48 @@
 {
-  "generated_at": "2026-01-23T06:16:49.226934Z",
+  "generated_at": "2026-01-24T06:14:10.262196Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DM8WDBFG",
-      "title": "100 Days Smarter 101st Day School Dalmatian Dog Teacher Kids T-Shirt",
-      "link": "https://www.amazon.com/100-Smarter-Day-School-Dalmatian/dp/B0DM8WDBFG/ref=zg_bs_g_9056987011_d_sccl_23/139-4458885-1100043",
-      "current_rank": 23,
+      "asin": "B0DVVN8G76",
+      "title": "One Hundred Days Later 100th day of school teacher student T-Shirt",
+      "link": "https://www.amazon.com/Hundred-Days-teacher-student-T-Shirt/dp/B0DVVN8G76/ref=zg_bs_g_9056987011_d_sccl_19/141-0114716-0472534",
+      "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-23T06:16:49.147719Z",
+      "first_seen": "2026-01-24T06:14:10.183415Z",
       "keywords": [
-        "100",
+        "one",
+        "hundred",
         "days",
-        "smarter",
-        "101st",
+        "later",
+        "100th",
         "day",
         "school",
-        "dalmatian",
-        "dog",
-        "teacher"
+        "teacher",
+        "student"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 100, days, smarter, 101st, day, school, dalmatian, dog, teacher. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: one, hundred, days, later, 100th, day, school, teacher, student. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FTGQ4QF9",
+      "title": "Stranger Things Season 5 Retro Video Game Character Select T-Shirt",
+      "link": "https://www.amazon.com/Stranger-Things-Season-Character-T-Shirt/dp/B0FTGQ4QF9/ref=zg_bs_g_9056987011_d_sccl_28/141-0114716-0472534",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-24T06:14:10.183415Z",
+      "keywords": [
+        "stranger",
+        "things",
+        "season",
+        "video",
+        "game",
+        "character",
+        "select"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, season, video, game, character, select. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
