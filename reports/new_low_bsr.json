@@ -1,7 +1,110 @@
 {
-  "generated_at": "2026-01-25T06:15:14.307893Z",
+  "generated_at": "2026-01-26T06:19:55.838980Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B009ZEYC7O",
+      "title": "Crazy Dog Mens Ask Me About My Ninja Disguise T Shirt Funny Flip Costume Humor Tee",
+      "link": "https://www.amazon.com/Disguise-Crazy-Dog-T-Shirts-Comfortable/dp/B009ZEYC7O/ref=zg_bs_g_9056987011_d_sccl_16/147-6192541-5286555",
+      "current_rank": 16,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-26T06:19:55.759822Z",
+      "keywords": [
+        "crazy",
+        "dog",
+        "mens",
+        "ask",
+        "about",
+        "ninja",
+        "disguise",
+        "flip",
+        "costume",
+        "humor"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, mens, ask, about, ninja, disguise, flip, costume, humor. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CMBT646W",
+      "title": "Nations of The World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
+      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBT646W/ref=zg_bs_g_9056987011_d_sccl_22/147-6192541-5286555",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-26T06:19:55.759822Z",
+      "keywords": [
+        "nations",
+        "world",
+        "national",
+        "pride",
+        "flag",
+        "symbol",
+        "arms",
+        "unisex",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CRP7Q6JN",
+      "title": "Custom Photo Bootleg Rap Shirt with Girlfriend's Face for Boyfriend - Vintage Graphic Shirt for Men",
+      "link": "https://www.amazon.com/Bootleg-Girlfriend-Boyfriend-Vintage-Graphic/dp/B0CRP7Q6JN/ref=zg_bs_g_9056987011_d_sccl_25/147-6192541-5286555",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-26T06:19:55.759822Z",
+      "keywords": [
+        "custom",
+        "photo",
+        "bootleg",
+        "rap",
+        "girlfriend's",
+        "face",
+        "boyfriend"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: custom, photo, bootleg, rap, girlfriend's, face, boyfriend. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DPX5NX96",
+      "title": "100 Days of School Dalmatian Dog Boys Kids 100 Day Smarter T-Shirt",
+      "link": "https://www.amazon.com/Days-School-Dalmatian-Boys-Kids/dp/B0DPX5NX96/ref=zg_bs_g_9056987011_d_sccl_27/147-6192541-5286555",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-26T06:19:55.759822Z",
+      "keywords": [
+        "100",
+        "days",
+        "school",
+        "dalmatian",
+        "dog",
+        "boys",
+        "day",
+        "smarter"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: 100, days, school, dalmatian, dog, boys, day, smarter. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DRSWBQMB",
+      "title": "100 Days of School Girls Coquette Bow 100th Day of School T-Shirt",
+      "link": "https://www.amazon.com/100-Days-School-Girls-100th/dp/B0DRSWBQMB/ref=zg_bs_g_9056987011_d_sccl_28/147-6192541-5286555",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-26T06:19:55.759822Z",
+      "keywords": [
+        "100",
+        "days",
+        "school",
+        "girls",
+        "coquette",
+        "bow",
+        "100th",
+        "day"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: 100, days, school, girls, coquette, bow, 100th, day. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
