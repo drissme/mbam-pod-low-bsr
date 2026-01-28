@@ -1,28 +1,82 @@
 {
-  "generated_at": "2026-01-27T06:17:23.193673Z",
+  "generated_at": "2026-01-28T06:18:19.951747Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BT725J2G",
-      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
-      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Graphic/dp/B0BT725J2G/ref=zg_bs_g_9056987011_d_sccl_23/145-7374732-1506847",
-      "current_rank": 23,
+      "asin": "B0FZNVYFZM",
+      "title": "I Heart Love Drake Maye Football Fan T Shirt",
+      "link": "https://www.amazon.com/Heart-Drake-Football-Shirt-Black/dp/B0FZNVYFZM/ref=zg_bs_g_9056987011_d_sccl_3/132-4422361-9209737",
+      "current_rank": 3,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-27T06:17:23.116181Z",
+      "first_seen": "2026-01-28T06:18:19.872168Z",
       "keywords": [
-        "into",
-        "shirts",
-        "4xl",
-        "premium",
-        "quality",
-        "unique",
-        "art",
-        "tees"
+        "heart",
+        "love",
+        "drake",
+        "maye",
+        "football",
+        "fan"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: heart, love, drake, maye, football, fan. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0G225GZXG",
+      "title": "I Heart Love Drake Maye Navy T Shirt",
+      "link": "https://www.amazon.com/Heart-Love-Drake-Maye-Shirt/dp/B0G225GZXG/ref=zg_bs_g_9056987011_d_sccl_19/132-4422361-9209737",
+      "current_rank": 19,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-28T06:18:19.872168Z",
+      "keywords": [
+        "heart",
+        "love",
+        "drake",
+        "maye",
+        "navy"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: heart, love, drake, maye, navy. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GG5NNZR6",
+      "title": "ORELET Benito Bowl T Shirt Football Inspired Illustration Casual Short Sleeve Streetwear Tee",
+      "link": "https://www.amazon.com/ORELET-Football-Inspired-Illustration-Streetwear/dp/B0GG5NNZR6/ref=zg_bs_g_9056987011_d_sccl_21/132-4422361-9209737",
+      "current_rank": 21,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-28T06:18:19.872168Z",
+      "keywords": [
+        "orelet",
+        "benito",
+        "bowl",
+        "football",
+        "inspired",
+        "illustration",
+        "casual",
+        "streetwear"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: orelet, benito, bowl, football, inspired, illustration, casual, streetwear. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B01MS918UT",
+      "title": "Add Your Own and Text Design Custom Personalized Adult T-Shirt Tee",
+      "link": "https://www.amazon.com/Design-Customizable-Personalized-Adult-T-Shirt/dp/B01MS918UT/ref=zg_bs_g_9056987011_d_sccl_30/132-4422361-9209737",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-28T06:18:19.872168Z",
+      "keywords": [
+        "add",
+        "your",
+        "own",
+        "text",
+        "design",
+        "custom",
+        "personalized"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: add, your, own, text, design, custom, personalized. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
