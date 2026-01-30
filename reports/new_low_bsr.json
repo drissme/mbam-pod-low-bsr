@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-01-29T06:30:46.571534Z",
+  "generated_at": "2026-01-30T06:31:48.581276Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DB8NRV5Z",
-      "title": "Fan Shirt Men's T-Shirt American Cities Football Shirts Show Your Team Spirit with Short Sleeve",
-      "link": "https://www.amazon.com/Promotion-Beyond-Seattle-Football-T-Shirt/dp/B0DB8NRV5Z/ref=zg_bs_g_9056987011_d_sccl_17/134-1884038-1636013",
-      "current_rank": 17,
+      "asin": "B0F84YSQZ1",
+      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
+      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_23/133-2793051-2403968",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-29T06:30:46.491857Z",
+      "first_seen": "2026-01-30T06:31:48.501673Z",
       "keywords": [
-        "fan",
-        "american",
-        "cities",
-        "football",
+        "sarcastic",
+        "saying",
         "shirts",
-        "show",
-        "your",
-        "team",
-        "spirit"
+        "husband",
+        "dad",
+        "grandpa",
+        "boyfriend",
+        "son",
+        "humor",
+        "joke"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: fan, american, cities, football, shirts, show, your, team, spirit. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
