@@ -1,30 +1,82 @@
 {
-  "generated_at": "2026-01-30T06:31:48.581276Z",
+  "generated_at": "2026-01-31T06:22:10.534432Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0F84YSQZ1",
-      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
-      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_23/133-2793051-2403968",
-      "current_rank": 23,
+      "asin": "B0FZNWWKF3",
+      "title": "I Heart Love Drake Maye Football Fan T Shirt",
+      "link": "https://www.amazon.com/Heart-Drake-Football-Shirt-Black/dp/B0FZNWWKF3/ref=zg_bs_g_9056987011_d_sccl_5/142-6003373-6544237",
+      "current_rank": 5,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-01-30T06:31:48.501673Z",
+      "first_seen": "2026-01-31T06:22:10.454228Z",
       "keywords": [
-        "sarcastic",
-        "saying",
-        "shirts",
-        "husband",
-        "dad",
-        "grandpa",
-        "boyfriend",
-        "son",
-        "humor",
-        "joke"
+        "heart",
+        "love",
+        "drake",
+        "maye",
+        "football",
+        "fan"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: heart, love, drake, maye, football, fan. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GJSPD5HZ",
+      "title": "Vintage Cool Face Sea Hawk with Sunglasses Women Men Tees T-Shirt",
+      "link": "https://www.amazon.com/Vintage-Cool-Face-Sea-Sunglasses/dp/B0GJSPD5HZ/ref=zg_bs_g_9056987011_d_sccl_15/142-6003373-6544237",
+      "current_rank": 15,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-31T06:22:10.454228Z",
+      "keywords": [
+        "face",
+        "sea",
+        "hawk",
+        "sunglasses",
+        "women",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: face, sea, hawk, sunglasses, women, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09YCGW45Z",
+      "title": "Minecraft Valentine's Day Creeper Be Mine Heart T-Shirt Small",
+      "link": "https://www.amazon.com/Minecraft-Valentines-Creeper-Heart-T-Shirt/dp/B09YCGW45Z/ref=zg_bs_g_9056987011_d_sccl_17/142-6003373-6544237",
+      "current_rank": 17,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-31T06:22:10.454228Z",
+      "keywords": [
+        "minecraft",
+        "valentine's",
+        "day",
+        "creeper",
+        "mine",
+        "heart",
+        "small"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: minecraft, valentine's, day, creeper, mine, heart, small. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B01N4PMNFM",
+      "title": "Add Your Own and Text Design Custom Personalized Adult T-Shirt Tee",
+      "link": "https://www.amazon.com/Design-Customizable-Personalized-Adult-T-Shirt/dp/B01N4PMNFM/ref=zg_bs_g_9056987011_d_sccl_30/142-6003373-6544237",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-01-31T06:22:10.454228Z",
+      "keywords": [
+        "add",
+        "your",
+        "own",
+        "text",
+        "design",
+        "custom",
+        "personalized"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: add, your, own, text, design, custom, personalized. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
