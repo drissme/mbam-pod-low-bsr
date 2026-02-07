@@ -1,48 +1,64 @@
 {
-  "generated_at": "2026-02-06T06:36:55.913251Z",
+  "generated_at": "2026-02-07T06:26:24.072531Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BRM3NXZB",
-      "title": "Minecraft Valentine's Day Friends That Mine Together Mobs T-Shirt Small",
-      "link": "https://www.amazon.com/Minecraft-Valentines-Friends-Together-T-Shirt/dp/B0BRM3NXZB/ref=zg_bs_g_9056987011_d_sccl_29/131-9294336-9397013",
+      "asin": "B0CRX25TS2",
+      "title": "Amazon Essentials Star Wars Valentine's Day Love from R2-D2 T-Shirt",
+      "link": "https://www.amazon.com/Amazon-Essentials-Classic-Black-Small/dp/B0CRX25TS2/ref=zg_bs_g_9056987011_d_sccl_25/142-5678948-0504918",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-07T06:26:23.989970Z",
+      "keywords": [
+        "amazon",
+        "essentials",
+        "star",
+        "wars",
+        "valentine's",
+        "day",
+        "love",
+        "from"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: amazon, essentials, star, wars, valentine's, day, love, from. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GFBQCW1Z",
+      "title": "Valentines Day Boys Kids Girls Hearts Dabbing six Seven 67 T-Shirt",
+      "link": "https://www.amazon.com/Valentines-Girls-Hearts-Dabbing-T-Shirt/dp/B0GFBQCW1Z/ref=zg_bs_g_9056987011_d_sccl_29/142-5678948-0504918",
       "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-06T06:36:55.830416Z",
-      "keywords": [
-        "minecraft",
-        "valentine's",
-        "day",
-        "friends",
-        "that",
-        "mine",
-        "together",
-        "mobs",
-        "small"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: minecraft, valentine's, day, friends, that, mine, together, mobs, small. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GC6FC1Z8",
-      "title": "Valentines Day Japanese Monster Hearts Kaiju Men Women Kids T-Shirt",
-      "link": "https://www.amazon.com/Valentines-Japanese-Men-Women-Kids/dp/B0GC6FC1Z8/ref=zg_bs_g_9056987011_d_sccl_30/131-9294336-9397013",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-06T06:36:55.830416Z",
+      "first_seen": "2026-02-07T06:26:23.989970Z",
       "keywords": [
         "valentines",
         "day",
-        "japanese",
-        "monster",
+        "boys",
+        "girls",
         "hearts",
-        "kaiju",
-        "women"
+        "dabbing",
+        "six",
+        "seven"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: valentines, day, japanese, monster, hearts, kaiju, women. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: valentines, day, boys, girls, hearts, dabbing, six, seven. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DFMT977T",
+      "title": "Red Heart I Love Benito T-Shirt",
+      "link": "https://www.amazon.com/Red-Heart-Love-Benito-T-Shirt/dp/B0DFMT977T/ref=zg_bs_g_9056987011_d_sccl_30/142-5678948-0504918",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-07T06:26:23.989970Z",
+      "keywords": [
+        "red",
+        "heart",
+        "love",
+        "benito"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: red, heart, love, benito. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
