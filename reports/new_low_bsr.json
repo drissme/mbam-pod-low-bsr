@@ -1,64 +1,110 @@
 {
-  "generated_at": "2026-02-07T06:26:24.072531Z",
+  "generated_at": "2026-02-08T06:34:18.075589Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CRX25TS2",
-      "title": "Amazon Essentials Star Wars Valentine's Day Love from R2-D2 T-Shirt",
-      "link": "https://www.amazon.com/Amazon-Essentials-Classic-Black-Small/dp/B0CRX25TS2/ref=zg_bs_g_9056987011_d_sccl_25/142-5678948-0504918",
-      "current_rank": 25,
+      "asin": "B0CXXW2VS3",
+      "title": "Mit & Mia Custom Bootleg Rap Tee Shirt for Boyfriend Girlfriend Custom Face Tshirt Vintage Graphic Shirt Gift Idea Birthday",
+      "link": "https://www.amazon.com/Mit-Mia-Boyfriend-Girlfriend-Valentines/dp/B0CXXW2VS3/ref=zg_bs_g_9056987011_d_sccl_5/137-3639783-7507860",
+      "current_rank": 5,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-07T06:26:23.989970Z",
+      "first_seen": "2026-02-08T06:34:17.995055Z",
       "keywords": [
-        "amazon",
-        "essentials",
-        "star",
-        "wars",
-        "valentine's",
-        "day",
-        "love",
-        "from"
+        "mit",
+        "mia",
+        "custom",
+        "bootleg",
+        "rap",
+        "boyfriend",
+        "girlfriend",
+        "face",
+        "gift",
+        "idea",
+        "birthday"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: amazon, essentials, star, wars, valentine's, day, love, from. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mit, mia, custom, bootleg, rap, boyfriend, girlfriend, face, gift, idea, birthday. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GFBQCW1Z",
-      "title": "Valentines Day Boys Kids Girls Hearts Dabbing six Seven 67 T-Shirt",
-      "link": "https://www.amazon.com/Valentines-Girls-Hearts-Dabbing-T-Shirt/dp/B0GFBQCW1Z/ref=zg_bs_g_9056987011_d_sccl_29/142-5678948-0504918",
+      "asin": "B0DDV1ZKBK",
+      "title": "I Love My Girlfriend T Shirt for Men Heart Graphic T-Shirt Romantic Casual Novelty Valentine Tee Couples Clothing",
+      "link": "https://www.amazon.com/Heart-Girlfriend-Graphic-Tees-Funny/dp/B0DDV1ZKBK/ref=zg_bs_g_9056987011_d_sccl_26/137-3639783-7507860",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-08T06:34:17.995055Z",
+      "keywords": [
+        "love",
+        "girlfriend",
+        "heart",
+        "romantic",
+        "casual",
+        "valentine",
+        "couples"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: love, girlfriend, heart, romantic, casual, valentine, couples. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0BT749BL9",
+      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
+      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Tshirt/dp/B0BT749BL9/ref=zg_bs_g_9056987011_d_sccl_27/137-3639783-7507860",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-08T06:34:17.995055Z",
+      "keywords": [
+        "into",
+        "shirts",
+        "4xl",
+        "premium",
+        "quality",
+        "unique",
+        "art",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0G7LJYLX2",
+      "title": "Six Seven 67 Meme Cool Valentine’s Day Teens Boys Girls Kids T-Shirt",
+      "link": "https://www.amazon.com/Seven-Valentines-Teens-Girls-T-Shirt/dp/B0G7LJYLX2/ref=zg_bs_g_9056987011_d_sccl_29/137-3639783-7507860",
       "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-07T06:26:23.989970Z",
+      "first_seen": "2026-02-08T06:34:17.995055Z",
       "keywords": [
-        "valentines",
-        "day",
-        "boys",
-        "girls",
-        "hearts",
-        "dabbing",
         "six",
-        "seven"
+        "seven",
+        "meme",
+        "valentine",
+        "day",
+        "teens",
+        "boys",
+        "girls"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: valentines, day, boys, girls, hearts, dabbing, six, seven. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: six, seven, meme, valentine, day, teens, boys, girls. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DFMT977T",
-      "title": "Red Heart I Love Benito T-Shirt",
-      "link": "https://www.amazon.com/Red-Heart-Love-Benito-T-Shirt/dp/B0DFMT977T/ref=zg_bs_g_9056987011_d_sccl_30/142-5678948-0504918",
+      "asin": "B0DWS9TY1V",
+      "title": "100 Days Later Funny Happy 100th Day of School Meme Kids T-Shirt",
+      "link": "https://www.amazon.com/Days-Later-Funny-School-T-Shirt/dp/B0DWS9TY1V/ref=zg_bs_g_9056987011_d_sccl_30/137-3639783-7507860",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-07T06:26:23.989970Z",
+      "first_seen": "2026-02-08T06:34:17.995055Z",
       "keywords": [
-        "red",
-        "heart",
-        "love",
-        "benito"
+        "100",
+        "days",
+        "later",
+        "happy",
+        "100th",
+        "day",
+        "school",
+        "meme"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: red, heart, love, benito. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: 100, days, later, happy, 100th, day, school, meme. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
