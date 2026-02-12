@@ -1,83 +1,28 @@
 {
-  "generated_at": "2026-02-11T06:46:08.421945Z",
+  "generated_at": "2026-02-12T06:45:18.577305Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DR355XVS",
-      "title": "Cute Valentines Vibes Groovy Valentine Day Men Women Kid T-Shirt",
-      "link": "https://www.amazon.com/Valentines-Vibes-Groovy-Valentine-T-Shirt/dp/B0DR355XVS/ref=zg_bs_g_9056987011_d_sccl_21/141-5609844-7408331",
-      "current_rank": 21,
+      "asin": "B07MQQPMNG",
+      "title": "Red Hearts Bow Tie Suspenders Valentine's Day Costume T-Shirt T-Shirt",
+      "link": "https://www.amazon.com/Red-Hearts-Bow-Tie-Costume/dp/B07MQQPMNG/ref=zg_bs_g_9056987011_d_sccl_29/145-9643468-7999737",
+      "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-11T06:46:08.346652Z",
+      "first_seen": "2026-02-12T06:45:18.497323Z",
       "keywords": [
-        "cute",
-        "valentines",
-        "vibes",
-        "groovy",
-        "valentine",
+        "red",
+        "hearts",
+        "bow",
+        "tie",
+        "suspenders",
+        "valentine's",
         "day",
-        "women",
-        "kid"
+        "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: cute, valentines, vibes, groovy, valentine, day, women, kid. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CS1HWQD9",
-      "title": "Valentines Day Construction Trucks Funny Boys Kids Toddler T-Shirt",
-      "link": "https://www.amazon.com/Valentines-Day-Construction-Funny-Boys/dp/B0CS1HWQD9/ref=zg_bs_g_9056987011_d_sccl_25/141-5609844-7408331",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-11T06:46:08.346652Z",
-      "keywords": [
-        "valentines",
-        "day",
-        "construction",
-        "trucks",
-        "boys",
-        "toddler"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: valentines, day, construction, trucks, boys, toddler. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GJF678H3",
-      "title": "Kids Meme 67 Six Seven 6 7 Valentine Heart T-Shirt",
-      "link": "https://www.amazon.com/Six-Seven-Valentine-Heart-T-Shirt/dp/B0GJF678H3/ref=zg_bs_g_9056987011_d_sccl_27/141-5609844-7408331",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-11T06:46:08.346652Z",
-      "keywords": [
-        "meme",
-        "six",
-        "seven",
-        "valentine",
-        "heart"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: meme, six, seven, valentine, heart. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CCWZ8GVF",
-      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
-      "link": "https://www.amazon.com/INTO-AM-Graphic-Trippy-Printed/dp/B0CCWZ8GVF/ref=zg_bs_g_9056987011_d_sccl_30/141-5609844-7408331",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-11T06:46:08.346652Z",
-      "keywords": [
-        "into",
-        "shirts",
-        "4xl",
-        "premium",
-        "quality",
-        "unique",
-        "art",
-        "tees"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: red, hearts, bow, tie, suspenders, valentine's, day, costume. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
