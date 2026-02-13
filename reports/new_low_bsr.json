@@ -1,28 +1,30 @@
 {
-  "generated_at": "2026-02-12T06:45:18.577305Z",
+  "generated_at": "2026-02-13T06:43:00.764512Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07MQQPMNG",
-      "title": "Red Hearts Bow Tie Suspenders Valentine's Day Costume T-Shirt T-Shirt",
-      "link": "https://www.amazon.com/Red-Hearts-Bow-Tie-Costume/dp/B07MQQPMNG/ref=zg_bs_g_9056987011_d_sccl_29/145-9643468-7999737",
-      "current_rank": 29,
+      "asin": "B0F84YSQZ1",
+      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
+      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_26/143-2840470-4192425",
+      "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-12T06:45:18.497323Z",
+      "first_seen": "2026-02-13T06:43:00.676697Z",
       "keywords": [
-        "red",
-        "hearts",
-        "bow",
-        "tie",
-        "suspenders",
-        "valentine's",
-        "day",
-        "costume"
+        "sarcastic",
+        "saying",
+        "shirts",
+        "husband",
+        "dad",
+        "grandpa",
+        "boyfriend",
+        "son",
+        "humor",
+        "joke"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: red, hearts, bow, tie, suspenders, valentine's, day, costume. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
