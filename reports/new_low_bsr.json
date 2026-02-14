@@ -1,30 +1,88 @@
 {
-  "generated_at": "2026-02-13T06:43:00.764512Z",
+  "generated_at": "2026-02-14T06:28:38.893713Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0F84YSQZ1",
-      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
-      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_26/143-2840470-4192425",
-      "current_rank": 26,
+      "asin": "B0GMHYQQZK",
+      "title": "Men's Hello Darkness My Old Friend Shirts Waffle Long Sleeve St. Patrick's Day Shirt",
+      "link": "https://www.amazon.com/Darkness-T-Shirt-Shamrock-Sweatshirts-Patricks/dp/B0GMHYQQZK/ref=zg_bs_g_9056987011_d_sccl_8/130-0155855-6219643",
+      "current_rank": 8,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-13T06:43:00.676697Z",
+      "first_seen": "2026-02-14T06:28:38.805713Z",
       "keywords": [
+        "hello",
+        "darkness",
+        "old",
+        "friend",
+        "shirts",
+        "waffle",
+        "patrick's",
+        "day"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: hello, darkness, old, friend, shirts, waffle, patrick's, day. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CV4J8GGK",
+      "title": "Funny Husband, Boyfriend Tee Shirt, Sarcastic Saying Humor Joke T-Shirt for Men",
+      "link": "https://www.amazon.com/Question-Wifes-Choices-Husband-T-Shirt/dp/B0CV4J8GGK/ref=zg_bs_g_9056987011_d_sccl_20/130-0155855-6219643",
+      "current_rank": 20,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-14T06:28:38.805713Z",
+      "keywords": [
+        "husband",
+        "boyfriend",
         "sarcastic",
         "saying",
-        "shirts",
-        "husband",
-        "dad",
-        "grandpa",
-        "boyfriend",
-        "son",
         "humor",
         "joke"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: husband, boyfriend, sarcastic, saying, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FTGQ4QF9",
+      "title": "Stranger Things Season 5 Retro Video Game Character Select T-Shirt",
+      "link": "https://www.amazon.com/Stranger-Things-Season-Character-T-Shirt/dp/B0FTGQ4QF9/ref=zg_bs_g_9056987011_d_sccl_28/130-0155855-6219643",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-14T06:28:38.805713Z",
+      "keywords": [
+        "stranger",
+        "things",
+        "season",
+        "video",
+        "game",
+        "character",
+        "select"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, season, video, game, character, select. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0C4G1HLGP",
+      "title": "Tuxedo Shirts for Men Novelty Graphic Funny Formal Classic Black White Tux Print Casual Wedding Bachelor Prom T-Shirt",
+      "link": "https://www.amazon.com/Tuxedo-Graphic-Novelty-Sarcastic-College/dp/B0C4G1HLGP/ref=zg_bs_g_9056987011_d_sccl_30/130-0155855-6219643",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-14T06:28:38.805713Z",
+      "keywords": [
+        "tuxedo",
+        "shirts",
+        "formal",
+        "black",
+        "white",
+        "tux",
+        "print",
+        "casual",
+        "wedding",
+        "bachelor",
+        "prom"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tuxedo, shirts, formal, black, white, tux, print, casual, wedding, bachelor, prom. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
