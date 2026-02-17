@@ -1,28 +1,220 @@
 {
-  "generated_at": "2026-02-16T06:48:01.454402Z",
+  "generated_at": "2026-02-17T06:41:34.050258Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CLWN5LXG",
-      "title": "Stranger Things Blue Gradient Shadow Upside Down Logo T-Shirt",
-      "link": "https://www.amazon.com/Stranger-Things-Gradient-Shadow-T-Shirt/dp/B0CLWN5LXG/ref=zg_bs_g_9056987011_d_sccl_26/142-6144086-3759663",
+      "asin": "B0CWGP264F",
+      "title": "Mit & Mia Custom Bootleg Rap Tee Shirt for Boyfriend Girlfriend Custom Face Tshirt Vintage Graphic Shirt Gift Idea Birthday",
+      "link": "https://www.amazon.com/Mit-Mia-Girlfriend-Boyfriend-Christmas/dp/B0CWGP264F/ref=zg_bs_g_9056987011_d_sccl_5/137-4065374-6070547",
+      "current_rank": 5,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-17T06:41:33.964186Z",
+      "keywords": [
+        "mit",
+        "mia",
+        "custom",
+        "bootleg",
+        "rap",
+        "boyfriend",
+        "girlfriend",
+        "face",
+        "gift",
+        "idea",
+        "birthday"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mit, mia, custom, bootleg, rap, boyfriend, girlfriend, face, gift, idea, birthday. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0F851L627",
+      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
+      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F851L627/ref=zg_bs_g_9056987011_d_sccl_18/137-4065374-6070547",
+      "current_rank": 18,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-17T06:41:33.964186Z",
+      "keywords": [
+        "sarcastic",
+        "saying",
+        "shirts",
+        "husband",
+        "dad",
+        "grandpa",
+        "boyfriend",
+        "son",
+        "humor",
+        "joke"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0097M9AK8",
+      "title": "Jockey T-Shirts for Men - V Neck Undershirts, Cotton Men's T-Shirts - 3 Pack",
+      "link": "https://www.amazon.com/Jockey-Mens-T-Shirts-Classic-V-Neck/dp/B0097M9AK8/ref=zg_bs_g_9056987011_d_sccl_19/137-4065374-6070547",
+      "current_rank": 19,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-17T06:41:33.964186Z",
+      "keywords": [
+        "jockey",
+        "shirts",
+        "neck",
+        "undershirts",
+        "cotton",
+        "pack"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: jockey, shirts, neck, undershirts, cotton, pack. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FTY1SQYY",
+      "title": "Freedom Shirt – Simple Freedom Text T Shirt for Men & Women Patriotic Men's Tshirts Graphic Tee",
+      "link": "https://www.amazon.com/Freedom-Shirt-Charlie-Signature-Patriotic/dp/B0FTY1SQYY/ref=zg_bs_g_9056987011_d_sccl_22/137-4065374-6070547",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-17T06:41:33.964186Z",
+      "keywords": [
+        "freedom",
+        "simple",
+        "text",
+        "women",
+        "patriotic",
+        "tshirts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, women, patriotic, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B01MS918UT",
+      "title": "Add Your Own and Text Design Custom Personalized Adult T-Shirt Tee",
+      "link": "https://www.amazon.com/Design-Customizable-Personalized-Adult-T-Shirt/dp/B01MS918UT/ref=zg_bs_g_9056987011_d_sccl_23/137-4065374-6070547",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-17T06:41:33.964186Z",
+      "keywords": [
+        "add",
+        "your",
+        "own",
+        "text",
+        "design",
+        "custom",
+        "personalized"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: add, your, own, text, design, custom, personalized. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0G23QCCD7",
+      "title": "Blue Checkered I was 6 Now I'm 7 Funny 67 Birthday Boy T-Shirt",
+      "link": "https://www.amazon.com/Blue-Checkered-Funny-Birthday-T-Shirt/dp/B0G23QCCD7/ref=zg_bs_g_9056987011_d_sccl_25/137-4065374-6070547",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-17T06:41:33.964186Z",
+      "keywords": [
+        "blue",
+        "checkered",
+        "was",
+        "now",
+        "i'm",
+        "birthday",
+        "boy"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: blue, checkered, was, now, i'm, birthday, boy. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CCS28Y2H",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-T-Shirt-Graphic-Festival/dp/B0CCS28Y2H/ref=zg_bs_g_9056987011_d_sccl_26/137-4065374-6070547",
       "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-16T06:48:01.366881Z",
+      "first_seen": "2026-02-17T06:41:33.964186Z",
       "keywords": [
-        "stranger",
-        "things",
-        "blue",
-        "gradient",
-        "shadow",
-        "upside",
-        "down",
-        "logo"
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "crewneck",
+        "print",
+        "top",
+        "casual",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: stranger, things, blue, gradient, shadow, upside, down, logo. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07S6574CZ",
+      "title": "Disney Mickey Mouse Classic Small Pose T-Shirt",
+      "link": "https://www.amazon.com/Disney-Mickey-Mouse-Classic-T-Shirt/dp/B07S6574CZ/ref=zg_bs_g_9056987011_d_sccl_27/137-4065374-6070547",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-17T06:41:33.964186Z",
+      "keywords": [
+        "disney",
+        "mickey",
+        "mouse",
+        "small",
+        "pose"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: disney, mickey, mouse, small, pose. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09DFPR59M",
+      "title": "Grunt Style Basic Crew T-Shirt Pack",
+      "link": "https://www.amazon.com/Grunt-Style-Ghost-T-Shirt-3-Pack/dp/B09DFPR59M/ref=zg_bs_g_9056987011_d_sccl_28/137-4065374-6070547",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-17T06:41:33.964186Z",
+      "keywords": [
+        "grunt",
+        "style",
+        "basic",
+        "crew",
+        "pack"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, basic, crew, pack. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0F646X4J5",
+      "title": "Fallout Video Game Prepare for The Future Vault Boy T-Shirt",
+      "link": "https://www.amazon.com/Fallout-Video-Prepare-Future-T-Shirt/dp/B0F646X4J5/ref=zg_bs_g_9056987011_d_sccl_29/137-4065374-6070547",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-17T06:41:33.964186Z",
+      "keywords": [
+        "fallout",
+        "video",
+        "game",
+        "prepare",
+        "future",
+        "vault",
+        "boy"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: fallout, video, game, prepare, future, vault, boy. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B087WSTKNX",
+      "title": "INTO THE AM Men's Graphic T-Shirts S - 4XL Premium Short Sleeve Tees Cool Nature Designs",
+      "link": "https://www.amazon.com/INTO-AM-Invader-Graphic-T-Shirt/dp/B087WSTKNX/ref=zg_bs_g_9056987011_d_sccl_30/137-4065374-6070547",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-17T06:41:33.964186Z",
+      "keywords": [
+        "into",
+        "shirts",
+        "4xl",
+        "premium",
+        "tees",
+        "nature",
+        "designs"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, tees, nature, designs. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
