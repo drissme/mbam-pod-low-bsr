@@ -1,128 +1,178 @@
 {
-  "generated_at": "2026-02-20T06:38:40.386056Z",
+  "generated_at": "2026-02-21T06:26:06.263521Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B085G7BTXT",
-      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
-      "link": "https://www.amazon.com/INTO-AM-Islands-Graphic-T-Shirt/dp/B085G7BTXT/ref=zg_bs_g_9056987011_d_sccl_14/140-9572870-0507224",
-      "current_rank": 14,
+      "asin": "B00LMIARI4",
+      "title": "Nations of The World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
+      "link": "https://www.amazon.com/Vintage-Retro-Feel-Canadian-T-shirt-Adult-Heather/dp/B00LMIARI4/ref=zg_bs_g_9056987011_d_sccl_12/130-3884175-7496963",
+      "current_rank": 12,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-20T06:38:40.299722Z",
+      "first_seen": "2026-02-21T06:26:06.180322Z",
       "keywords": [
-        "into",
-        "shirts",
-        "4xl",
-        "premium",
-        "quality",
-        "unique",
-        "art",
-        "tees"
+        "nations",
+        "world",
+        "national",
+        "pride",
+        "flag",
+        "symbol",
+        "arms",
+        "unisex",
+        "women"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DQVVZHJ9",
-      "title": "African American Girl Kid I Am Black History Month T-Shirt",
-      "link": "https://www.amazon.com/African-Girl-Black-History-Month/dp/B0DQVVZHJ9/ref=zg_bs_g_9056987011_d_sccl_23/140-9572870-0507224",
-      "current_rank": 23,
+      "asin": "B0C9589Q6M",
+      "title": "INTO THE AM Graphic Tees for Men S - 4XL Premium Short Sleeve Colorful T-Shirts Trippy Space Designs",
+      "link": "https://www.amazon.com/UFO-Design-Shirts-Tranquil-Ascent/dp/B0C9589Q6M/ref=zg_bs_g_9056987011_d_sccl_16/130-3884175-7496963",
+      "current_rank": 16,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-20T06:38:40.299722Z",
+      "first_seen": "2026-02-21T06:26:06.180322Z",
       "keywords": [
-        "african",
-        "american",
-        "girl",
-        "kid",
+        "into",
+        "tees",
+        "4xl",
+        "premium",
+        "colorful",
+        "shirts",
+        "trippy",
+        "space",
+        "designs"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, tees, 4xl, premium, colorful, shirts, trippy, space, designs. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07PX48ZW7",
+      "title": "Dr. Seuss Sam-I-Am T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Sam-I-Am-T-shirt/dp/B07PX48ZW7/ref=zg_bs_g_9056987011_d_sccl_17/130-3884175-7496963",
+      "current_rank": 17,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-21T06:26:06.180322Z",
+      "keywords": [
+        "seuss",
+        "sam"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, sam. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09GMBP8H9",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMBP8H9/ref=zg_bs_g_9056987011_d_sccl_19/130-3884175-7496963",
+      "current_rank": 19,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-21T06:26:06.180322Z",
+      "keywords": [
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "crewneck",
+        "print",
+        "top",
+        "casual",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09SM2RSLQ",
+      "title": "I Am Black History Lifetime Cool Black History Month T-Shirt",
+      "link": "https://www.amazon.com/Black-History-Lifetime-Month-T-Shirt/dp/B09SM2RSLQ/ref=zg_bs_g_9056987011_d_sccl_24/130-3884175-7496963",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-21T06:26:06.180322Z",
+      "keywords": [
+        "black",
+        "history",
+        "lifetime",
+        "month"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: black, history, lifetime, month. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07NQC3ZFC",
+      "title": "Dr. Seuss Teacher of All Things Emblem T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Teacher-Things-T-shirt/dp/B07NQC3ZFC/ref=zg_bs_g_9056987011_d_sccl_25/130-3884175-7496963",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-21T06:26:06.180322Z",
+      "keywords": [
+        "seuss",
+        "teacher",
+        "all",
+        "things",
+        "emblem"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, teacher, all, things, emblem. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B079HKWXFW",
+      "title": "Dr. Seuss The Cat in the Hat Characters T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Cat-Characters-T-shirt/dp/B079HKWXFW/ref=zg_bs_g_9056987011_d_sccl_26/130-3884175-7496963",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-21T06:26:06.180322Z",
+      "keywords": [
+        "seuss",
+        "cat",
+        "hat",
+        "characters"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, cat, hat, characters. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0F6V1XTR4",
+      "title": "CARPESUN Custom T-Shirts for Men Women, Unisex T-Shirt for Adults Design Your Own, Customized Photo Text Logo Gift",
+      "link": "https://www.amazon.com/CARPESUN-T-Shirts-T-Shirt-Customized-Regular/dp/B0F6V1XTR4/ref=zg_bs_g_9056987011_d_sccl_28/130-3884175-7496963",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-21T06:26:06.180322Z",
+      "keywords": [
+        "carpesun",
+        "custom",
+        "shirts",
+        "women",
+        "unisex",
+        "adults",
+        "design",
+        "your",
+        "own",
+        "customized",
+        "photo",
+        "text"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: carpesun, custom, shirts, women, unisex, adults, design, your, own, customized, photo, text. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DPQR1PNS",
+      "title": "Elementary School Today HBCU Tomorrow Black History Month T-Shirt",
+      "link": "https://www.amazon.com/School-HBCU-Black-History-Month/dp/B0DPQR1PNS/ref=zg_bs_g_9056987011_d_sccl_30/130-3884175-7496963",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-21T06:26:06.180322Z",
+      "keywords": [
+        "elementary",
+        "school",
+        "today",
+        "hbcu",
+        "tomorrow",
         "black",
         "history",
         "month"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: african, american, girl, kid, black, history, month. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DQLMD1TM",
-      "title": "ABCs of Black History Month Pride Live It Learn It Teacher T-Shirt",
-      "link": "https://www.amazon.com/Black-History-Month-Teacher-T-Shirt/dp/B0DQLMD1TM/ref=zg_bs_g_9056987011_d_sccl_24/140-9572870-0507224",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-20T06:38:40.299722Z",
-      "keywords": [
-        "abcs",
-        "black",
-        "history",
-        "month",
-        "pride",
-        "live",
-        "learn",
-        "teacher"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: abcs, black, history, month, pride, live, learn, teacher. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B087WJVDNR",
-      "title": "INTO THE AM Men's Graphic T-Shirts S - 4XL Premium Short Sleeve Tees Cool Nature Designs",
-      "link": "https://www.amazon.com/INTO-AM-Invader-Graphic-T-Shirt/dp/B087WJVDNR/ref=zg_bs_g_9056987011_d_sccl_25/140-9572870-0507224",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-20T06:38:40.299722Z",
-      "keywords": [
-        "into",
-        "shirts",
-        "4xl",
-        "premium",
-        "tees",
-        "nature",
-        "designs"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, tees, nature, designs. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09NKLPNTS",
-      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
-      "link": "https://www.amazon.com/Goodstoworld-Muscle-Sleeve-Printed-Clothing/dp/B09NKLPNTS/ref=zg_bs_g_9056987011_d_sccl_28/140-9572870-0507224",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-20T06:38:40.299722Z",
-      "keywords": [
-        "goodstoworld",
-        "unisex",
-        "fake",
-        "abs",
-        "shirts",
-        "shredded",
-        "chest",
-        "printed",
-        "costume",
-        "tees"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CFW9T8Q7",
-      "title": "MTV Music Television Retro 80's Neon Pink Checkerboard Logo T-Shirt",
-      "link": "https://www.amazon.com/MTV-Music-Television-Checkerboard-T-Shirt/dp/B0CFW9T8Q7/ref=zg_bs_g_9056987011_d_sccl_30/140-9572870-0507224",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-20T06:38:40.299722Z",
-      "keywords": [
-        "mtv",
-        "music",
-        "television",
-        "80's",
-        "neon",
-        "pink",
-        "checkerboard",
-        "logo"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mtv, music, television, 80's, neon, pink, checkerboard, logo. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: elementary, school, today, hbcu, tomorrow, black, history, month. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
