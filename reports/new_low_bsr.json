@@ -1,61 +1,43 @@
 {
-  "generated_at": "2026-02-22T06:31:55.283092Z",
+  "generated_at": "2026-02-23T06:49:50.333543Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B079HL8NL6",
-      "title": "Dr. Seuss One Fish Two Fish Red Fish Blue Fish T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Fish-Blue-T-shirt/dp/B079HL8NL6/ref=zg_bs_g_9056987011_d_sccl_24/132-5888876-8299467",
-      "current_rank": 24,
+      "asin": "B0CCWZ8GVF",
+      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
+      "link": "https://www.amazon.com/INTO-AM-Graphic-Trippy-Printed/dp/B0CCWZ8GVF/ref=zg_bs_g_9056987011_d_sccl_19/147-0265673-0089612",
+      "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-22T06:31:55.200037Z",
+      "first_seen": "2026-02-23T06:49:50.247189Z",
       "keywords": [
-        "seuss",
-        "one",
-        "fish",
-        "two",
-        "red",
-        "blue"
+        "into",
+        "shirts",
+        "4xl",
+        "premium",
+        "quality",
+        "unique",
+        "art",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, one, fish, two, red, blue. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DQCWZYJL",
-      "title": "I Am Black Child History Month African American Kids Girls T-Shirt",
-      "link": "https://www.amazon.com/Black-Child-African-American-Girls/dp/B0DQCWZYJL/ref=zg_bs_g_9056987011_d_sccl_28/132-5888876-8299467",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-22T06:31:55.200037Z",
-      "keywords": [
-        "black",
-        "child",
-        "history",
-        "month",
-        "african",
-        "american",
-        "girls"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: black, child, history, month, african, american, girls. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B079HS4WS2",
-      "title": "Dr. Seuss The Cat in The Hat Face T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Cat-Face-T-shirt/dp/B079HS4WS2/ref=zg_bs_g_9056987011_d_sccl_30/132-5888876-8299467",
+      "asin": "B07KVJ23R5",
+      "title": "Dr. Seuss Family Characters T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Family-T-shirt/dp/B07KVJ23R5/ref=zg_bs_g_9056987011_d_sccl_30/147-0265673-0089612",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-22T06:31:55.200037Z",
+      "first_seen": "2026-02-23T06:49:50.247189Z",
       "keywords": [
         "seuss",
-        "cat",
-        "hat",
-        "face"
+        "family",
+        "characters"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, cat, hat, face. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, family, characters. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
