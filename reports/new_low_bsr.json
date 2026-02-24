@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-02-23T06:49:50.333543Z",
+  "generated_at": "2026-02-24T06:43:03.195433Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CCWZ8GVF",
-      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
-      "link": "https://www.amazon.com/INTO-AM-Graphic-Trippy-Printed/dp/B0CCWZ8GVF/ref=zg_bs_g_9056987011_d_sccl_19/147-0265673-0089612",
-      "current_rank": 19,
+      "asin": "B0816XM84B",
+      "title": "Dr. Seuss Green Eggs and Ham Title T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Green-Title-T-Shirt/dp/B0816XM84B/ref=zg_bs_g_9056987011_d_sccl_28/130-6661286-8623531",
+      "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-23T06:49:50.247189Z",
-      "keywords": [
-        "into",
-        "shirts",
-        "4xl",
-        "premium",
-        "quality",
-        "unique",
-        "art",
-        "tees"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07KVJ23R5",
-      "title": "Dr. Seuss Family Characters T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Family-T-shirt/dp/B07KVJ23R5/ref=zg_bs_g_9056987011_d_sccl_30/147-0265673-0089612",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-23T06:49:50.247189Z",
+      "first_seen": "2026-02-24T06:43:03.113800Z",
       "keywords": [
         "seuss",
-        "family",
-        "characters"
+        "green",
+        "eggs",
+        "ham",
+        "title"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, family, characters. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, green, eggs, ham, title. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GKPVMCG3",
+      "title": "Dr. Seuss Characters Read Design for Youth and Adult T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Characters-Design-T-Shirt/dp/B0GKPVMCG3/ref=zg_bs_g_9056987011_d_sccl_29/130-6661286-8623531",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-24T06:43:03.113800Z",
+      "keywords": [
+        "seuss",
+        "characters",
+        "read",
+        "design"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, characters, read, design. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
