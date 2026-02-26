@@ -1,112 +1,77 @@
 {
-  "generated_at": "2026-02-25T06:46:09.674201Z",
+  "generated_at": "2026-02-26T06:42:39.421652Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0FRGPCWG9",
-      "title": "The Cat in The Hat Hat’s Off Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Cat-Hats-Officially-Licensed-T-Shirt/dp/B0FRGPCWG9/ref=zg_bs_g_9056987011_d_sccl_18/143-2197302-2388426",
-      "current_rank": 18,
+      "asin": "B079HHNKHM",
+      "title": "Dr. Seuss Oh The Places You'll Go T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Places-Youll-T-shirt/dp/B079HHNKHM/ref=zg_bs_g_9056987011_d_sccl_23/141-5094592-4223441",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-25T06:46:09.592993Z",
-      "keywords": [
-        "cat",
-        "hat",
-        "off",
-        "officially",
-        "licensed"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: cat, hat, off, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0816XVKX8",
-      "title": "Dr. Seuss Green Eggs and Ham I Do So Like Quote T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Green-quote-T-Shirt/dp/B0816XVKX8/ref=zg_bs_g_9056987011_d_sccl_19/143-2197302-2388426",
-      "current_rank": 19,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-25T06:46:09.592993Z",
+      "first_seen": "2026-02-26T06:42:39.331625Z",
       "keywords": [
         "seuss",
-        "green",
-        "eggs",
-        "ham",
-        "like",
-        "quote"
+        "places",
+        "you'll"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, green, eggs, ham, like, quote. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, places, you'll. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B079HKPY38",
-      "title": "Dr. Seuss Thing 1 Thing 2 Buddies T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Thing-Buddies-T-shirt/dp/B079HKPY38/ref=zg_bs_g_9056987011_d_sccl_21/143-2197302-2388426",
-      "current_rank": 21,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-25T06:46:09.592993Z",
-      "keywords": [
-        "seuss",
-        "thing",
-        "buddies"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, thing, buddies. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CMBVYSTM",
-      "title": "Nations of The World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
-      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBVYSTM/ref=zg_bs_g_9056987011_d_sccl_25/143-2197302-2388426",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-25T06:46:09.592993Z",
-      "keywords": [
-        "nations",
-        "world",
-        "national",
-        "pride",
-        "flag",
-        "symbol",
-        "arms",
-        "unisex",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07NQ7WGL3",
-      "title": "Dr. Seuss Thing 3 Emblem T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Thing-Emblem-T-shirt/dp/B07NQ7WGL3/ref=zg_bs_g_9056987011_d_sccl_26/143-2197302-2388426",
+      "asin": "B0DYL4TDDB",
+      "title": "The Cat in The Hat Up Up Up - Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/Cat-Hat-Up-Officially-Licensed/dp/B0DYL4TDDB/ref=zg_bs_g_9056987011_d_sccl_26/141-5094592-4223441",
       "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-25T06:46:09.592993Z",
+      "first_seen": "2026-02-26T06:42:39.331625Z",
       "keywords": [
-        "seuss",
-        "thing",
-        "emblem"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, thing, emblem. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FJMPYZMP",
-      "title": "Dr.Seuss Baby Cat in The Hat Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Baby-Officially-Licensed-T-Shirt/dp/B0FJMPYZMP/ref=zg_bs_g_9056987011_d_sccl_30/143-2197302-2388426",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-25T06:46:09.592993Z",
-      "keywords": [
-        "seuss",
-        "baby",
         "cat",
         "hat",
         "officially",
         "licensed"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, baby, cat, hat, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: cat, hat, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B079H7PGFS",
+      "title": "Dr. Seuss One Fish Two Fish Book Cover T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Fish-Cover-T-shirt/dp/B079H7PGFS/ref=zg_bs_g_9056987011_d_sccl_27/141-5094592-4223441",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-26T06:42:39.331625Z",
+      "keywords": [
+        "seuss",
+        "one",
+        "fish",
+        "two",
+        "book",
+        "cover"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, one, fish, two, book, cover. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DJRXJ1ZM",
+      "title": "Ghost Heart Hands Scary Face Horror Poster Halloween T-Shirt",
+      "link": "https://www.amazon.com/Ghost-Heart-Hands-Halloween-T-Shirt/dp/B0DJRXJ1ZM/ref=zg_bs_g_9056987011_d_sccl_30/141-5094592-4223441",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-26T06:42:39.331625Z",
+      "keywords": [
+        "ghost",
+        "heart",
+        "hands",
+        "scary",
+        "face",
+        "horror",
+        "poster",
+        "halloween"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: ghost, heart, hands, scary, face, horror, poster, halloween. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
