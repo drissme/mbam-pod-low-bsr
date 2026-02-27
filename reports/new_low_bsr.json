@@ -1,77 +1,64 @@
 {
-  "generated_at": "2026-02-26T06:42:39.421652Z",
+  "generated_at": "2026-02-27T06:35:56.433672Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B079HHNKHM",
-      "title": "Dr. Seuss Oh The Places You'll Go T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Places-Youll-T-shirt/dp/B079HHNKHM/ref=zg_bs_g_9056987011_d_sccl_23/141-5094592-4223441",
-      "current_rank": 23,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-26T06:42:39.331625Z",
-      "keywords": [
-        "seuss",
-        "places",
-        "you'll"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, places, you'll. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DYL4TDDB",
-      "title": "The Cat in The Hat Up Up Up - Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Cat-Hat-Up-Officially-Licensed/dp/B0DYL4TDDB/ref=zg_bs_g_9056987011_d_sccl_26/141-5094592-4223441",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-26T06:42:39.331625Z",
-      "keywords": [
-        "cat",
-        "hat",
-        "officially",
-        "licensed"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: cat, hat, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B079H7PGFS",
-      "title": "Dr. Seuss One Fish Two Fish Book Cover T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Fish-Cover-T-shirt/dp/B079H7PGFS/ref=zg_bs_g_9056987011_d_sccl_27/141-5094592-4223441",
+      "asin": "B0FRG7W1T3",
+      "title": "Cat in The Hat Belly Halloween Costume Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/Halloween-Costume-Officially-Licensed-T-Shirt/dp/B0FRG7W1T3/ref=zg_bs_g_9056987011_d_sccl_27/147-9564136-7268837",
       "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-26T06:42:39.331625Z",
+      "first_seen": "2026-02-27T06:35:56.344327Z",
       "keywords": [
-        "seuss",
-        "one",
-        "fish",
-        "two",
-        "book",
-        "cover"
+        "cat",
+        "hat",
+        "belly",
+        "halloween",
+        "costume",
+        "officially",
+        "licensed"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, one, fish, two, book, cover. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: cat, hat, belly, halloween, costume, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DJRXJ1ZM",
-      "title": "Ghost Heart Hands Scary Face Horror Poster Halloween T-Shirt",
-      "link": "https://www.amazon.com/Ghost-Heart-Hands-Halloween-T-Shirt/dp/B0DJRXJ1ZM/ref=zg_bs_g_9056987011_d_sccl_30/141-5094592-4223441",
+      "asin": "B0DG49WDVB",
+      "title": "Dr. Seuss The Lorax Face T-Shirt - Unisex, Blue, Small, Short Sleeve, Cotton Blend, Classic Fit, Crew Neck",
+      "link": "https://www.amazon.com/The-Lorax-Face-T-Shirt/dp/B0DG49WDVB/ref=zg_bs_g_9056987011_d_sccl_29/147-9564136-7268837",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-02-27T06:35:56.344327Z",
+      "keywords": [
+        "seuss",
+        "lorax",
+        "face",
+        "unisex",
+        "blue",
+        "small",
+        "cotton",
+        "blend",
+        "crew",
+        "neck"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, lorax, face, unisex, blue, small, cotton, blend, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DGWLZWYN",
+      "title": "Dr. Seuss The Lorax - Lorax Mustache T-Shirt",
+      "link": "https://www.amazon.com/The-Lorax-Mustache-T-Shirt/dp/B0DGWLZWYN/ref=zg_bs_g_9056987011_d_sccl_30/147-9564136-7268837",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-26T06:42:39.331625Z",
+      "first_seen": "2026-02-27T06:35:56.344327Z",
       "keywords": [
-        "ghost",
-        "heart",
-        "hands",
-        "scary",
-        "face",
-        "horror",
-        "poster",
-        "halloween"
+        "seuss",
+        "lorax",
+        "mustache"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: ghost, heart, hands, scary, face, horror, poster, halloween. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, lorax, mustache. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
