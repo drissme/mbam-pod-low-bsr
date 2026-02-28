@@ -1,64 +1,45 @@
 {
-  "generated_at": "2026-02-27T06:35:56.433672Z",
+  "generated_at": "2026-02-28T06:20:16.042737Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0FRG7W1T3",
-      "title": "Cat in The Hat Belly Halloween Costume Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Halloween-Costume-Officially-Licensed-T-Shirt/dp/B0FRG7W1T3/ref=zg_bs_g_9056987011_d_sccl_27/147-9564136-7268837",
-      "current_rank": 27,
+      "asin": "B0FJMTF3CY",
+      "title": "Dr. Seuss Babies Cute Thing Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Officially-Licensed-T-Shirt/dp/B0FJMTF3CY/ref=zg_bs_g_9056987011_d_sccl_24/131-6332184-3636131",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-27T06:35:56.344327Z",
+      "first_seen": "2026-02-28T06:20:15.952510Z",
       "keywords": [
-        "cat",
-        "hat",
-        "belly",
-        "halloween",
-        "costume",
+        "seuss",
+        "babies",
+        "cute",
+        "thing",
         "officially",
         "licensed"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: cat, hat, belly, halloween, costume, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, babies, cute, thing, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DG49WDVB",
-      "title": "Dr. Seuss The Lorax Face T-Shirt - Unisex, Blue, Small, Short Sleeve, Cotton Blend, Classic Fit, Crew Neck",
-      "link": "https://www.amazon.com/The-Lorax-Face-T-Shirt/dp/B0DG49WDVB/ref=zg_bs_g_9056987011_d_sccl_29/147-9564136-7268837",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-02-27T06:35:56.344327Z",
-      "keywords": [
-        "seuss",
-        "lorax",
-        "face",
-        "unisex",
-        "blue",
-        "small",
-        "cotton",
-        "blend",
-        "crew",
-        "neck"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, lorax, face, unisex, blue, small, cotton, blend, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DGWLZWYN",
-      "title": "Dr. Seuss The Lorax - Lorax Mustache T-Shirt",
-      "link": "https://www.amazon.com/The-Lorax-Mustache-T-Shirt/dp/B0DGWLZWYN/ref=zg_bs_g_9056987011_d_sccl_30/147-9564136-7268837",
+      "asin": "B0FH7HQGCW",
+      "title": "Dr. Seuss Cat in The Hat Fun to Have Fun Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Officially-Licensed-T-Shirt/dp/B0FH7HQGCW/ref=zg_bs_g_9056987011_d_sccl_30/131-6332184-3636131",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-27T06:35:56.344327Z",
+      "first_seen": "2026-02-28T06:20:15.952510Z",
       "keywords": [
         "seuss",
-        "lorax",
-        "mustache"
+        "cat",
+        "hat",
+        "fun",
+        "have",
+        "officially",
+        "licensed"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, lorax, mustache. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, cat, hat, fun, have, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
