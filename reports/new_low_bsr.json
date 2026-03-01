@@ -1,45 +1,43 @@
 {
-  "generated_at": "2026-02-28T06:20:16.042737Z",
+  "generated_at": "2026-03-01T06:30:34.714812Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0FJMTF3CY",
-      "title": "Dr. Seuss Babies Cute Thing Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Officially-Licensed-T-Shirt/dp/B0FJMTF3CY/ref=zg_bs_g_9056987011_d_sccl_24/131-6332184-3636131",
-      "current_rank": 24,
+      "asin": "B0DYVSDP3B",
+      "title": "Everything is Fine Trust Your Government Political T-Shirt",
+      "link": "https://www.amazon.com/Everything-Trust-Government-Political-T-Shirt/dp/B0DYVSDP3B/ref=zg_bs_g_9056987011_d_sccl_23/142-3488420-5696565",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-28T06:20:15.952510Z",
+      "first_seen": "2026-03-01T06:30:34.627781Z",
       "keywords": [
-        "seuss",
-        "babies",
-        "cute",
-        "thing",
-        "officially",
-        "licensed"
+        "everything",
+        "fine",
+        "trust",
+        "your",
+        "government",
+        "political"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, babies, cute, thing, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: everything, fine, trust, your, government, political. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FH7HQGCW",
-      "title": "Dr. Seuss Cat in The Hat Fun to Have Fun Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Officially-Licensed-T-Shirt/dp/B0FH7HQGCW/ref=zg_bs_g_9056987011_d_sccl_30/131-6332184-3636131",
+      "asin": "B079H9N1JB",
+      "title": "Dr. Seuss Fox in Socks Book Cover T-Shirt",
+      "link": "https://www.amazon.com/Dr-Seuss-Socks-Cover-T-shirt/dp/B079H9N1JB/ref=zg_bs_g_9056987011_d_sccl_30/142-3488420-5696565",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-02-28T06:20:15.952510Z",
+      "first_seen": "2026-03-01T06:30:34.627781Z",
       "keywords": [
         "seuss",
-        "cat",
-        "hat",
-        "fun",
-        "have",
-        "officially",
-        "licensed"
+        "fox",
+        "socks",
+        "book",
+        "cover"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, cat, hat, fun, have, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, fox, socks, book, cover. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
