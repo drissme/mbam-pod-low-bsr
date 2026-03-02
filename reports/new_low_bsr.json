@@ -1,43 +1,44 @@
 {
-  "generated_at": "2026-03-01T06:30:34.714812Z",
+  "generated_at": "2026-03-02T06:40:12.346358Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DYVSDP3B",
-      "title": "Everything is Fine Trust Your Government Political T-Shirt",
-      "link": "https://www.amazon.com/Everything-Trust-Government-Political-T-Shirt/dp/B0DYVSDP3B/ref=zg_bs_g_9056987011_d_sccl_23/142-3488420-5696565",
-      "current_rank": 23,
+      "asin": "B0GQ5FYFRF",
+      "title": "Everything is Fine Trust Your Government T-Shirt",
+      "link": "https://www.amazon.com/Everything-Fine-Trust-Your-Government/dp/B0GQ5FYFRF/ref=zg_bs_g_9056987011_d_sccl_27/142-0225487-3976158",
+      "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-01T06:30:34.627781Z",
+      "first_seen": "2026-03-02T06:40:12.258230Z",
       "keywords": [
         "everything",
         "fine",
         "trust",
         "your",
-        "government",
-        "political"
+        "government"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: everything, fine, trust, your, government, political. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: everything, fine, trust, your, government. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B079H9N1JB",
-      "title": "Dr. Seuss Fox in Socks Book Cover T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Socks-Cover-T-shirt/dp/B079H9N1JB/ref=zg_bs_g_9056987011_d_sccl_30/142-3488420-5696565",
+      "asin": "B00BMJ03BY",
+      "title": "St. Patrick's Day Tee Shirts - Funny St. Paddy T-Shirts for Men Saint Patricks Tshirts",
+      "link": "https://www.amazon.com/Unisex-Ireland-T-shirt-Patricks-Shirt-Green-Large/dp/B00BMJ03BY/ref=zg_bs_g_9056987011_d_sccl_30/142-0225487-3976158",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-01T06:30:34.627781Z",
+      "first_seen": "2026-03-02T06:40:12.258230Z",
       "keywords": [
-        "seuss",
-        "fox",
-        "socks",
-        "book",
-        "cover"
+        "patrick's",
+        "day",
+        "shirts",
+        "paddy",
+        "saint",
+        "patricks",
+        "tshirts"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, fox, socks, book, cover. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: patrick's, day, shirts, paddy, saint, patricks, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
