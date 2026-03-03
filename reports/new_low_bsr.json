@@ -1,44 +1,64 @@
 {
-  "generated_at": "2026-03-02T06:40:12.346358Z",
+  "generated_at": "2026-03-03T06:34:28.080599Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0GQ5FYFRF",
-      "title": "Everything is Fine Trust Your Government T-Shirt",
-      "link": "https://www.amazon.com/Everything-Fine-Trust-Your-Government/dp/B0GQ5FYFRF/ref=zg_bs_g_9056987011_d_sccl_27/142-0225487-3976158",
-      "current_rank": 27,
+      "asin": "B0078FX192",
+      "title": "Mens Novelty Saint Patricks T Shirt Funny Irish Tees Cool Party Tees for Guys",
+      "link": "https://www.amazon.com/Leprechaun-Patricks-Sarcastic-Apparel-Novelty/dp/B0078FX192/ref=zg_bs_g_9056987011_d_sccl_24/146-5901756-0013438",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-02T06:40:12.258230Z",
+      "first_seen": "2026-03-03T06:34:27.989645Z",
       "keywords": [
-        "everything",
-        "fine",
-        "trust",
-        "your",
-        "government"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: everything, fine, trust, your, government. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B00BMJ03BY",
-      "title": "St. Patrick's Day Tee Shirts - Funny St. Paddy T-Shirts for Men Saint Patricks Tshirts",
-      "link": "https://www.amazon.com/Unisex-Ireland-T-shirt-Patricks-Shirt-Green-Large/dp/B00BMJ03BY/ref=zg_bs_g_9056987011_d_sccl_30/142-0225487-3976158",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-02T06:40:12.258230Z",
-      "keywords": [
-        "patrick's",
-        "day",
-        "shirts",
-        "paddy",
+        "mens",
         "saint",
         "patricks",
-        "tshirts"
+        "irish",
+        "tees",
+        "party",
+        "guys"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: patrick's, day, shirts, paddy, saint, patricks, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, saint, patricks, irish, tees, party, guys. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07N12MJBZ",
+      "title": "Funny Saint Patricks Day T Shirts for Men Party Shirts for St Pats Funny Drinking Tees",
+      "link": "https://www.amazon.com/Clover-Drinking-Patricks-Shamrock-Apparel/dp/B07N12MJBZ/ref=zg_bs_g_9056987011_d_sccl_26/146-5901756-0013438",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-03T06:34:27.989645Z",
+      "keywords": [
+        "saint",
+        "patricks",
+        "day",
+        "shirts",
+        "party",
+        "pats",
+        "drinking",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: saint, patricks, day, shirts, party, pats, drinking, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0BR4L2TDK",
+      "title": "US American Flag with Shamrocks for St Patricks Day T-Shirt",
+      "link": "https://www.amazon.com/flag-shamrocks-St-Patricks-day/dp/B0BR4L2TDK/ref=zg_bs_g_9056987011_d_sccl_29/146-5901756-0013438",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-03T06:34:27.989645Z",
+      "keywords": [
+        "american",
+        "flag",
+        "shamrocks",
+        "patricks",
+        "day"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: american, flag, shamrocks, patricks, day. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
