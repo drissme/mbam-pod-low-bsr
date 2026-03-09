@@ -1,122 +1,75 @@
 {
-  "generated_at": "2026-03-08T06:26:52.054806Z",
+  "generated_at": "2026-03-09T06:44:33.632073Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B09TQ1N4FX",
-      "title": "Mens Saint Patricks Day T Shirts Funny St Pattys Tees for Partying Parade Tee for Guys",
-      "link": "https://www.amazon.com/Distressed-Patricks-Crazy-Dog-T-Shirts/dp/B09TQ1N4FX/ref=zg_bs_g_9056987011_d_sccl_6/134-0223989-8979526",
-      "current_rank": 6,
+      "asin": "B0078FX188",
+      "title": "Mens Novelty Saint Patricks T Shirt Funny Irish Tees Cool Party Tees for Guys",
+      "link": "https://www.amazon.com/Leprechaun-Patricks-Sarcastic-Apparel-Novelty/dp/B0078FX188/ref=zg_bs_g_9056987011_d_sccl_5/136-1607521-2210713",
+      "current_rank": 5,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-08T06:26:51.964515Z",
+      "first_seen": "2026-03-09T06:44:33.549680Z",
       "keywords": [
         "mens",
         "saint",
         "patricks",
-        "day",
-        "shirts",
-        "pattys",
+        "irish",
         "tees",
-        "partying",
-        "parade",
+        "party",
         "guys"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, saint, patricks, day, shirts, pattys, tees, partying, parade, guys. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, saint, patricks, irish, tees, party, guys. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07N125491",
-      "title": "Funny Saint Patricks Day T Shirts for Men Party Shirts for St Pats Funny Drinking Tees",
-      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Funny-Patricks/dp/B07N125491/ref=zg_bs_g_9056987011_d_sccl_11/134-0223989-8979526",
-      "current_rank": 11,
+      "asin": "B07B1GB7T1",
+      "title": "Funny St Paddy's Day T Shirts for Men Hilarious Saint Patricks Day Shirts for Guys",
+      "link": "https://www.amazon.com/Patricks-Crazy-Dog-T-Shirts-Comfortable/dp/B07B1GB7T1/ref=zg_bs_g_9056987011_d_sccl_15/136-1607521-2210713",
+      "current_rank": 15,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-08T06:26:51.964515Z",
+      "first_seen": "2026-03-09T06:44:33.549680Z",
       "keywords": [
-        "saint",
-        "patricks",
+        "paddy's",
         "day",
         "shirts",
-        "party",
-        "pats",
-        "drinking",
-        "tees"
+        "hilarious",
+        "saint",
+        "patricks",
+        "guys"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: saint, patricks, day, shirts, party, pats, drinking, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: paddy's, day, shirts, hilarious, saint, patricks, guys. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B01MYFYQX8",
-      "title": "World's Tallest Leprechaun St Patricks Day T Shirt | Irish Pride St Patty's Day Shirts | Graphic T Shirts for Men & Women",
-      "link": "https://www.amazon.com/Feelin-Good-Tees-Leprechaun-Patricks/dp/B01MYFYQX8/ref=zg_bs_g_9056987011_d_sccl_12/134-0223989-8979526",
-      "current_rank": 12,
+      "asin": "B09PVPQR5W",
+      "title": "Tipsy Elves Men’s St Patrick’s Day Shirt – Funny Irish Graphic T-Shirt, Green Clover St Patricks Tee",
+      "link": "https://www.amazon.com/Tipsy-Elves-Clover-Pocket-X-Large/dp/B09PVPQR5W/ref=zg_bs_g_9056987011_d_sccl_26/136-1607521-2210713",
+      "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-08T06:26:51.964515Z",
+      "first_seen": "2026-03-09T06:44:33.549680Z",
       "keywords": [
-        "world's",
-        "tallest",
-        "leprechaun",
-        "patricks",
+        "tipsy",
+        "elves",
+        "patrick",
         "day",
         "irish",
-        "pride",
-        "patty's",
-        "shirts",
-        "women"
+        "green",
+        "clover",
+        "patricks"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: world's, tallest, leprechaun, patricks, day, irish, pride, patty's, shirts, women. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tipsy, elves, patrick, day, irish, green, clover, patricks. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07NPRNLRB",
-      "title": "Mens I Always Carry A Little Pot with Me T Shirt Funny Saint Patricks Day Patty",
-      "link": "https://www.amazon.com/Always-Little-Patricks-Apparel-Novelty/dp/B07NPRNLRB/ref=zg_bs_g_9056987011_d_sccl_20/134-0223989-8979526",
-      "current_rank": 20,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-08T06:26:51.964515Z",
-      "keywords": [
-        "mens",
-        "always",
-        "carry",
-        "little",
-        "pot",
-        "saint",
-        "patricks",
-        "day",
-        "patty"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, always, carry, little, pot, saint, patricks, day, patty. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B08X3Q9L85",
-      "title": "Prone to Shenanigans & Malarkey Fun Clovers St Patrick's Day T-Shirt Small",
-      "link": "https://www.amazon.com/Shenanigans-Malarkey-Clovers-Patricks-Day/dp/B08X3Q9L85/ref=zg_bs_g_9056987011_d_sccl_24/134-0223989-8979526",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-08T06:26:51.964515Z",
-      "keywords": [
-        "prone",
-        "shenanigans",
-        "malarkey",
-        "fun",
-        "clovers",
-        "patrick's",
-        "day",
-        "small"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: prone, shenanigans, malarkey, fun, clovers, patrick's, day, small. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CCWZ8GVF",
+      "asin": "B0BT725J2G",
       "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
-      "link": "https://www.amazon.com/INTO-AM-Graphic-Trippy-Printed/dp/B0CCWZ8GVF/ref=zg_bs_g_9056987011_d_sccl_27/134-0223989-8979526",
-      "current_rank": 27,
+      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Graphic/dp/B0BT725J2G/ref=zg_bs_g_9056987011_d_sccl_30/136-1607521-2210713",
+      "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-08T06:26:51.964515Z",
+      "first_seen": "2026-03-09T06:44:33.549680Z",
       "keywords": [
         "into",
         "shirts",
@@ -128,46 +81,6 @@
         "tees"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B083HYJ56M",
-      "title": "St Patricks Day T Shirt Men Shamrock Tee St Paddys Day Irish Shirts Holiday Clover Short Sleeve Tops Tee",
-      "link": "https://www.amazon.com/Distressed-Green-Clover-T-Shirt-Patricks/dp/B083HYJ56M/ref=zg_bs_g_9056987011_d_sccl_28/134-0223989-8979526",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-08T06:26:51.964515Z",
-      "keywords": [
-        "patricks",
-        "day",
-        "shamrock",
-        "paddys",
-        "irish",
-        "shirts",
-        "holiday",
-        "clover",
-        "tops"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: patricks, day, shamrock, paddys, irish, shirts, holiday, clover, tops. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DYYKDW26",
-      "title": "Cheers Fuckers St Patricks Day Funny Beer Drinking Trump T-Shirt",
-      "link": "https://www.amazon.com/Cheers-Fuckers-Patricks-Drinking-Trump/dp/B0DYYKDW26/ref=zg_bs_g_9056987011_d_sccl_30/134-0223989-8979526",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-08T06:26:51.964515Z",
-      "keywords": [
-        "cheers",
-        "fuckers",
-        "patricks",
-        "day",
-        "beer",
-        "drinking",
-        "trump"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: cheers, fuckers, patricks, day, beer, drinking, trump. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
