@@ -1,54 +1,39 @@
 {
-  "generated_at": "2026-03-11T06:35:05.137790Z",
+  "generated_at": "2026-03-12T06:37:20.832285Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07989FVN1",
-      "title": "Tipsy Elves Men’s St Patrick’s Day Shirt – Funny Irish Graphic T-Shirt, Green Clover St Patricks Tee",
-      "link": "https://www.amazon.com/Mens-Funny-St-Patricks-Shirts/dp/B07989FVN1/ref=zg_bs_g_9056987011_d_sccl_21/142-2283324-3198565",
-      "current_rank": 21,
+      "asin": "B01AXB1RV6",
+      "title": "St. Patrick’s Day T Shirt | Irish Pride St Patty's Day Shirts | Party Novelty T-Shirts for Men & Women Soft & Comfortable",
+      "link": "https://www.amazon.com/Patricks-Graphic-Tees-Novelty-T-Shirts/dp/B01AXB1RV6/ref=zg_bs_g_9056987011_d_sccl_9/139-1261062-4825625",
+      "current_rank": 9,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-11T06:35:05.047373Z",
+      "first_seen": "2026-03-12T06:37:20.742250Z",
       "keywords": [
-        "tipsy",
-        "elves",
         "patrick",
         "day",
         "irish",
-        "green",
-        "clover",
-        "patricks"
+        "pride",
+        "patty's",
+        "shirts",
+        "party",
+        "women",
+        "soft",
+        "comfortable"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tipsy, elves, patrick, day, irish, green, clover, patricks. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: patrick, day, irish, pride, patty's, shirts, party, women, soft, comfortable. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DX2KZ9Z3",
-      "title": "Leprechaun Martini Cocktail St Patrick's Day Womens T-Shirt",
-      "link": "https://www.amazon.com/Leprechaun-Martini-Cocktail-Patricks-Day/dp/B0DX2KZ9Z3/ref=zg_bs_g_9056987011_d_sccl_23/142-2283324-3198565",
-      "current_rank": 23,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-11T06:35:05.047373Z",
-      "keywords": [
-        "leprechaun",
-        "martini",
-        "cocktail",
-        "patrick's",
-        "day"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: leprechaun, martini, cocktail, patrick's, day. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B007IJZ2YA",
+      "asin": "B007IJZ35S",
       "title": "Mens St Patricks Day Shirts – Funny Irish I Clover Shenanigans and Hooligan Tees Irish Tshirt for The Parade",
-      "link": "https://www.amazon.com/Clover-Shenanigans-Patricks-Apparel-Drinking/dp/B007IJZ2YA/ref=zg_bs_g_9056987011_d_sccl_26/142-2283324-3198565",
-      "current_rank": 26,
+      "link": "https://www.amazon.com/Clover-Shenanigans-Patricks-Apparel-Drinking/dp/B007IJZ35S/ref=zg_bs_g_9056987011_d_sccl_14/139-1261062-4825625",
+      "current_rank": 14,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-11T06:35:05.047373Z",
+      "first_seen": "2026-03-12T06:37:20.742250Z",
       "keywords": [
         "mens",
         "patricks",
@@ -64,25 +49,42 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: mens, patricks, day, shirts, irish, clover, shenanigans, hooligan, tees, parade. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0BXW57X3L",
-      "title": "Miller Lite St. Patrick's Day A Fine Pilsner Beer Distressed T-Shirt Small",
-      "link": "https://www.amazon.com/Miller-Patricks-Pilsner-Distressed-T-Shirt/dp/B0BXW57X3L/ref=zg_bs_g_9056987011_d_sccl_30/142-2283324-3198565",
-      "current_rank": 30,
+      "asin": "B0DWML25QV",
+      "title": "Groovy St Patricks Day Lucky Vibes Shamrock Women Girls Kids T-Shirt",
+      "link": "https://www.amazon.com/Groovy-Patricks-Day-Lucky-Vibes/dp/B0DWML25QV/ref=zg_bs_g_9056987011_d_sccl_24/139-1261062-4825625",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-11T06:35:05.047373Z",
+      "first_seen": "2026-03-12T06:37:20.742250Z",
       "keywords": [
-        "miller",
-        "lite",
-        "patrick's",
+        "groovy",
+        "patricks",
         "day",
-        "fine",
-        "pilsner",
-        "beer",
-        "distressed",
-        "small"
+        "lucky",
+        "vibes",
+        "shamrock",
+        "women",
+        "girls"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: miller, lite, patrick's, day, fine, pilsner, beer, distressed, small. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: groovy, patricks, day, lucky, vibes, shamrock, women, girls. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DTRN47P3",
+      "title": "Funny Saint Patrick Irish Catholic St Patrick's Day Go On T-Shirt",
+      "link": "https://www.amazon.com/Saint-Patrick-Irish-Catholic-Patricks/dp/B0DTRN47P3/ref=zg_bs_g_9056987011_d_sccl_28/139-1261062-4825625",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-12T06:37:20.742250Z",
+      "keywords": [
+        "saint",
+        "patrick",
+        "irish",
+        "catholic",
+        "patrick's",
+        "day"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: saint, patrick, irish, catholic, patrick's, day. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
