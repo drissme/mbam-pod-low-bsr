@@ -1,39 +1,94 @@
 {
-  "generated_at": "2026-03-12T06:37:20.832285Z",
+  "generated_at": "2026-03-13T06:35:23.678768Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B01AXB1RV6",
-      "title": "St. Patrick’s Day T Shirt | Irish Pride St Patty's Day Shirts | Party Novelty T-Shirts for Men & Women Soft & Comfortable",
-      "link": "https://www.amazon.com/Patricks-Graphic-Tees-Novelty-T-Shirts/dp/B01AXB1RV6/ref=zg_bs_g_9056987011_d_sccl_9/139-1261062-4825625",
-      "current_rank": 9,
+      "asin": "B0BS4CS174",
+      "title": "Mens Saint Patricks Day T Shirts Funny St Pattys Tees for Partying Parade Tee for Guys",
+      "link": "https://www.amazon.com/Energy-Patricks-Parade-Lovers-Heather/dp/B0BS4CS174/ref=zg_bs_g_9056987011_d_sccl_2/145-9595392-0596712",
+      "current_rank": 2,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-12T06:37:20.742250Z",
+      "first_seen": "2026-03-13T06:35:23.589355Z",
       "keywords": [
-        "patrick",
+        "mens",
+        "saint",
+        "patricks",
         "day",
-        "irish",
-        "pride",
-        "patty's",
         "shirts",
-        "party",
-        "women",
-        "soft",
-        "comfortable"
+        "pattys",
+        "tees",
+        "partying",
+        "parade",
+        "guys"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: patrick, day, irish, pride, patty's, shirts, party, women, soft, comfortable. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, saint, patricks, day, shirts, pattys, tees, partying, parade, guys. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B007IJZ35S",
-      "title": "Mens St Patricks Day Shirts – Funny Irish I Clover Shenanigans and Hooligan Tees Irish Tshirt for The Parade",
-      "link": "https://www.amazon.com/Clover-Shenanigans-Patricks-Apparel-Drinking/dp/B007IJZ35S/ref=zg_bs_g_9056987011_d_sccl_14/139-1261062-4825625",
-      "current_rank": 14,
+      "asin": "B00C77IEQG",
+      "title": "Tee Luv Men's Lucky Charms Shirt - Vintage Lucky The Leprechaun Logo T-Shirt",
+      "link": "https://www.amazon.com/Charms-Vintage-Distressed-Tee-large-Heather/dp/B00C77IEQG/ref=zg_bs_g_9056987011_d_sccl_4/145-9595392-0596712",
+      "current_rank": 4,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-12T06:37:20.742250Z",
+      "first_seen": "2026-03-13T06:35:23.589355Z",
+      "keywords": [
+        "luv",
+        "lucky",
+        "charms",
+        "leprechaun",
+        "logo"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: luv, lucky, charms, leprechaun, logo. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B00BMJ040Y",
+      "title": "St. Patrick's Day Tee Shirts - Funny St. Paddy T-Shirts for Men Saint Patricks Tshirts",
+      "link": "https://www.amazon.com/Unisex-Ireland-T-shirt-Patricks-Shirt-Green-Medium/dp/B00BMJ040Y/ref=zg_bs_g_9056987011_d_sccl_8/145-9595392-0596712",
+      "current_rank": 8,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-13T06:35:23.589355Z",
+      "keywords": [
+        "patrick's",
+        "day",
+        "shirts",
+        "paddy",
+        "saint",
+        "patricks",
+        "tshirts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: patrick's, day, shirts, paddy, saint, patricks, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B079QWRHWL",
+      "title": "Mens Novelty Saint Patricks T Shirt Funny Irish Tees Cool Party Tees for Guys",
+      "link": "https://www.amazon.com/Celtic-Clover-Graphic-Patricks-Novelty/dp/B079QWRHWL/ref=zg_bs_g_9056987011_d_sccl_10/145-9595392-0596712",
+      "current_rank": 10,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-13T06:35:23.589355Z",
+      "keywords": [
+        "mens",
+        "saint",
+        "patricks",
+        "irish",
+        "tees",
+        "party",
+        "guys"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, saint, patricks, irish, tees, party, guys. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B007IJZ2BI",
+      "title": "Mens St Patricks Day Shirts – Funny Irish I Clover Shenanigans and Hooligan Tees Irish Tshirt for The Parade",
+      "link": "https://www.amazon.com/Clover-Shenanigans-Patricks-Apparel-Drinking/dp/B007IJZ2BI/ref=zg_bs_g_9056987011_d_sccl_12/145-9595392-0596712",
+      "current_rank": 12,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-13T06:35:23.589355Z",
       "keywords": [
         "mens",
         "patricks",
@@ -49,42 +104,63 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: mens, patricks, day, shirts, irish, clover, shenanigans, hooligan, tees, parade. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DWML25QV",
-      "title": "Groovy St Patricks Day Lucky Vibes Shamrock Women Girls Kids T-Shirt",
-      "link": "https://www.amazon.com/Groovy-Patricks-Day-Lucky-Vibes/dp/B0DWML25QV/ref=zg_bs_g_9056987011_d_sccl_24/139-1261062-4825625",
-      "current_rank": 24,
+      "asin": "B0BSNT5DL1",
+      "title": "Funny St Paddy's Day T Shirts for Men Hilarious Saint Patricks Day Shirts for Guys",
+      "link": "https://www.amazon.com/Dublin-Paddys-Doubling-Patricks-Heather/dp/B0BSNT5DL1/ref=zg_bs_g_9056987011_d_sccl_14/145-9595392-0596712",
+      "current_rank": 14,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-12T06:37:20.742250Z",
+      "first_seen": "2026-03-13T06:35:23.589355Z",
       "keywords": [
-        "groovy",
-        "patricks",
+        "paddy's",
         "day",
-        "lucky",
-        "vibes",
-        "shamrock",
-        "women",
-        "girls"
+        "shirts",
+        "hilarious",
+        "saint",
+        "patricks",
+        "guys"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: groovy, patricks, day, lucky, vibes, shamrock, women, girls. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: paddy's, day, shirts, hilarious, saint, patricks, guys. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DTRN47P3",
-      "title": "Funny Saint Patrick Irish Catholic St Patrick's Day Go On T-Shirt",
-      "link": "https://www.amazon.com/Saint-Patrick-Irish-Catholic-Patricks/dp/B0DTRN47P3/ref=zg_bs_g_9056987011_d_sccl_28/139-1261062-4825625",
-      "current_rank": 28,
+      "asin": "B01MR7XH6N",
+      "title": "Kiss Me I'm Irish St. Patrick's Day T Shirt | Lucky Shamrock Funny St Patricks Day Shirts | Graphic T Shirts for Men & Women",
+      "link": "https://www.amazon.com/Patricks-Shamrock-Graphic-Perfect-Novelty/dp/B01MR7XH6N/ref=zg_bs_g_9056987011_d_sccl_25/145-9595392-0596712",
+      "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-12T06:37:20.742250Z",
+      "first_seen": "2026-03-13T06:35:23.589355Z",
       "keywords": [
-        "saint",
-        "patrick",
+        "kiss",
+        "i'm",
         "irish",
-        "catholic",
         "patrick's",
-        "day"
+        "day",
+        "lucky",
+        "shamrock",
+        "patricks",
+        "shirts",
+        "women"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: saint, patrick, irish, catholic, patrick's, day. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kiss, i'm, irish, patrick's, day, lucky, shamrock, patricks, shirts, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09SFFWZ4F",
+      "title": "Funny Lucky Dude Boys St Patrick’s Day Shirt Toddler Kids T-Shirt",
+      "link": "https://www.amazon.com/Lucky-Dude-Irish-Patricks-Day/dp/B09SFFWZ4F/ref=zg_bs_g_9056987011_d_sccl_29/145-9595392-0596712",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-13T06:35:23.589355Z",
+      "keywords": [
+        "lucky",
+        "dude",
+        "boys",
+        "patrick",
+        "day",
+        "toddler"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: lucky, dude, boys, patrick, day, toddler. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
