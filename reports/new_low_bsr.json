@@ -1,116 +1,38 @@
 {
-  "generated_at": "2026-03-16T07:01:34.994627Z",
+  "generated_at": "2026-03-17T06:46:12.887495Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B01AXAZKPG",
-      "title": "St. Patrick's Day T Shirt | Lucky Shamrock Funny St Patricks Day Shirts | Perfect Novelty Gift for Men & Women",
-      "link": "https://www.amazon.com/Feelin-Good-Tees-Clover-Patricks/dp/B01AXAZKPG/ref=zg_bs_g_9056987011_d_sccl_3/140-5554829-0888642",
-      "current_rank": 3,
+      "asin": "B0843P8639",
+      "title": "Lucky Charm St Patricks Day T Shirt | Party Novelty T-Shirts for Men & Women Soft & Comfortable Fit",
+      "link": "https://www.amazon.com/Patricks-Graphic-T-Shirts-Tshirts-Shamrock/dp/B0843P8639/ref=zg_bs_g_9056987011_d_sccl_8/141-5031156-9793514",
+      "current_rank": 8,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-16T07:01:34.899880Z",
+      "first_seen": "2026-03-17T06:46:12.791813Z",
       "keywords": [
-        "patrick's",
-        "day",
         "lucky",
-        "shamrock",
+        "charm",
         "patricks",
-        "shirts",
-        "perfect",
-        "gift",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: patrick's, day, lucky, shamrock, patricks, shirts, perfect, gift, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B00SW0QDO2",
-      "title": "Holiday Costume Tees | Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
-      "link": "https://www.amazon.com/Leprechaun-Tuxedo-Patricks-Costume-T-Shirt-Adult/dp/B00SW0QDO2/ref=zg_bs_g_9056987011_d_sccl_14/140-5554829-0888642",
-      "current_rank": 14,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-16T07:01:34.899880Z",
-      "keywords": [
-        "holiday",
-        "costume",
-        "tees",
-        "fun",
-        "christmas",
-        "shirts",
-        "unisex"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0078FX192",
-      "title": "Mens Novelty Saint Patricks T Shirt Funny Irish Tees Cool Party Tees for Guys",
-      "link": "https://www.amazon.com/Leprechaun-Patricks-Sarcastic-Apparel-Novelty/dp/B0078FX192/ref=zg_bs_g_9056987011_d_sccl_16/140-5554829-0888642",
-      "current_rank": 16,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-16T07:01:34.899880Z",
-      "keywords": [
-        "mens",
-        "saint",
-        "patricks",
-        "irish",
-        "tees",
-        "party",
-        "guys"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, saint, patricks, irish, tees, party, guys. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0798FBNTP",
-      "title": "Tipsy Elves Men’s St Patrick’s Day Shirt – Funny Irish Graphic T-Shirt, Green Clover St Patricks Tee",
-      "link": "https://www.amazon.com/Mens-Funny-St-Patricks-Shirts/dp/B0798FBNTP/ref=zg_bs_g_9056987011_d_sccl_19/140-5554829-0888642",
-      "current_rank": 19,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-16T07:01:34.899880Z",
-      "keywords": [
-        "tipsy",
-        "elves",
-        "patrick",
         "day",
-        "irish",
-        "green",
-        "clover",
-        "patricks"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tipsy, elves, patrick, day, irish, green, clover, patricks. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CCWLW4YH",
-      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
-      "link": "https://www.amazon.com/INTO-AM-Meta-Beach-Graphic/dp/B0CCWLW4YH/ref=zg_bs_g_9056987011_d_sccl_20/140-5554829-0888642",
-      "current_rank": 20,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-16T07:01:34.899880Z",
-      "keywords": [
-        "into",
+        "party",
         "shirts",
-        "4xl",
-        "premium",
-        "quality",
-        "unique",
-        "art",
-        "tees"
+        "women",
+        "soft",
+        "comfortable"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: lucky, charm, patricks, day, party, shirts, women, soft, comfortable. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DQPZCCWD",
+      "asin": "B0DQPXXN2W",
       "title": "St Patrick's Day Shirts for Women Lucky Irish Green Shamrock Graphic Tee Costume Funny Saint Clover Printed T-Shirt Top",
-      "link": "https://www.amazon.com/Patricks-Shamrock-Short-Sleeve-Graphic-Costume/dp/B0DQPZCCWD/ref=zg_bs_g_9056987011_d_sccl_23/140-5554829-0888642",
-      "current_rank": 23,
+      "link": "https://www.amazon.com/Patricks-Shamrock-Short-Sleeve-Graphic-Costume/dp/B0DQPXXN2W/ref=zg_bs_g_9056987011_d_sccl_24/141-5031156-9793514",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-16T07:01:34.899880Z",
+      "first_seen": "2026-03-17T06:46:12.791813Z",
       "keywords": [
         "patrick's",
         "day",
@@ -128,44 +50,87 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: patrick's, day, shirts, women, lucky, irish, green, shamrock, costume, saint, clover, printed. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0CMBT646W",
-      "title": "Nations of The World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
-      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBT646W/ref=zg_bs_g_9056987011_d_sccl_26/140-5554829-0888642",
-      "current_rank": 26,
+      "asin": "B07N11NYQL",
+      "title": "Funny Saint Patricks Day T Shirts for Men Party Shirts for St Pats Funny Drinking Tees",
+      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Funny-Patricks/dp/B07N11NYQL/ref=zg_bs_g_9056987011_d_sccl_25/141-5031156-9793514",
+      "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-16T07:01:34.899880Z",
+      "first_seen": "2026-03-17T06:46:12.791813Z",
       "keywords": [
-        "nations",
-        "world",
-        "national",
-        "pride",
-        "flag",
-        "symbol",
-        "arms",
-        "unisex",
-        "women"
+        "saint",
+        "patricks",
+        "day",
+        "shirts",
+        "party",
+        "pats",
+        "drinking",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: saint, patricks, day, shirts, party, pats, drinking, tees. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FJ3XBCP5",
-      "title": "Kpop Demon Hunters HUNTR/X Heartthrob Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Demon-Hunters-Heartthrob-Officially-Licensed/dp/B0FJ3XBCP5/ref=zg_bs_g_9056987011_d_sccl_30/140-5554829-0888642",
-      "current_rank": 30,
+      "asin": "B0FJ42PV2P",
+      "title": "Kpop Demon Hunters Rumi Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/Demon-Hunters-Officially-Licensed-T-Shirt/dp/B0FJ42PV2P/ref=zg_bs_g_9056987011_d_sccl_28/141-5031156-9793514",
+      "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-16T07:01:34.899880Z",
+      "first_seen": "2026-03-17T06:46:12.791813Z",
       "keywords": [
         "kpop",
         "demon",
         "hunters",
-        "huntr",
-        "heartthrob",
+        "rumi",
         "officially",
         "licensed"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, huntr, heartthrob, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, rumi, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B01MZBPFMO",
+      "title": "Kiss Me I'm Irish St. Patrick's Day T Shirt | Lucky Shamrock Funny St Patricks Day Shirts | Graphic T Shirts for Men & Women",
+      "link": "https://www.amazon.com/Patricks-Shamrock-Graphic-Perfect-Novelty/dp/B01MZBPFMO/ref=zg_bs_g_9056987011_d_sccl_29/141-5031156-9793514",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-17T06:46:12.791813Z",
+      "keywords": [
+        "kiss",
+        "i'm",
+        "irish",
+        "patrick's",
+        "day",
+        "lucky",
+        "shamrock",
+        "patricks",
+        "shirts",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kiss, i'm, irish, patrick's, day, lucky, shamrock, patricks, shirts, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0D8K32DNN",
+      "title": "Custom Front & Back Print T-Shirt with Your Image for Men, Women and Kids by Modify by Amazon Merch on Demand",
+      "link": "https://www.amazon.com/T-Shirt-Modify-Amazon-Merch-Demand/dp/B0D8K32DNN",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-17T06:46:12.791813Z",
+      "keywords": [
+        "custom",
+        "front",
+        "back",
+        "print",
+        "your",
+        "image",
+        "women",
+        "modify",
+        "amazon",
+        "merch",
+        "demand"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: custom, front, back, print, your, image, women, modify, amazon, merch, demand. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
