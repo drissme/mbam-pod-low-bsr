@@ -1,136 +1,69 @@
 {
-  "generated_at": "2026-03-17T06:46:12.887495Z",
+  "generated_at": "2026-03-18T06:45:36.016130Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0843P8639",
-      "title": "Lucky Charm St Patricks Day T Shirt | Party Novelty T-Shirts for Men & Women Soft & Comfortable Fit",
-      "link": "https://www.amazon.com/Patricks-Graphic-T-Shirts-Tshirts-Shamrock/dp/B0843P8639/ref=zg_bs_g_9056987011_d_sccl_8/141-5031156-9793514",
-      "current_rank": 8,
+      "asin": "B0CCWZ8GVF",
+      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
+      "link": "https://www.amazon.com/INTO-AM-Graphic-Trippy-Printed/dp/B0CCWZ8GVF/ref=zg_bs_g_9056987011_d_sccl_12/138-0661733-7878509",
+      "current_rank": 12,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-17T06:46:12.791813Z",
+      "first_seen": "2026-03-18T06:45:35.922141Z",
       "keywords": [
-        "lucky",
-        "charm",
-        "patricks",
-        "day",
-        "party",
+        "into",
         "shirts",
-        "women",
-        "soft",
-        "comfortable"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: lucky, charm, patricks, day, party, shirts, women, soft, comfortable. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DQPXXN2W",
-      "title": "St Patrick's Day Shirts for Women Lucky Irish Green Shamrock Graphic Tee Costume Funny Saint Clover Printed T-Shirt Top",
-      "link": "https://www.amazon.com/Patricks-Shamrock-Short-Sleeve-Graphic-Costume/dp/B0DQPXXN2W/ref=zg_bs_g_9056987011_d_sccl_24/141-5031156-9793514",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-17T06:46:12.791813Z",
-      "keywords": [
-        "patrick's",
-        "day",
-        "shirts",
-        "women",
-        "lucky",
-        "irish",
-        "green",
-        "shamrock",
-        "costume",
-        "saint",
-        "clover",
-        "printed"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: patrick's, day, shirts, women, lucky, irish, green, shamrock, costume, saint, clover, printed. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07N11NYQL",
-      "title": "Funny Saint Patricks Day T Shirts for Men Party Shirts for St Pats Funny Drinking Tees",
-      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Funny-Patricks/dp/B07N11NYQL/ref=zg_bs_g_9056987011_d_sccl_25/141-5031156-9793514",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-17T06:46:12.791813Z",
-      "keywords": [
-        "saint",
-        "patricks",
-        "day",
-        "shirts",
-        "party",
-        "pats",
-        "drinking",
+        "4xl",
+        "premium",
+        "quality",
+        "unique",
+        "art",
         "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: saint, patricks, day, shirts, party, pats, drinking, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FJ42PV2P",
-      "title": "Kpop Demon Hunters Rumi Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Demon-Hunters-Officially-Licensed-T-Shirt/dp/B0FJ42PV2P/ref=zg_bs_g_9056987011_d_sccl_28/141-5031156-9793514",
+      "asin": "B0F38VS3RM",
+      "title": "He is Risen Boho Easter Christian Jesus T-Shirt",
+      "link": "https://www.amazon.com/Risen-Boho-Easter-Christian-Jesus/dp/B0F38VS3RM/ref=zg_bs_g_9056987011_d_sccl_27/138-0661733-7878509",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-18T06:45:35.922141Z",
+      "keywords": [
+        "risen",
+        "boho",
+        "easter",
+        "christian",
+        "jesus"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: risen, boho, easter, christian, jesus. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0F6V1XTR4",
+      "title": "CARPESUN Custom T-Shirts for Men Women, Unisex T-Shirt for Adults Design Your Own, Customized Photo Text Logo Gift",
+      "link": "https://www.amazon.com/CARPESUN-T-Shirts-T-Shirt-Customized-Regular/dp/B0F6V1XTR4/ref=zg_bs_g_9056987011_d_sccl_28/138-0661733-7878509",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-17T06:46:12.791813Z",
+      "first_seen": "2026-03-18T06:45:35.922141Z",
       "keywords": [
-        "kpop",
-        "demon",
-        "hunters",
-        "rumi",
-        "officially",
-        "licensed"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, rumi, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B01MZBPFMO",
-      "title": "Kiss Me I'm Irish St. Patrick's Day T Shirt | Lucky Shamrock Funny St Patricks Day Shirts | Graphic T Shirts for Men & Women",
-      "link": "https://www.amazon.com/Patricks-Shamrock-Graphic-Perfect-Novelty/dp/B01MZBPFMO/ref=zg_bs_g_9056987011_d_sccl_29/141-5031156-9793514",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-17T06:46:12.791813Z",
-      "keywords": [
-        "kiss",
-        "i'm",
-        "irish",
-        "patrick's",
-        "day",
-        "lucky",
-        "shamrock",
-        "patricks",
-        "shirts",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kiss, i'm, irish, patrick's, day, lucky, shamrock, patricks, shirts, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0D8K32DNN",
-      "title": "Custom Front & Back Print T-Shirt with Your Image for Men, Women and Kids by Modify by Amazon Merch on Demand",
-      "link": "https://www.amazon.com/T-Shirt-Modify-Amazon-Merch-Demand/dp/B0D8K32DNN",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-17T06:46:12.791813Z",
-      "keywords": [
+        "carpesun",
         "custom",
-        "front",
-        "back",
-        "print",
-        "your",
-        "image",
+        "shirts",
         "women",
-        "modify",
-        "amazon",
-        "merch",
-        "demand"
+        "unisex",
+        "adults",
+        "design",
+        "your",
+        "own",
+        "customized",
+        "photo",
+        "text"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: custom, front, back, print, your, image, women, modify, amazon, merch, demand. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: carpesun, custom, shirts, women, unisex, adults, design, your, own, customized, photo, text. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
