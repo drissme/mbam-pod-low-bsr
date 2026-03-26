@@ -1,148 +1,28 @@
 {
-  "generated_at": "2026-03-25T06:45:51.096460Z",
+  "generated_at": "2026-03-26T06:53:05.436293Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DVYNMS4X",
-      "title": "CARPESUN Custom T-Shirts for Men Women, Unisex T-Shirt for Adults Design Your Own, Customized Photo Text Logo Gift",
-      "link": "https://www.amazon.com/CARPESUN-T-Shirts-T-Shirt-Customized-X-Large/dp/B0DVYNMS4X/ref=zg_bs_g_9056987011_d_sccl_16/140-6342243-0666840",
-      "current_rank": 16,
+      "asin": "B0CCWZ8GVF",
+      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
+      "link": "https://www.amazon.com/INTO-AM-Graphic-Trippy-Printed/dp/B0CCWZ8GVF/ref=zg_bs_g_9056987011_d_sccl_12/136-7902152-3279669",
+      "current_rank": 12,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-25T06:45:50.999387Z",
+      "first_seen": "2026-03-26T06:53:05.341336Z",
       "keywords": [
-        "carpesun",
-        "custom",
+        "into",
         "shirts",
-        "women",
-        "unisex",
-        "adults",
-        "design",
-        "your",
-        "own",
-        "customized",
-        "photo",
-        "text"
+        "4xl",
+        "premium",
+        "quality",
+        "unique",
+        "art",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: carpesun, custom, shirts, women, unisex, adults, design, your, own, customized, photo, text. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FGCYW1M5",
-      "title": "Women No Kings Fight Oligarchy Feminist Patriot 4th of July T-Shirt",
-      "link": "https://www.amazon.com/No-Kings-Fight-Oligarchy-Feminist/dp/B0FGCYW1M5/ref=zg_bs_g_9056987011_d_sccl_19/140-6342243-0666840",
-      "current_rank": 19,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-25T06:45:50.999387Z",
-      "keywords": [
-        "women",
-        "kings",
-        "fight",
-        "oligarchy",
-        "feminist",
-        "patriot",
-        "4th",
-        "july"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: women, kings, fight, oligarchy, feminist, patriot, 4th, july. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0F3NWV73B",
-      "title": "The Stone was Rolled Away He is Alive Retro Christian Easter T-Shirt",
-      "link": "https://www.amazon.com/Stone-Rolled-Christian-Easter-T-Shirt/dp/B0F3NWV73B/ref=zg_bs_g_9056987011_d_sccl_25/140-6342243-0666840",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-25T06:45:50.999387Z",
-      "keywords": [
-        "stone",
-        "was",
-        "rolled",
-        "away",
-        "alive",
-        "christian",
-        "easter"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: stone, was, rolled, away, alive, christian, easter. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FC5Q1MSM",
-      "title": "No Kings No Dictators No Oligarchs No Felon President T-Shirt",
-      "link": "https://www.amazon.com/No-Kings-Dictators-Oligarchs-Felon/dp/B0FC5Q1MSM/ref=zg_bs_g_9056987011_d_sccl_27/140-6342243-0666840",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-25T06:45:50.999387Z",
-      "keywords": [
-        "kings",
-        "dictators",
-        "oligarchs",
-        "felon",
-        "president"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kings, dictators, oligarchs, felon, president. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FVYGVDKC",
-      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
-      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYGVDKC/ref=zg_bs_g_9056987011_d_sccl_28/140-6342243-0666840",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-25T06:45:50.999387Z",
-      "keywords": [
-        "iudam",
-        "mens",
-        "loose",
-        "crew",
-        "neck",
-        "palm",
-        "tree",
-        "summer",
-        "shirts"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0G7S4HJC7",
-      "title": "Baseball Life Style 101 Apparel Youth Drip Baseball Boys Kid T-Shirt",
-      "link": "https://www.amazon.com/Baseball-Life-Style-Apparel-T-Shirt/dp/B0G7S4HJC7/ref=zg_bs_g_9056987011_d_sccl_29/140-6342243-0666840",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-25T06:45:50.999387Z",
-      "keywords": [
-        "baseball",
-        "life",
-        "style",
-        "101",
-        "drip",
-        "boys",
-        "kid"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: baseball, life, style, 101, drip, boys, kid. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CXVDLCDX",
-      "title": "When Injustice Becomes Law Resistance Becomes Duty RBG Quote T-Shirt",
-      "link": "https://www.amazon.com/Injustice-Becomes-Resistance-RBG-T-Shirt/dp/B0CXVDLCDX/ref=zg_bs_g_9056987011_d_sccl_30/140-6342243-0666840",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-03-25T06:45:50.999387Z",
-      "keywords": [
-        "when",
-        "injustice",
-        "becomes",
-        "law",
-        "resistance",
-        "duty",
-        "rbg",
-        "quote"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: when, injustice, becomes, law, resistance, duty, rbg, quote. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
