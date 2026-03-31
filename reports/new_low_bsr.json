@@ -1,67 +1,93 @@
 {
-  "generated_at": "2026-03-30T07:11:41.196680Z",
+  "generated_at": "2026-03-31T06:58:19.208399Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07KWJZ7BP",
-      "title": "Nintendo Super Mario Luigi Paint Splatter Action T-Shirt T-Shirt",
-      "link": "https://www.amazon.com/Nintendo-Super-Mario-Splatter-T-Shirt/dp/B07KWJZ7BP/ref=zg_bs_g_9056987011_d_sccl_23/136-4316859-4286601",
-      "current_rank": 23,
+      "asin": "B089DV7HF9",
+      "title": "Grunt Style American Acid Men's T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-X-Large/dp/B089DV7HF9/ref=zg_bs_g_9056987011_d_sccl_12/145-7403202-5628358",
+      "current_rank": 12,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-30T07:11:41.101691Z",
+      "first_seen": "2026-03-31T06:58:19.120013Z",
       "keywords": [
-        "nintendo",
-        "super",
-        "mario",
-        "luigi",
-        "paint",
-        "splatter",
-        "action"
+        "grunt",
+        "style",
+        "american",
+        "acid"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nintendo, super, mario, luigi, paint, splatter, action. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, acid. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FVYJ5JCY",
-      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
-      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYJ5JCY/ref=zg_bs_g_9056987011_d_sccl_28/136-4316859-4286601",
-      "current_rank": 28,
+      "asin": "B0DWKPP4PC",
+      "title": "Easter Cross He is Risen Jesus Christian Men Women Kid Youth T-Shirt",
+      "link": "https://www.amazon.com/Easter-Christian-Men-Women-T-Shirt/dp/B0DWKPP4PC/ref=zg_bs_g_9056987011_d_sccl_18/145-7403202-5628358",
+      "current_rank": 18,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-30T07:11:41.101691Z",
+      "first_seen": "2026-03-31T06:58:19.120013Z",
       "keywords": [
-        "iudam",
-        "mens",
-        "loose",
-        "crew",
-        "neck",
-        "palm",
-        "tree",
-        "summer",
-        "shirts"
+        "easter",
+        "cross",
+        "risen",
+        "jesus",
+        "christian",
+        "women",
+        "kid"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: easter, cross, risen, jesus, christian, women, kid. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07WF98979",
-      "title": "Super Mario Rosalina and Luma Striped Background Portrait T-Shirt",
-      "link": "https://www.amazon.com/Rosalina-Striped-Background-Portrait-T-Shirt/dp/B07WF98979/ref=zg_bs_g_9056987011_d_sccl_29/136-4316859-4286601",
+      "asin": "B09XFG2T7G",
+      "title": "Grunt Style American Reaper 2.0 Men's T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-Midnight/dp/B09XFG2T7G/ref=zg_bs_g_9056987011_d_sccl_22/145-7403202-5628358",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-31T06:58:19.120013Z",
+      "keywords": [
+        "grunt",
+        "style",
+        "american",
+        "reaper"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, reaper. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DST2HMGC",
+      "title": "Baseball Drip Ice Cream Sprinkles Baseball Glove T-Shirt",
+      "link": "https://www.amazon.com/Baseball-Drip-Ice-Cream-Sprinkles/dp/B0DST2HMGC/ref=zg_bs_g_9056987011_d_sccl_27/145-7403202-5628358",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-03-31T06:58:19.120013Z",
+      "keywords": [
+        "baseball",
+        "drip",
+        "ice",
+        "cream",
+        "sprinkles",
+        "glove"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: baseball, drip, ice, cream, sprinkles, glove. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DX95R7S7",
+      "title": "Peeps Easter Chillin' with My Peeps Bunnies T-Shirt",
+      "link": "https://www.amazon.com/Peeps-Easter-Chillin-Bunnies-T-Shirt/dp/B0DX95R7S7/ref=zg_bs_g_9056987011_d_sccl_29/145-7403202-5628358",
       "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-03-30T07:11:41.101691Z",
+      "first_seen": "2026-03-31T06:58:19.120013Z",
       "keywords": [
-        "super",
-        "mario",
-        "rosalina",
-        "luma",
-        "striped",
-        "background",
-        "portrait"
+        "peeps",
+        "easter",
+        "chillin'",
+        "bunnies"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: super, mario, rosalina, luma, striped, background, portrait. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: peeps, easter, chillin', bunnies. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
