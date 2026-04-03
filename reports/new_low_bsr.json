@@ -1,63 +1,43 @@
 {
-  "generated_at": "2026-04-02T06:56:45.752235Z",
+  "generated_at": "2026-04-03T06:53:34.022273Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0F49L7MQF",
-      "title": "NASA Artemis II Mission Patch Worm Logo T-Shirt",
-      "link": "https://www.amazon.com/NASA-Artemis-II-Mission-T-Shirt/dp/B0F49L7MQF/ref=zg_bs_g_9056987011_d_sccl_25/131-5657795-2444847",
-      "current_rank": 25,
+      "asin": "B0GKYFRQR5",
+      "title": "Artemis Launch to The Moon T-Shirt",
+      "link": "https://www.amazon.com/Space-Solar-System-Artemis-T-Shirt/dp/B0GKYFRQR5/ref=zg_bs_g_9056987011_d_sccl_15/130-0279330-1160178",
+      "current_rank": 15,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-02T06:56:45.669796Z",
+      "first_seen": "2026-04-03T06:53:33.924720Z",
       "keywords": [
-        "nasa",
         "artemis",
+        "launch",
+        "moon"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: artemis, launch, moon. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0BXFHPY9W",
+      "title": "Artemis 2 Route Map SLS Rocket Launch Mission To The Moon T-Shirt",
+      "link": "https://www.amazon.com/Artemis-Route-Rocket-Launch-Mission/dp/B0BXFHPY9W/ref=zg_bs_g_9056987011_d_sccl_19/130-0279330-1160178",
+      "current_rank": 19,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-03T06:53:33.924720Z",
+      "keywords": [
+        "artemis",
+        "route",
+        "map",
+        "sls",
+        "rocket",
+        "launch",
         "mission",
-        "patch",
-        "worm",
-        "logo"
+        "moon"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nasa, artemis, mission, patch, worm, logo. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0BS554D5Q",
-      "title": "Star Wars Classic Characters Easter Eggs Spring T-Shirt",
-      "link": "https://www.amazon.com/Classic-Characters-Easter-Spring-T-Shirt/dp/B0BS554D5Q/ref=zg_bs_g_9056987011_d_sccl_27/131-5657795-2444847",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-02T06:56:45.669796Z",
-      "keywords": [
-        "star",
-        "wars",
-        "characters",
-        "easter",
-        "eggs",
-        "spring"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, characters, easter, eggs, spring. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CYC4RXMC",
-      "title": "He is Risen Jesus Christian Happy Easter Women Kids Girls T-Shirt",
-      "link": "https://www.amazon.com/He-Risen-Jesus-Christian-Easter/dp/B0CYC4RXMC/ref=zg_bs_g_9056987011_d_sccl_30/131-5657795-2444847",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-02T06:56:45.669796Z",
-      "keywords": [
-        "risen",
-        "jesus",
-        "christian",
-        "happy",
-        "easter",
-        "women",
-        "girls"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: risen, jesus, christian, happy, easter, women, girls. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: artemis, route, map, sls, rocket, launch, mission, moon. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
