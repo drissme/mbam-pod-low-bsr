@@ -1,145 +1,64 @@
 {
-  "generated_at": "2026-04-09T07:06:12.714560Z",
+  "generated_at": "2026-04-10T07:11:44.423564Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0C958ZQ1L",
-      "title": "INTO THE AM Graphic Tees for Men S - 4XL Premium Short Sleeve Colorful T-Shirts Trippy Space Designs",
-      "link": "https://www.amazon.com/INTO-AM-Tranquil-Ascent-Tshirt/dp/B0C958ZQ1L/ref=zg_bs_g_9056987011_d_sccl_8/141-4706112-9633613",
-      "current_rank": 8,
+      "asin": "B0GWFLJ9QX",
+      "title": "Michigan Wolverines National Champs 2026 Basketball Icon T-Shirt",
+      "link": "https://www.amazon.com/Michigan-Wolverines-National-Basketball-T-Shirt/dp/B0GWFLJ9QX/ref=zg_bs_g_9056987011_d_sccl_11/143-7759785-9089353",
+      "current_rank": 11,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-09T07:06:12.617371Z",
+      "first_seen": "2026-04-10T07:11:44.338963Z",
       "keywords": [
-        "into",
-        "tees",
-        "4xl",
-        "premium",
-        "colorful",
-        "shirts",
-        "trippy",
-        "space",
-        "designs"
+        "michigan",
+        "wolverines",
+        "national",
+        "champs",
+        "2026",
+        "basketball",
+        "icon"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, tees, 4xl, premium, colorful, shirts, trippy, space, designs. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: michigan, wolverines, national, champs, 2026, basketball, icon. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B085QXXLSR",
-      "title": "Pimento Cheese Golf Dad T-Shirt",
-      "link": "https://www.amazon.com/Pimento-Cheese-Golf-Dad-T-Shirt/dp/B085QXXLSR/ref=zg_bs_g_9056987011_d_sccl_23/141-4706112-9633613",
-      "current_rank": 23,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-09T07:06:12.617371Z",
-      "keywords": [
-        "pimento",
-        "cheese",
-        "golf",
-        "dad"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: pimento, cheese, golf, dad. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GCHCF1WT",
-      "title": "Kpop Demon Hunters Birthday Girl Adorable Chibi Group Shot T-Shirt",
-      "link": "https://www.amazon.com/Demon-Hunters-Birthday-Adorable-T-Shirt/dp/B0GCHCF1WT/ref=zg_bs_g_9056987011_d_sccl_24/141-4706112-9633613",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-09T07:06:12.617371Z",
-      "keywords": [
-        "kpop",
-        "demon",
-        "hunters",
-        "birthday",
-        "girl",
-        "adorable",
-        "chibi",
-        "group",
-        "shot"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, birthday, girl, adorable, chibi, group, shot. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07XKWP47R",
-      "title": "Customized T-Shirt, Upload Photos, Type Text, Custom Gifts, Personalized with Your Own Design",
-      "link": "https://www.amazon.com/Customized-T-Shirt-Upload-Photos-Personalized/dp/B07XKWP47R/ref=zg_bs_g_9056987011_d_sccl_27/141-4706112-9633613",
+      "asin": "B07QKPJ2PV",
+      "title": "Marvel The Amazing Spider-Man Vintage Comic Poster T-Shirt",
+      "link": "https://www.amazon.com/Marvel-Amazing-Spider-Man-Vintage-T-Shirt/dp/B07QKPJ2PV/ref=zg_bs_g_9056987011_d_sccl_27/143-7759785-9089353",
       "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-09T07:06:12.617371Z",
+      "first_seen": "2026-04-10T07:11:44.338963Z",
       "keywords": [
-        "customized",
-        "upload",
-        "photos",
-        "type",
-        "text",
-        "custom",
-        "gifts",
-        "personalized",
-        "your",
-        "own",
-        "design"
+        "marvel",
+        "amazing",
+        "spider",
+        "man",
+        "comic",
+        "poster"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: customized, upload, photos, type, text, custom, gifts, personalized, your, own, design. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, amazing, spider, man, comic, poster. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09XWKQNMC",
-      "title": "Grunt Style American Acid Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-XLarge/dp/B09XWKQNMC/ref=zg_bs_g_9056987011_d_sccl_28/141-4706112-9633613",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-09T07:06:12.617371Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "american",
-        "acid"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, acid. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B08JRX28CS",
-      "title": "Disney Mickey & Friends Mickey Mouse Vintage Portrait T-Shirt",
-      "link": "https://www.amazon.com/Disney-Friends-Vintage-Portrait-T-Shirt/dp/B08JRX28CS/ref=zg_bs_g_9056987011_d_sccl_29/141-4706112-9633613",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-09T07:06:12.617371Z",
-      "keywords": [
-        "disney",
-        "mickey",
-        "friends",
-        "mouse",
-        "portrait"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: disney, mickey, friends, mouse, portrait. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0D44RNRYH",
-      "title": "The King of Pop Michael Jackson MJ-002 Black Cotton 100% T-Shirt, Unisex-Adults, Small, Short Sleeve",
-      "link": "https://www.amazon.com/The-king-of-pop-MJ-002/dp/B0D44RNRYH/ref=zg_bs_g_9056987011_d_sccl_30/141-4706112-9633613",
+      "asin": "B09ZJHWY1G",
+      "title": "Funny T Shirts for Men Food Joke Tees for Guys with Funny Sayings Sarcastic Graphic T Shirts",
+      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Synonym-Cinnamon/dp/B09ZJHWY1G/ref=zg_bs_g_9056987011_d_sccl_30/143-7759785-9089353",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-09T07:06:12.617371Z",
+      "first_seen": "2026-04-10T07:11:44.338963Z",
       "keywords": [
-        "king",
-        "pop",
-        "michael",
-        "jackson",
-        "002",
-        "black",
-        "cotton",
-        "100",
-        "unisex",
-        "adults",
-        "small"
+        "shirts",
+        "food",
+        "joke",
+        "tees",
+        "guys",
+        "sayings",
+        "sarcastic"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: king, pop, michael, jackson, 002, black, cotton, 100, unisex, adults, small. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: shirts, food, joke, tees, guys, sayings, sarcastic. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
