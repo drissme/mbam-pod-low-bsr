@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-15T07:14:03.588963Z",
+  "generated_at": "2026-04-16T07:14:47.159388Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0993HNV4Y",
+      "asin": "B0993H5Z6F",
       "title": "YININF Mens Hipster Hip Hop Short Sleeve Print T-Shirt Shirts Men",
-      "link": "https://www.amazon.com/YININF-Mens-Hipster-Hip-Hop-Urban/dp/B0993HNV4Y/ref=zg_bs_g_9056987011_d_sccl_23/143-8594463-0044032",
-      "current_rank": 23,
+      "link": "https://www.amazon.com/YININF-Hipster-Graphic-Longline-T-Shirt/dp/B0993H5Z6F/ref=zg_bs_g_9056987011_d_sccl_15/139-2240374-5117458",
+      "current_rank": 15,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-15T07:14:03.502341Z",
+      "first_seen": "2026-04-16T07:14:47.067660Z",
       "keywords": [
         "yininf",
         "mens",
@@ -22,6 +22,66 @@
         "shirts"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: yininf, mens, hipster, hip, hop, print, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GRK633Z4",
+      "title": "Project Hail Mary Fist My Bump Rocky The Alien Poster T-Shirt",
+      "link": "https://www.amazon.com/Project-Hail-Mary-Poster-T-Shirt/dp/B0GRK633Z4/ref=zg_bs_g_9056987011_d_sccl_24/139-2240374-5117458",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-16T07:14:47.067660Z",
+      "keywords": [
+        "project",
+        "hail",
+        "mary",
+        "fist",
+        "bump",
+        "rocky",
+        "alien",
+        "poster"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: project, hail, mary, fist, bump, rocky, alien, poster. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B01N4PMNFM",
+      "title": "Add Your Own and Text Design Custom Personalized Adult T-Shirt Tee",
+      "link": "https://www.amazon.com/Design-Customizable-Personalized-Adult-T-Shirt/dp/B01N4PMNFM/ref=zg_bs_g_9056987011_d_sccl_28/139-2240374-5117458",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-16T07:14:47.067660Z",
+      "keywords": [
+        "add",
+        "your",
+        "own",
+        "text",
+        "design",
+        "custom",
+        "personalized"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: add, your, own, text, design, custom, personalized. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09GMBP8H9",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMBP8H9/ref=zg_bs_g_9056987011_d_sccl_29/139-2240374-5117458",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-16T07:14:47.067660Z",
+      "keywords": [
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "crewneck",
+        "print",
+        "top",
+        "casual",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
