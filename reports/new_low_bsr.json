@@ -1,182 +1,47 @@
 {
-  "generated_at": "2026-04-18T06:53:22.690612Z",
+  "generated_at": "2026-04-19T07:03:25.504908Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0GP89W4GG",
-      "title": "Michael Jackson Thriller Album Cover Graphic T Shirt Men or Women",
-      "link": "https://www.amazon.com/Michael-Jackson-Thriller-Album-Graphic/dp/B0GP89W4GG/ref=zg_bs_g_9056987011_d_sccl_10/133-3027637-7940050",
-      "current_rank": 10,
+      "asin": "B0CLYM28HN",
+      "title": "Mens Later Alligator T Shirt Funny Gator Joke Saying Tee for Guys",
+      "link": "https://www.amazon.com/Alligator-Saying-Shirts-Sarcastic-Novelty/dp/B0CLYM28HN/ref=zg_bs_g_9056987011_d_sccl_18/133-5793227-6054348",
+      "current_rank": 18,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-18T06:53:22.596761Z",
+      "first_seen": "2026-04-19T07:03:25.409355Z",
       "keywords": [
-        "michael",
-        "jackson",
-        "thriller",
-        "album",
-        "cover",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: michael, jackson, thriller, album, cover, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FS94K4ML",
-      "title": "Michael Jackson Singing Live Bad World Tour 1988 T-Shirt",
-      "link": "https://www.amazon.com/Michael-Jackson-Singing-World-T-Shirt/dp/B0FS94K4ML/ref=zg_bs_g_9056987011_d_sccl_20/133-3027637-7940050",
-      "current_rank": 20,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-18T06:53:22.596761Z",
-      "keywords": [
-        "michael",
-        "jackson",
-        "singing",
-        "live",
-        "bad",
-        "world",
-        "tour",
-        "1988"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: michael, jackson, singing, live, bad, world, tour, 1988. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FVYH1RCC",
-      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
-      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYH1RCC/ref=zg_bs_g_9056987011_d_sccl_21/133-3027637-7940050",
-      "current_rank": 21,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-18T06:53:22.596761Z",
-      "keywords": [
-        "iudam",
         "mens",
-        "loose",
-        "crew",
-        "neck",
-        "palm",
-        "tree",
-        "summer",
-        "shirts"
+        "later",
+        "alligator",
+        "gator",
+        "joke",
+        "saying",
+        "guys"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, later, alligator, gator, joke, saying, guys. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07XSNXD31",
-      "title": "Star Wars Millennium Falcon 77 Retro Diagonal Stripe Disney+ T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Millennium-Diagonal-Stripes/dp/B07XSNXD31/ref=zg_bs_g_9056987011_d_sccl_24/133-3027637-7940050",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-18T06:53:22.596761Z",
-      "keywords": [
-        "star",
-        "wars",
-        "millennium",
-        "falcon",
-        "diagonal",
-        "stripe",
-        "disney"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, millennium, falcon, diagonal, stripe, disney. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0C4FYL4VV",
-      "title": "Tuxedo Shirts for Men Novelty Graphic Funny Formal Classic Black White Tux Print Casual Wedding Bachelor Prom T-Shirt",
-      "link": "https://www.amazon.com/Tuxedo-Graphic-Novelty-Sarcastic-College/dp/B0C4FYL4VV/ref=zg_bs_g_9056987011_d_sccl_25/133-3027637-7940050",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-18T06:53:22.596761Z",
-      "keywords": [
-        "tuxedo",
-        "shirts",
-        "formal",
-        "black",
-        "white",
-        "tux",
-        "print",
-        "casual",
-        "wedding",
-        "bachelor",
-        "prom"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tuxedo, shirts, formal, black, white, tux, print, casual, wedding, bachelor, prom. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0F84YSQZ1",
-      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
-      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_26/133-3027637-7940050",
+      "asin": "B07JMLVB2Z",
+      "title": "Crazy Dog T-Shirts Hide and Seek Champion Funny Bigfoot Graphic Sarcastic Tee",
+      "link": "https://www.amazon.com/Champion-Crazy-Dog-T-Shirts-Comfortable/dp/B07JMLVB2Z/ref=zg_bs_g_9056987011_d_sccl_26/133-5793227-6054348",
       "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-18T06:53:22.596761Z",
+      "first_seen": "2026-04-19T07:03:25.409355Z",
       "keywords": [
-        "sarcastic",
-        "saying",
+        "crazy",
+        "dog",
         "shirts",
-        "husband",
-        "dad",
-        "grandpa",
-        "boyfriend",
-        "son",
-        "humor",
-        "joke"
+        "hide",
+        "seek",
+        "champion",
+        "bigfoot",
+        "sarcastic"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FS88NNT6",
-      "title": "Michael Jackson Live Bad Tour Wembley 1988 T-Shirt",
-      "link": "https://www.amazon.com/Michael-Jackson-Live-Wembley-T-Shirt/dp/B0FS88NNT6/ref=zg_bs_g_9056987011_d_sccl_27/133-3027637-7940050",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-18T06:53:22.596761Z",
-      "keywords": [
-        "michael",
-        "jackson",
-        "live",
-        "bad",
-        "tour",
-        "wembley",
-        "1988"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: michael, jackson, live, bad, tour, wembley, 1988. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07JR33NHQ",
-      "title": "Grunt Style 1776 Flag Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Color-Medium/dp/B07JR33NHQ/ref=zg_bs_g_9056987011_d_sccl_28/133-3027637-7940050",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-18T06:53:22.596761Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "1776",
-        "flag"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, 1776, flag. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FSGNCR7C",
-      "title": "Michael Jackson at LA Home The Jackson 5 1975 T-Shirt",
-      "link": "https://www.amazon.com/Michael-Jackson-Home-1975-T-Shirt/dp/B0FSGNCR7C/ref=zg_bs_g_9056987011_d_sccl_29/133-3027637-7940050",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-18T06:53:22.596761Z",
-      "keywords": [
-        "michael",
-        "jackson",
-        "home",
-        "1975"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: michael, jackson, home, 1975. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, shirts, hide, seek, champion, bigfoot, sarcastic. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
