@@ -1,37 +1,118 @@
 {
-  "generated_at": "2026-04-21T07:17:37.996704Z",
+  "generated_at": "2026-04-22T07:16:05.014522Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DYVRTHBS",
-      "title": "Grunt Style 1776 Flag Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Midnight-X-Large/dp/B0DYVRTHBS/ref=zg_bs_g_9056987011_d_sccl_24/142-5905785-4849706",
+      "asin": "B0DKPGM126",
+      "title": "Michael Jackson Bad World Tour 1988 Black and White Splatter T-Shirt",
+      "link": "https://www.amazon.com/Michael-Jackson-World-Splatter-T-Shirt/dp/B0DKPGM126/ref=zg_bs_g_9056987011_d_sccl_18/140-3542793-9213333",
+      "current_rank": 18,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-22T07:16:04.923779Z",
+      "keywords": [
+        "michael",
+        "jackson",
+        "bad",
+        "world",
+        "tour",
+        "1988",
+        "black",
+        "white",
+        "splatter"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: michael, jackson, bad, world, tour, 1988, black, white, splatter. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0G59TRRC1",
+      "title": "Piano Beat it Music Cosplay T-Shirt",
+      "link": "https://www.amazon.com/Piano-Beat-Music-Cosplay-T-Shirt/dp/B0G59TRRC1/ref=zg_bs_g_9056987011_d_sccl_20/140-3542793-9213333",
+      "current_rank": 20,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-22T07:16:04.923779Z",
+      "keywords": [
+        "piano",
+        "beat",
+        "music",
+        "cosplay"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: piano, beat, music, cosplay. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CM9LPWVM",
+      "title": "Mens Later Alligator T Shirt Funny Gator Joke Saying Tee for Guys",
+      "link": "https://www.amazon.com/Alligator-Saying-Sarcastic-Apparel-Novelty/dp/B0CM9LPWVM/ref=zg_bs_g_9056987011_d_sccl_22/140-3542793-9213333",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-22T07:16:04.923779Z",
+      "keywords": [
+        "mens",
+        "later",
+        "alligator",
+        "gator",
+        "joke",
+        "saying",
+        "guys"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, later, alligator, gator, joke, saying, guys. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GTQD8DT9",
+      "title": "Michael Jackson 703 Back Printed T-Shirt",
+      "link": "https://www.amazon.com/Historical-Images-American-Greats-Jackson_703_Back/dp/B0GTQD8DT9/ref=zg_bs_g_9056987011_d_sccl_24/140-3542793-9213333",
       "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-21T07:17:37.903407Z",
+      "first_seen": "2026-04-22T07:16:04.923779Z",
       "keywords": [
-        "grunt",
-        "style",
-        "1776",
-        "flag"
+        "michael",
+        "jackson",
+        "703",
+        "back",
+        "printed"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, 1776, flag. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: michael, jackson, 703, back, printed. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0D4QB73JB",
-      "title": "MJ-003 T-Shirt",
-      "link": "https://www.amazon.com/The-king-of-pop-T-Shirt/dp/B0D4QB73JB/ref=zg_bs_g_9056987011_d_sccl_26/142-5905785-4849706",
-      "current_rank": 26,
+      "asin": "B08614SFJ6",
+      "title": "I Love (Heart) MJ T-Shirt",
+      "link": "https://www.amazon.com/I-Love-Heart-MJ-T-Shirt/dp/B08614SFJ6/ref=zg_bs_g_9056987011_d_sccl_27/140-3542793-9213333",
+      "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-21T07:17:37.903407Z",
+      "first_seen": "2026-04-22T07:16:04.923779Z",
       "keywords": [
-        "003"
+        "love",
+        "heart"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 003. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: love, heart. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GXHX234G",
+      "title": "Music Legend Graphic T-Shirt | Vintage Pop Icon Tribute Tee | Greatest Entertainer Fan Gift | Retro Concert Style Fan Apparel",
+      "link": "https://www.amazon.com/Graphic-T-Shirt-Vintage-Greatest-Entertainer/dp/B0GXHX234G/ref=zg_bs_g_9056987011_d_sccl_30/140-3542793-9213333",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-22T07:16:04.923779Z",
+      "keywords": [
+        "music",
+        "legend",
+        "pop",
+        "icon",
+        "tribute",
+        "greatest",
+        "entertainer",
+        "fan",
+        "gift",
+        "concert",
+        "style"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: music, legend, pop, icon, tribute, greatest, entertainer, fan, gift, concert, style. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
