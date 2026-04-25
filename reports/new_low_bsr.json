@@ -1,48 +1,45 @@
 {
-  "generated_at": "2026-04-24T07:21:29.384900Z",
+  "generated_at": "2026-04-25T06:58:58.700147Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B09NKLPNTS",
-      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
-      "link": "https://www.amazon.com/Goodstoworld-Muscle-Sleeve-Printed-Clothing/dp/B09NKLPNTS/ref=zg_bs_g_9056987011_d_sccl_28/131-1879215-0819948",
-      "current_rank": 28,
+      "asin": "B08C83Z89N",
+      "title": "Star Wars Millennium Falcon Retro May The 4th Be With You T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Millennium-Falcon-T-Shirt/dp/B08C83Z89N/ref=zg_bs_g_9056987011_d_sccl_25/144-3042114-6663156",
+      "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-24T07:21:29.291057Z",
-      "keywords": [
-        "goodstoworld",
-        "unisex",
-        "fake",
-        "abs",
-        "shirts",
-        "shredded",
-        "chest",
-        "printed",
-        "costume",
-        "tees"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07QPC5P39",
-      "title": "Star Wars May The Fourth Be With You Vintage Disney+ T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Fourth-Vintage-T-Shirt/dp/B07QPC5P39/ref=zg_bs_g_9056987011_d_sccl_30/131-1879215-0819948",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-24T07:21:29.291057Z",
+      "first_seen": "2026-04-25T06:58:58.606545Z",
       "keywords": [
         "star",
         "wars",
+        "millennium",
+        "falcon",
         "may",
-        "fourth",
-        "you",
-        "disney"
+        "4th",
+        "you"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, may, fourth, you, disney. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, millennium, falcon, may, 4th, you. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DR6JLRBS",
+      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
+      "link": "https://www.amazon.com/TeeUnion-T-Shirt-Classic-Concert-Festival/dp/B0DR6JLRBS/ref=zg_bs_g_9056987011_d_sccl_27/144-3042114-6663156",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-25T06:58:58.606545Z",
+      "keywords": [
+        "teeunion",
+        "tuxedo",
+        "party",
+        "concert",
+        "festival",
+        "costume"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
