@@ -1,26 +1,104 @@
 {
-  "generated_at": "2026-04-26T07:13:10.359052Z",
+  "generated_at": "2026-04-27T07:59:22.548580Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DR6JBLKV",
-      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
-      "link": "https://www.amazon.com/TeeUnion-Classic-Concert-Festival-Costume/dp/B0DR6JBLKV/ref=zg_bs_g_9056987011_d_sccl_25/137-5361999-6952567",
-      "current_rank": 25,
+      "asin": "B0GXX9HLJC",
+      "title": "Jeff Dunham Detroit, MI (2026) T-Shirt",
+      "link": "https://www.amazon.com/Jeff-Dunham-Detroit-MI-T-Shirt/dp/B0GXX9HLJC/ref=zg_bs_g_9056987011_d_sccl_9/138-3128869-1053701",
+      "current_rank": 9,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-26T07:13:10.263371Z",
+      "first_seen": "2026-04-27T07:59:22.457700Z",
       "keywords": [
-        "teeunion",
-        "tuxedo",
-        "party",
-        "concert",
-        "festival",
-        "costume"
+        "jeff",
+        "dunham",
+        "detroit",
+        "2026"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: jeff, dunham, detroit, 2026. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CLYLTR44",
+      "title": "Mens Later Alligator T Shirt Funny Gator Joke Saying Tee for Guys",
+      "link": "https://www.amazon.com/Alligator-Saying-Shirts-Sarcastic-Novelty/dp/B0CLYLTR44/ref=zg_bs_g_9056987011_d_sccl_19/138-3128869-1053701",
+      "current_rank": 19,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-27T07:59:22.457700Z",
+      "keywords": [
+        "mens",
+        "later",
+        "alligator",
+        "gator",
+        "joke",
+        "saying",
+        "guys"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, later, alligator, gator, joke, saying, guys. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GXHTCRMW",
+      "title": "Music Legend Graphic T-Shirt | Vintage Pop Icon Tribute Tee | Greatest Entertainer Fan Gift | Retro Concert Style Fan Apparel",
+      "link": "https://www.amazon.com/Graphic-T-Shirt-Vintage-Greatest-Entertainer/dp/B0GXHTCRMW/ref=zg_bs_g_9056987011_d_sccl_26/138-3128869-1053701",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-27T07:59:22.457700Z",
+      "keywords": [
+        "music",
+        "legend",
+        "pop",
+        "icon",
+        "tribute",
+        "greatest",
+        "entertainer",
+        "fan",
+        "gift",
+        "concert",
+        "style"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: music, legend, pop, icon, tribute, greatest, entertainer, fan, gift, concert, style. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07Q8FK5NS",
+      "title": "STAR WARS Mos Eisley Cantina Tatooine Men's Adult Graphic Tee T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Cantina-Tatooine-Graphic/dp/B07Q8FK5NS/ref=zg_bs_g_9056987011_d_sccl_29/138-3128869-1053701",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-27T07:59:22.457700Z",
+      "keywords": [
+        "star",
+        "wars",
+        "mos",
+        "eisley",
+        "cantina",
+        "tatooine"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mos, eisley, cantina, tatooine. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07QRMV4D2",
+      "title": "Star Wars May The Fourth Be With You Tilted Logo Poster T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Fourth-Tilted-T-Shirt/dp/B07QRMV4D2/ref=zg_bs_g_9056987011_d_sccl_30/138-3128869-1053701",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-27T07:59:22.457700Z",
+      "keywords": [
+        "star",
+        "wars",
+        "may",
+        "fourth",
+        "you",
+        "tilted",
+        "logo",
+        "poster"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, may, fourth, you, tilted, logo, poster. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
