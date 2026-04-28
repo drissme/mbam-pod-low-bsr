@@ -1,104 +1,85 @@
 {
-  "generated_at": "2026-04-27T07:59:22.548580Z",
+  "generated_at": "2026-04-28T07:59:24.051446Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0GXX9HLJC",
-      "title": "Jeff Dunham Detroit, MI (2026) T-Shirt",
-      "link": "https://www.amazon.com/Jeff-Dunham-Detroit-MI-T-Shirt/dp/B0GXX9HLJC/ref=zg_bs_g_9056987011_d_sccl_9/138-3128869-1053701",
-      "current_rank": 9,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-27T07:59:22.457700Z",
-      "keywords": [
-        "jeff",
-        "dunham",
-        "detroit",
-        "2026"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: jeff, dunham, detroit, 2026. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CLYLTR44",
-      "title": "Mens Later Alligator T Shirt Funny Gator Joke Saying Tee for Guys",
-      "link": "https://www.amazon.com/Alligator-Saying-Shirts-Sarcastic-Novelty/dp/B0CLYLTR44/ref=zg_bs_g_9056987011_d_sccl_19/138-3128869-1053701",
+      "asin": "B0CMBT646W",
+      "title": "Nations of the World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
+      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBT646W/ref=zg_bs_g_9056987011_d_sccl_19/145-4633165-4539039",
       "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-27T07:59:22.457700Z",
+      "first_seen": "2026-04-28T07:59:23.955105Z",
       "keywords": [
-        "mens",
-        "later",
-        "alligator",
-        "gator",
-        "joke",
-        "saying",
-        "guys"
+        "nations",
+        "world",
+        "national",
+        "pride",
+        "flag",
+        "symbol",
+        "arms",
+        "unisex",
+        "women"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, later, alligator, gator, joke, saying, guys. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GXHTCRMW",
-      "title": "Music Legend Graphic T-Shirt | Vintage Pop Icon Tribute Tee | Greatest Entertainer Fan Gift | Retro Concert Style Fan Apparel",
-      "link": "https://www.amazon.com/Graphic-T-Shirt-Vintage-Greatest-Entertainer/dp/B0GXHTCRMW/ref=zg_bs_g_9056987011_d_sccl_26/138-3128869-1053701",
+      "asin": "B0GR262RJP",
+      "title": "The Devil Wears Prada That's All Miranda Priestly Bold Text T-Shirt",
+      "link": "https://www.amazon.com/Devil-Wears-Prada-Miranda-Priestly/dp/B0GR262RJP/ref=zg_bs_g_9056987011_d_sccl_22/145-4633165-4539039",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-28T07:59:23.955105Z",
+      "keywords": [
+        "devil",
+        "wears",
+        "prada",
+        "that's",
+        "all",
+        "miranda",
+        "priestly",
+        "bold",
+        "text"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: devil, wears, prada, that's, all, miranda, priestly, bold, text. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DVDVGFYF",
+      "title": "Star Wars The Mandalorian May The 4th Be With You Grogu T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Mandalorian-Grogu-T-Shirt/dp/B0DVDVGFYF/ref=zg_bs_g_9056987011_d_sccl_26/145-4633165-4539039",
       "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-27T07:59:22.457700Z",
+      "first_seen": "2026-04-28T07:59:23.955105Z",
       "keywords": [
-        "music",
-        "legend",
-        "pop",
-        "icon",
-        "tribute",
-        "greatest",
-        "entertainer",
-        "fan",
-        "gift",
-        "concert",
-        "style"
+        "star",
+        "wars",
+        "mandalorian",
+        "may",
+        "4th",
+        "you",
+        "grogu"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: music, legend, pop, icon, tribute, greatest, entertainer, fan, gift, concert, style. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mandalorian, may, 4th, you, grogu. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07Q8FK5NS",
-      "title": "STAR WARS Mos Eisley Cantina Tatooine Men's Adult Graphic Tee T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Cantina-Tatooine-Graphic/dp/B07Q8FK5NS/ref=zg_bs_g_9056987011_d_sccl_29/138-3128869-1053701",
+      "asin": "B07JR33NHQ",
+      "title": "Grunt Style 1776 Flag Men's T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Color-Medium/dp/B07JR33NHQ/ref=zg_bs_g_9056987011_d_sccl_29/145-4633165-4539039",
       "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-27T07:59:22.457700Z",
+      "first_seen": "2026-04-28T07:59:23.955105Z",
       "keywords": [
-        "star",
-        "wars",
-        "mos",
-        "eisley",
-        "cantina",
-        "tatooine"
+        "grunt",
+        "style",
+        "1776",
+        "flag"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mos, eisley, cantina, tatooine. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07QRMV4D2",
-      "title": "Star Wars May The Fourth Be With You Tilted Logo Poster T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Fourth-Tilted-T-Shirt/dp/B07QRMV4D2/ref=zg_bs_g_9056987011_d_sccl_30/138-3128869-1053701",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-27T07:59:22.457700Z",
-      "keywords": [
-        "star",
-        "wars",
-        "may",
-        "fourth",
-        "you",
-        "tilted",
-        "logo",
-        "poster"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, may, fourth, you, tilted, logo, poster. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, 1776, flag. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
