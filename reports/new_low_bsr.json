@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-04-28T07:59:24.051446Z",
+  "generated_at": "2026-04-29T07:53:58.346508Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CMBT646W",
-      "title": "Nations of the World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
-      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBT646W/ref=zg_bs_g_9056987011_d_sccl_19/145-4633165-4539039",
-      "current_rank": 19,
+      "asin": "B0BT749BL9",
+      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
+      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Tshirt/dp/B0BT749BL9/ref=zg_bs_g_9056987011_d_sccl_20/133-1474319-1600847",
+      "current_rank": 20,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-28T07:59:23.955105Z",
+      "first_seen": "2026-04-29T07:53:58.252090Z",
       "keywords": [
-        "nations",
-        "world",
-        "national",
-        "pride",
-        "flag",
-        "symbol",
-        "arms",
-        "unisex",
-        "women"
+        "into",
+        "shirts",
+        "4xl",
+        "premium",
+        "quality",
+        "unique",
+        "art",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GR262RJP",
-      "title": "The Devil Wears Prada That's All Miranda Priestly Bold Text T-Shirt",
-      "link": "https://www.amazon.com/Devil-Wears-Prada-Miranda-Priestly/dp/B0GR262RJP/ref=zg_bs_g_9056987011_d_sccl_22/145-4633165-4539039",
+      "asin": "B0GR23333F",
+      "title": "The Devil Wears Prada Everybody Wants to Be Us Iconic Items T-Shirt",
+      "link": "https://www.amazon.com/Devil-Wears-Prada-Everybody-T-Shirt/dp/B0GR23333F/ref=zg_bs_g_9056987011_d_sccl_22/133-1474319-1600847",
       "current_rank": 22,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-28T07:59:23.955105Z",
+      "first_seen": "2026-04-29T07:53:58.252090Z",
       "keywords": [
         "devil",
         "wears",
         "prada",
-        "that's",
-        "all",
-        "miranda",
-        "priestly",
-        "bold",
-        "text"
+        "everybody",
+        "wants",
+        "iconic",
+        "items"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: devil, wears, prada, that's, all, miranda, priestly, bold, text. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: devil, wears, prada, everybody, wants, iconic, items. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DVDVGFYF",
-      "title": "Star Wars The Mandalorian May The 4th Be With You Grogu T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Mandalorian-Grogu-T-Shirt/dp/B0DVDVGFYF/ref=zg_bs_g_9056987011_d_sccl_26/145-4633165-4539039",
-      "current_rank": 26,
+      "asin": "B092LH4ZQ7",
+      "title": "Funny Derby Day and Mint Juleps, Kentucky Horse Racing T-Shirt Small",
+      "link": "https://www.amazon.com/Derby-juleps-Kentucky-horse-racing/dp/B092LH4ZQ7/ref=zg_bs_g_9056987011_d_sccl_24/133-1474319-1600847",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-28T07:59:23.955105Z",
+      "first_seen": "2026-04-29T07:53:58.252090Z",
+      "keywords": [
+        "derby",
+        "day",
+        "mint",
+        "juleps",
+        "kentucky",
+        "horse",
+        "racing",
+        "small"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: derby, day, mint, juleps, kentucky, horse, racing, small. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0D329VCYR",
+      "title": "Star Wars The Mandalorian May The Fourth Be With You Vintage T-Shirt",
+      "link": "https://www.amazon.com/Star-Mandalorian-Fourth-Vintage-T-Shirt/dp/B0D329VCYR/ref=zg_bs_g_9056987011_d_sccl_28/133-1474319-1600847",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-29T07:53:58.252090Z",
       "keywords": [
         "star",
         "wars",
         "mandalorian",
         "may",
-        "4th",
-        "you",
-        "grogu"
+        "fourth",
+        "you"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mandalorian, may, 4th, you, grogu. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07JR33NHQ",
-      "title": "Grunt Style 1776 Flag Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Color-Medium/dp/B07JR33NHQ/ref=zg_bs_g_9056987011_d_sccl_29/145-4633165-4539039",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-28T07:59:23.955105Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "1776",
-        "flag"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, 1776, flag. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mandalorian, may, fourth, you. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
