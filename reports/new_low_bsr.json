@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-04-29T07:53:58.346508Z",
+  "generated_at": "2026-04-30T07:56:27.052853Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BT749BL9",
-      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
-      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Tshirt/dp/B0BT749BL9/ref=zg_bs_g_9056987011_d_sccl_20/133-1474319-1600847",
-      "current_rank": 20,
+      "asin": "B0CCT3YV2K",
+      "title": "True Classic Mens T-Shirts – Short Sleeve Crew Neck T Shirts for Man, Cotton Blend Plain Novelty Men's T-Shirts",
+      "link": "https://www.amazon.com/True-Classic-3-Shirt-Premium-T-Shirts/dp/B0CCT3YV2K/ref=zg_bs_g_9056987011_d_sccl_1/132-5703992-8268941",
+      "current_rank": 1,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-29T07:53:58.252090Z",
+      "first_seen": "2026-04-30T07:56:26.958101Z",
       "keywords": [
-        "into",
+        "true",
+        "mens",
         "shirts",
-        "4xl",
-        "premium",
-        "quality",
-        "unique",
-        "art",
-        "tees"
+        "crew",
+        "neck",
+        "man",
+        "cotton",
+        "blend",
+        "plain"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: true, mens, shirts, crew, neck, man, cotton, blend, plain. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GR23333F",
-      "title": "The Devil Wears Prada Everybody Wants to Be Us Iconic Items T-Shirt",
-      "link": "https://www.amazon.com/Devil-Wears-Prada-Everybody-T-Shirt/dp/B0GR23333F/ref=zg_bs_g_9056987011_d_sccl_22/133-1474319-1600847",
-      "current_rank": 22,
+      "asin": "B0GFPJ4XDZ",
+      "title": "The Devil Wears Prada Judging You Miranda Priestly Pop Art T-Shirt",
+      "link": "https://www.amazon.com/Devil-Wears-Prada-Judging-Priestly/dp/B0GFPJ4XDZ/ref=zg_bs_g_9056987011_d_sccl_23/132-5703992-8268941",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-29T07:53:58.252090Z",
+      "first_seen": "2026-04-30T07:56:26.958101Z",
       "keywords": [
         "devil",
         "wears",
         "prada",
-        "everybody",
-        "wants",
-        "iconic",
-        "items"
+        "judging",
+        "you",
+        "miranda",
+        "priestly",
+        "pop",
+        "art"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: devil, wears, prada, everybody, wants, iconic, items. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: devil, wears, prada, judging, you, miranda, priestly, pop, art. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B092LH4ZQ7",
-      "title": "Funny Derby Day and Mint Juleps, Kentucky Horse Racing T-Shirt Small",
-      "link": "https://www.amazon.com/Derby-juleps-Kentucky-horse-racing/dp/B092LH4ZQ7/ref=zg_bs_g_9056987011_d_sccl_24/133-1474319-1600847",
+      "asin": "B0D328PRYV",
+      "title": "Star Wars May The Fourth Be With You Vintage Color Logo T-Shirt",
+      "link": "https://www.amazon.com/Star-Fourth-Vintage-Color-T-Shirt/dp/B0D328PRYV/ref=zg_bs_g_9056987011_d_sccl_24/132-5703992-8268941",
       "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-29T07:53:58.252090Z",
-      "keywords": [
-        "derby",
-        "day",
-        "mint",
-        "juleps",
-        "kentucky",
-        "horse",
-        "racing",
-        "small"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: derby, day, mint, juleps, kentucky, horse, racing, small. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0D329VCYR",
-      "title": "Star Wars The Mandalorian May The Fourth Be With You Vintage T-Shirt",
-      "link": "https://www.amazon.com/Star-Mandalorian-Fourth-Vintage-T-Shirt/dp/B0D329VCYR/ref=zg_bs_g_9056987011_d_sccl_28/133-1474319-1600847",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-29T07:53:58.252090Z",
+      "first_seen": "2026-04-30T07:56:26.958101Z",
       "keywords": [
         "star",
         "wars",
-        "mandalorian",
         "may",
         "fourth",
-        "you"
+        "you",
+        "logo"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mandalorian, may, fourth, you. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, may, fourth, you, logo. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09WZHW6DN",
+      "title": "Funny Horse Racing Vintage Giddythefup KY Derby Horse T-Shirt Small",
+      "link": "https://www.amazon.com/Horse-Racing-Vintage-Giddythefup-Derby/dp/B09WZHW6DN/ref=zg_bs_g_9056987011_d_sccl_28/132-5703992-8268941",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-04-30T07:56:26.958101Z",
+      "keywords": [
+        "horse",
+        "racing",
+        "giddythefup",
+        "derby",
+        "small"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: horse, racing, giddythefup, derby, small. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
