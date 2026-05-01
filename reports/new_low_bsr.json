@@ -1,85 +1,119 @@
 {
-  "generated_at": "2026-04-30T07:56:27.052853Z",
+  "generated_at": "2026-05-01T07:55:24.373880Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CCT3YV2K",
-      "title": "True Classic Mens T-Shirts – Short Sleeve Crew Neck T Shirts for Man, Cotton Blend Plain Novelty Men's T-Shirts",
-      "link": "https://www.amazon.com/True-Classic-3-Shirt-Premium-T-Shirts/dp/B0CCT3YV2K/ref=zg_bs_g_9056987011_d_sccl_1/132-5703992-8268941",
-      "current_rank": 1,
+      "asin": "B0BX4HJW2F",
+      "title": "Star Wars Classic Epic Lightsabers Jedi Force Logo T-Shirt",
+      "link": "https://www.amazon.com/Star-Classic-Lightsabers-Force-T-Shirt/dp/B0BX4HJW2F/ref=zg_bs_g_9056987011_d_sccl_19/143-7262408-2890803",
+      "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-30T07:56:26.958101Z",
-      "keywords": [
-        "true",
-        "mens",
-        "shirts",
-        "crew",
-        "neck",
-        "man",
-        "cotton",
-        "blend",
-        "plain"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: true, mens, shirts, crew, neck, man, cotton, blend, plain. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GFPJ4XDZ",
-      "title": "The Devil Wears Prada Judging You Miranda Priestly Pop Art T-Shirt",
-      "link": "https://www.amazon.com/Devil-Wears-Prada-Judging-Priestly/dp/B0GFPJ4XDZ/ref=zg_bs_g_9056987011_d_sccl_23/132-5703992-8268941",
-      "current_rank": 23,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-30T07:56:26.958101Z",
-      "keywords": [
-        "devil",
-        "wears",
-        "prada",
-        "judging",
-        "you",
-        "miranda",
-        "priestly",
-        "pop",
-        "art"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: devil, wears, prada, judging, you, miranda, priestly, pop, art. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0D328PRYV",
-      "title": "Star Wars May The Fourth Be With You Vintage Color Logo T-Shirt",
-      "link": "https://www.amazon.com/Star-Fourth-Vintage-Color-T-Shirt/dp/B0D328PRYV/ref=zg_bs_g_9056987011_d_sccl_24/132-5703992-8268941",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-04-30T07:56:26.958101Z",
+      "first_seen": "2026-05-01T07:55:24.281717Z",
       "keywords": [
         "star",
         "wars",
-        "may",
-        "fourth",
-        "you",
+        "epic",
+        "lightsabers",
+        "jedi",
+        "force",
         "logo"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, may, fourth, you, logo. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, epic, lightsabers, jedi, force, logo. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09WZHW6DN",
-      "title": "Funny Horse Racing Vintage Giddythefup KY Derby Horse T-Shirt Small",
-      "link": "https://www.amazon.com/Horse-Racing-Vintage-Giddythefup-Derby/dp/B09WZHW6DN/ref=zg_bs_g_9056987011_d_sccl_28/132-5703992-8268941",
-      "current_rank": 28,
+      "asin": "B07PKKVTSF",
+      "title": "Star Wars Boba Trooper Vader Chewie Chibi Graphic T-Shirt T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Trooper-Graphic-T-Shirt/dp/B07PKKVTSF/ref=zg_bs_g_9056987011_d_sccl_20/143-7262408-2890803",
+      "current_rank": 20,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-04-30T07:56:26.958101Z",
+      "first_seen": "2026-05-01T07:55:24.281717Z",
       "keywords": [
-        "horse",
-        "racing",
-        "giddythefup",
-        "derby",
-        "small"
+        "star",
+        "wars",
+        "boba",
+        "trooper",
+        "vader",
+        "chewie",
+        "chibi"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: horse, racing, giddythefup, derby, small. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, boba, trooper, vader, chewie, chibi. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07Z8SDCJG",
+      "title": "Star Wars Stormtrooper Employee of The Month T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Stormtrooper-Employee-T-Shirt/dp/B07Z8SDCJG/ref=zg_bs_g_9056987011_d_sccl_23/143-7262408-2890803",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-01T07:55:24.281717Z",
+      "keywords": [
+        "star",
+        "wars",
+        "stormtrooper",
+        "employee",
+        "month"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, stormtrooper, employee, month. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07RYPT756",
+      "title": "Star Wars Vintage Cast Poster Disney+ T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Vintage-Poster-T-Shirt/dp/B07RYPT756/ref=zg_bs_g_9056987011_d_sccl_24/143-7262408-2890803",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-01T07:55:24.281717Z",
+      "keywords": [
+        "star",
+        "wars",
+        "cast",
+        "poster",
+        "disney"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, cast, poster, disney. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07Z4FN1T1",
+      "title": "Star Wars Darth Vader Those Were The Droids Classroom Doodle T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Droids-Classroom-T-Shirt/dp/B07Z4FN1T1/ref=zg_bs_g_9056987011_d_sccl_29/143-7262408-2890803",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-01T07:55:24.281717Z",
+      "keywords": [
+        "star",
+        "wars",
+        "darth",
+        "vader",
+        "those",
+        "were",
+        "droids",
+        "classroom",
+        "doodle"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, darth, vader, those, were, droids, classroom, doodle. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07Q9HQNXM",
+      "title": "STAR WARS Mos Eisley Cantina Tatooine Men's Adult Graphic Tee T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Cantina-Tatooine-Graphic/dp/B07Q9HQNXM/ref=zg_bs_g_9056987011_d_sccl_30/143-7262408-2890803",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-01T07:55:24.281717Z",
+      "keywords": [
+        "star",
+        "wars",
+        "mos",
+        "eisley",
+        "cantina",
+        "tatooine"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mos, eisley, cantina, tatooine. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
