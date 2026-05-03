@@ -1,119 +1,88 @@
 {
-  "generated_at": "2026-05-02T07:15:28.207834Z",
+  "generated_at": "2026-05-03T07:42:05.338809Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07FWR371R",
-      "title": "Star Wars Yoda Real The Struggle Is Graphic T-Shirt T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Struggle-Graphic-T-Shirt/dp/B07FWR371R/ref=zg_bs_g_9056987011_d_sccl_20/138-8812727-3257024",
-      "current_rank": 20,
+      "asin": "B0GRFV6MCH",
+      "title": "XLIEVO 250 Anniversary USA Shirt Mens: American Flag 4th of July Independence Day Costumes Crew Neck Short Sleeve T-Shirt",
+      "link": "https://www.amazon.com/XLIEVO-250-Anniversary-Shirt-Mens/dp/B0GRFV6MCH/ref=zg_bs_g_9056987011_d_sccl_12/130-7526487-7862044",
+      "current_rank": 12,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-02T07:15:28.113235Z",
+      "first_seen": "2026-05-03T07:42:05.261749Z",
+      "keywords": [
+        "xlievo",
+        "250",
+        "anniversary",
+        "usa",
+        "mens",
+        "american",
+        "flag",
+        "4th",
+        "july",
+        "independence",
+        "day",
+        "costumes"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: xlievo, 250, anniversary, usa, mens, american, flag, 4th, july, independence, day, costumes. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0737B5BKZ",
+      "title": "STAR WARS mens Simplest Logo Graphic Long Sleeve TeeShirt",
+      "link": "https://www.amazon.com/Star-Wars-Simplest-Graphic-Heather/dp/B0737B5BKZ/ref=zg_bs_g_9056987011_d_sccl_13/130-7526487-7862044",
+      "current_rank": 13,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-03T07:42:05.261749Z",
       "keywords": [
         "star",
         "wars",
-        "yoda",
-        "real",
-        "struggle"
+        "mens",
+        "simplest",
+        "logo",
+        "teeshirt"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, yoda, real, struggle. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mens, simplest, logo, teeshirt. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07KWCJB4S",
-      "title": "Star Wars Princess Leia Don't Mess With The Princess Disney+ T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Princess-Graphic-T-Shirt/dp/B07KWCJB4S/ref=zg_bs_g_9056987011_d_sccl_22/138-8812727-3257024",
-      "current_rank": 22,
+      "asin": "B0GP3NFLYQ",
+      "title": "Star Wars May the 4th Be With You 2026 Lightsabers T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-2026-Lightsabers-T-Shirt/dp/B0GP3NFLYQ/ref=zg_bs_g_9056987011_d_sccl_26/130-7526487-7862044",
+      "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-02T07:15:28.113235Z",
+      "first_seen": "2026-05-03T07:42:05.261749Z",
       "keywords": [
         "star",
         "wars",
-        "princess",
-        "leia",
-        "don't",
-        "mess",
-        "disney"
+        "may",
+        "4th",
+        "you",
+        "2026",
+        "lightsabers"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, princess, leia, don't, mess, disney. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, may, 4th, you, 2026, lightsabers. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B08XXRLBMQ",
-      "title": "Star Wars The Mandalorian May The Fourth Be With You Stamp T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Fourth-Stamp-T-Shirt/dp/B08XXRLBMQ/ref=zg_bs_g_9056987011_d_sccl_27/138-8812727-3257024",
+      "asin": "B07DLJW42P",
+      "title": "STAR WARS Death Star Road Stormtrooper Crossing Mens T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Stormtrooper-Crossing-T-Shirt/dp/B07DLJW42P/ref=zg_bs_g_9056987011_d_sccl_27/130-7526487-7862044",
       "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-02T07:15:28.113235Z",
+      "first_seen": "2026-05-03T07:42:05.261749Z",
       "keywords": [
         "star",
         "wars",
-        "mandalorian",
-        "may",
-        "fourth",
-        "you",
-        "stamp"
+        "death",
+        "road",
+        "stormtrooper",
+        "crossing",
+        "mens"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mandalorian, may, fourth, you, stamp. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FV3RKN4T",
-      "title": "Star Wars A New Hope Cute Character Logo T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Hope-Character-T-Shirt/dp/B0FV3RKN4T/ref=zg_bs_g_9056987011_d_sccl_28/138-8812727-3257024",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-02T07:15:28.113235Z",
-      "keywords": [
-        "star",
-        "wars",
-        "hope",
-        "cute",
-        "character",
-        "logo"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, hope, cute, character, logo. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GKH8TX9Q",
-      "title": "Star Wars A New Hope X-Wing May The Force Be with You T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-X-Wing-Force-T-Shirt/dp/B0GKH8TX9Q/ref=zg_bs_g_9056987011_d_sccl_29/138-8812727-3257024",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-02T07:15:28.113235Z",
-      "keywords": [
-        "star",
-        "wars",
-        "hope",
-        "wing",
-        "may",
-        "force",
-        "you"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, hope, wing, may, force, you. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B08DSZ4BJ3",
-      "title": "Star Wars May The Fourth Group Shot Retro Poster T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Group-Poster-T-Shirt/dp/B08DSZ4BJ3/ref=zg_bs_g_9056987011_d_sccl_30/138-8812727-3257024",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-02T07:15:28.113235Z",
-      "keywords": [
-        "star",
-        "wars",
-        "may",
-        "fourth",
-        "group",
-        "shot",
-        "poster"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, may, fourth, group, shot, poster. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, death, road, stormtrooper, crossing, mens. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
