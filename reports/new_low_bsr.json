@@ -1,88 +1,48 @@
 {
-  "generated_at": "2026-05-03T07:42:05.338809Z",
+  "generated_at": "2026-05-04T08:10:23.749340Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0GRFV6MCH",
-      "title": "XLIEVO 250 Anniversary USA Shirt Mens: American Flag 4th of July Independence Day Costumes Crew Neck Short Sleeve T-Shirt",
-      "link": "https://www.amazon.com/XLIEVO-250-Anniversary-Shirt-Mens/dp/B0GRFV6MCH/ref=zg_bs_g_9056987011_d_sccl_12/130-7526487-7862044",
-      "current_rank": 12,
+      "asin": "B079T96PRP",
+      "title": "Pew Pew Wars | Funny Sci-fi Space Star Noises Science for Geek Men Women T-Shirt",
+      "link": "https://www.amazon.com/Funny-Sci-fi-Noises-Science-T-Shirt/dp/B079T96PRP/ref=zg_bs_g_9056987011_d_sccl_18/131-4681879-3268516",
+      "current_rank": 18,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-03T07:42:05.261749Z",
+      "first_seen": "2026-05-04T08:10:23.672834Z",
       "keywords": [
-        "xlievo",
-        "250",
-        "anniversary",
-        "usa",
+        "pew",
+        "wars",
+        "sci",
+        "space",
+        "star",
+        "noises",
+        "science",
+        "geek",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: pew, wars, sci, space, star, noises, science, geek, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CLYM28HN",
+      "title": "Mens Later Alligator T Shirt Funny Gator Joke Saying Tee for Guys",
+      "link": "https://www.amazon.com/Alligator-Saying-Shirts-Sarcastic-Novelty/dp/B0CLYM28HN/ref=zg_bs_g_9056987011_d_sccl_22/131-4681879-3268516",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-04T08:10:23.672834Z",
+      "keywords": [
         "mens",
-        "american",
-        "flag",
-        "4th",
-        "july",
-        "independence",
-        "day",
-        "costumes"
+        "later",
+        "alligator",
+        "gator",
+        "joke",
+        "saying",
+        "guys"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: xlievo, 250, anniversary, usa, mens, american, flag, 4th, july, independence, day, costumes. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0737B5BKZ",
-      "title": "STAR WARS mens Simplest Logo Graphic Long Sleeve TeeShirt",
-      "link": "https://www.amazon.com/Star-Wars-Simplest-Graphic-Heather/dp/B0737B5BKZ/ref=zg_bs_g_9056987011_d_sccl_13/130-7526487-7862044",
-      "current_rank": 13,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-03T07:42:05.261749Z",
-      "keywords": [
-        "star",
-        "wars",
-        "mens",
-        "simplest",
-        "logo",
-        "teeshirt"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mens, simplest, logo, teeshirt. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GP3NFLYQ",
-      "title": "Star Wars May the 4th Be With You 2026 Lightsabers T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-2026-Lightsabers-T-Shirt/dp/B0GP3NFLYQ/ref=zg_bs_g_9056987011_d_sccl_26/130-7526487-7862044",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-03T07:42:05.261749Z",
-      "keywords": [
-        "star",
-        "wars",
-        "may",
-        "4th",
-        "you",
-        "2026",
-        "lightsabers"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, may, 4th, you, 2026, lightsabers. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07DLJW42P",
-      "title": "STAR WARS Death Star Road Stormtrooper Crossing Mens T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Stormtrooper-Crossing-T-Shirt/dp/B07DLJW42P/ref=zg_bs_g_9056987011_d_sccl_27/130-7526487-7862044",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-03T07:42:05.261749Z",
-      "keywords": [
-        "star",
-        "wars",
-        "death",
-        "road",
-        "stormtrooper",
-        "crossing",
-        "mens"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, death, road, stormtrooper, crossing, mens. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, later, alligator, gator, joke, saying, guys. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
