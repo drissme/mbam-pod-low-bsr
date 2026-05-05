@@ -1,48 +1,76 @@
 {
-  "generated_at": "2026-05-04T08:10:23.749340Z",
+  "generated_at": "2026-05-05T07:49:38.555629Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B079T96PRP",
-      "title": "Pew Pew Wars | Funny Sci-fi Space Star Noises Science for Geek Men Women T-Shirt",
-      "link": "https://www.amazon.com/Funny-Sci-fi-Noises-Science-T-Shirt/dp/B079T96PRP/ref=zg_bs_g_9056987011_d_sccl_18/131-4681879-3268516",
-      "current_rank": 18,
+      "asin": "B0GXK62CSJ",
+      "title": "Custom T Shirts for Men Women, Personalized Shirt with Image, Text or Logo, Customized T-Shirts Design Your Own",
+      "link": "https://www.amazon.com/Custom-Shirts-Personalized-Customized-T-Shirts/dp/B0GXK62CSJ/ref=zg_bs_g_9056987011_d_sccl_19/147-9792201-8756167",
+      "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-04T08:10:23.672834Z",
+      "first_seen": "2026-05-05T07:49:38.460896Z",
       "keywords": [
-        "pew",
-        "wars",
-        "sci",
-        "space",
-        "star",
-        "noises",
-        "science",
-        "geek",
-        "women"
+        "custom",
+        "shirts",
+        "women",
+        "personalized",
+        "image",
+        "text",
+        "logo",
+        "customized",
+        "design",
+        "your",
+        "own"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: pew, wars, sci, space, star, noises, science, geek, women. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: custom, shirts, women, personalized, image, text, logo, customized, design, your, own. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0CLYM28HN",
-      "title": "Mens Later Alligator T Shirt Funny Gator Joke Saying Tee for Guys",
-      "link": "https://www.amazon.com/Alligator-Saying-Shirts-Sarcastic-Novelty/dp/B0CLYM28HN/ref=zg_bs_g_9056987011_d_sccl_22/131-4681879-3268516",
-      "current_rank": 22,
+      "asin": "B0CMBFSTTB",
+      "title": "Nations of the World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
+      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBFSTTB/ref=zg_bs_g_9056987011_d_sccl_27/147-9792201-8756167",
+      "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-04T08:10:23.672834Z",
+      "first_seen": "2026-05-05T07:49:38.460896Z",
       "keywords": [
-        "mens",
-        "later",
-        "alligator",
-        "gator",
-        "joke",
-        "saying",
-        "guys"
+        "nations",
+        "world",
+        "national",
+        "pride",
+        "flag",
+        "symbol",
+        "arms",
+        "unisex",
+        "women"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, later, alligator, gator, joke, saying, guys. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GR52S381",
+      "title": "Custom T Shirts for Men Personalized Shirt with Front & Back Print Design Your Own Tee Customized Photo Text Logo Gifts",
+      "link": "https://www.amazon.com/Custom-Shirts-Personalized-Design-Customized/dp/B0GR52S381/ref=zg_bs_g_9056987011_d_sccl_29/147-9792201-8756167",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-05T07:49:38.460896Z",
+      "keywords": [
+        "custom",
+        "shirts",
+        "personalized",
+        "front",
+        "back",
+        "print",
+        "design",
+        "your",
+        "own",
+        "customized",
+        "photo",
+        "text"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: custom, shirts, personalized, front, back, print, design, your, own, customized, photo, text. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
