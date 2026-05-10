@@ -1,54 +1,17 @@
 {
-  "generated_at": "2026-05-09T07:28:01.416835Z",
+  "generated_at": "2026-05-10T07:50:17.452478Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07S7BH1QN",
-      "title": "uideazone Mens Short Sleeve T-Shirt Casual 3D Creative Print Crewneck Graphic Tees",
-      "link": "https://www.amazon.com/uideazone-Printed-Sleeve-T-Shirt-Casual/dp/B07S7BH1QN/ref=zg_bs_g_9056987011_d_sccl_18/142-4130254-7547063",
-      "current_rank": 18,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-09T07:28:01.316518Z",
-      "keywords": [
-        "uideazone",
-        "mens",
-        "casual",
-        "creative",
-        "print",
-        "crewneck",
-        "tees"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, casual, creative, print, crewneck, tees. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GP8V427M",
-      "title": "Michael Jackson Thriller Album Cover Graphic T Shirt Men or Women",
-      "link": "https://www.amazon.com/Michael-Jackson-Thriller-Album-Graphic/dp/B0GP8V427M/ref=zg_bs_g_9056987011_d_sccl_19/142-4130254-7547063",
-      "current_rank": 19,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-09T07:28:01.316518Z",
-      "keywords": [
-        "michael",
-        "jackson",
-        "thriller",
-        "album",
-        "cover",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: michael, jackson, thriller, album, cover, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B089DV7HF9",
+      "asin": "B09XFG894Y",
       "title": "Grunt Style American Acid Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-X-Large/dp/B089DV7HF9/ref=zg_bs_g_9056987011_d_sccl_26/142-4130254-7547063",
-      "current_rank": 26,
+      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-Military/dp/B09XFG894Y/ref=zg_bs_g_9056987011_d_sccl_16/134-2059183-4286018",
+      "current_rank": 16,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-09T07:28:01.316518Z",
+      "first_seen": "2026-05-10T07:50:17.354389Z",
       "keywords": [
         "grunt",
         "style",
@@ -58,56 +21,109 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, acid. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FJ3XBCP5",
-      "title": "Kpop Demon Hunters HUNTR/X Heartthrob Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Demon-Hunters-Heartthrob-Officially-Licensed/dp/B0FJ3XBCP5/ref=zg_bs_g_9056987011_d_sccl_28/142-4130254-7547063",
-      "current_rank": 28,
+      "asin": "B0BT749BL9",
+      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
+      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Tshirt/dp/B0BT749BL9/ref=zg_bs_g_9056987011_d_sccl_20/134-2059183-4286018",
+      "current_rank": 20,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-09T07:28:01.316518Z",
+      "first_seen": "2026-05-10T07:50:17.354389Z",
+      "keywords": [
+        "into",
+        "shirts",
+        "4xl",
+        "premium",
+        "quality",
+        "unique",
+        "art",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09ZJHWY1G",
+      "title": "Funny T Shirts for Men Food Joke Tees for Guys with Funny Sayings Sarcastic Graphic T Shirts",
+      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Synonym-Cinnamon/dp/B09ZJHWY1G/ref=zg_bs_g_9056987011_d_sccl_24/134-2059183-4286018",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-10T07:50:17.354389Z",
+      "keywords": [
+        "shirts",
+        "food",
+        "joke",
+        "tees",
+        "guys",
+        "sayings",
+        "sarcastic"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: shirts, food, joke, tees, guys, sayings, sarcastic. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0B9ZTP9F7",
+      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
+      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZTP9F7/ref=zg_bs_g_9056987011_d_sccl_25/134-2059183-4286018",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-10T07:50:17.354389Z",
+      "keywords": [
+        "awesome",
+        "like",
+        "daughter",
+        "sarcastic",
+        "saying",
+        "humor",
+        "dad",
+        "joke",
+        "father",
+        "grandpa",
+        "daddy"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0F84YSQZ1",
+      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
+      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_27/134-2059183-4286018",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-10T07:50:17.354389Z",
+      "keywords": [
+        "sarcastic",
+        "saying",
+        "shirts",
+        "husband",
+        "dad",
+        "grandpa",
+        "boyfriend",
+        "son",
+        "humor",
+        "joke"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GCJ5FQXR",
+      "title": "Kpop Demon Hunters It's My Birthday Cute Chibi Group Shot T-Shirt",
+      "link": "https://www.amazon.com/Demon-Hunters-Birthday-Chibi-T-Shirt/dp/B0GCJ5FQXR/ref=zg_bs_g_9056987011_d_sccl_29/134-2059183-4286018",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-10T07:50:17.354389Z",
       "keywords": [
         "kpop",
         "demon",
         "hunters",
-        "huntr",
-        "heartthrob",
-        "officially",
-        "licensed"
+        "it's",
+        "birthday",
+        "cute",
+        "chibi",
+        "group",
+        "shot"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, huntr, heartthrob, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B01M67HEK8",
-      "title": "Gildan Men's DryBlend Classic T-Shirt",
-      "link": "https://www.amazon.com/Gildan-Dryblend-Moisture-Wicking-T-Shirt/dp/B01M67HEK8/ref=zg_bs_g_9056987011_d_sccl_29/142-4130254-7547063",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-09T07:28:01.316518Z",
-      "keywords": [
-        "gildan",
-        "dryblend"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: gildan, dryblend. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GQ524TZZ",
-      "title": "One Piece Straw Hat Pirates Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/One-Piece-Pirates-Officially-Licensed/dp/B0GQ524TZZ/ref=zg_bs_g_9056987011_d_sccl_30/142-4130254-7547063",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-09T07:28:01.316518Z",
-      "keywords": [
-        "one",
-        "piece",
-        "straw",
-        "hat",
-        "pirates",
-        "officially",
-        "licensed"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: one, piece, straw, hat, pirates, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, it's, birthday, cute, chibi, group, shot. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
