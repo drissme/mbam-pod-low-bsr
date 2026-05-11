@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-05-10T07:50:17.452478Z",
+  "generated_at": "2026-05-11T08:50:45.977213Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B09XFG894Y",
-      "title": "Grunt Style American Acid Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-Military/dp/B09XFG894Y/ref=zg_bs_g_9056987011_d_sccl_16/134-2059183-4286018",
-      "current_rank": 16,
+      "asin": "B07Q9HQNXM",
+      "title": "STAR WARS Mos Eisley Cantina Tatooine Men's Adult Graphic Tee T-Shirt",
+      "link": "https://www.amazon.com/Star-Wars-Cantina-Tatooine-Graphic/dp/B07Q9HQNXM/ref=zg_bs_g_9056987011_d_sccl_11/132-4295090-3133167",
+      "current_rank": 11,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-10T07:50:17.354389Z",
+      "first_seen": "2026-05-11T08:50:45.892234Z",
+      "keywords": [
+        "star",
+        "wars",
+        "mos",
+        "eisley",
+        "cantina",
+        "tatooine"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, mos, eisley, cantina, tatooine. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09XWX43HY",
+      "title": "Grunt Style American Acid Men's T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-XLarge/dp/B09XWX43HY/ref=zg_bs_g_9056987011_d_sccl_15/132-4295090-3133167",
+      "current_rank": 15,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-11T08:50:45.892234Z",
       "keywords": [
         "grunt",
         "style",
@@ -21,52 +39,96 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, acid. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0BT749BL9",
-      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
-      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Tshirt/dp/B0BT749BL9/ref=zg_bs_g_9056987011_d_sccl_20/134-2059183-4286018",
-      "current_rank": 20,
+      "asin": "B08VDYYKJF",
+      "title": "Custom T-Shirt Add Your Text Personalized T Shirt for Men & Women Cotton Tee",
+      "link": "https://www.amazon.com/Custom-T-Shirt-Personalized-Shirt-Cotton/dp/B08VDYYKJF/ref=zg_bs_g_9056987011_d_sccl_21/132-4295090-3133167",
+      "current_rank": 21,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-10T07:50:17.354389Z",
+      "first_seen": "2026-05-11T08:50:45.892234Z",
       "keywords": [
-        "into",
-        "shirts",
-        "4xl",
-        "premium",
-        "quality",
-        "unique",
-        "art",
-        "tees"
+        "custom",
+        "add",
+        "your",
+        "text",
+        "personalized",
+        "women",
+        "cotton"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: custom, add, your, text, personalized, women, cotton. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09ZJHWY1G",
-      "title": "Funny T Shirts for Men Food Joke Tees for Guys with Funny Sayings Sarcastic Graphic T Shirts",
-      "link": "https://www.amazon.com/Crazy-Dog-T-Shirts-Synonym-Cinnamon/dp/B09ZJHWY1G/ref=zg_bs_g_9056987011_d_sccl_24/134-2059183-4286018",
+      "asin": "B0FVYGW9K9",
+      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
+      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYGW9K9/ref=zg_bs_g_9056987011_d_sccl_22/132-4295090-3133167",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-11T08:50:45.892234Z",
+      "keywords": [
+        "iudam",
+        "mens",
+        "loose",
+        "crew",
+        "neck",
+        "palm",
+        "tree",
+        "summer",
+        "shirts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09NKLPNTS",
+      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
+      "link": "https://www.amazon.com/Goodstoworld-Muscle-Sleeve-Printed-Clothing/dp/B09NKLPNTS/ref=zg_bs_g_9056987011_d_sccl_23/132-4295090-3133167",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-11T08:50:45.892234Z",
+      "keywords": [
+        "goodstoworld",
+        "unisex",
+        "fake",
+        "abs",
+        "shirts",
+        "shredded",
+        "chest",
+        "printed",
+        "costume",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FQ241D15",
+      "title": "250 Years American 250th Anniversary USA Patriotic 4th July T-Shirt",
+      "link": "https://www.amazon.com/1776-2026-250th-Birthday-4th-July/dp/B0FQ241D15/ref=zg_bs_g_9056987011_d_sccl_24/132-4295090-3133167",
       "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-10T07:50:17.354389Z",
+      "first_seen": "2026-05-11T08:50:45.892234Z",
       "keywords": [
-        "shirts",
-        "food",
-        "joke",
-        "tees",
-        "guys",
-        "sayings",
-        "sarcastic"
+        "250",
+        "years",
+        "american",
+        "250th",
+        "anniversary",
+        "usa",
+        "patriotic",
+        "4th",
+        "july"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: shirts, food, joke, tees, guys, sayings, sarcastic. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: 250, years, american, 250th, anniversary, usa, patriotic, 4th, july. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0B9ZTP9F7",
+      "asin": "B0B9ZQRWBK",
       "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
-      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZTP9F7/ref=zg_bs_g_9056987011_d_sccl_25/134-2059183-4286018",
+      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZQRWBK/ref=zg_bs_g_9056987011_d_sccl_25/132-4295090-3133167",
       "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-10T07:50:17.354389Z",
+      "first_seen": "2026-05-11T08:50:45.892234Z",
       "keywords": [
         "awesome",
         "like",
@@ -83,47 +145,21 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0F84YSQZ1",
-      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
-      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_27/134-2059183-4286018",
+      "asin": "B098SRS7H7",
+      "title": "Tie Dye Shirts for Men, Short Sleeve Mens Tie Dye Shirts, Mens Rainbow Tie Dye T Shirts",
+      "link": "https://www.amazon.com/Bombline-Shirts-Short-Sleeve-Rainbow/dp/B098SRS7H7/ref=zg_bs_g_9056987011_d_sccl_27/132-4295090-3133167",
       "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-10T07:50:17.354389Z",
+      "first_seen": "2026-05-11T08:50:45.892234Z",
       "keywords": [
-        "sarcastic",
-        "saying",
+        "tie",
+        "dye",
         "shirts",
-        "husband",
-        "dad",
-        "grandpa",
-        "boyfriend",
-        "son",
-        "humor",
-        "joke"
+        "mens",
+        "rainbow"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GCJ5FQXR",
-      "title": "Kpop Demon Hunters It's My Birthday Cute Chibi Group Shot T-Shirt",
-      "link": "https://www.amazon.com/Demon-Hunters-Birthday-Chibi-T-Shirt/dp/B0GCJ5FQXR/ref=zg_bs_g_9056987011_d_sccl_29/134-2059183-4286018",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-10T07:50:17.354389Z",
-      "keywords": [
-        "kpop",
-        "demon",
-        "hunters",
-        "it's",
-        "birthday",
-        "cute",
-        "chibi",
-        "group",
-        "shot"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, it's, birthday, cute, chibi, group, shot. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tie, dye, shirts, mens, rainbow. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
