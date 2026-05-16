@@ -1,67 +1,7 @@
 {
-  "generated_at": "2026-05-15T08:33:22.794013Z",
+  "generated_at": "2026-05-16T07:43:49.163421Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": [
-    {
-      "asin": "B0GZCC8V9P",
-      "title": "Abraham Lincoln Playing Guitar 4th July 250th Anniversary T-Shirt",
-      "link": "https://www.amazon.com/Abraham-Lincoln-Playing-Guitar-July/dp/B0GZCC8V9P/ref=zg_bs_g_9056987011_d_sccl_10/141-0643542-6670053",
-      "current_rank": 10,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-15T08:33:22.698780Z",
-      "keywords": [
-        "abraham",
-        "lincoln",
-        "playing",
-        "guitar",
-        "4th",
-        "july",
-        "250th",
-        "anniversary"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: abraham, lincoln, playing, guitar, 4th, july, 250th, anniversary. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GFW2531G",
-      "title": "250 Years American 1776 2026 250th 4th July Independence Day T-Shirt",
-      "link": "https://www.amazon.com/American-250th-4th-July-Independence/dp/B0GFW2531G/ref=zg_bs_g_9056987011_d_sccl_25/141-0643542-6670053",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-15T08:33:22.698780Z",
-      "keywords": [
-        "250",
-        "years",
-        "american",
-        "1776",
-        "2026",
-        "250th",
-        "4th",
-        "july",
-        "independence",
-        "day"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 250, years, american, 1776, 2026, 250th, 4th, july, independence, day. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B098SNSGQK",
-      "title": "Tie Dye Shirts for Men, Short Sleeve Mens Tie Dye Shirts, Mens Rainbow Tie Dye T Shirts",
-      "link": "https://www.amazon.com/Bombline-Shirts-Short-Sleeve-Rainbow/dp/B098SNSGQK/ref=zg_bs_g_9056987011_d_sccl_26/141-0643542-6670053",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-15T08:33:22.698780Z",
-      "keywords": [
-        "tie",
-        "dye",
-        "shirts",
-        "mens",
-        "rainbow"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tie, dye, shirts, mens, rainbow. Use clear fonts and simple iconography. Avoid trademarks."
-    }
-  ]
+  "items": []
 }
