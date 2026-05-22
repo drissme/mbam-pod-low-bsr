@@ -1,59 +1,75 @@
 {
-  "generated_at": "2026-05-21T08:49:40.808540Z",
+  "generated_at": "2026-05-22T08:43:44.665327Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CLYLY41K",
-      "title": "Mens Later Alligator T Shirt Funny Gator Joke Saying Tee for Guys",
-      "link": "https://www.amazon.com/Alligator-Saying-Sarcastic-Apparel-Novelty/dp/B0CLYLY41K/ref=zg_bs_g_9056987011_d_sccl_4/143-5353946-0163107",
-      "current_rank": 4,
+      "asin": "B0BT749BL9",
+      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
+      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Tshirt/dp/B0BT749BL9/ref=zg_bs_g_9056987011_d_sccl_15/137-5286402-3802300",
+      "current_rank": 15,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-21T08:49:40.706142Z",
+      "first_seen": "2026-05-22T08:43:44.574929Z",
       "keywords": [
+        "into",
+        "shirts",
+        "4xl",
+        "premium",
+        "quality",
+        "unique",
+        "art",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FVYHB4CG",
+      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
+      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYHB4CG/ref=zg_bs_g_9056987011_d_sccl_24/137-5286402-3802300",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-22T08:43:44.574929Z",
+      "keywords": [
+        "iudam",
         "mens",
-        "later",
-        "alligator",
-        "gator",
-        "joke",
-        "saying",
-        "guys"
+        "loose",
+        "crew",
+        "neck",
+        "palm",
+        "tree",
+        "summer",
+        "shirts"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, later, alligator, gator, joke, saying, guys. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B00G97GO30",
-      "title": "Ann Arbor T-shirt Co. Lifeguard - Red Lifeguarding Unisex Uniform Costume Life Guard T-Shirt for Men Women",
-      "link": "https://www.amazon.com/LIFEGUARD-Lifeguarding-Uniform-Costume-T-shirt/dp/B00G97GO30/ref=zg_bs_g_9056987011_d_sccl_22/143-5353946-0163107",
-      "current_rank": 22,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-21T08:49:40.706142Z",
-      "keywords": [
-        "ann",
-        "arbor",
-        "lifeguard",
-        "red",
-        "lifeguarding",
-        "unisex",
-        "uniform",
-        "costume",
-        "life",
-        "guard",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: ann, arbor, lifeguard, red, lifeguarding, unisex, uniform, costume, life, guard, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B08CLWTBN6",
-      "title": "Crazy Dog T-Shirts Hide and Seek Champion Funny Bigfoot Graphic Sarcastic Tee",
-      "link": "https://www.amazon.com/Champion-Crazy-Dog-T-Shirts-Comfortable/dp/B08CLWTBN6/ref=zg_bs_g_9056987011_d_sccl_26/143-5353946-0163107",
+      "asin": "B0DSR5WYZX",
+      "title": "NBA Official New York Knicks Battle Tested T-Shirt",
+      "link": "https://www.amazon.com/Official-New-York-Knicks-T-Shirt/dp/B0DSR5WYZX/ref=zg_bs_g_9056987011_d_sccl_26/137-5286402-3802300",
       "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-21T08:49:40.706142Z",
+      "first_seen": "2026-05-22T08:43:44.574929Z",
+      "keywords": [
+        "nba",
+        "york",
+        "knicks",
+        "battle",
+        "tested"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nba, york, knicks, battle, tested. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07JMLVB2Z",
+      "title": "Crazy Dog T-Shirts Hide and Seek Champion Funny Bigfoot Graphic Sarcastic Tee",
+      "link": "https://www.amazon.com/Champion-Crazy-Dog-T-Shirts-Comfortable/dp/B07JMLVB2Z/ref=zg_bs_g_9056987011_d_sccl_28/137-5286402-3802300",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-22T08:43:44.574929Z",
       "keywords": [
         "crazy",
         "dog",
@@ -65,24 +81,6 @@
         "sarcastic"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, shirts, hide, seek, champion, bigfoot, sarcastic. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FFHGBN2T",
-      "title": "Distressed Baseball Boys Ice Cream Drip Baseball Boys Youth T-Shirt",
-      "link": "https://www.amazon.com/Distressed-Baseball-Boys-Cream-T-Shirt/dp/B0FFHGBN2T/ref=zg_bs_g_9056987011_d_sccl_29/143-5353946-0163107",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-21T08:49:40.706142Z",
-      "keywords": [
-        "distressed",
-        "baseball",
-        "boys",
-        "ice",
-        "cream",
-        "drip"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: distressed, baseball, boys, ice, cream, drip. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
