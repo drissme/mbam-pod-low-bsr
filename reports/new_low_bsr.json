@@ -1,69 +1,79 @@
 {
-  "generated_at": "2026-05-26T09:00:20.007691Z",
+  "generated_at": "2026-05-27T08:54:24.805236Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B08JHFGDXN",
-      "title": "INTO THE AM Men's Graphic T-Shirts S - 4XL Premium Short Sleeve Tees Cool Nature Designs",
-      "link": "https://www.amazon.com/INTO-AM-Graphic-Trippy-Printed/dp/B08JHFGDXN/ref=zg_bs_g_9056987011_d_sccl_20/142-3352654-3073163",
-      "current_rank": 20,
+      "asin": "B0DW5RV4GG",
+      "title": "NBA New York Knicks Airbrush Logo T-Shirt",
+      "link": "https://www.amazon.com/New-York-Knicks-Airbrush-T-Shirt/dp/B0DW5RV4GG/ref=zg_bs_g_9056987011_d_sccl_10/138-0963080-9249102",
+      "current_rank": 10,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-26T09:00:19.905585Z",
+      "first_seen": "2026-05-27T08:54:24.699510Z",
       "keywords": [
-        "into",
-        "shirts",
-        "4xl",
-        "premium",
-        "tees",
-        "nature",
-        "designs"
+        "nba",
+        "york",
+        "knicks",
+        "airbrush",
+        "logo"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, tees, nature, designs. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nba, york, knicks, airbrush, logo. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GFW8TN18",
-      "title": "250th Anniversary USA Patriotic 250 Years American 4th July T-Shirt",
-      "link": "https://www.amazon.com/250th-Anniversary-Patriotic-4th-July/dp/B0GFW8TN18/ref=zg_bs_g_9056987011_d_sccl_25/142-3352654-3073163",
-      "current_rank": 25,
+      "asin": "B09XFGP4R6",
+      "title": "Grunt Style American Acid Men's T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-Military/dp/B09XFGP4R6/ref=zg_bs_g_9056987011_d_sccl_13/138-0963080-9249102",
+      "current_rank": 13,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-26T09:00:19.905585Z",
+      "first_seen": "2026-05-27T08:54:24.699510Z",
       "keywords": [
-        "250th",
-        "anniversary",
-        "usa",
-        "patriotic",
-        "250",
-        "years",
+        "grunt",
+        "style",
         "american",
-        "4th",
-        "july"
+        "acid"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 250th, anniversary, usa, patriotic, 250, years, american, 4th, july. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, acid. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FVYH5SWF",
-      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
-      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYH5SWF/ref=zg_bs_g_9056987011_d_sccl_27/142-3352654-3073163",
+      "asin": "B09XFGNRFC",
+      "title": "Grunt Style American 1776 Flag - Patriotic Graphic Tee, Men's Short Sleeve T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Military-XXLarge/dp/B09XFGNRFC/ref=zg_bs_g_9056987011_d_sccl_26/138-0963080-9249102",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-27T08:54:24.699510Z",
+      "keywords": [
+        "grunt",
+        "style",
+        "american",
+        "1776",
+        "flag",
+        "patriotic"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07JMKGLR4",
+      "title": "Crazy Dog T-Shirts Hide and Seek Champion Funny Bigfoot Graphic Sarcastic Tee",
+      "link": "https://www.amazon.com/Champion-Crazy-Dog-T-Shirts-Comfortable/dp/B07JMKGLR4/ref=zg_bs_g_9056987011_d_sccl_27/138-0963080-9249102",
       "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-26T09:00:19.905585Z",
+      "first_seen": "2026-05-27T08:54:24.699510Z",
       "keywords": [
-        "iudam",
-        "mens",
-        "loose",
-        "crew",
-        "neck",
-        "palm",
-        "tree",
-        "summer",
-        "shirts"
+        "crazy",
+        "dog",
+        "shirts",
+        "hide",
+        "seek",
+        "champion",
+        "bigfoot",
+        "sarcastic"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, shirts, hide, seek, champion, bigfoot, sarcastic. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
