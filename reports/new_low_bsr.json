@@ -1,34 +1,17 @@
 {
-  "generated_at": "2026-05-27T08:54:24.805236Z",
+  "generated_at": "2026-05-28T09:37:21.432200Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DW5RV4GG",
-      "title": "NBA New York Knicks Airbrush Logo T-Shirt",
-      "link": "https://www.amazon.com/New-York-Knicks-Airbrush-T-Shirt/dp/B0DW5RV4GG/ref=zg_bs_g_9056987011_d_sccl_10/138-0963080-9249102",
-      "current_rank": 10,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-27T08:54:24.699510Z",
-      "keywords": [
-        "nba",
-        "york",
-        "knicks",
-        "airbrush",
-        "logo"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nba, york, knicks, airbrush, logo. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09XFGP4R6",
+      "asin": "B09XWX43HY",
       "title": "Grunt Style American Acid Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-Military/dp/B09XFGP4R6/ref=zg_bs_g_9056987011_d_sccl_13/138-0963080-9249102",
-      "current_rank": 13,
+      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-XLarge/dp/B09XWX43HY/ref=zg_bs_g_9056987011_d_sccl_14/136-5032886-4720868",
+      "current_rank": 14,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-27T08:54:24.699510Z",
+      "first_seen": "2026-05-28T09:37:21.322183Z",
       "keywords": [
         "grunt",
         "style",
@@ -38,13 +21,13 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, acid. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09XFGNRFC",
+      "asin": "B09XFG3KKG",
       "title": "Grunt Style American 1776 Flag - Patriotic Graphic Tee, Men's Short Sleeve T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Military-XXLarge/dp/B09XFGNRFC/ref=zg_bs_g_9056987011_d_sccl_26/138-0963080-9249102",
+      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Military-Medium/dp/B09XFG3KKG/ref=zg_bs_g_9056987011_d_sccl_26/136-5032886-4720868",
       "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-27T08:54:24.699510Z",
+      "first_seen": "2026-05-28T09:37:21.322183Z",
       "keywords": [
         "grunt",
         "style",
@@ -56,24 +39,21 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07JMKGLR4",
-      "title": "Crazy Dog T-Shirts Hide and Seek Champion Funny Bigfoot Graphic Sarcastic Tee",
-      "link": "https://www.amazon.com/Champion-Crazy-Dog-T-Shirts-Comfortable/dp/B07JMKGLR4/ref=zg_bs_g_9056987011_d_sccl_27/138-0963080-9249102",
+      "asin": "B0DXR8WRF7",
+      "title": "NBA New York Knicks Bow Grid T-Shirt",
+      "link": "https://www.amazon.com/New-York-Knicks-Grid-T-Shirt/dp/B0DXR8WRF7/ref=zg_bs_g_9056987011_d_sccl_27/136-5032886-4720868",
       "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-27T08:54:24.699510Z",
+      "first_seen": "2026-05-28T09:37:21.322183Z",
       "keywords": [
-        "crazy",
-        "dog",
-        "shirts",
-        "hide",
-        "seek",
-        "champion",
-        "bigfoot",
-        "sarcastic"
+        "nba",
+        "york",
+        "knicks",
+        "bow",
+        "grid"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, shirts, hide, seek, champion, bigfoot, sarcastic. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nba, york, knicks, bow, grid. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
