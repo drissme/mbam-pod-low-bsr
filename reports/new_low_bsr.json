@@ -1,33 +1,81 @@
 {
-  "generated_at": "2026-05-28T09:37:21.432200Z",
+  "generated_at": "2026-05-29T08:59:04.885556Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B09XWX43HY",
-      "title": "Grunt Style American Acid Men's T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-XLarge/dp/B09XWX43HY/ref=zg_bs_g_9056987011_d_sccl_14/136-5032886-4720868",
-      "current_rank": 14,
+      "asin": "B09GMFDVC8",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMFDVC8/ref=zg_bs_g_9056987011_d_sccl_21/141-5635333-5239962",
+      "current_rank": 21,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-28T09:37:21.322183Z",
+      "first_seen": "2026-05-29T08:59:04.780686Z",
       "keywords": [
-        "grunt",
-        "style",
-        "american",
-        "acid"
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "crewneck",
+        "print",
+        "top",
+        "casual",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, acid. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09XFG3KKG",
-      "title": "Grunt Style American 1776 Flag - Patriotic Graphic Tee, Men's Short Sleeve T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Military-Medium/dp/B09XFG3KKG/ref=zg_bs_g_9056987011_d_sccl_26/136-5032886-4720868",
-      "current_rank": 26,
+      "asin": "B0FVYJ5JCY",
+      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
+      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYJ5JCY/ref=zg_bs_g_9056987011_d_sccl_22/141-5635333-5239962",
+      "current_rank": 22,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-28T09:37:21.322183Z",
+      "first_seen": "2026-05-29T08:59:04.780686Z",
+      "keywords": [
+        "iudam",
+        "mens",
+        "loose",
+        "crew",
+        "neck",
+        "palm",
+        "tree",
+        "summer",
+        "shirts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09NJJSHVT",
+      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
+      "link": "https://www.amazon.com/Goodstoworld-Sleeve-Printed-Clothing-X-Large/dp/B09NJJSHVT/ref=zg_bs_g_9056987011_d_sccl_23/141-5635333-5239962",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-29T08:59:04.780686Z",
+      "keywords": [
+        "goodstoworld",
+        "unisex",
+        "fake",
+        "abs",
+        "shirts",
+        "shredded",
+        "chest",
+        "printed",
+        "costume",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DYVRTHBS",
+      "title": "Grunt Style American 1776 Flag - Patriotic Graphic Tee, Men's Short Sleeve T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Midnight-X-Large/dp/B0DYVRTHBS/ref=zg_bs_g_9056987011_d_sccl_27/141-5635333-5239962",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-29T08:59:04.780686Z",
       "keywords": [
         "grunt",
         "style",
@@ -37,23 +85,6 @@
         "patriotic"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DXR8WRF7",
-      "title": "NBA New York Knicks Bow Grid T-Shirt",
-      "link": "https://www.amazon.com/New-York-Knicks-Grid-T-Shirt/dp/B0DXR8WRF7/ref=zg_bs_g_9056987011_d_sccl_27/136-5032886-4720868",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-28T09:37:21.322183Z",
-      "keywords": [
-        "nba",
-        "york",
-        "knicks",
-        "bow",
-        "grid"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nba, york, knicks, bow, grid. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
