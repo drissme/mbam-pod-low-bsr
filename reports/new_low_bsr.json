@@ -1,38 +1,117 @@
 {
-  "generated_at": "2026-05-29T08:59:04.885556Z",
+  "generated_at": "2026-05-30T08:11:22.734150Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B09GMFDVC8",
-      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
-      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMFDVC8/ref=zg_bs_g_9056987011_d_sccl_21/141-5635333-5239962",
+      "asin": "B09XWSCLSJ",
+      "title": "Grunt Style American Acid - USA Flag Graphic Tee, Patriotic Shirt - Men's Short Sleeve T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-American-T-Shirt-White/dp/B09XWSCLSJ/ref=zg_bs_g_9056987011_d_sccl_17/135-1694722-0262601",
+      "current_rank": 17,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-30T08:11:22.635007Z",
+      "keywords": [
+        "grunt",
+        "style",
+        "american",
+        "acid",
+        "usa",
+        "flag",
+        "patriotic"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, acid, usa, flag, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CCWZ8GVF",
+      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
+      "link": "https://www.amazon.com/INTO-AM-Graphic-Trippy-Printed/dp/B0CCWZ8GVF/ref=zg_bs_g_9056987011_d_sccl_18/135-1694722-0262601",
+      "current_rank": 18,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-30T08:11:22.635007Z",
+      "keywords": [
+        "into",
+        "shirts",
+        "4xl",
+        "premium",
+        "quality",
+        "unique",
+        "art",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0H29JLQ3S",
+      "title": "I'll Be in The Backyard Funny Bourbon Cigar Lover T-Shirt",
+      "link": "https://www.amazon.com/Ill-Backyard-Funny-Bourbon-Cigar/dp/B0H29JLQ3S/ref=zg_bs_g_9056987011_d_sccl_21/135-1694722-0262601",
       "current_rank": 21,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-29T08:59:04.780686Z",
+      "first_seen": "2026-05-30T08:11:22.635007Z",
       "keywords": [
-        "raisevern",
-        "unisex",
-        "summer",
-        "shirts",
-        "crewneck",
-        "print",
-        "top",
-        "casual",
-        "tees"
+        "i'll",
+        "backyard",
+        "bourbon",
+        "cigar",
+        "lover"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: i'll, backyard, bourbon, cigar, lover. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FVYJ5JCY",
-      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
-      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYJ5JCY/ref=zg_bs_g_9056987011_d_sccl_22/141-5635333-5239962",
-      "current_rank": 22,
+      "asin": "B0G94MK6F5",
+      "title": "FEEGO Thickened Cotton Short Sleeve Custom T-Shirts,Front & Back Print,Personalized with Your Photo,Fit for Men Women",
+      "link": "https://www.amazon.com/FEEGO-Thickened-Cotton-T-Shirts-Personalized/dp/B0G94MK6F5/ref=zg_bs_g_9056987011_d_sccl_23/135-1694722-0262601",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-29T08:59:04.780686Z",
+      "first_seen": "2026-05-30T08:11:22.635007Z",
+      "keywords": [
+        "feego",
+        "thickened",
+        "cotton",
+        "custom",
+        "shirts",
+        "front",
+        "back",
+        "print",
+        "personalized",
+        "your",
+        "photo",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: feego, thickened, cotton, custom, shirts, front, back, print, personalized, your, photo, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07JMLVB2Z",
+      "title": "Crazy Dog T-Shirts Hide and Seek Champion Funny Bigfoot Graphic Sarcastic Tee",
+      "link": "https://www.amazon.com/Champion-Crazy-Dog-T-Shirts-Comfortable/dp/B07JMLVB2Z/ref=zg_bs_g_9056987011_d_sccl_27/135-1694722-0262601",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-30T08:11:22.635007Z",
+      "keywords": [
+        "crazy",
+        "dog",
+        "shirts",
+        "hide",
+        "seek",
+        "champion",
+        "bigfoot",
+        "sarcastic"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, shirts, hide, seek, champion, bigfoot, sarcastic. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GCRDC3MZ",
+      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
+      "link": "https://www.amazon.com/iudam-Graphic-Sleeve-Shirts-Crewneck/dp/B0GCRDC3MZ/ref=zg_bs_g_9056987011_d_sccl_29/135-1694722-0262601",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-05-30T08:11:22.635007Z",
       "keywords": [
         "iudam",
         "mens",
@@ -47,44 +126,22 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09NJJSHVT",
-      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
-      "link": "https://www.amazon.com/Goodstoworld-Sleeve-Printed-Clothing-X-Large/dp/B09NJJSHVT/ref=zg_bs_g_9056987011_d_sccl_23/141-5635333-5239962",
-      "current_rank": 23,
+      "asin": "B0DR6JLRBS",
+      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
+      "link": "https://www.amazon.com/TeeUnion-T-Shirt-Classic-Concert-Festival/dp/B0DR6JLRBS/ref=zg_bs_g_9056987011_d_sccl_30/135-1694722-0262601",
+      "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-05-29T08:59:04.780686Z",
+      "first_seen": "2026-05-30T08:11:22.635007Z",
       "keywords": [
-        "goodstoworld",
-        "unisex",
-        "fake",
-        "abs",
-        "shirts",
-        "shredded",
-        "chest",
-        "printed",
-        "costume",
-        "tees"
+        "teeunion",
+        "tuxedo",
+        "party",
+        "concert",
+        "festival",
+        "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DYVRTHBS",
-      "title": "Grunt Style American 1776 Flag - Patriotic Graphic Tee, Men's Short Sleeve T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Midnight-X-Large/dp/B0DYVRTHBS/ref=zg_bs_g_9056987011_d_sccl_27/141-5635333-5239962",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-05-29T08:59:04.780686Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "american",
-        "1776",
-        "flag",
-        "patriotic"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
