@@ -1,53 +1,84 @@
 {
-  "generated_at": "2026-06-03T10:26:28.211869Z",
+  "generated_at": "2026-06-04T09:37:03.313952Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0F84YSQZ1",
-      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
-      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_9/145-3442394-5374666",
-      "current_rank": 9,
+      "asin": "B0FB428W3Z",
+      "title": "Dad Tax Making Sure its not Poison T-Shirt",
+      "link": "https://www.amazon.com/Dad-Making-its-not-T-Shirt/dp/B0FB428W3Z/ref=zg_bs_g_9056987011_d_sccl_14/142-9865163-1695513",
+      "current_rank": 14,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-03T10:26:28.108750Z",
+      "first_seen": "2026-06-04T09:37:03.191551Z",
       "keywords": [
-        "sarcastic",
-        "saying",
-        "shirts",
-        "husband",
         "dad",
-        "grandpa",
-        "boyfriend",
-        "son",
-        "humor",
-        "joke"
+        "tax",
+        "making",
+        "sure",
+        "its",
+        "not",
+        "poison"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: dad, tax, making, sure, its, not, poison. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0CMBLB3KY",
-      "title": "Just Another Sexy Bald Guy | Funny Dad Husband Grandpa Joke Dude Men Humor T-Shirt",
-      "link": "https://www.amazon.com/Majestic-Shaved-Husband-Grandpa-T-Shirt/dp/B0CMBLB3KY/ref=zg_bs_g_9056987011_d_sccl_12/145-3442394-5374666",
-      "current_rank": 12,
+      "asin": "B0H2BK6KKQ",
+      "title": "NBA 2026 Eastern Conference Finals Knicks Next Level T-Shirt",
+      "link": "https://www.amazon.com/Eastern-Conference-Finals-Knicks-T-Shirt/dp/B0H2BK6KKQ/ref=zg_bs_g_9056987011_d_sccl_15/142-9865163-1695513",
+      "current_rank": 15,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-03T10:26:28.108750Z",
+      "first_seen": "2026-06-04T09:37:03.191551Z",
       "keywords": [
-        "just",
-        "another",
-        "sexy",
-        "bald",
-        "guy",
-        "dad",
-        "husband",
-        "grandpa",
-        "joke",
-        "dude",
-        "humor"
+        "nba",
+        "2026",
+        "eastern",
+        "conference",
+        "finals",
+        "knicks",
+        "next",
+        "level"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: just, another, sexy, bald, guy, dad, husband, grandpa, joke, dude, humor. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nba, 2026, eastern, conference, finals, knicks, next, level. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B08LP5HPCX",
+      "title": "Breaking News: I Don't Care | Funny Sarcasm Joke Sarcastic Humor Graphic T-Shirt for Men Women",
+      "link": "https://www.amazon.com/Breaking-News-Sarcasm-Sarcastic-Graphic/dp/B08LP5HPCX/ref=zg_bs_g_9056987011_d_sccl_28/142-9865163-1695513",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-04T09:37:03.191551Z",
+      "keywords": [
+        "breaking",
+        "news",
+        "don't",
+        "care",
+        "sarcasm",
+        "joke",
+        "sarcastic",
+        "humor",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: breaking, news, don't, care, sarcasm, joke, sarcastic, humor, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DQQNR5YR",
+      "title": "New York - Throwback Design Print - Classic T-Shirt",
+      "link": "https://www.amazon.com/New-York-Throwback-Classic-T-Shirt/dp/B0DQQNR5YR/ref=zg_bs_g_9056987011_d_sccl_30/142-9865163-1695513",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-04T09:37:03.191551Z",
+      "keywords": [
+        "york",
+        "throwback",
+        "design",
+        "print"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: york, throwback, design, print. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
