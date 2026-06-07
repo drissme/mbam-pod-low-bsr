@@ -1,7 +1,65 @@
 {
-  "generated_at": "2026-06-06T08:18:35.545153Z",
+  "generated_at": "2026-06-07T08:40:31.507319Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B0DPBLZ5M2",
+      "title": "Undiagnosed But Something Ain't Right Funny Saying T-Shirt",
+      "link": "https://www.amazon.com/Undiagnosed-Something-Aint-Right-Funny/dp/B0DPBLZ5M2/ref=zg_bs_g_9056987011_d_sccl_19/139-2160354-3693534",
+      "current_rank": 19,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-07T08:40:31.411610Z",
+      "keywords": [
+        "undiagnosed",
+        "but",
+        "something",
+        "ain't",
+        "right",
+        "saying"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: undiagnosed, but, something, ain't, right, saying. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07P9RBL6J",
+      "title": "NEW YORK ORANGE & BLUE SKYLINE VINTAGE SILHOUETTE T-Shirt",
+      "link": "https://www.amazon.com/ORANGE-SKYLINE-VINTAGE-SILHOUETTE-T-SHIRT/dp/B07P9RBL6J/ref=zg_bs_g_9056987011_d_sccl_24/139-2160354-3693534",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-07T08:40:31.411610Z",
+      "keywords": [
+        "york",
+        "orange",
+        "blue",
+        "skyline",
+        "silhouette"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: york, orange, blue, skyline, silhouette. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07N11Y4VN",
+      "title": "You Can't Scare Me, I Have Kids | Funny Dad Daddy Daughters Children Cute Joke Men T-Shirt",
+      "link": "https://www.amazon.com/Scare-Daughters-Funny-Daddy-T-Shirt/dp/B07N11Y4VN/ref=zg_bs_g_9056987011_d_sccl_26/139-2160354-3693534",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-07T08:40:31.411610Z",
+      "keywords": [
+        "you",
+        "can't",
+        "scare",
+        "have",
+        "dad",
+        "daddy",
+        "daughters",
+        "children",
+        "cute",
+        "joke"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: you, can't, scare, have, dad, daddy, daughters, children, cute, joke. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
