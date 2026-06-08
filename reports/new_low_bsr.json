@@ -1,65 +1,44 @@
 {
-  "generated_at": "2026-06-07T08:40:31.507319Z",
+  "generated_at": "2026-06-08T10:09:06.928051Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DPBLZ5M2",
-      "title": "Undiagnosed But Something Ain't Right Funny Saying T-Shirt",
-      "link": "https://www.amazon.com/Undiagnosed-Something-Aint-Right-Funny/dp/B0DPBLZ5M2/ref=zg_bs_g_9056987011_d_sccl_19/139-2160354-3693534",
+      "asin": "B0CNNYJVHM",
+      "title": "Vintage New York Men NY Blue Orange Women Retro New York Tee T-Shirt",
+      "link": "https://www.amazon.com/Vintage-New-York-Women-Retro/dp/B0CNNYJVHM/ref=zg_bs_g_9056987011_d_sccl_19/140-1722418-4058632",
       "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-07T08:40:31.411610Z",
-      "keywords": [
-        "undiagnosed",
-        "but",
-        "something",
-        "ain't",
-        "right",
-        "saying"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: undiagnosed, but, something, ain't, right, saying. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07P9RBL6J",
-      "title": "NEW YORK ORANGE & BLUE SKYLINE VINTAGE SILHOUETTE T-Shirt",
-      "link": "https://www.amazon.com/ORANGE-SKYLINE-VINTAGE-SILHOUETTE-T-SHIRT/dp/B07P9RBL6J/ref=zg_bs_g_9056987011_d_sccl_24/139-2160354-3693534",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-06-07T08:40:31.411610Z",
+      "first_seen": "2026-06-08T10:09:06.830615Z",
       "keywords": [
         "york",
-        "orange",
         "blue",
-        "skyline",
-        "silhouette"
+        "orange",
+        "women"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: york, orange, blue, skyline, silhouette. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: york, blue, orange, women. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07N11Y4VN",
-      "title": "You Can't Scare Me, I Have Kids | Funny Dad Daddy Daughters Children Cute Joke Men T-Shirt",
-      "link": "https://www.amazon.com/Scare-Daughters-Funny-Daddy-T-Shirt/dp/B07N11Y4VN/ref=zg_bs_g_9056987011_d_sccl_26/139-2160354-3693534",
-      "current_rank": 26,
+      "asin": "B0GYH49CD7",
+      "title": "Faith Freedom 250 Years 250th Anniversary USA Independence T-Shirt",
+      "link": "https://www.amazon.com/Freedom-250th-Anniversary-Independence-T-Shirt/dp/B0GYH49CD7/ref=zg_bs_g_9056987011_d_sccl_29/140-1722418-4058632",
+      "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-07T08:40:31.411610Z",
+      "first_seen": "2026-06-08T10:09:06.830615Z",
       "keywords": [
-        "you",
-        "can't",
-        "scare",
-        "have",
-        "dad",
-        "daddy",
-        "daughters",
-        "children",
-        "cute",
-        "joke"
+        "faith",
+        "freedom",
+        "250",
+        "years",
+        "250th",
+        "anniversary",
+        "usa",
+        "independence"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: you, can't, scare, have, dad, daddy, daughters, children, cute, joke. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: faith, freedom, 250, years, 250th, anniversary, usa, independence. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
