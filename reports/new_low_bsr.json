@@ -1,44 +1,51 @@
 {
-  "generated_at": "2026-06-08T10:09:06.928051Z",
+  "generated_at": "2026-06-09T08:53:30.871983Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CNNYJVHM",
-      "title": "Vintage New York Men NY Blue Orange Women Retro New York Tee T-Shirt",
-      "link": "https://www.amazon.com/Vintage-New-York-Women-Retro/dp/B0CNNYJVHM/ref=zg_bs_g_9056987011_d_sccl_19/140-1722418-4058632",
-      "current_rank": 19,
+      "asin": "B0CYQ93QD9",
+      "title": "Awesome Like My Daughter Shirt Gifts Funny Fathers Day Dad T-Shirt",
+      "link": "https://www.amazon.com/Awesome-Like-Daughter-Gifts-Fathers/dp/B0CYQ93QD9/ref=zg_bs_g_9056987011_d_sccl_22/138-9041530-6132955",
+      "current_rank": 22,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-08T10:09:06.830615Z",
+      "first_seen": "2026-06-09T08:53:30.769849Z",
       "keywords": [
-        "york",
-        "blue",
-        "orange",
-        "women"
+        "awesome",
+        "like",
+        "daughter",
+        "gifts",
+        "fathers",
+        "day",
+        "dad"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: york, blue, orange, women. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, gifts, fathers, day, dad. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GYH49CD7",
-      "title": "Faith Freedom 250 Years 250th Anniversary USA Independence T-Shirt",
-      "link": "https://www.amazon.com/Freedom-250th-Anniversary-Independence-T-Shirt/dp/B0GYH49CD7/ref=zg_bs_g_9056987011_d_sccl_29/140-1722418-4058632",
-      "current_rank": 29,
+      "asin": "B0GRFV6MCH",
+      "title": "XLIEVO 250 Anniversary USA Shirt Mens: American Flag 4th of July Independence Day Costumes Crew Neck Short Sleeve T-Shirt",
+      "link": "https://www.amazon.com/XLIEVO-250-Anniversary-Shirt-Mens/dp/B0GRFV6MCH/ref=zg_bs_g_9056987011_d_sccl_27/138-9041530-6132955",
+      "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-08T10:09:06.830615Z",
+      "first_seen": "2026-06-09T08:53:30.769849Z",
       "keywords": [
-        "faith",
-        "freedom",
+        "xlievo",
         "250",
-        "years",
-        "250th",
         "anniversary",
         "usa",
-        "independence"
+        "mens",
+        "american",
+        "flag",
+        "4th",
+        "july",
+        "independence",
+        "day",
+        "costumes"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: faith, freedom, 250, years, 250th, anniversary, usa, independence. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: xlievo, 250, anniversary, usa, mens, american, flag, 4th, july, independence, day, costumes. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
