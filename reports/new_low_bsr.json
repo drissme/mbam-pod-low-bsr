@@ -1,46 +1,42 @@
 {
-  "generated_at": "2026-06-10T09:34:12.302571Z",
+  "generated_at": "2026-06-11T09:57:05.130268Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B09CQ1XZRH",
-      "title": "Awesome Like My Daughters Mom Dad Mother's Day Father's Day T-Shirt",
-      "link": "https://www.amazon.com/Awesome-Daughters-Mothers-Day-Fathers/dp/B09CQ1XZRH/ref=zg_bs_g_9056987011_d_sccl_25/131-3647808-4071947",
-      "current_rank": 25,
+      "asin": "B0H2677K1Q",
+      "title": "New York - Throwback Design - Classic T-Shirt",
+      "link": "https://www.amazon.com/New-York-Throwback-Classic-T-Shirt/dp/B0H2677K1Q/ref=zg_bs_g_9056987011_d_sccl_27/134-5967606-8209166",
+      "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-10T09:34:12.200661Z",
+      "first_seen": "2026-06-11T09:57:05.043246Z",
       "keywords": [
-        "awesome",
-        "like",
-        "daughters",
-        "mom",
-        "dad",
-        "mother's",
-        "day",
-        "father's"
+        "york",
+        "throwback",
+        "design"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughters, mom, dad, mother's, day, father's. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: york, throwback, design. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DYVRD2D4",
-      "title": "Grunt Style American 1776 Flag - Patriotic Graphic Tee, Men's Short Sleeve T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Midnight-Large/dp/B0DYVRD2D4/ref=zg_bs_g_9056987011_d_sccl_30/131-3647808-4071947",
+      "asin": "B0GVL7T8F8",
+      "title": "Disney and Pixar's Toy Story 5 Logo & Character Collection T-Shirt",
+      "link": "https://www.amazon.com/Disney-Pixars-Character-Collection-T-Shirt/dp/B0GVL7T8F8/ref=zg_bs_g_9056987011_d_sccl_30/134-5967606-8209166",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-10T09:34:12.200661Z",
+      "first_seen": "2026-06-11T09:57:05.043246Z",
       "keywords": [
-        "grunt",
-        "style",
-        "american",
-        "1776",
-        "flag",
-        "patriotic"
+        "disney",
+        "pixar's",
+        "toy",
+        "story",
+        "logo",
+        "character",
+        "collection"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: disney, pixar's, toy, story, logo, character, collection. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
