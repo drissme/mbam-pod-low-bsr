@@ -1,42 +1,45 @@
 {
-  "generated_at": "2026-06-11T09:57:05.130268Z",
+  "generated_at": "2026-06-12T09:49:04.583435Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0H2677K1Q",
-      "title": "New York - Throwback Design - Classic T-Shirt",
-      "link": "https://www.amazon.com/New-York-Throwback-Classic-T-Shirt/dp/B0H2677K1Q/ref=zg_bs_g_9056987011_d_sccl_27/134-5967606-8209166",
-      "current_rank": 27,
+      "asin": "B0GYK129B5",
+      "title": "New York - Throwback Design Print - Classic T-Shirt",
+      "link": "https://www.amazon.com/New-York-Throwback-Classic-T-Shirt/dp/B0GYK129B5/ref=zg_bs_g_9056987011_d_sccl_18/134-8383318-8569026",
+      "current_rank": 18,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-11T09:57:05.043246Z",
+      "first_seen": "2026-06-12T09:49:04.477841Z",
       "keywords": [
         "york",
         "throwback",
-        "design"
+        "design",
+        "print"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: york, throwback, design. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: york, throwback, design, print. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GVL7T8F8",
-      "title": "Disney and Pixar's Toy Story 5 Logo & Character Collection T-Shirt",
-      "link": "https://www.amazon.com/Disney-Pixars-Character-Collection-T-Shirt/dp/B0GVL7T8F8/ref=zg_bs_g_9056987011_d_sccl_30/134-5967606-8209166",
-      "current_rank": 30,
+      "asin": "B0F4P6PSYF",
+      "title": "Bigfoot Papa, Just A Dad Who Always Came Back with The Milk T-Shirt",
+      "link": "https://www.amazon.com/Just-Dad-Always-Came-Back/dp/B0F4P6PSYF/ref=zg_bs_g_9056987011_d_sccl_24/134-8383318-8569026",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-11T09:57:05.043246Z",
+      "first_seen": "2026-06-12T09:49:04.477841Z",
       "keywords": [
-        "disney",
-        "pixar's",
-        "toy",
-        "story",
-        "logo",
-        "character",
-        "collection"
+        "bigfoot",
+        "papa",
+        "just",
+        "dad",
+        "who",
+        "always",
+        "came",
+        "back",
+        "milk"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: disney, pixar's, toy, story, logo, character, collection. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: bigfoot, papa, just, dad, who, always, came, back, milk. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
