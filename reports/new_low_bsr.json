@@ -1,71 +1,32 @@
 {
-  "generated_at": "2026-06-16T10:47:06.271003Z",
+  "generated_at": "2026-06-17T10:19:41.665373Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B08W3MDXG6",
-      "title": "Best dad ever US american flag gift for father's day Short Sleeve T-Shirt",
-      "link": "https://www.amazon.com/Best-dad-american-fathers-day/dp/B08W3MDXG6/ref=zg_bs_g_9056987011_d_sccl_21/145-2530579-2931116",
-      "current_rank": 21,
+      "asin": "B018F4PIFY",
+      "title": "Best Dad Ever Shirt Fathers Day Shirt Funny Novelty Graphic Gift Mens Big Tall Regular Apparel Tee Proud Hero",
+      "link": "https://www.amazon.com/Fathers-Graphic-Husbands-Tshirts-Classic/dp/B018F4PIFY/ref=zg_bs_g_9056987011_d_sccl_29/143-1129618-6082110",
+      "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-16T10:47:06.170469Z",
+      "first_seen": "2026-06-17T10:19:41.537042Z",
       "keywords": [
         "best",
         "dad",
         "ever",
-        "american",
-        "flag",
+        "fathers",
+        "day",
         "gift",
-        "father's",
-        "day"
+        "mens",
+        "big",
+        "tall",
+        "regular",
+        "proud",
+        "hero"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: best, dad, ever, american, flag, gift, father's, day. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0F87QFSN1",
-      "title": "GODMERCH Custom Papa Shirt, Personalized Dad Grandpa Nickname with Kids Names Sweatshirt Hoodies, Gifts Fathers Day for Men",
-      "link": "https://www.amazon.com/GODMERCH-Personalized-T-Shirt-Christmas-Birthday/dp/B0F87QFSN1/ref=zg_bs_g_9056987011_d_sccl_27/145-2530579-2931116",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-06-16T10:47:06.170469Z",
-      "keywords": [
-        "godmerch",
-        "custom",
-        "papa",
-        "personalized",
-        "dad",
-        "grandpa",
-        "nickname",
-        "names",
-        "sweatshirt",
-        "hoodies",
-        "gifts",
-        "fathers"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: godmerch, custom, papa, personalized, dad, grandpa, nickname, names, sweatshirt, hoodies, gifts, fathers. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DJ35D36W",
-      "title": "Nederland Lion, Netherlands Flag. Holland Dutch, Orange T-Shirt",
-      "link": "https://www.amazon.com/Nederland-Netherlands-Holland-Orange-T-Shirt/dp/B0DJ35D36W/ref=zg_bs_g_9056987011_d_sccl_28/145-2530579-2931116",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-06-16T10:47:06.170469Z",
-      "keywords": [
-        "nederland",
-        "lion",
-        "netherlands",
-        "flag",
-        "holland",
-        "dutch",
-        "orange"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nederland, lion, netherlands, flag, holland, dutch, orange. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: best, dad, ever, fathers, day, gift, mens, big, tall, regular, proud, hero. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
