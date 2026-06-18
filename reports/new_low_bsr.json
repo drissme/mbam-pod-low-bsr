@@ -1,32 +1,130 @@
 {
-  "generated_at": "2026-06-17T10:19:41.665373Z",
+  "generated_at": "2026-06-18T09:59:46.182312Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B018F4PIFY",
-      "title": "Best Dad Ever Shirt Fathers Day Shirt Funny Novelty Graphic Gift Mens Big Tall Regular Apparel Tee Proud Hero",
-      "link": "https://www.amazon.com/Fathers-Graphic-Husbands-Tshirts-Classic/dp/B018F4PIFY/ref=zg_bs_g_9056987011_d_sccl_29/143-1129618-6082110",
+      "asin": "B0CCT3YV2K",
+      "title": "True Classic Mens T-Shirts – Short Sleeve Crew Neck T Shirts for Man, Cotton Blend Plain Novelty Men's T-Shirts",
+      "link": "https://www.amazon.com/True-Classic-3-Shirt-Premium-T-Shirts/dp/B0CCT3YV2K/ref=zg_bs_g_9056987011_d_sccl_1/135-2261876-0708529",
+      "current_rank": 1,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-18T09:59:46.073196Z",
+      "keywords": [
+        "true",
+        "mens",
+        "shirts",
+        "crew",
+        "neck",
+        "man",
+        "cotton",
+        "blend",
+        "plain"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: true, mens, shirts, crew, neck, man, cotton, blend, plain. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B08Y8H5ZQ7",
+      "title": "Promoted to Daddy 2026 Shirt – Funny Dad to Be Shirt Baby Announcement Graphic Tee New Daddy Gifts for Men",
+      "link": "https://www.amazon.com/Promoted-Daddy-T-Shirt-Family-Heather/dp/B08Y8H5ZQ7/ref=zg_bs_g_9056987011_d_sccl_23/135-2261876-0708529",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-18T09:59:46.073196Z",
+      "keywords": [
+        "promoted",
+        "daddy",
+        "2026",
+        "dad",
+        "baby",
+        "announcement",
+        "gifts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: promoted, daddy, 2026, dad, baby, announcement, gifts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0H21RB8C9",
+      "title": "MY4LOVE Personalized Dad Shirt, Custom Dad Tshirt, Est Date Daddy Tshirt, Custom Gifts for Daddy, Grandpa, Papa",
+      "link": "https://www.amazon.com/MY4LOVE-Personalized-Grandpa-Birthday-Christmas/dp/B0H21RB8C9/ref=zg_bs_g_9056987011_d_sccl_24/135-2261876-0708529",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-18T09:59:46.073196Z",
+      "keywords": [
+        "my4love",
+        "personalized",
+        "dad",
+        "custom",
+        "est",
+        "date",
+        "daddy",
+        "gifts",
+        "grandpa",
+        "papa"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: my4love, personalized, dad, custom, est, date, daddy, gifts, grandpa, papa. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07N11Y4VN",
+      "title": "You Can't Scare Me, I Have Kids | Funny Dad Daddy Daughters Children Cute Joke Men T-Shirt",
+      "link": "https://www.amazon.com/Scare-Daughters-Funny-Daddy-T-Shirt/dp/B07N11Y4VN/ref=zg_bs_g_9056987011_d_sccl_26/135-2261876-0708529",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-18T09:59:46.073196Z",
+      "keywords": [
+        "you",
+        "can't",
+        "scare",
+        "have",
+        "dad",
+        "daddy",
+        "daughters",
+        "children",
+        "cute",
+        "joke"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: you, can't, scare, have, dad, daddy, daughters, children, cute, joke. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DLPHX3XC",
+      "title": "Awesome Like My Daughter Funny Tshirts Humor Novelty Tee Shirt for Dad,Men's, Grandpa",
+      "link": "https://www.amazon.com/Awesome-Daughter-Graphic-Heather-X-Large/dp/B0DLPHX3XC/ref=zg_bs_g_9056987011_d_sccl_29/135-2261876-0708529",
       "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-17T10:19:41.537042Z",
+      "first_seen": "2026-06-18T09:59:46.073196Z",
       "keywords": [
-        "best",
+        "awesome",
+        "like",
+        "daughter",
+        "tshirts",
+        "humor",
         "dad",
-        "ever",
-        "fathers",
-        "day",
-        "gift",
-        "mens",
-        "big",
-        "tall",
-        "regular",
-        "proud",
-        "hero"
+        "grandpa"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: best, dad, ever, fathers, day, gift, mens, big, tall, regular, proud, hero. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, tshirts, humor, dad, grandpa. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0H3TNZDRX",
+      "title": "NAZENTI Personalized Grandma Shirt, for Grandma, Custom Grandkids Photo Shirt, for Grandmas",
+      "link": "https://www.amazon.com/NAZENTI-Custom-Personalized-Fathers-Vintage/dp/B0H3TNZDRX/ref=zg_bs_g_9056987011_d_sccl_30/135-2261876-0708529",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-18T09:59:46.073196Z",
+      "keywords": [
+        "nazenti",
+        "personalized",
+        "grandma",
+        "custom",
+        "grandkids",
+        "photo",
+        "grandmas"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nazenti, personalized, grandma, custom, grandkids, photo, grandmas. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
