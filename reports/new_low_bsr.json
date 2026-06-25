@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-06-24T08:47:29.688448Z",
+  "generated_at": "2026-06-25T08:42:36.947297Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CWFKC2QD",
-      "title": "Cape Verde Flag, Cape Verdean Flag, Cape Verde T-Shirt",
-      "link": "https://www.amazon.com/Cape-Verde-Flag-Verdean-T-Shirt/dp/B0CWFKC2QD/ref=zg_bs_g_9056987011_d_sccl_15/140-7478108-5021950",
-      "current_rank": 15,
+      "asin": "B0DYVRD2D4",
+      "title": "Grunt Style American 1776 Flag - Patriotic Graphic Tee, Men's Short Sleeve T-Shirt",
+      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Midnight-Large/dp/B0DYVRD2D4/ref=zg_bs_g_9056987011_d_sccl_8/132-3116927-6371203",
+      "current_rank": 8,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-24T08:47:29.594270Z",
+      "first_seen": "2026-06-25T08:42:36.840319Z",
       "keywords": [
-        "cape",
-        "verde",
+        "grunt",
+        "style",
+        "american",
+        "1776",
         "flag",
-        "verdean"
+        "patriotic"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: cape, verde, flag, verdean. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0CQCBV9DN",
+      "asin": "B0CQCMP7SG",
       "title": "Theagaea Mens 4th of July Shirts American Flag Patriotic Short Sleeve T-Shirt",
-      "link": "https://www.amazon.com/People-Shirts-American-Patriotic-T-Shirt/dp/B0CQCBV9DN/ref=zg_bs_g_9056987011_d_sccl_25/140-7478108-5021950",
-      "current_rank": 25,
+      "link": "https://www.amazon.com/People-Shirts-American-Patriotic-T-Shirt/dp/B0CQCMP7SG/ref=zg_bs_g_9056987011_d_sccl_9/132-3116927-6371203",
+      "current_rank": 9,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-24T08:47:29.594270Z",
+      "first_seen": "2026-06-25T08:42:36.840319Z",
       "keywords": [
         "theagaea",
         "mens",
@@ -41,73 +43,99 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: theagaea, mens, 4th, july, shirts, american, flag, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0H1HHVRG3",
-      "title": "250th Anniversary USA Women 4th of July America 250 Years T-Shirt",
-      "link": "https://www.amazon.com/Anniversary-America-250-Years-T-Shirt/dp/B0H1HHVRG3/ref=zg_bs_g_9056987011_d_sccl_27/140-7478108-5021950",
-      "current_rank": 27,
+      "asin": "B09BK5PHB5",
+      "title": "Peanuts - Snoopy & Woodstock American Flags & Fireworks T-Shirt",
+      "link": "https://www.amazon.com/Peanuts-Snoopy-Woodstock-American-T-Shirt/dp/B09BK5PHB5/ref=zg_bs_g_9056987011_d_sccl_10/132-3116927-6371203",
+      "current_rank": 10,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-24T08:47:29.594270Z",
+      "first_seen": "2026-06-25T08:42:36.840319Z",
+      "keywords": [
+        "peanuts",
+        "snoopy",
+        "woodstock",
+        "american",
+        "flags",
+        "fireworks"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: peanuts, snoopy, woodstock, american, flags, fireworks. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GPC7CW98",
+      "title": "Freedom Shirt – Simple Freedom Text T Shirt for Men & Women Patriotic Men's Tshirts Graphic Tee",
+      "link": "https://www.amazon.com/Vintage-1776-2026-American-Anniversary-Independence/dp/B0GPC7CW98/ref=zg_bs_g_9056987011_d_sccl_19/132-3116927-6371203",
+      "current_rank": 19,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-25T08:42:36.840319Z",
+      "keywords": [
+        "freedom",
+        "simple",
+        "text",
+        "women",
+        "patriotic",
+        "tshirts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, women, patriotic, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0BT725J2G",
+      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
+      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Graphic/dp/B0BT725J2G/ref=zg_bs_g_9056987011_d_sccl_22/132-3116927-6371203",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-25T08:42:36.840319Z",
+      "keywords": [
+        "into",
+        "shirts",
+        "4xl",
+        "premium",
+        "quality",
+        "unique",
+        "art",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0F2G97KBG",
+      "title": "uideazone Mens Short Sleeve T-Shirt Casual 3D Creative Print Crewneck Graphic Tees",
+      "link": "https://www.amazon.com/uideazone-American-T-Shirt-Humorous-Graphic/dp/B0F2G97KBG/ref=zg_bs_g_9056987011_d_sccl_23/132-3116927-6371203",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-25T08:42:36.840319Z",
+      "keywords": [
+        "uideazone",
+        "mens",
+        "casual",
+        "creative",
+        "print",
+        "crewneck",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, casual, creative, print, crewneck, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GYZCM6MB",
+      "title": "250th Anniversary USA Shirt America Retro 250 Years 1776 2026 Tee T-Shirt",
+      "link": "https://www.amazon.com/Anniversary-USA-America-250-T-Shirt/dp/B0GYZCM6MB/ref=zg_bs_g_9056987011_d_sccl_25/132-3116927-6371203",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-25T08:42:36.840319Z",
       "keywords": [
         "250th",
         "anniversary",
         "usa",
-        "women",
-        "4th",
-        "july",
         "america",
         "250",
-        "years"
+        "years",
+        "1776",
+        "2026"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 250th, anniversary, usa, women, 4th, july, america, 250, years. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0G94MK6F5",
-      "title": "FEEGO Thickened Cotton Short Sleeve Custom T-Shirts,Front & Back Print,Personalized with Your Photo,Fit for Men Women",
-      "link": "https://www.amazon.com/FEEGO-Thickened-Cotton-T-Shirts-Personalized/dp/B0G94MK6F5/ref=zg_bs_g_9056987011_d_sccl_29/140-7478108-5021950",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-06-24T08:47:29.594270Z",
-      "keywords": [
-        "feego",
-        "thickened",
-        "cotton",
-        "custom",
-        "shirts",
-        "front",
-        "back",
-        "print",
-        "personalized",
-        "your",
-        "photo",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: feego, thickened, cotton, custom, shirts, front, back, print, personalized, your, photo, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0F6V1XTR4",
-      "title": "CARPESUN Custom T-Shirts for Men Women, Unisex T-Shirt for Adults Design Your Own, Customized Photo Text Logo Gift",
-      "link": "https://www.amazon.com/CARPESUN-T-Shirts-T-Shirt-Customized-Regular/dp/B0F6V1XTR4/ref=zg_bs_g_9056987011_d_sccl_30/140-7478108-5021950",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-06-24T08:47:29.594270Z",
-      "keywords": [
-        "carpesun",
-        "custom",
-        "shirts",
-        "women",
-        "unisex",
-        "adults",
-        "design",
-        "your",
-        "own",
-        "customized",
-        "photo",
-        "text"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: carpesun, custom, shirts, women, unisex, adults, design, your, own, customized, photo, text. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: 250th, anniversary, usa, america, 250, years, 1776, 2026. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
