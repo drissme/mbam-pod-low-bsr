@@ -1,155 +1,66 @@
 {
-  "generated_at": "2026-06-26T08:43:58.071584Z",
+  "generated_at": "2026-06-27T08:20:52.416860Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BJZ9GT1J",
-      "title": "True Classic Mens T-Shirts – Short Sleeve Crew Neck T Shirts for Man, Cotton Blend Plain Novelty Men's T-Shirts",
-      "link": "https://www.amazon.com/True-Classic-Staple-6-Pack-X-Large/dp/B0BJZ9GT1J/ref=zg_bs_g_9056987011_d_sccl_1/145-5549474-3835060",
-      "current_rank": 1,
+      "asin": "B0FHF9P76M",
+      "title": "United States Soccer Icon Navy USWNT Officially Licensed T-Shirt",
+      "link": "https://www.amazon.com/United-Soccer-Officially-Licensed-T-Shirt/dp/B0FHF9P76M/ref=zg_bs_g_9056987011_d_sccl_21/147-6105085-6365900",
+      "current_rank": 21,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-26T08:43:57.942976Z",
+      "first_seen": "2026-06-27T08:20:52.315649Z",
       "keywords": [
-        "true",
-        "mens",
-        "shirts",
-        "crew",
-        "neck",
-        "man",
-        "cotton",
-        "blend",
-        "plain"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: true, mens, shirts, crew, neck, man, cotton, blend, plain. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09XWNJGDS",
-      "title": "Grunt Style American 1776 Flag - Patriotic Graphic Tee, Men's Short Sleeve T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Heather-Large/dp/B09XWNJGDS/ref=zg_bs_g_9056987011_d_sccl_8/145-5549474-3835060",
-      "current_rank": 8,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-06-26T08:43:57.942976Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "american",
-        "1776",
-        "flag",
-        "patriotic"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GLQ5XR9Y",
-      "title": "American Flag 250th Anniversary 1776 2026 4th of July T-Shirt",
-      "link": "https://www.amazon.com/American-Flag-250th-Anniversary-T-Shirt/dp/B0GLQ5XR9Y/ref=zg_bs_g_9056987011_d_sccl_25/145-5549474-3835060",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-06-26T08:43:57.942976Z",
-      "keywords": [
-        "american",
-        "flag",
-        "250th",
-        "anniversary",
-        "1776",
-        "2026",
-        "4th",
-        "july"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: american, flag, 250th, anniversary, 1776, 2026, 4th, july. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GK12TXHX",
-      "title": "250 Years We The People Shirts - 4th of July T-Shirt - 250th Independence Day Shirt - American Eagle and Flag Freedom Tshirts",
-      "link": "https://www.amazon.com/250-Years-People-Shirts-Independence/dp/B0GK12TXHX/ref=zg_bs_g_9056987011_d_sccl_27/145-5549474-3835060",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-06-26T08:43:57.942976Z",
-      "keywords": [
-        "250",
-        "years",
-        "people",
-        "shirts",
-        "4th",
-        "july",
-        "250th",
-        "independence",
-        "day",
-        "american",
-        "eagle",
-        "flag"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 250, years, people, shirts, 4th, july, 250th, independence, day, american, eagle, flag. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0H5NTT75R",
-      "title": "Shiketong Mexico Jersey for Men Soccer Cup 2026 World Soccer Mexican Fans Jersey Short Sleeve Crew Neck Graphic Sport Tee",
-      "link": "https://www.amazon.com/Mexico-Mexican-Graphic-Playeras-Jerseys/dp/B0H5NTT75R/ref=zg_bs_g_9056987011_d_sccl_28/145-5549474-3835060",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-06-26T08:43:57.942976Z",
-      "keywords": [
-        "shiketong",
-        "mexico",
-        "jersey",
+        "united",
+        "states",
         "soccer",
-        "cup",
-        "2026",
-        "world",
-        "mexican",
-        "fans",
-        "crew",
-        "neck",
-        "sport"
+        "icon",
+        "navy",
+        "uswnt",
+        "officially",
+        "licensed"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: shiketong, mexico, jersey, soccer, cup, 2026, world, mexican, fans, crew, neck, sport. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: united, states, soccer, icon, navy, uswnt, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0H1BXJ4R1",
-      "title": "250 Years Faith Freedom Legacy Eagle 250th Anniversary USA T-Shirt",
-      "link": "https://www.amazon.com/Years-Freedom-Legacy-Anniversary-T-Shirt/dp/B0H1BXJ4R1/ref=zg_bs_g_9056987011_d_sccl_29/145-5549474-3835060",
+      "asin": "B0FJVCZDM8",
+      "title": "250 Years America Anniversary 250th Independence Day Freedom T-Shirt",
+      "link": "https://www.amazon.com/America-Anniversary-Independence-Freedom-T-Shirt/dp/B0FJVCZDM8/ref=zg_bs_g_9056987011_d_sccl_29/147-6105085-6365900",
       "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-06-26T08:43:57.942976Z",
-      "keywords": [
-        "250",
-        "years",
-        "faith",
-        "freedom",
-        "legacy",
-        "eagle",
-        "250th",
-        "anniversary",
-        "usa"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 250, years, faith, freedom, legacy, eagle, 250th, anniversary, usa. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0H246R5W7",
-      "title": "250 Years America Anniversary 250th Trump Washington Vintage T-Shirt",
-      "link": "https://www.amazon.com/250-Years-America-Anniversary-Trump/dp/B0H246R5W7/ref=zg_bs_g_9056987011_d_sccl_30/145-5549474-3835060",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-06-26T08:43:57.942976Z",
+      "first_seen": "2026-06-27T08:20:52.315649Z",
       "keywords": [
         "250",
         "years",
         "america",
         "anniversary",
         "250th",
-        "trump",
-        "washington"
+        "independence",
+        "day",
+        "freedom"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 250, years, america, anniversary, 250th, trump, washington. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: 250, years, america, anniversary, 250th, independence, day, freedom. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09VK5WY3F",
+      "title": "Joe Biden Happy Easter for Funny 4th of July T-Shirt",
+      "link": "https://www.amazon.com/Joe-Biden-Funny-4th-July/dp/B09VK5WY3F/ref=zg_bs_g_9056987011_d_sccl_30/147-6105085-6365900",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-06-27T08:20:52.315649Z",
+      "keywords": [
+        "joe",
+        "biden",
+        "happy",
+        "easter",
+        "4th",
+        "july"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: joe, biden, happy, easter, 4th, july. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
