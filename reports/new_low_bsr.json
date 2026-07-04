@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-03T08:41:17.917622Z",
+  "generated_at": "2026-07-04T08:15:45.402037Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": [
-    {
-      "asin": "B0982F8DXQ",
-      "title": "Mexico Mexican Flag Vintage Pride T-Shirt Small",
-      "link": "https://www.amazon.com/Mexico-Mexican-Vintage-Pride-T-Shirt/dp/B0982F8DXQ/ref=zg_bs_g_9056987011_d_sccl_30/132-4764551-1621460",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-03T08:41:17.813646Z",
-      "keywords": [
-        "mexico",
-        "mexican",
-        "flag",
-        "pride",
-        "small"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mexico, mexican, flag, pride, small. Use clear fonts and simple iconography. Avoid trademarks."
-    }
-  ]
+  "items": []
 }
