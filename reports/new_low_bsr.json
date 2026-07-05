@@ -1,7 +1,74 @@
 {
-  "generated_at": "2026-07-04T08:15:45.402037Z",
+  "generated_at": "2026-07-05T08:34:19.817911Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B0GPCPS2LP",
+      "title": "Freedom Shirt – Simple Freedom Text T Shirt for Men & Women Patriotic Men's Tshirts Graphic Tee",
+      "link": "https://www.amazon.com/Vintage-1776-2026-American-Anniversary-Independence/dp/B0GPCPS2LP/ref=zg_bs_g_9056987011_d_sccl_15/130-1226745-1049511",
+      "current_rank": 15,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-05T08:34:19.717304Z",
+      "keywords": [
+        "freedom",
+        "simple",
+        "text",
+        "women",
+        "patriotic",
+        "tshirts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, women, patriotic, tshirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0H5NTT75R",
+      "title": "Shiketong Mexico Jersey for Men Soccer Cup 2026 World Soccer Mexican Fans Jersey Short Sleeve Crew Neck Graphic Sport Tee",
+      "link": "https://www.amazon.com/Mexico-Mexican-Graphic-Playeras-Jerseys/dp/B0H5NTT75R/ref=zg_bs_g_9056987011_d_sccl_24/130-1226745-1049511",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-05T08:34:19.717304Z",
+      "keywords": [
+        "shiketong",
+        "mexico",
+        "jersey",
+        "soccer",
+        "cup",
+        "2026",
+        "world",
+        "mexican",
+        "fans",
+        "crew",
+        "neck",
+        "sport"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: shiketong, mexico, jersey, soccer, cup, 2026, world, mexican, fans, crew, neck, sport. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0G94MK6F5",
+      "title": "FEEGO Thickened Cotton Short Sleeve Custom T-Shirts,Front & Back Print,Personalized with Your Photo,Fit for Men Women",
+      "link": "https://www.amazon.com/FEEGO-Thickened-Cotton-T-Shirts-Personalized/dp/B0G94MK6F5/ref=zg_bs_g_9056987011_d_sccl_30/130-1226745-1049511",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-05T08:34:19.717304Z",
+      "keywords": [
+        "feego",
+        "thickened",
+        "cotton",
+        "custom",
+        "shirts",
+        "front",
+        "back",
+        "print",
+        "personalized",
+        "your",
+        "photo",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: feego, thickened, cotton, custom, shirts, front, back, print, personalized, your, photo, women. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
