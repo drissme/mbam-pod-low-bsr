@@ -1,64 +1,37 @@
 {
-  "generated_at": "2026-07-06T09:47:12.420454Z",
+  "generated_at": "2026-07-07T08:58:52.526140Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0H46N2TWP",
-      "title": "America 250 Years USA United States Flag July 4th 2026 1776 T-Shirt",
-      "link": "https://www.amazon.com/USA-United-States-July-2026/dp/B0H46N2TWP/ref=zg_bs_g_9056987011_d_sccl_25/136-3159739-3300747",
-      "current_rank": 25,
+      "asin": "B07P9KT88G",
+      "title": "Norway Flag Distressed Nordic Red White Blue Symbol T-Shirt",
+      "link": "https://www.amazon.com/Vintage-Norway-T-shirt-Norwegian-Norge/dp/B07P9KT88G/ref=zg_bs_g_9056987011_d_sccl_6/137-4559828-3708029",
+      "current_rank": 6,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-06T09:47:12.307413Z",
+      "first_seen": "2026-07-07T08:58:52.416120Z",
       "keywords": [
-        "america",
-        "250",
-        "years",
-        "usa",
-        "united",
-        "states",
+        "norway",
         "flag",
-        "july",
-        "4th",
-        "2026",
-        "1776"
+        "distressed",
+        "nordic",
+        "red",
+        "white",
+        "blue",
+        "symbol"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: america, 250, years, usa, united, states, flag, july, 4th, 2026, 1776. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: norway, flag, distressed, nordic, red, white, blue, symbol. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0F6V1XTR4",
-      "title": "CARPESUN Custom T-Shirts for Men Women, Unisex T-Shirt for Adults Design Your Own, Customized Photo Text Logo Gift",
-      "link": "https://www.amazon.com/CARPESUN-T-Shirts-T-Shirt-Customized-Regular/dp/B0F6V1XTR4/ref=zg_bs_g_9056987011_d_sccl_27/136-3159739-3300747",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-06T09:47:12.307413Z",
-      "keywords": [
-        "carpesun",
-        "custom",
-        "shirts",
-        "women",
-        "unisex",
-        "adults",
-        "design",
-        "your",
-        "own",
-        "customized",
-        "photo",
-        "text"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: carpesun, custom, shirts, women, unisex, adults, design, your, own, customized, photo, text. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0H5Q1PWRT",
+      "asin": "B0H5Q9GLFX",
       "title": "GQN 2026 World Soccer Cup Fan Jersey USA Soccer Jersey Short Sleeve Shirts Football Team Casual Crew Neck Tee",
-      "link": "https://www.amazon.com/Soccer-Cup-2026-Short-Sleeve/dp/B0H5Q1PWRT/ref=zg_bs_g_9056987011_d_sccl_29/136-3159739-3300747",
-      "current_rank": 29,
+      "link": "https://www.amazon.com/Soccer-Cup-2026-Short-Sleeve/dp/B0H5Q9GLFX/ref=zg_bs_g_9056987011_d_sccl_16/137-4559828-3708029",
+      "current_rank": 16,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-06T09:47:12.307413Z",
+      "first_seen": "2026-07-07T08:58:52.416120Z",
       "keywords": [
         "gqn",
         "2026",
@@ -74,6 +47,25 @@
         "casual"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: gqn, 2026, world, soccer, cup, fan, jersey, usa, shirts, football, team, casual. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07S7BH1QN",
+      "title": "uideazone Mens Short Sleeve T-Shirt Casual 3D Creative Print Crewneck Graphic Tees",
+      "link": "https://www.amazon.com/uideazone-Printed-Sleeve-T-Shirt-Casual/dp/B07S7BH1QN/ref=zg_bs_g_9056987011_d_sccl_27/137-4559828-3708029",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-07T08:58:52.416120Z",
+      "keywords": [
+        "uideazone",
+        "mens",
+        "casual",
+        "creative",
+        "print",
+        "crewneck",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, casual, creative, print, crewneck, tees. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
