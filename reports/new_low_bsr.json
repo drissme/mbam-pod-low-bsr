@@ -1,178 +1,17 @@
 {
-  "generated_at": "2026-07-09T08:57:35.703890Z",
+  "generated_at": "2026-07-10T08:53:42.850381Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0H5NSZRZX",
-      "title": "Norway with Norwegian Flag Colors. Men, Women & Kids T-Shirt",
-      "link": "https://www.amazon.com/Norway-Norwegian-Flag-Colors-T-Shirt/dp/B0H5NSZRZX/ref=zg_bs_g_9056987011_d_sccl_11/139-6111573-2292820",
-      "current_rank": 11,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-09T08:57:35.599305Z",
-      "keywords": [
-        "norway",
-        "norwegian",
-        "flag",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: norway, norwegian, flag, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DVYNMS4X",
-      "title": "CARPESUN Custom T-Shirts for Men Women, Unisex T-Shirt for Adults Design Your Own, Customized Photo Text Logo Gift",
-      "link": "https://www.amazon.com/CARPESUN-T-Shirts-T-Shirt-Customized-X-Large/dp/B0DVYNMS4X/ref=zg_bs_g_9056987011_d_sccl_12/139-6111573-2292820",
-      "current_rank": 12,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-09T08:57:35.599305Z",
-      "keywords": [
-        "carpesun",
-        "custom",
-        "shirts",
-        "women",
-        "unisex",
-        "adults",
-        "design",
-        "your",
-        "own",
-        "customized",
-        "photo",
-        "text"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: carpesun, custom, shirts, women, unisex, adults, design, your, own, customized, photo, text. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CCS28Y2H",
-      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
-      "link": "https://www.amazon.com/RAISEVERN-Muscle-T-Shirt-Graphic-Festival/dp/B0CCS28Y2H/ref=zg_bs_g_9056987011_d_sccl_16/139-6111573-2292820",
-      "current_rank": 16,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-09T08:57:35.599305Z",
-      "keywords": [
-        "raisevern",
-        "unisex",
-        "summer",
-        "shirts",
-        "crewneck",
-        "print",
-        "top",
-        "casual",
-        "tees"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0G92R3MT2",
-      "title": "FEEGO Thickened Cotton Short Sleeve Custom T-Shirts,Front & Back Print,Personalized with Your Photo,Fit for Men Women",
-      "link": "https://www.amazon.com/FEEGO-Thickened-Cotton-T-Shirts-Personalized/dp/B0G92R3MT2/ref=zg_bs_g_9056987011_d_sccl_18/139-6111573-2292820",
-      "current_rank": 18,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-09T08:57:35.599305Z",
-      "keywords": [
-        "feego",
-        "thickened",
-        "cotton",
-        "custom",
-        "shirts",
-        "front",
-        "back",
-        "print",
-        "personalized",
-        "your",
-        "photo",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: feego, thickened, cotton, custom, shirts, front, back, print, personalized, your, photo, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07KWPHP4C",
-      "title": "Norway Vintage Sports Design Norge Norwegian T-Shirt",
-      "link": "https://www.amazon.com/Norway-T-Shirt-Vintage-Sports-Norwegian/dp/B07KWPHP4C/ref=zg_bs_g_9056987011_d_sccl_19/139-6111573-2292820",
-      "current_rank": 19,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-09T08:57:35.599305Z",
-      "keywords": [
-        "norway",
-        "sports",
-        "design",
-        "norge",
-        "norwegian"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: norway, sports, design, norge, norwegian. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B08599N11W",
-      "title": "uideazone Mens Short Sleeve T-Shirt Casual 3D Creative Print Crewneck Graphic Tees",
-      "link": "https://www.amazon.com/uideazone-Couples-Printed-T-Shirt-Graphic/dp/B08599N11W/ref=zg_bs_g_9056987011_d_sccl_20/139-6111573-2292820",
-      "current_rank": 20,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-09T08:57:35.599305Z",
-      "keywords": [
-        "uideazone",
-        "mens",
-        "casual",
-        "creative",
-        "print",
-        "crewneck",
-        "tees"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, casual, creative, print, crewneck, tees. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GG742K42",
-      "title": "Norway Flag Norge Norwegian Pride T-Shirt",
-      "link": "https://www.amazon.com/Norway-Norge-Norwegian-Pride-T-Shirt/dp/B0GG742K42/ref=zg_bs_g_9056987011_d_sccl_23/139-6111573-2292820",
-      "current_rank": 23,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-09T08:57:35.599305Z",
-      "keywords": [
-        "norway",
-        "flag",
-        "norge",
-        "norwegian",
-        "pride"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: norway, flag, norge, norwegian, pride. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0D8K32DNN",
-      "title": "Custom Front & Back Print T-Shirt with Your Image for Men, Women and Kids by Modify by Amazon Merch on Demand",
-      "link": "https://www.amazon.com/T-Shirt-Modify-Amazon-Merch-Demand/dp/B0D8K32DNN",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-09T08:57:35.599305Z",
-      "keywords": [
-        "custom",
-        "front",
-        "back",
-        "print",
-        "your",
-        "image",
-        "women",
-        "modify",
-        "amazon",
-        "merch",
-        "demand"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: custom, front, back, print, your, image, women, modify, amazon, merch, demand. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07JR8QM9B",
+      "asin": "B07JQPVG22",
       "title": "Grunt Style American 1776 Flag - Patriotic Graphic Tee, Men's Short Sleeve T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Color-XXX-Large/dp/B07JR8QM9B/ref=zg_bs_g_9056987011_d_sccl_28/139-6111573-2292820",
-      "current_rank": 28,
+      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Color-Black/dp/B07JQPVG22/ref=zg_bs_g_9056987011_d_sccl_6/140-6763067-9123266",
+      "current_rank": 6,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-09T08:57:35.599305Z",
+      "first_seen": "2026-07-10T08:53:42.739987Z",
       "keywords": [
         "grunt",
         "style",
@@ -184,24 +23,61 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0BT725J2G",
-      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
-      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Graphic/dp/B0BT725J2G/ref=zg_bs_g_9056987011_d_sccl_30/139-6111573-2292820",
+      "asin": "B0150QPOLI",
+      "title": "Pro Club Men's Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
+      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-Shirt/dp/B0150QPOLI/ref=zg_bs_g_9056987011_d_sccl_22/140-6763067-9123266",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-10T08:53:42.739987Z",
+      "keywords": [
+        "pro",
+        "club",
+        "cotton",
+        "crew",
+        "neck"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09NKLPNTS",
+      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
+      "link": "https://www.amazon.com/Goodstoworld-Muscle-Sleeve-Printed-Clothing/dp/B09NKLPNTS/ref=zg_bs_g_9056987011_d_sccl_28/140-6763067-9123266",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-10T08:53:42.739987Z",
+      "keywords": [
+        "goodstoworld",
+        "unisex",
+        "fake",
+        "abs",
+        "shirts",
+        "shredded",
+        "chest",
+        "printed",
+        "costume",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DR6JLRBS",
+      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
+      "link": "https://www.amazon.com/TeeUnion-T-Shirt-Classic-Concert-Festival/dp/B0DR6JLRBS/ref=zg_bs_g_9056987011_d_sccl_30/140-6763067-9123266",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-09T08:57:35.599305Z",
+      "first_seen": "2026-07-10T08:53:42.739987Z",
       "keywords": [
-        "into",
-        "shirts",
-        "4xl",
-        "premium",
-        "quality",
-        "unique",
-        "art",
-        "tees"
+        "teeunion",
+        "tuxedo",
+        "party",
+        "concert",
+        "festival",
+        "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
