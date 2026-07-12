@@ -1,83 +1,47 @@
 {
-  "generated_at": "2026-07-11T07:27:36.768175Z",
+  "generated_at": "2026-07-12T07:51:50.741388Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07JR4NDKS",
-      "title": "Grunt Style American 1776 Flag - Patriotic Graphic Tee, Men's Short Sleeve T-Shirt",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Color-X-Large/dp/B07JR4NDKS/ref=zg_bs_g_9056987011_d_sccl_6/138-6103964-9209624",
-      "current_rank": 6,
+      "asin": "B08K85P5PJ",
+      "title": "Thats a Horrible Idea What Time T-Shirt Funny Sarcastic Drinking Humor Men's Women's Tee T Shirt",
+      "link": "https://www.amazon.com/Horrible-T-Shirt-Sarcastic-Drinking-Heather/dp/B08K85P5PJ/ref=zg_bs_g_9056987011_d_sccl_26/130-2501629-2516016",
+      "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-11T07:27:36.677012Z",
+      "first_seen": "2026-07-12T07:51:50.642165Z",
       "keywords": [
-        "grunt",
-        "style",
-        "american",
-        "1776",
-        "flag",
-        "patriotic"
+        "thats",
+        "horrible",
+        "idea",
+        "what",
+        "time",
+        "sarcastic",
+        "drinking",
+        "humor"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: thats, horrible, idea, what, time, sarcastic, drinking, humor. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B00EAYTTI6",
-      "title": "Pro Club Men's Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
-      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-Shirt/dp/B00EAYTTI6/ref=zg_bs_g_9056987011_d_sccl_19/138-6103964-9209624",
-      "current_rank": 19,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-11T07:27:36.677012Z",
-      "keywords": [
-        "pro",
-        "club",
-        "cotton",
-        "crew",
-        "neck"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DR6JBLKV",
-      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
-      "link": "https://www.amazon.com/TeeUnion-Classic-Concert-Festival-Costume/dp/B0DR6JBLKV/ref=zg_bs_g_9056987011_d_sccl_29/138-6103964-9209624",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-11T07:27:36.677012Z",
-      "keywords": [
-        "teeunion",
-        "tuxedo",
-        "party",
-        "concert",
-        "festival",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0F84YSQZ1",
-      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
-      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_30/138-6103964-9209624",
+      "asin": "B0H6NPRTXR",
+      "title": "Marvel Spider-Man Vintage Paris Premiere Fan Event T-Shirt",
+      "link": "https://www.amazon.com/Marvel-Spider-Man-Vintage-Premiere-T-Shirt/dp/B0H6NPRTXR/ref=zg_bs_g_9056987011_d_sccl_30/130-2501629-2516016",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-11T07:27:36.677012Z",
+      "first_seen": "2026-07-12T07:51:50.642165Z",
       "keywords": [
-        "sarcastic",
-        "saying",
-        "shirts",
-        "husband",
-        "dad",
-        "grandpa",
-        "boyfriend",
-        "son",
-        "humor",
-        "joke"
+        "marvel",
+        "spider",
+        "man",
+        "paris",
+        "premiere",
+        "fan",
+        "event"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, spider, man, paris, premiere, fan, event. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
