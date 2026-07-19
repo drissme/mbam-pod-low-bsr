@@ -1,28 +1,29 @@
 {
-  "generated_at": "2026-07-18T07:21:21.388866Z",
+  "generated_at": "2026-07-19T07:52:31.767275Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BT749BL9",
-      "title": "INTO THE AM Cool Graphic T-Shirts for Men S - 4XL Premium Quality Unique Graphic Art Tees",
-      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Tshirt/dp/B0BT749BL9/ref=zg_bs_g_9056987011_d_sccl_24/135-4609310-1162608",
-      "current_rank": 24,
+      "asin": "B0C9589Q6M",
+      "title": "INTO THE AM Graphic Tees for Men S - 4XL Premium Short Sleeve Colorful T-Shirts Trippy Space Designs",
+      "link": "https://www.amazon.com/UFO-Design-Shirts-Tranquil-Ascent/dp/B0C9589Q6M/ref=zg_bs_g_9056987011_d_sccl_30/143-8962221-0366026",
+      "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-18T07:21:21.271904Z",
+      "first_seen": "2026-07-19T07:52:31.670789Z",
       "keywords": [
         "into",
-        "shirts",
+        "tees",
         "4xl",
         "premium",
-        "quality",
-        "unique",
-        "art",
-        "tees"
+        "colorful",
+        "shirts",
+        "trippy",
+        "space",
+        "designs"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: into, shirts, 4xl, premium, quality, unique, art, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: into, tees, 4xl, premium, colorful, shirts, trippy, space, designs. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
