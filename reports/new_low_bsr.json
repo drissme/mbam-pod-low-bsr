@@ -1,65 +1,98 @@
 {
-  "generated_at": "2026-07-25T07:45:28.249411Z",
+  "generated_at": "2026-07-26T08:00:15.429222Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0FVMD9573",
-      "title": "uideazone Mens Short Sleeve T-Shirt Casual 3D Creative Print Crewneck Graphic Tees",
-      "link": "https://www.amazon.com/uideazone-Cosplay-T-Shirt-Leather-Harness/dp/B0FVMD9573/ref=zg_bs_g_9056987011_d_sccl_6/132-5909335-4367965",
-      "current_rank": 6,
+      "asin": "B0150QPOLI",
+      "title": "Pro Club Men's Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
+      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-Shirt/dp/B0150QPOLI/ref=zg_bs_g_9056987011_d_sccl_10/131-0241503-5519546",
+      "current_rank": 10,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-25T07:45:28.142899Z",
+      "first_seen": "2026-07-26T08:00:15.330533Z",
       "keywords": [
-        "uideazone",
-        "mens",
-        "casual",
-        "creative",
-        "print",
-        "crewneck",
-        "tees"
+        "pro",
+        "club",
+        "cotton",
+        "crew",
+        "neck"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, casual, creative, print, crewneck, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0H9BHBGB8",
-      "title": "Jimothy Viral Raccoon Shirt Funny Trash Panda Wildlife T-Shirt",
-      "link": "https://www.amazon.com/Jimothy-Raccoon-Shirt-Funny-Wildlife/dp/B0H9BHBGB8/ref=zg_bs_g_9056987011_d_sccl_17/132-5909335-4367965",
-      "current_rank": 17,
+      "asin": "B0H3RG692H",
+      "title": "Marvel Spider-Man: New Day Spidey Color Grade Hang T-Shirt",
+      "link": "https://www.amazon.com/Marvel-Spider-Man-Spidey-Color-T-Shirt/dp/B0H3RG692H/ref=zg_bs_g_9056987011_d_sccl_20/131-0241503-5519546",
+      "current_rank": 20,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-25T07:45:28.142899Z",
-      "keywords": [
-        "jimothy",
-        "viral",
-        "raccoon",
-        "trash",
-        "panda",
-        "wildlife"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: jimothy, viral, raccoon, trash, panda, wildlife. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GKTY4D4J",
-      "title": "Marvel Comics Spider-Man and Hulk Retro Comic Book Cover T-Shirt",
-      "link": "https://www.amazon.com/Marvel-Comics-Spider-Man-Retro-T-Shirt/dp/B0GKTY4D4J/ref=zg_bs_g_9056987011_d_sccl_29/132-5909335-4367965",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-25T07:45:28.142899Z",
+      "first_seen": "2026-07-26T08:00:15.330533Z",
       "keywords": [
         "marvel",
-        "comics",
         "spider",
         "man",
-        "hulk",
-        "comic",
-        "book",
-        "cover"
+        "day",
+        "spidey",
+        "grade",
+        "hang"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, comics, spider, man, hulk, comic, book, cover. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, spider, man, day, spidey, grade, hang. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0HB5X6836",
+      "title": "I Survived My Trip to NYC - New York City Taxi T-Shirt",
+      "link": "https://www.amazon.com/Survived-My-Trip-NYC-T-Shirt/dp/B0HB5X6836/ref=zg_bs_g_9056987011_d_sccl_21/131-0241503-5519546",
+      "current_rank": 21,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-26T08:00:15.330533Z",
+      "keywords": [
+        "survived",
+        "trip",
+        "nyc",
+        "york",
+        "city",
+        "taxi"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: survived, trip, nyc, york, city, taxi. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0H9BX4DMP",
+      "title": "Jimothy from Seattle It’s OK to Be Weird Raccoon Cottagecore T-Shirt",
+      "link": "https://www.amazon.com/Jimothy-Seattle-Raccoon-Cottagecore-T-Shirt/dp/B0H9BX4DMP/ref=zg_bs_g_9056987011_d_sccl_25/131-0241503-5519546",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-26T08:00:15.330533Z",
+      "keywords": [
+        "jimothy",
+        "from",
+        "seattle",
+        "weird",
+        "raccoon",
+        "cottagecore"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: jimothy, from, seattle, weird, raccoon, cottagecore. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B01BJ5NDKI",
+      "title": "Pro Club Men's 6-Pack Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
+      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-shirt/dp/B01BJ5NDKI/ref=zg_bs_g_9056987011_d_sccl_30/131-0241503-5519546",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-26T08:00:15.330533Z",
+      "keywords": [
+        "pro",
+        "club",
+        "pack",
+        "cotton",
+        "crew",
+        "neck"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, pack, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
