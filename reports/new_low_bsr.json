@@ -1,98 +1,49 @@
 {
-  "generated_at": "2026-07-26T08:00:15.429222Z",
+  "generated_at": "2026-07-27T09:00:03.933105Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0150QPOLI",
-      "title": "Pro Club Men's Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
-      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-Shirt/dp/B0150QPOLI/ref=zg_bs_g_9056987011_d_sccl_10/131-0241503-5519546",
-      "current_rank": 10,
+      "asin": "B0FKQC4PRX",
+      "title": "Marvel Comics Spider-Man Peter Parker Since 1982 T-Shirt",
+      "link": "https://www.amazon.com/Marvel-Comics-Spider-Man-Parker-T-Shirt/dp/B0FKQC4PRX/ref=zg_bs_g_9056987011_d_sccl_24/146-8779330-3097412",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-26T08:00:15.330533Z",
-      "keywords": [
-        "pro",
-        "club",
-        "cotton",
-        "crew",
-        "neck"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0H3RG692H",
-      "title": "Marvel Spider-Man: New Day Spidey Color Grade Hang T-Shirt",
-      "link": "https://www.amazon.com/Marvel-Spider-Man-Spidey-Color-T-Shirt/dp/B0H3RG692H/ref=zg_bs_g_9056987011_d_sccl_20/131-0241503-5519546",
-      "current_rank": 20,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-26T08:00:15.330533Z",
+      "first_seen": "2026-07-27T09:00:03.811605Z",
       "keywords": [
         "marvel",
+        "comics",
         "spider",
         "man",
-        "day",
-        "spidey",
-        "grade",
-        "hang"
+        "peter",
+        "parker",
+        "since",
+        "1982"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, spider, man, day, spidey, grade, hang. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, comics, spider, man, peter, parker, since, 1982. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0HB5X6836",
-      "title": "I Survived My Trip to NYC - New York City Taxi T-Shirt",
-      "link": "https://www.amazon.com/Survived-My-Trip-NYC-T-Shirt/dp/B0HB5X6836/ref=zg_bs_g_9056987011_d_sccl_21/131-0241503-5519546",
-      "current_rank": 21,
+      "asin": "B08K8673W5",
+      "title": "That's a Horrible Idea What Time T-Shirt Funny Sarcastic Drinking Tee | Funny Sarcastic Graphic for Men and Women, Short Slee",
+      "link": "https://www.amazon.com/Horrible-T-Shirt-Sarcastic-Drinking-Heather/dp/B08K8673W5/ref=zg_bs_g_9056987011_d_sccl_26/146-8779330-3097412",
+      "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-26T08:00:15.330533Z",
+      "first_seen": "2026-07-27T09:00:03.811605Z",
       "keywords": [
-        "survived",
-        "trip",
-        "nyc",
-        "york",
-        "city",
-        "taxi"
+        "that's",
+        "horrible",
+        "idea",
+        "what",
+        "time",
+        "sarcastic",
+        "drinking",
+        "women",
+        "slee"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: survived, trip, nyc, york, city, taxi. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0H9BX4DMP",
-      "title": "Jimothy from Seattle It’s OK to Be Weird Raccoon Cottagecore T-Shirt",
-      "link": "https://www.amazon.com/Jimothy-Seattle-Raccoon-Cottagecore-T-Shirt/dp/B0H9BX4DMP/ref=zg_bs_g_9056987011_d_sccl_25/131-0241503-5519546",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-26T08:00:15.330533Z",
-      "keywords": [
-        "jimothy",
-        "from",
-        "seattle",
-        "weird",
-        "raccoon",
-        "cottagecore"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: jimothy, from, seattle, weird, raccoon, cottagecore. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B01BJ5NDKI",
-      "title": "Pro Club Men's 6-Pack Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
-      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-shirt/dp/B01BJ5NDKI/ref=zg_bs_g_9056987011_d_sccl_30/131-0241503-5519546",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-26T08:00:15.330533Z",
-      "keywords": [
-        "pro",
-        "club",
-        "pack",
-        "cotton",
-        "crew",
-        "neck"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, pack, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: that's, horrible, idea, what, time, sarcastic, drinking, women, slee. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
