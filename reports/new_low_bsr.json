@@ -1,100 +1,197 @@
 {
-  "generated_at": "2026-07-28T08:08:00.063284Z",
+  "generated_at": "2026-07-29T08:12:07.540469Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07KVZXX9T",
-      "title": "Marvel Spider-Man Spider Icon C1 T-Shirt",
-      "link": "https://www.amazon.com/Marvel-Spider-Man-Icon-Graphic-T-Shirt/dp/B07KVZXX9T/ref=zg_bs_g_9056987011_d_sccl_15/131-3264321-0064163",
-      "current_rank": 15,
+      "asin": "B08599N11W",
+      "title": "uideazone Mens Short Sleeve T-Shirt Casual 3D Creative Print Crewneck Graphic Tees",
+      "link": "https://www.amazon.com/uideazone-Couples-Printed-T-Shirt-Graphic/dp/B08599N11W/ref=zg_bs_g_9056987011_d_sccl_10/144-1903258-7458902",
+      "current_rank": 10,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-28T08:07:59.958935Z",
+      "first_seen": "2026-07-29T08:12:07.429500Z",
+      "keywords": [
+        "uideazone",
+        "mens",
+        "casual",
+        "creative",
+        "print",
+        "crewneck",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, casual, creative, print, crewneck, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09JL8DLKF",
+      "title": "Marvel Spider-Man Classic Amazing Spider-Man Comic T-Shirt",
+      "link": "https://www.amazon.com/Marvel-Spider-Man-Classic-Amazing-T-Shirt/dp/B09JL8DLKF/ref=zg_bs_g_9056987011_d_sccl_16/144-1903258-7458902",
+      "current_rank": 16,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-29T08:12:07.429500Z",
       "keywords": [
         "marvel",
         "spider",
         "man",
-        "icon"
+        "amazing",
+        "comic"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, spider, man, icon. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, spider, man, amazing, comic. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0H4J5XRLM",
-      "title": "Marvel Spider-Man: Day Spiderman Crouch Silhouette T-Shirt",
-      "link": "https://www.amazon.com/Marvel-Spider-Man-Spiderman-Silhouette-T-Shirt/dp/B0H4J5XRLM/ref=zg_bs_g_9056987011_d_sccl_19/131-3264321-0064163",
+      "asin": "B0GMRDLLCW",
+      "title": "Marvel Comics Spider-Man Retro T-Shirt",
+      "link": "https://www.amazon.com/Marvel-Comics-Spider-Man-Retro-T-Shirt/dp/B0GMRDLLCW/ref=zg_bs_g_9056987011_d_sccl_18/144-1903258-7458902",
+      "current_rank": 18,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-29T08:12:07.429500Z",
+      "keywords": [
+        "marvel",
+        "comics",
+        "spider",
+        "man"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, comics, spider, man. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CCS3QRSB",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-T-Shirt-Graphic-Festival/dp/B0CCS3QRSB/ref=zg_bs_g_9056987011_d_sccl_19/144-1903258-7458902",
       "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-28T08:07:59.958935Z",
+      "first_seen": "2026-07-29T08:12:07.429500Z",
+      "keywords": [
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "crewneck",
+        "print",
+        "top",
+        "casual",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0BLG831ZH",
+      "title": "Marvel Spider-Man Modern Heart Mask Logo T-Shirt",
+      "link": "https://www.amazon.com/Marvel-Spider-Man-Modern-Heart-T-Shirt/dp/B0BLG831ZH/ref=zg_bs_g_9056987011_d_sccl_21/144-1903258-7458902",
+      "current_rank": 21,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-29T08:12:07.429500Z",
       "keywords": [
         "marvel",
         "spider",
         "man",
-        "day",
-        "spiderman",
-        "crouch",
-        "silhouette"
+        "modern",
+        "heart",
+        "mask",
+        "logo"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, spider, man, day, spiderman, crouch, silhouette. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, spider, man, modern, heart, mask, logo. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GMWKGG4V",
-      "title": "Marvel Comics Spider-Man Iconic Pose T-Shirt",
-      "link": "https://www.amazon.com/Marvel-Comics-Spider-Man-Iconic-T-Shirt/dp/B0GMWKGG4V/ref=zg_bs_g_9056987011_d_sccl_22/131-3264321-0064163",
-      "current_rank": 22,
+      "asin": "B09BKBB6KG",
+      "title": "Marvel Spider-Man No Way Home I Love Spider-Man Poster T-Shirt Small",
+      "link": "https://www.amazon.com/Marvel-Spider-Man-Home-Poster-T-Shirt/dp/B09BKBB6KG/ref=zg_bs_g_9056987011_d_sccl_24/144-1903258-7458902",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-07-28T08:07:59.958935Z",
+      "first_seen": "2026-07-29T08:12:07.429500Z",
+      "keywords": [
+        "marvel",
+        "spider",
+        "man",
+        "way",
+        "home",
+        "love",
+        "poster",
+        "small"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, spider, man, way, home, love, poster, small. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0H3Q4RW8Z",
+      "title": "Marvel Studios Spider-Man: BND Movie 2026 Punisher Skull Web T-Shirt",
+      "link": "https://www.amazon.com/Marvel-Studios-Spider-Man-Punisher-T-Shirt/dp/B0H3Q4RW8Z/ref=zg_bs_g_9056987011_d_sccl_25/144-1903258-7458902",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-29T08:12:07.429500Z",
+      "keywords": [
+        "marvel",
+        "studios",
+        "spider",
+        "man",
+        "bnd",
+        "movie",
+        "2026",
+        "punisher",
+        "skull",
+        "web"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, studios, spider, man, bnd, movie, 2026, punisher, skull, web. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CCWZ8GVF",
+      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
+      "link": "https://www.amazon.com/INTO-AM-Graphic-Trippy-Printed/dp/B0CCWZ8GVF/ref=zg_bs_g_9056987011_d_sccl_26/144-1903258-7458902",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-29T08:12:07.429500Z",
+      "keywords": [
+        "tees",
+        "art",
+        "shirts",
+        "soft",
+        "4xl",
+        "hand",
+        "drawn",
+        "anime",
+        "edm",
+        "abstract"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DQRFVNKK",
+      "title": "Comic Panels T-Shirt",
+      "link": "https://www.amazon.com/Marvel-Spider-Man-Comic-Panels-T-Shirt/dp/B0DQRFVNKK/ref=zg_bs_g_9056987011_d_sccl_28/144-1903258-7458902",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-29T08:12:07.429500Z",
+      "keywords": [
+        "comic",
+        "panels"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: comic, panels. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FL87R7DQ",
+      "title": "Marvel Comics Spider-Man Amazing Comic Cover Vintage T-Shirt",
+      "link": "https://www.amazon.com/Marvel-Spider-Man-Amazing-Vintage-T-Shirt/dp/B0FL87R7DQ/ref=zg_bs_g_9056987011_d_sccl_30/144-1903258-7458902",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-07-29T08:12:07.429500Z",
       "keywords": [
         "marvel",
         "comics",
         "spider",
         "man",
-        "iconic",
-        "pose"
+        "amazing",
+        "comic",
+        "cover"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, comics, spider, man, iconic, pose. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FVYGVDKC",
-      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
-      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYGVDKC/ref=zg_bs_g_9056987011_d_sccl_26/131-3264321-0064163",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-28T08:07:59.958935Z",
-      "keywords": [
-        "iudam",
-        "mens",
-        "loose",
-        "crew",
-        "neck",
-        "palm",
-        "tree",
-        "summer",
-        "shirts"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B01BJ5V8K0",
-      "title": "Pro Club Men's 6-Pack Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
-      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-shirt/dp/B01BJ5V8K0/ref=zg_bs_g_9056987011_d_sccl_30/131-3264321-0064163",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-28T08:07:59.958935Z",
-      "keywords": [
-        "pro",
-        "club",
-        "pack",
-        "cotton",
-        "crew",
-        "neck"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, pack, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: marvel, comics, spider, man, amazing, comic, cover. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
