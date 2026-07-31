@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-07-30T08:00:33.752232Z",
+  "generated_at": "2026-07-31T08:24:55.619856Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": [
-    {
-      "asin": "B0DR6JLRBS",
-      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
-      "link": "https://www.amazon.com/TeeUnion-T-Shirt-Classic-Concert-Festival/dp/B0DR6JLRBS/ref=zg_bs_g_9056987011_d_sccl_22/132-9997304-7725713",
-      "current_rank": 22,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-07-30T08:00:33.636718Z",
-      "keywords": [
-        "teeunion",
-        "tuxedo",
-        "party",
-        "concert",
-        "festival",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    }
-  ]
+  "items": []
 }
