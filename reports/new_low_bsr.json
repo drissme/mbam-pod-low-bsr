@@ -1,54 +1,29 @@
 {
-  "generated_at": "2026-08-02T07:57:14.162946Z",
+  "generated_at": "2026-08-03T08:52:57.003177Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BT749BL9",
-      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
-      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Tshirt/dp/B0BT749BL9/ref=zg_bs_g_9056987011_d_sccl_20/136-2415432-0735211",
-      "current_rank": 20,
+      "asin": "B0FVYGW9K9",
+      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
+      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYGW9K9/ref=zg_bs_g_9056987011_d_sccl_30/131-2225295-6818313",
+      "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-02T07:57:14.073234Z",
+      "first_seen": "2026-08-03T08:52:56.894461Z",
       "keywords": [
-        "tees",
-        "art",
-        "shirts",
-        "soft",
-        "4xl",
-        "hand",
-        "drawn",
-        "anime",
-        "edm",
-        "abstract"
+        "iudam",
+        "mens",
+        "loose",
+        "crew",
+        "neck",
+        "palm",
+        "tree",
+        "summer",
+        "shirts"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0C9589Q6M",
-      "title": "Graphic Tees for Men Trippy Space Design Colorful T-Shirts S-4XL | Trippy cosmic astronaut & galaxy art in no-crack ink - nov",
-      "link": "https://www.amazon.com/UFO-Design-Shirts-Tranquil-Ascent/dp/B0C9589Q6M/ref=zg_bs_g_9056987011_d_sccl_28/136-2415432-0735211",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-02T07:57:14.073234Z",
-      "keywords": [
-        "tees",
-        "trippy",
-        "space",
-        "design",
-        "colorful",
-        "shirts",
-        "4xl",
-        "cosmic",
-        "astronaut",
-        "galaxy",
-        "art",
-        "crack"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, trippy, space, design, colorful, shirts, 4xl, cosmic, astronaut, galaxy, art, crack. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
