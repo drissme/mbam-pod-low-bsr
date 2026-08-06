@@ -1,66 +1,97 @@
 {
-  "generated_at": "2026-08-05T08:09:57.736580Z",
+  "generated_at": "2026-08-06T08:08:45.366954Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07S7BH1QN",
-      "title": "uideazone Mens Short Sleeve T-Shirt Casual 3D Creative Print Crewneck Graphic Tees",
-      "link": "https://www.amazon.com/uideazone-Printed-Sleeve-T-Shirt-Casual/dp/B07S7BH1QN/ref=zg_bs_g_9056987011_d_sccl_12/145-7649833-5295900",
-      "current_rank": 12,
+      "asin": "B0CMBT646W",
+      "title": "Nations of the World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
+      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBT646W/ref=zg_bs_g_9056987011_d_sccl_5/146-5632872-0486027",
+      "current_rank": 5,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-05T08:09:57.627613Z",
+      "first_seen": "2026-08-06T08:08:45.273058Z",
       "keywords": [
-        "uideazone",
-        "mens",
-        "casual",
-        "creative",
-        "print",
+        "nations",
+        "world",
+        "national",
+        "pride",
+        "flag",
+        "symbol",
+        "arms",
+        "unisex",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0B9ZTP9F7",
+      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
+      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZTP9F7/ref=zg_bs_g_9056987011_d_sccl_16/146-5632872-0486027",
+      "current_rank": 16,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-06T08:08:45.273058Z",
+      "keywords": [
+        "awesome",
+        "like",
+        "daughter",
+        "sarcastic",
+        "saying",
+        "humor",
+        "dad",
+        "joke",
+        "father",
+        "grandpa",
+        "daddy"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09GMBCLVF",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMBCLVF/ref=zg_bs_g_9056987011_d_sccl_22/146-5632872-0486027",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-06T08:08:45.273058Z",
+      "keywords": [
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
         "crewneck",
+        "print",
+        "top",
+        "casual",
         "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, casual, creative, print, crewneck, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DR6JBLKV",
-      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
-      "link": "https://www.amazon.com/TeeUnion-Classic-Concert-Festival-Costume/dp/B0DR6JBLKV/ref=zg_bs_g_9056987011_d_sccl_28/145-7649833-5295900",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-05T08:09:57.627613Z",
-      "keywords": [
-        "teeunion",
-        "tuxedo",
-        "party",
-        "concert",
-        "festival",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DJCR1HGY",
-      "title": "Disney Lizzie McGuire Iconic Posh Diva Retro Big Chest Logo T-Shirt",
-      "link": "https://www.amazon.com/Disney-Lizzy-McGuire-Iconic-T-Shirt/dp/B0DJCR1HGY/ref=zg_bs_g_9056987011_d_sccl_30/145-7649833-5295900",
+      "asin": "B0101S7NIC",
+      "title": "Canon PGI-280/CLI-281 Genuine Combo Pack, Compatible with TR8520, TS9120,TS8120, TS6120, TS9521C/a, TS9520/a, TS8220, TS6220,",
+      "link": "https://www.amazon.com/Canon-PGI-280-CLI-281-Original-Cartridges/dp/B0101S7NIC/ref=zg_bs_g_9056987011_d_sccl_30/146-5632872-0486027",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-05T08:09:57.627613Z",
+      "first_seen": "2026-08-06T08:08:45.273058Z",
       "keywords": [
-        "disney",
-        "lizzie",
-        "mcguire",
-        "iconic",
-        "posh",
-        "diva",
-        "big",
-        "chest",
-        "logo"
+        "canon",
+        "pgi",
+        "280",
+        "cli",
+        "281",
+        "genuine",
+        "combo",
+        "pack",
+        "compatible",
+        "tr8520",
+        "ts9120",
+        "ts8120"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: disney, lizzie, mcguire, iconic, posh, diva, big, chest, logo. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: canon, pgi, 280, cli, 281, genuine, combo, pack, compatible, tr8520, ts9120, ts8120. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
