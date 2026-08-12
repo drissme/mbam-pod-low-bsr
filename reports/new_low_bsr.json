@@ -1,62 +1,99 @@
 {
-  "generated_at": "2026-08-11T06:40:37.480989Z",
+  "generated_at": "2026-08-12T07:01:11.032440Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B01BJ5NDKI",
-      "title": "Pro Club Men's 6-Pack Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
-      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-shirt/dp/B01BJ5NDKI/ref=zg_bs_g_9056987011_d_sccl_20/135-6261086-8250004",
-      "current_rank": 20,
+      "asin": "B00EAYTTI6",
+      "title": "Pro Club Men's Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
+      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-Shirt/dp/B00EAYTTI6/ref=zg_bs_g_9056987011_d_sccl_5/134-8050110-1361131",
+      "current_rank": 5,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-11T06:40:37.369313Z",
+      "first_seen": "2026-08-12T07:01:10.917005Z",
       "keywords": [
         "pro",
         "club",
-        "pack",
         "cotton",
         "crew",
         "neck"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, pack, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FVYJ5JCY",
-      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
-      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYJ5JCY/ref=zg_bs_g_9056987011_d_sccl_22/135-6261086-8250004",
-      "current_rank": 22,
+      "asin": "B0FVMD613D",
+      "title": "uideazone Mens Short Sleeve T-Shirt 3D Creative Print Crewneck Graphic Tees | Lightweight Breathable Fabric, Funny Pattern, N",
+      "link": "https://www.amazon.com/uideazone-Humorous-T-Shirt-Parties-Cosplay/dp/B0FVMD613D/ref=zg_bs_g_9056987011_d_sccl_9/134-8050110-1361131",
+      "current_rank": 9,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-11T06:40:37.369313Z",
+      "first_seen": "2026-08-12T07:01:10.917005Z",
       "keywords": [
-        "iudam",
+        "uideazone",
         "mens",
-        "loose",
-        "crew",
-        "neck",
-        "palm",
-        "tree",
-        "summer",
-        "shirts"
+        "creative",
+        "print",
+        "crewneck",
+        "tees",
+        "breathable",
+        "fabric",
+        "pattern"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, creative, print, crewneck, tees, breathable, fabric, pattern. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FPSLJG9L",
-      "title": "STRAIGHT UP - SOUTHERN - Men's T Shirt | Southern Casual Men's Graphic Tee |",
-      "link": "https://www.amazon.com/STRAIGHT-UP-SOUTHERN-Southern-Graphic/dp/B0FPSLJG9L/ref=zg_bs_g_9056987011_d_sccl_26/135-6261086-8250004",
-      "current_rank": 26,
+      "asin": "B091BZYMML",
+      "title": "Class of 2039 Grow with me T-Shirt",
+      "link": "https://www.amazon.com/Class-2039-grow-me-T-Shirt/dp/B091BZYMML/ref=zg_bs_g_9056987011_d_sccl_14/134-8050110-1361131",
+      "current_rank": 14,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-11T06:40:37.369313Z",
+      "first_seen": "2026-08-12T07:01:10.917005Z",
       "keywords": [
-        "straight",
-        "southern",
-        "casual"
+        "class",
+        "2039",
+        "grow"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: straight, southern, casual. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: class, 2039, grow. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B01LTBGJYO",
+      "title": "Premium Wear Men's Polo Shirts – Short Sleeves Stain Guard Polo Shirts for Men",
+      "link": "https://www.amazon.com/Premium-Hunter-Green-Shirts-Large/dp/B01LTBGJYO/ref=zg_bs_g_9056987011_d_sccl_20/134-8050110-1361131",
+      "current_rank": 20,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-12T07:01:10.917005Z",
+      "keywords": [
+        "premium",
+        "wear",
+        "polo",
+        "shirts",
+        "sleeves",
+        "stain",
+        "guard"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: premium, wear, polo, shirts, sleeves, stain, guard. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DG93T58T",
+      "title": "Class of 2039 Grow with Me First Day of School Graduation T-Shirt",
+      "link": "https://www.amazon.com/First-Day-School-Graduation-T-Shirt/dp/B0DG93T58T/ref=zg_bs_g_9056987011_d_sccl_28/134-8050110-1361131",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-12T07:01:10.917005Z",
+      "keywords": [
+        "class",
+        "2039",
+        "grow",
+        "first",
+        "day",
+        "school",
+        "graduation"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: class, 2039, grow, first, day, school, graduation. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
