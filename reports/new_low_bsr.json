@@ -1,99 +1,126 @@
 {
-  "generated_at": "2026-08-12T07:01:11.032440Z",
+  "generated_at": "2026-08-13T07:04:53.082513Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B00EAYTTI6",
-      "title": "Pro Club Men's Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
-      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-Shirt/dp/B00EAYTTI6/ref=zg_bs_g_9056987011_d_sccl_5/134-8050110-1361131",
-      "current_rank": 5,
+      "asin": "B0CCWLW4YH",
+      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
+      "link": "https://www.amazon.com/INTO-AM-Meta-Beach-Graphic/dp/B0CCWLW4YH/ref=zg_bs_g_9056987011_d_sccl_12/134-9323765-4562034",
+      "current_rank": 12,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-12T07:01:10.917005Z",
+      "first_seen": "2026-08-13T07:04:52.971537Z",
       "keywords": [
-        "pro",
-        "club",
-        "cotton",
-        "crew",
-        "neck"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FVMD613D",
-      "title": "uideazone Mens Short Sleeve T-Shirt 3D Creative Print Crewneck Graphic Tees | Lightweight Breathable Fabric, Funny Pattern, N",
-      "link": "https://www.amazon.com/uideazone-Humorous-T-Shirt-Parties-Cosplay/dp/B0FVMD613D/ref=zg_bs_g_9056987011_d_sccl_9/134-8050110-1361131",
-      "current_rank": 9,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-12T07:01:10.917005Z",
-      "keywords": [
-        "uideazone",
-        "mens",
-        "creative",
-        "print",
-        "crewneck",
         "tees",
-        "breathable",
-        "fabric",
-        "pattern"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, creative, print, crewneck, tees, breathable, fabric, pattern. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B091BZYMML",
-      "title": "Class of 2039 Grow with me T-Shirt",
-      "link": "https://www.amazon.com/Class-2039-grow-me-T-Shirt/dp/B091BZYMML/ref=zg_bs_g_9056987011_d_sccl_14/134-8050110-1361131",
-      "current_rank": 14,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-12T07:01:10.917005Z",
-      "keywords": [
-        "class",
-        "2039",
-        "grow"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: class, 2039, grow. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B01LTBGJYO",
-      "title": "Premium Wear Men's Polo Shirts – Short Sleeves Stain Guard Polo Shirts for Men",
-      "link": "https://www.amazon.com/Premium-Hunter-Green-Shirts-Large/dp/B01LTBGJYO/ref=zg_bs_g_9056987011_d_sccl_20/134-8050110-1361131",
-      "current_rank": 20,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-12T07:01:10.917005Z",
-      "keywords": [
-        "premium",
-        "wear",
-        "polo",
+        "art",
         "shirts",
-        "sleeves",
-        "stain",
-        "guard"
+        "soft",
+        "4xl",
+        "hand",
+        "drawn",
+        "anime",
+        "edm",
+        "abstract"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: premium, wear, polo, shirts, sleeves, stain, guard. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DG93T58T",
-      "title": "Class of 2039 Grow with Me First Day of School Graduation T-Shirt",
-      "link": "https://www.amazon.com/First-Day-School-Graduation-T-Shirt/dp/B0DG93T58T/ref=zg_bs_g_9056987011_d_sccl_28/134-8050110-1361131",
-      "current_rank": 28,
+      "asin": "B09XFGJ191",
+      "title": "Grunt Style American 1776 Flag Men's Graphic Tee",
+      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Military-XLarge/dp/B09XFGJ191/ref=zg_bs_g_9056987011_d_sccl_13/134-9323765-4562034",
+      "current_rank": 13,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-12T07:01:10.917005Z",
+      "first_seen": "2026-08-13T07:04:52.971537Z",
       "keywords": [
-        "class",
-        "2039",
-        "grow",
-        "first",
-        "day",
-        "school",
-        "graduation"
+        "grunt",
+        "style",
+        "american",
+        "1776",
+        "flag"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: class, 2039, grow, first, day, school, graduation. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0H5YN2738",
+      "title": "Paw Patrol: The Dino Movie We've Got Dino's to Save T-Shirt",
+      "link": "https://www.amazon.com/Paw-Patrol-Movie-Dinos-T-Shirt/dp/B0H5YN2738/ref=zg_bs_g_9056987011_d_sccl_24/134-9323765-4562034",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-13T07:04:52.971537Z",
+      "keywords": [
+        "paw",
+        "patrol",
+        "dino",
+        "movie",
+        "we've",
+        "got",
+        "dino's",
+        "save"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: paw, patrol, dino, movie, we've, got, dino's, save. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CFRJ4PJ6",
+      "title": "Birthday Shirt for Men, Legends were Born in 19XX, Vintage T Shirt | Vintage Birthday Graphic for Men, 19XX Milestone Design,",
+      "link": "https://www.amazon.com/Birthday-Legends-T-Shirt-Heather-X-Large/dp/B0CFRJ4PJ6/ref=zg_bs_g_9056987011_d_sccl_26/134-9323765-4562034",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-13T07:04:52.971537Z",
+      "keywords": [
+        "birthday",
+        "legends",
+        "were",
+        "born",
+        "19xx",
+        "milestone",
+        "design"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: birthday, legends, were, born, 19xx, milestone, design. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FVYG594K",
+      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
+      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYG594K/ref=zg_bs_g_9056987011_d_sccl_29/134-9323765-4562034",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-13T07:04:52.971537Z",
+      "keywords": [
+        "iudam",
+        "mens",
+        "loose",
+        "crew",
+        "neck",
+        "palm",
+        "tree",
+        "summer",
+        "shirts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0993H547C",
+      "title": "YININF Mens Hipster Hip Hop Short Sleeve Print T-Shirt Shirts Men",
+      "link": "https://www.amazon.com/YININF-Mens-Hipster-Hip-Hop-Urban/dp/B0993H547C/ref=zg_bs_g_9056987011_d_sccl_30/134-9323765-4562034",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-13T07:04:52.971537Z",
+      "keywords": [
+        "yininf",
+        "mens",
+        "hipster",
+        "hip",
+        "hop",
+        "print",
+        "shirts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: yininf, mens, hipster, hip, hop, print, shirts. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
