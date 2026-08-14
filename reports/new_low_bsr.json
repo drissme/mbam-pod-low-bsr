@@ -1,126 +1,87 @@
 {
-  "generated_at": "2026-08-13T07:04:53.082513Z",
+  "generated_at": "2026-08-14T07:01:20.758858Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CCWLW4YH",
-      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
-      "link": "https://www.amazon.com/INTO-AM-Meta-Beach-Graphic/dp/B0CCWLW4YH/ref=zg_bs_g_9056987011_d_sccl_12/134-9323765-4562034",
-      "current_rank": 12,
+      "asin": "B0CMBT646W",
+      "title": "Nations of the World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
+      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBT646W/ref=zg_bs_g_9056987011_d_sccl_7/131-6499302-3143800",
+      "current_rank": 7,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-13T07:04:52.971537Z",
+      "first_seen": "2026-08-14T07:01:20.646796Z",
       "keywords": [
-        "tees",
-        "art",
-        "shirts",
-        "soft",
-        "4xl",
-        "hand",
-        "drawn",
-        "anime",
-        "edm",
-        "abstract"
+        "nations",
+        "world",
+        "national",
+        "pride",
+        "flag",
+        "symbol",
+        "arms",
+        "unisex",
+        "women"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09XFGJ191",
-      "title": "Grunt Style American 1776 Flag Men's Graphic Tee",
-      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Military-XLarge/dp/B09XFGJ191/ref=zg_bs_g_9056987011_d_sccl_13/134-9323765-4562034",
-      "current_rank": 13,
+      "asin": "B09GMDDM34",
+      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMDDM34/ref=zg_bs_g_9056987011_d_sccl_15/131-6499302-3143800",
+      "current_rank": 15,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-13T07:04:52.971537Z",
+      "first_seen": "2026-08-14T07:01:20.646796Z",
       "keywords": [
-        "grunt",
-        "style",
-        "american",
-        "1776",
-        "flag"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0H5YN2738",
-      "title": "Paw Patrol: The Dino Movie We've Got Dino's to Save T-Shirt",
-      "link": "https://www.amazon.com/Paw-Patrol-Movie-Dinos-T-Shirt/dp/B0H5YN2738/ref=zg_bs_g_9056987011_d_sccl_24/134-9323765-4562034",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-13T07:04:52.971537Z",
-      "keywords": [
-        "paw",
-        "patrol",
-        "dino",
-        "movie",
-        "we've",
-        "got",
-        "dino's",
-        "save"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: paw, patrol, dino, movie, we've, got, dino's, save. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CFRJ4PJ6",
-      "title": "Birthday Shirt for Men, Legends were Born in 19XX, Vintage T Shirt | Vintage Birthday Graphic for Men, 19XX Milestone Design,",
-      "link": "https://www.amazon.com/Birthday-Legends-T-Shirt-Heather-X-Large/dp/B0CFRJ4PJ6/ref=zg_bs_g_9056987011_d_sccl_26/134-9323765-4562034",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-13T07:04:52.971537Z",
-      "keywords": [
-        "birthday",
-        "legends",
-        "were",
-        "born",
-        "19xx",
-        "milestone",
-        "design"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: birthday, legends, were, born, 19xx, milestone, design. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FVYG594K",
-      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
-      "link": "https://www.amazon.com/iudam-Sleeve-T-Shirt-Graphic-Summer/dp/B0FVYG594K/ref=zg_bs_g_9056987011_d_sccl_29/134-9323765-4562034",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-13T07:04:52.971537Z",
-      "keywords": [
-        "iudam",
-        "mens",
-        "loose",
-        "crew",
-        "neck",
-        "palm",
-        "tree",
+        "raisevern",
+        "unisex",
         "summer",
-        "shirts"
+        "shirts",
+        "crewneck",
+        "print",
+        "top",
+        "casual",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0993H547C",
-      "title": "YININF Mens Hipster Hip Hop Short Sleeve Print T-Shirt Shirts Men",
-      "link": "https://www.amazon.com/YININF-Mens-Hipster-Hip-Hop-Urban/dp/B0993H547C/ref=zg_bs_g_9056987011_d_sccl_30/134-9323765-4562034",
+      "asin": "B0CCBWC2K3",
+      "title": "Gap Mens Everyday Soft Crewneck T-Shirt Tee",
+      "link": "https://www.amazon.com/GAP-Everyday-Crewneck-T-Shirt-Heather/dp/B0CCBWC2K3/ref=zg_bs_g_9056987011_d_sccl_27/131-6499302-3143800",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-14T07:01:20.646796Z",
+      "keywords": [
+        "gap",
+        "mens",
+        "everyday",
+        "soft",
+        "crewneck"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: gap, mens, everyday, soft, crewneck. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B08K85P5PJ",
+      "title": "That's a Horrible Idea What Time T-Shirt Funny Tee | Funny Sarcastic Graphic Tee for Men Women, Novelty Gift Shirt",
+      "link": "https://www.amazon.com/Horrible-T-Shirt-Sarcastic-Drinking-Heather/dp/B08K85P5PJ/ref=zg_bs_g_9056987011_d_sccl_30/131-6499302-3143800",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-13T07:04:52.971537Z",
+      "first_seen": "2026-08-14T07:01:20.646796Z",
       "keywords": [
-        "yininf",
-        "mens",
-        "hipster",
-        "hip",
-        "hop",
-        "print",
-        "shirts"
+        "that's",
+        "horrible",
+        "idea",
+        "what",
+        "time",
+        "sarcastic",
+        "women",
+        "gift"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: yininf, mens, hipster, hip, hop, print, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: that's, horrible, idea, what, time, sarcastic, women, gift. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
