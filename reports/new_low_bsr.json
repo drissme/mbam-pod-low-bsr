@@ -1,69 +1,115 @@
 {
-  "generated_at": "2026-08-18T06:18:52.342718Z",
+  "generated_at": "2026-08-19T06:19:38.538574Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0GKGX1PNT",
-      "title": "Tires Valley Forge Automotive Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Automotive-Officially-Licensed-T-Shirt-X-Large/dp/B0GKGX1PNT/ref=zg_bs_g_9056987011_d_sccl_13/145-9958676-4878400",
-      "current_rank": 13,
+      "asin": "B0BT722QLJ",
+      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
+      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Graphic/dp/B0BT722QLJ/ref=zg_bs_g_9056987011_d_sccl_11/143-0260988-4908628",
+      "current_rank": 11,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-18T06:18:52.228500Z",
+      "first_seen": "2026-08-19T06:19:38.427967Z",
       "keywords": [
-        "tires",
-        "valley",
-        "forge",
-        "automotive",
-        "officially",
-        "licensed"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tires, valley, forge, automotive, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09GMBP8H9",
-      "title": "RAISEVERN Unisex Summer T-Shirts Crewneck Cool Short Sleeve Funny Graphic Print Top Casual Tees",
-      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMBP8H9/ref=zg_bs_g_9056987011_d_sccl_17/145-9958676-4878400",
-      "current_rank": 17,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-18T06:18:52.228500Z",
-      "keywords": [
-        "raisevern",
-        "unisex",
-        "summer",
+        "tees",
+        "art",
         "shirts",
-        "crewneck",
-        "print",
-        "top",
-        "casual",
-        "tees"
+        "soft",
+        "4xl",
+        "hand",
+        "drawn",
+        "anime",
+        "edm",
+        "abstract"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, crewneck, print, top, casual, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B000Z9BMNK",
-      "title": "Jockey Big & Tall Classic Crew Neck Undershirt- 6 Pack - 100% Cotton T-Shirts for Men",
-      "link": "https://www.amazon.com/Jockey-Mens-T-Shirts-Tall-Classic/dp/B000Z9BMNK/ref=zg_bs_g_9056987011_d_sccl_23/145-9958676-4878400",
-      "current_rank": 23,
+      "asin": "B0B9ZTP9F7",
+      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
+      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZTP9F7/ref=zg_bs_g_9056987011_d_sccl_19/143-0260988-4908628",
+      "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-18T06:18:52.228500Z",
+      "first_seen": "2026-08-19T06:19:38.427967Z",
       "keywords": [
-        "jockey",
-        "big",
-        "tall",
+        "awesome",
+        "like",
+        "daughter",
+        "sarcastic",
+        "saying",
+        "humor",
+        "dad",
+        "joke",
+        "father",
+        "grandpa",
+        "daddy"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GCR6X9TX",
+      "title": "iudam Mens Short Sleeve T-Shirt Graphic Loose Fit Tee Crew Neck Palm Tree Summer Shirts",
+      "link": "https://www.amazon.com/iudam-Graphic-Sleeve-Shirts-Crewneck/dp/B0GCR6X9TX/ref=zg_bs_g_9056987011_d_sccl_25/143-0260988-4908628",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-19T06:19:38.427967Z",
+      "keywords": [
+        "iudam",
+        "mens",
+        "loose",
         "crew",
         "neck",
-        "undershirt",
-        "pack",
-        "100",
-        "cotton",
+        "palm",
+        "tree",
+        "summer",
         "shirts"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: jockey, big, tall, crew, neck, undershirt, pack, 100, cotton, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, loose, crew, neck, palm, tree, summer, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GWFHY9Q3",
+      "title": "Bruno Mars Unisex Adult Bruno Mars Official Merch the Romantic T-Shirt, Black",
+      "link": "https://www.amazon.com/Bruno-Mars-Official-Romantic-T-Shirt/dp/B0GWFHY9Q3/ref=zg_bs_g_9056987011_d_sccl_29/143-0260988-4908628",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-19T06:19:38.427967Z",
+      "keywords": [
+        "bruno",
+        "mars",
+        "unisex",
+        "merch",
+        "romantic",
+        "black"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: bruno, mars, unisex, merch, romantic, black. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CYXJPGKP",
+      "title": "iudam Mens Short Sleeve Cotton T-Shirts Crew Neck Jesus Cross Printed Shirts Faith Christ Shirts",
+      "link": "https://www.amazon.com/iudam-Sleeve-Cotton-T-Shirts-Printed/dp/B0CYXJPGKP/ref=zg_bs_g_9056987011_d_sccl_30/143-0260988-4908628",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-19T06:19:38.427967Z",
+      "keywords": [
+        "iudam",
+        "mens",
+        "cotton",
+        "shirts",
+        "crew",
+        "neck",
+        "jesus",
+        "cross",
+        "printed",
+        "faith",
+        "christ"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: iudam, mens, cotton, shirts, crew, neck, jesus, cross, printed, faith, christ. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
