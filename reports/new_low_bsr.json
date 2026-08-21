@@ -1,84 +1,49 @@
 {
-  "generated_at": "2026-08-20T06:21:02.406739Z",
+  "generated_at": "2026-08-21T06:21:02.528713Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0150QPOLI",
-      "title": "Pro Club Men's Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
-      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-Shirt/dp/B0150QPOLI/ref=zg_bs_g_9056987011_d_sccl_9/132-7768209-0243415",
-      "current_rank": 9,
+      "asin": "B0FVMD9573",
+      "title": "uideazone Mens Short Sleeve T-Shirt 3D Creative Print Crewneck Graphic Tees | Lightweight Breathable Fabric, Funny Pattern, N",
+      "link": "https://www.amazon.com/uideazone-Cosplay-T-Shirt-Leather-Harness/dp/B0FVMD9573/ref=zg_bs_g_9056987011_d_sccl_8/140-1649046-0117406",
+      "current_rank": 8,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-20T06:21:02.327965Z",
+      "first_seen": "2026-08-21T06:21:02.418814Z",
       "keywords": [
-        "pro",
-        "club",
-        "cotton",
-        "crew",
-        "neck"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FDGWZM7H",
-      "title": "Tires Valley Forge Automotive Officially Licensed T-Shirt",
-      "link": "https://www.amazon.com/Valley-Automotive-Officially-Licensed-T-Shirt/dp/B0FDGWZM7H/ref=zg_bs_g_9056987011_d_sccl_12/132-7768209-0243415",
-      "current_rank": 12,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-20T06:21:02.327965Z",
-      "keywords": [
-        "tires",
-        "valley",
-        "forge",
-        "automotive",
-        "officially",
-        "licensed"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tires, valley, forge, automotive, officially, licensed. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CCWZ8GVF",
-      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
-      "link": "https://www.amazon.com/INTO-AM-Graphic-Trippy-Printed/dp/B0CCWZ8GVF/ref=zg_bs_g_9056987011_d_sccl_14/132-7768209-0243415",
-      "current_rank": 14,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-20T06:21:02.327965Z",
-      "keywords": [
+        "uideazone",
+        "mens",
+        "creative",
+        "print",
+        "crewneck",
         "tees",
-        "art",
-        "shirts",
-        "soft",
-        "4xl",
-        "hand",
-        "drawn",
-        "anime",
-        "edm",
-        "abstract"
+        "breathable",
+        "fabric",
+        "pattern"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, creative, print, crewneck, tees, breathable, fabric, pattern. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B01LTBGIIQ",
-      "title": "Premium Wear Men's Polo Shirts – Short Sleeves Stain Guard Polo Shirts for Men",
-      "link": "https://www.amazon.com/Mens-Hunter-Green-Shirts-Medium/dp/B01LTBGIIQ/ref=zg_bs_g_9056987011_d_sccl_22/132-7768209-0243415",
-      "current_rank": 22,
+      "asin": "B07JMKGLR4",
+      "title": "Crazy Dog T-Shirts Hide and Seek Champion Funny Bigfoot Graphic Tee | Funny T Shirts, Graphic Apparel for Men, Cool Camping S",
+      "link": "https://www.amazon.com/Champion-Crazy-Dog-T-Shirts-Comfortable/dp/B07JMKGLR4/ref=zg_bs_g_9056987011_d_sccl_27/140-1649046-0117406",
+      "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-20T06:21:02.327965Z",
+      "first_seen": "2026-08-21T06:21:02.418814Z",
       "keywords": [
-        "premium",
-        "wear",
-        "polo",
+        "crazy",
+        "dog",
         "shirts",
-        "sleeves",
-        "stain",
-        "guard"
+        "hide",
+        "seek",
+        "champion",
+        "bigfoot",
+        "camping"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: premium, wear, polo, shirts, sleeves, stain, guard. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crazy, dog, shirts, hide, seek, champion, bigfoot, camping. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
