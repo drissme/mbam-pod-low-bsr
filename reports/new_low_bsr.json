@@ -1,54 +1,17 @@
 {
-  "generated_at": "2026-08-22T06:16:09.285467Z",
+  "generated_at": "2026-08-23T06:17:40.540483Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BW84VBC8",
-      "title": "Birthday Shirt for Men, Legends were Born in 19XX, Vintage T Shirt | Vintage Birthday Graphic for Men, 19XX Milestone Design,",
-      "link": "https://www.amazon.com/Birthday-Legends-Vintage-T-Shirt-X-Large/dp/B0BW84VBC8/ref=zg_bs_g_9056987011_d_sccl_22/136-5180216-7436645",
-      "current_rank": 22,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-22T06:16:09.187414Z",
-      "keywords": [
-        "birthday",
-        "legends",
-        "were",
-        "born",
-        "19xx",
-        "milestone",
-        "design"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: birthday, legends, were, born, 19xx, milestone, design. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09PWNQMZF",
-      "title": "Spongebob Big Face Expressions Collection Unisex Adult T Shirt",
-      "link": "https://www.amazon.com/Popfunk-Classic-Spongebob-Unisex-Yellow/dp/B09PWNQMZF/ref=zg_bs_g_9056987011_d_sccl_27/136-5180216-7436645",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-22T06:16:09.187414Z",
-      "keywords": [
-        "spongebob",
-        "big",
-        "face",
-        "expressions",
-        "collection",
-        "unisex"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: spongebob, big, face, expressions, collection, unisex. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B087WSTKNX",
+      "asin": "B087WJVDNR",
       "title": "Mens Graphic T-Shirts Cool Nature Design Tees Short Sleeve S-4XL | Hand-drawn wolves, mountains & forest art - novelty tees f",
-      "link": "https://www.amazon.com/INTO-AM-Invader-Graphic-T-Shirt/dp/B087WSTKNX/ref=zg_bs_g_9056987011_d_sccl_29/136-5180216-7436645",
-      "current_rank": 29,
+      "link": "https://www.amazon.com/INTO-AM-Invader-Graphic-T-Shirt/dp/B087WJVDNR/ref=zg_bs_g_9056987011_d_sccl_24/143-7034511-0217915",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-22T06:16:09.187414Z",
+      "first_seen": "2026-08-23T06:17:40.427331Z",
       "keywords": [
         "mens",
         "shirts",
@@ -66,19 +29,26 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: mens, shirts, nature, design, tees, 4xl, hand, drawn, wolves, mountains, forest, art. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B01BJ5EP96",
-      "title": "Pro Club Unisex Adult Classic",
-      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-shirt/dp/B01BJ5EP96/ref=zg_bs_g_9056987011_d_sccl_30/136-5180216-7436645",
-      "current_rank": 30,
+      "asin": "B0F851L627",
+      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
+      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F851L627/ref=zg_bs_g_9056987011_d_sccl_26/143-7034511-0217915",
+      "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-22T06:16:09.187414Z",
+      "first_seen": "2026-08-23T06:17:40.427331Z",
       "keywords": [
-        "pro",
-        "club",
-        "unisex"
+        "sarcastic",
+        "saying",
+        "shirts",
+        "husband",
+        "dad",
+        "grandpa",
+        "boyfriend",
+        "son",
+        "humor",
+        "joke"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
