@@ -1,41 +1,63 @@
 {
-  "generated_at": "2026-08-23T06:17:40.540483Z",
+  "generated_at": "2026-08-24T06:29:09.483561Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B087WJVDNR",
-      "title": "Mens Graphic T-Shirts Cool Nature Design Tees Short Sleeve S-4XL | Hand-drawn wolves, mountains & forest art - novelty tees f",
-      "link": "https://www.amazon.com/INTO-AM-Invader-Graphic-T-Shirt/dp/B087WJVDNR/ref=zg_bs_g_9056987011_d_sccl_24/143-7034511-0217915",
-      "current_rank": 24,
+      "asin": "B0BT749BL9",
+      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
+      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Tshirt/dp/B0BT749BL9/ref=zg_bs_g_9056987011_d_sccl_14/141-2130367-9033239",
+      "current_rank": 14,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-23T06:17:40.427331Z",
+      "first_seen": "2026-08-24T06:29:09.374396Z",
       "keywords": [
-        "mens",
-        "shirts",
-        "nature",
-        "design",
         "tees",
+        "art",
+        "shirts",
+        "soft",
         "4xl",
         "hand",
         "drawn",
-        "wolves",
-        "mountains",
-        "forest",
-        "art"
+        "anime",
+        "edm",
+        "abstract"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mens, shirts, nature, design, tees, 4xl, hand, drawn, wolves, mountains, forest, art. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0F851L627",
-      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
-      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F851L627/ref=zg_bs_g_9056987011_d_sccl_26/143-7034511-0217915",
-      "current_rank": 26,
+      "asin": "B0H6M7S4B4",
+      "title": "Christian Shirts for Men: Stretch Faith Cross Bible Verse Costumes Tee | Two-sided Christian tee with front cross and Philipp",
+      "link": "https://www.amazon.com/Christian-Shirts-Men-Stretch-Costumes/dp/B0H6M7S4B4/ref=zg_bs_g_9056987011_d_sccl_22/141-2130367-9033239",
+      "current_rank": 22,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-23T06:17:40.427331Z",
+      "first_seen": "2026-08-24T06:29:09.374396Z",
+      "keywords": [
+        "christian",
+        "shirts",
+        "stretch",
+        "faith",
+        "cross",
+        "bible",
+        "verse",
+        "costumes",
+        "two",
+        "sided",
+        "front",
+        "philipp"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: christian, shirts, stretch, faith, cross, bible, verse, costumes, two, sided, front, philipp. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0F84YSQZ1",
+      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
+      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_24/141-2130367-9033239",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-24T06:29:09.374396Z",
       "keywords": [
         "sarcastic",
         "saying",
@@ -49,6 +71,25 @@
         "joke"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B01MS918UT",
+      "title": "Add Your Own and Text Design Custom Personalized Adult T-Shirt Tee",
+      "link": "https://www.amazon.com/Design-Customizable-Personalized-Adult-T-Shirt/dp/B01MS918UT/ref=zg_bs_g_9056987011_d_sccl_29/141-2130367-9033239",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-24T06:29:09.374396Z",
+      "keywords": [
+        "add",
+        "your",
+        "own",
+        "text",
+        "design",
+        "custom",
+        "personalized"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: add, your, own, text, design, custom, personalized. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
