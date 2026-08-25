@@ -1,95 +1,46 @@
 {
-  "generated_at": "2026-08-24T06:29:09.483561Z",
+  "generated_at": "2026-08-25T06:21:18.982568Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BT749BL9",
-      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
-      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Tshirt/dp/B0BT749BL9/ref=zg_bs_g_9056987011_d_sccl_14/141-2130367-9033239",
-      "current_rank": 14,
+      "asin": "B01LTBERJ8",
+      "title": "Premium Wear Men's Polo Shirts – Short Sleeves Stain Guard Polo Shirts for Men",
+      "link": "https://www.amazon.com/Premium-Mens-Purple-Shirts-Large/dp/B01LTBERJ8/ref=zg_bs_g_9056987011_d_sccl_18/136-9131251-7807630",
+      "current_rank": 18,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-24T06:29:09.374396Z",
+      "first_seen": "2026-08-25T06:21:18.867521Z",
       "keywords": [
-        "tees",
-        "art",
+        "premium",
+        "wear",
+        "polo",
         "shirts",
-        "soft",
-        "4xl",
-        "hand",
-        "drawn",
-        "anime",
-        "edm",
-        "abstract"
+        "sleeves",
+        "stain",
+        "guard"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: premium, wear, polo, shirts, sleeves, stain, guard. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0H6M7S4B4",
-      "title": "Christian Shirts for Men: Stretch Faith Cross Bible Verse Costumes Tee | Two-sided Christian tee with front cross and Philipp",
-      "link": "https://www.amazon.com/Christian-Shirts-Men-Stretch-Costumes/dp/B0H6M7S4B4/ref=zg_bs_g_9056987011_d_sccl_22/141-2130367-9033239",
+      "asin": "B09GMBP8H9",
+      "title": "RAISEVERN Unisex Summer T-Shirts Fake Abs Short Sleeve Graphic Tees Shirt",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMBP8H9/ref=zg_bs_g_9056987011_d_sccl_22/136-9131251-7807630",
       "current_rank": 22,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-24T06:29:09.374396Z",
+      "first_seen": "2026-08-25T06:21:18.867521Z",
       "keywords": [
-        "christian",
+        "raisevern",
+        "unisex",
+        "summer",
         "shirts",
-        "stretch",
-        "faith",
-        "cross",
-        "bible",
-        "verse",
-        "costumes",
-        "two",
-        "sided",
-        "front",
-        "philipp"
+        "fake",
+        "abs",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: christian, shirts, stretch, faith, cross, bible, verse, costumes, two, sided, front, philipp. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0F84YSQZ1",
-      "title": "Funny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
-      "link": "https://www.amazon.com/Please-Be-Patient-1900s-Sarcastic/dp/B0F84YSQZ1/ref=zg_bs_g_9056987011_d_sccl_24/141-2130367-9033239",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-24T06:29:09.374396Z",
-      "keywords": [
-        "sarcastic",
-        "saying",
-        "shirts",
-        "husband",
-        "dad",
-        "grandpa",
-        "boyfriend",
-        "son",
-        "humor",
-        "joke"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sarcastic, saying, shirts, husband, dad, grandpa, boyfriend, son, humor, joke. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B01MS918UT",
-      "title": "Add Your Own and Text Design Custom Personalized Adult T-Shirt Tee",
-      "link": "https://www.amazon.com/Design-Customizable-Personalized-Adult-T-Shirt/dp/B01MS918UT/ref=zg_bs_g_9056987011_d_sccl_29/141-2130367-9033239",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-24T06:29:09.374396Z",
-      "keywords": [
-        "add",
-        "your",
-        "own",
-        "text",
-        "design",
-        "custom",
-        "personalized"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: add, your, own, text, design, custom, personalized. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, fake, abs, tees. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
