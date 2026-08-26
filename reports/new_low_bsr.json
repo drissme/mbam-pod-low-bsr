@@ -1,46 +1,64 @@
 {
-  "generated_at": "2026-08-25T06:21:18.982568Z",
+  "generated_at": "2026-08-26T06:22:59.172083Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B01LTBERJ8",
-      "title": "Premium Wear Men's Polo Shirts – Short Sleeves Stain Guard Polo Shirts for Men",
-      "link": "https://www.amazon.com/Premium-Mens-Purple-Shirts-Large/dp/B01LTBERJ8/ref=zg_bs_g_9056987011_d_sccl_18/136-9131251-7807630",
-      "current_rank": 18,
+      "asin": "B0CCW5JLZK",
+      "title": "Woman Noun Adult Human Female Feminism T-Shirt",
+      "link": "https://www.amazon.com/Woman-Adult-Female-Feminism-T-Shirt/dp/B0CCW5JLZK/ref=zg_bs_g_9056987011_d_sccl_25/133-9111570-0232018",
+      "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-25T06:21:18.867521Z",
+      "first_seen": "2026-08-26T06:22:59.052600Z",
       "keywords": [
-        "premium",
-        "wear",
-        "polo",
-        "shirts",
-        "sleeves",
-        "stain",
-        "guard"
+        "woman",
+        "noun",
+        "human",
+        "female",
+        "feminism"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: premium, wear, polo, shirts, sleeves, stain, guard. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: woman, noun, human, female, feminism. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09GMBP8H9",
-      "title": "RAISEVERN Unisex Summer T-Shirts Fake Abs Short Sleeve Graphic Tees Shirt",
-      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMBP8H9/ref=zg_bs_g_9056987011_d_sccl_22/136-9131251-7807630",
-      "current_rank": 22,
+      "asin": "B0C533D7MZ",
+      "title": "Birthday Shirt for Men, Legends were Born in 19XX, Vintage T Shirt | Vintage Birthday Graphic for Men, 19XX Milestone Design,",
+      "link": "https://www.amazon.com/Birthday-Legends-Vintage-T-Shirt-Heather/dp/B0C533D7MZ/ref=zg_bs_g_9056987011_d_sccl_27/133-9111570-0232018",
+      "current_rank": 27,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-25T06:21:18.867521Z",
+      "first_seen": "2026-08-26T06:22:59.052600Z",
       "keywords": [
-        "raisevern",
-        "unisex",
-        "summer",
-        "shirts",
-        "fake",
-        "abs",
-        "tees"
+        "birthday",
+        "legends",
+        "were",
+        "born",
+        "19xx",
+        "milestone",
+        "design"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, fake, abs, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: birthday, legends, were, born, 19xx, milestone, design. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0H9FNHWPQ",
+      "title": "Obama 2028 Since Rules Don't Exist Anymore Satire T-Shirt",
+      "link": "https://www.amazon.com/Obama-Since-Anymore-Satire-T-Shirt/dp/B0H9FNHWPQ/ref=zg_bs_g_9056987011_d_sccl_29/133-9111570-0232018",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-08-26T06:22:59.052600Z",
+      "keywords": [
+        "obama",
+        "2028",
+        "since",
+        "rules",
+        "don't",
+        "exist",
+        "anymore",
+        "satire"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: obama, 2028, since, rules, don't, exist, anymore, satire. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
