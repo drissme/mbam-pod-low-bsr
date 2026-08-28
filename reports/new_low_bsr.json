@@ -1,363 +1,75 @@
 {
-  "generated_at": "2026-08-27T16:52:52.617038Z",
+  "generated_at": "2026-08-28T17:44:45.710127Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0GM3G711R",
-      "title": "Dolly Parton Rope and Flower Framed Minimalistic Portrait T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Minimalistic-Portrait-T-Shirt/dp/B0GM3G711R/ref=zg_bs_g_9056987011_d_sccl_1/144-0004260-4961011",
-      "current_rank": 1,
+      "asin": "B0B8XPW61L",
+      "title": "Retro Style Vintage Lake Ontario T-Shirt",
+      "link": "https://www.amazon.com/Retro-Vintage-Lake-Ontario-T-Shirt/dp/B0B8XPW61L/ref=zg_bs_g_9056987011_d_sccl_19/138-9179137-0800702",
+      "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
+      "first_seen": "2026-08-28T17:44:45.595424Z",
       "keywords": [
-        "dolly",
-        "parton",
-        "rope",
-        "flower",
-        "framed",
-        "minimalistic",
-        "portrait"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, rope, flower, framed, minimalistic, portrait. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GM24Y1SQ",
-      "title": "Dolly Parton Live from Nashville Tennessee Photo Portrait T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Nashville-Tennessee-Portrait/dp/B0GM24Y1SQ/ref=zg_bs_g_9056987011_d_sccl_3/144-0004260-4961011",
-      "current_rank": 3,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "live",
-        "from",
-        "nashville",
-        "tennessee",
-        "photo",
-        "portrait"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, live, from, nashville, tennessee, photo, portrait. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GM3R5KQC",
-      "title": "Dolly Parton Signature Encircled by Butterfly and Flowers T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Signature-Encircled-Butterfly/dp/B0GM3R5KQC/ref=zg_bs_g_9056987011_d_sccl_4/144-0004260-4961011",
-      "current_rank": 4,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "signature",
-        "encircled",
-        "butterfly",
-        "flowers"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, signature, encircled, butterfly, flowers. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07TFSQ56J",
-      "title": "Dolly Parton Western T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Western-T-Shirt/dp/B07TFSQ56J/ref=zg_bs_g_9056987011_d_sccl_5/144-0004260-4961011",
-      "current_rank": 5,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "western"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, western. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07TYJPP45",
-      "title": "Dolly Parton Country Music Legend T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Country-Music-Legend/dp/B07TYJPP45/ref=zg_bs_g_9056987011_d_sccl_6/144-0004260-4961011",
-      "current_rank": 6,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "country",
-        "music",
-        "legend"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, country, music, legend. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GM2D1GT4",
-      "title": "Dolly Parton Live & in-Concert Pure & Simple Tour Nashville T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Concert-Nashville-T-Shirt/dp/B0GM2D1GT4/ref=zg_bs_g_9056987011_d_sccl_8/144-0004260-4961011",
-      "current_rank": 8,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "live",
-        "concert",
-        "pure",
-        "simple",
-        "tour",
-        "nashville"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, live, concert, pure, simple, tour, nashville. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GM2223SH",
-      "title": "Dolly Parton 70's Retro Text Vintage Style Music Poster T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Vintage-Poster-T-Shirt/dp/B0GM2223SH/ref=zg_bs_g_9056987011_d_sccl_9/144-0004260-4961011",
-      "current_rank": 9,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "70's",
-        "text",
         "style",
-        "music",
-        "poster"
+        "lake",
+        "ontario"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, 70's, text, style, music, poster. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: style, lake, ontario. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07TT894D1",
-      "title": "Dolly Parton Classic Fit Whiskey Label T-Shirt - Adult Crew Neck, Short Sleeve, Polyester & Cotton Blend, Black",
-      "link": "https://www.amazon.com/Dolly-Parton-Whiskey-Label/dp/B07TT894D1/ref=zg_bs_g_9056987011_d_sccl_10/144-0004260-4961011",
-      "current_rank": 10,
+      "asin": "B0DJHGYJLM",
+      "title": "Find Out Who You are T-Shirt",
+      "link": "https://www.amazon.com/Dolly-Parton-Find-Out-T-Shirt/dp/B0DJHGYJLM/ref=zg_bs_g_9056987011_d_sccl_24/138-9179137-0800702",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
+      "first_seen": "2026-08-28T17:44:45.595424Z",
       "keywords": [
-        "dolly",
-        "parton",
-        "whiskey",
-        "label",
-        "crew",
-        "neck",
-        "polyester",
-        "cotton",
-        "blend",
-        "black"
+        "find",
+        "out",
+        "who",
+        "you",
+        "are"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, whiskey, label, crew, neck, polyester, cotton, blend, black. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: find, out, who, you, are. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09Y7RJ9ZF",
-      "title": "Vintage Classic Dolly Parton T-Shirt Small",
-      "link": "https://www.amazon.com/Vintage-Classic-Dolly-Parton-T-Shirt/dp/B09Y7RJ9ZF/ref=zg_bs_g_9056987011_d_sccl_11/144-0004260-4961011",
-      "current_rank": 11,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "small"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, small. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09M7PMKJP",
-      "title": "Dolly Parton Country Music Star T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Country-Music-T-Shirt/dp/B09M7PMKJP/ref=zg_bs_g_9056987011_d_sccl_12/144-0004260-4961011",
-      "current_rank": 12,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "country",
-        "music",
-        "star"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, country, music, star. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07TRP43G2",
-      "title": "Dolly Parton Denim Smile T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Denim-Smile/dp/B07TRP43G2/ref=zg_bs_g_9056987011_d_sccl_13/144-0004260-4961011",
-      "current_rank": 13,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "denim",
-        "smile"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, denim, smile. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09TWV58CS",
-      "title": "Dolly Parton Vintage Truck T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Vintage-Truck-T-Shirt/dp/B09TWV58CS/ref=zg_bs_g_9056987011_d_sccl_14/144-0004260-4961011",
-      "current_rank": 14,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "truck"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, truck. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B00LMIARI4",
-      "title": "Nations of the World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
-      "link": "https://www.amazon.com/Vintage-Retro-Feel-Canadian-T-shirt-Adult-Heather/dp/B00LMIARI4/ref=zg_bs_g_9056987011_d_sccl_16/144-0004260-4961011",
-      "current_rank": 16,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "nations",
-        "world",
-        "national",
-        "pride",
-        "flag",
-        "symbol",
-        "arms",
-        "unisex",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07TT8BLK4",
-      "title": "Dolly Parton Vintage Polaroid T-Shirt Small",
-      "link": "https://www.amazon.com/Dolly-Parton-Vintage-Polaroid-T-Shirt/dp/B07TT8BLK4/ref=zg_bs_g_9056987011_d_sccl_21/144-0004260-4961011",
-      "current_rank": 21,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "polaroid",
-        "small"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, polaroid, small. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GM2X1TBG",
-      "title": "Dolly Parton Wildflowers Don't Care Where They Grow Floral T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Wildflowers-Floral-T-Shirt/dp/B0GM2X1TBG/ref=zg_bs_g_9056987011_d_sccl_23/144-0004260-4961011",
-      "current_rank": 23,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "wildflowers",
-        "don't",
-        "care",
-        "where",
-        "they",
-        "grow",
-        "floral"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, wildflowers, don't, care, where, they, grow, floral. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GM2NXT4Q",
-      "title": "Dolly Parton Dolly Guitar & Flowers Black & White Portrait T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Flowers-Portrait-T-Shirt/dp/B0GM2NXT4Q/ref=zg_bs_g_9056987011_d_sccl_25/144-0004260-4961011",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "guitar",
-        "flowers",
-        "black",
-        "white",
-        "portrait"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, guitar, flowers, black, white, portrait. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09NJJSHVT",
-      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
-      "link": "https://www.amazon.com/Goodstoworld-Sleeve-Printed-Clothing-X-Large/dp/B09NJJSHVT/ref=zg_bs_g_9056987011_d_sccl_26/144-0004260-4961011",
+      "asin": "B07XK7J85T",
+      "title": "I Will Always Love You T-Shirt",
+      "link": "https://www.amazon.com/Will-Always-Love-You-T-Shirt/dp/B07XK7J85T/ref=zg_bs_g_9056987011_d_sccl_26/138-9179137-0800702",
       "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
+      "first_seen": "2026-08-28T17:44:45.595424Z",
       "keywords": [
-        "goodstoworld",
-        "unisex",
-        "fake",
-        "abs",
-        "shirts",
-        "shredded",
-        "chest",
-        "printed",
-        "costume",
-        "tees"
+        "will",
+        "always",
+        "love",
+        "you"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: will, always, love, you. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GM3FQ3G3",
-      "title": "Dolly Parton Pigeon Forge TN Portrait of Dolly & Her Guitar T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Pigeon-Portrait-T-Shirt/dp/B0GM3FQ3G3/ref=zg_bs_g_9056987011_d_sccl_27/144-0004260-4961011",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "pigeon",
-        "forge",
-        "portrait",
-        "her",
-        "guitar"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, pigeon, forge, portrait, her, guitar. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07XGJBX47",
-      "title": "Dolly Parton Greatest Hits Unisex Adults Black Cotton Polyester Short Sleeve Crew Neck T-Shirt Small",
-      "link": "https://www.amazon.com/Dolly-Parton-Greatest-Hits-T-Shirt/dp/B07XGJBX47/ref=zg_bs_g_9056987011_d_sccl_28/144-0004260-4961011",
+      "asin": "B0GM2P8BD4",
+      "title": "Dolly Parton Live Tonight Dolly Parton Embracing Her Guitar T-Shirt",
+      "link": "https://www.amazon.com/Dolly-Parton-Tonight-Embracing-T-Shirt/dp/B0GM2P8BD4/ref=zg_bs_g_9056987011_d_sccl_28/138-9179137-0800702",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-27T16:52:52.503072Z",
+      "first_seen": "2026-08-28T17:44:45.595424Z",
       "keywords": [
         "dolly",
         "parton",
-        "greatest",
-        "hits",
-        "unisex",
-        "adults",
-        "black",
-        "cotton",
-        "polyester",
-        "crew",
-        "neck",
-        "small"
+        "live",
+        "tonight",
+        "embracing",
+        "her",
+        "guitar"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, greatest, hits, unisex, adults, black, cotton, polyester, crew, neck, small. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, live, tonight, embracing, her, guitar. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
