@@ -1,75 +1,30 @@
 {
-  "generated_at": "2026-08-28T17:44:45.710127Z",
+  "generated_at": "2026-08-29T11:48:54.298941Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0B8XPW61L",
-      "title": "Retro Style Vintage Lake Ontario T-Shirt",
-      "link": "https://www.amazon.com/Retro-Vintage-Lake-Ontario-T-Shirt/dp/B0B8XPW61L/ref=zg_bs_g_9056987011_d_sccl_19/138-9179137-0800702",
-      "current_rank": 19,
+      "asin": "B09NJJSN7N",
+      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
+      "link": "https://www.amazon.com/Goodstoworld-Sleeve-Muscle-Printed-Clothing/dp/B09NJJSN7N/ref=zg_bs_g_9056987011_d_sccl_29/136-3180167-0902613",
+      "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-28T17:44:45.595424Z",
+      "first_seen": "2026-08-29T11:48:54.187849Z",
       "keywords": [
-        "style",
-        "lake",
-        "ontario"
+        "goodstoworld",
+        "unisex",
+        "fake",
+        "abs",
+        "shirts",
+        "shredded",
+        "chest",
+        "printed",
+        "costume",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: style, lake, ontario. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DJHGYJLM",
-      "title": "Find Out Who You are T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Find-Out-T-Shirt/dp/B0DJHGYJLM/ref=zg_bs_g_9056987011_d_sccl_24/138-9179137-0800702",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-28T17:44:45.595424Z",
-      "keywords": [
-        "find",
-        "out",
-        "who",
-        "you",
-        "are"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: find, out, who, you, are. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07XK7J85T",
-      "title": "I Will Always Love You T-Shirt",
-      "link": "https://www.amazon.com/Will-Always-Love-You-T-Shirt/dp/B07XK7J85T/ref=zg_bs_g_9056987011_d_sccl_26/138-9179137-0800702",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-28T17:44:45.595424Z",
-      "keywords": [
-        "will",
-        "always",
-        "love",
-        "you"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: will, always, love, you. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GM2P8BD4",
-      "title": "Dolly Parton Live Tonight Dolly Parton Embracing Her Guitar T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Tonight-Embracing-T-Shirt/dp/B0GM2P8BD4/ref=zg_bs_g_9056987011_d_sccl_28/138-9179137-0800702",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-08-28T17:44:45.595424Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "live",
-        "tonight",
-        "embracing",
-        "her",
-        "guitar"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, live, tonight, embracing, her, guitar. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
