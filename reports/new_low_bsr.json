@@ -1,34 +1,73 @@
 {
-  "generated_at": "2026-08-31T11:54:39.732392Z",
+  "generated_at": "2026-09-01T10:34:09.421554Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0150QPOLI",
-      "title": "Pro Club Men's Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
-      "link": "https://www.amazon.com/Pro-Club-Heavyweight-Cotton-T-Shirt/dp/B0150QPOLI/ref=zg_bs_g_9056987011_d_sccl_25/147-2014397-5428213",
-      "current_rank": 25,
+      "asin": "B09XFFZH78",
+      "title": "Grunt Style American 1776 Flag Men's Graphic Tee",
+      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Military-Green/dp/B09XFFZH78/ref=zg_bs_g_9056987011_d_sccl_8/132-2142832-9967717",
+      "current_rank": 8,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-31T11:54:39.637189Z",
+      "first_seen": "2026-09-01T10:34:09.324484Z",
       "keywords": [
-        "pro",
-        "club",
-        "cotton",
-        "crew",
-        "neck"
+        "grunt",
+        "style",
+        "american",
+        "1776",
+        "flag"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: pro, club, cotton, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0BWKB7NGD",
-      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
-      "link": "https://www.amazon.com/INTO-AM-Overseer-Mens-Graphic/dp/B0BWKB7NGD/ref=zg_bs_g_9056987011_d_sccl_26/147-2014397-5428213",
-      "current_rank": 26,
+      "asin": "B0858YPCWH",
+      "title": "uideazone Mens Short Sleeve T-Shirt 3D Creative Print Crewneck Graphic Tees | Lightweight Breathable Fabric, Funny Pattern, N",
+      "link": "https://www.amazon.com/uideazone-Sleeve-T-Shirt-Novelty-Graphic/dp/B0858YPCWH/ref=zg_bs_g_9056987011_d_sccl_14/132-2142832-9967717",
+      "current_rank": 14,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-08-31T11:54:39.637189Z",
+      "first_seen": "2026-09-01T10:34:09.324484Z",
+      "keywords": [
+        "uideazone",
+        "mens",
+        "creative",
+        "print",
+        "crewneck",
+        "tees",
+        "breathable",
+        "fabric",
+        "pattern"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, creative, print, crewneck, tees, breathable, fabric, pattern. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0HGY6YL66",
+      "title": "Lake Ontario EST 1656 Retro Stripe for Men Women T-Shirt",
+      "link": "https://www.amazon.com/Lake-Ontario-Men-Women-T-Shirt/dp/B0HGY6YL66/ref=zg_bs_g_9056987011_d_sccl_18/132-2142832-9967717",
+      "current_rank": 18,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-01T10:34:09.324484Z",
+      "keywords": [
+        "lake",
+        "ontario",
+        "est",
+        "1656",
+        "stripe",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: lake, ontario, est, 1656, stripe, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CCWLW4YH",
+      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
+      "link": "https://www.amazon.com/INTO-AM-Meta-Beach-Graphic/dp/B0CCWLW4YH/ref=zg_bs_g_9056987011_d_sccl_23/132-2142832-9967717",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-01T10:34:09.324484Z",
       "keywords": [
         "tees",
         "art",
