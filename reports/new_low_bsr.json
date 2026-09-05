@@ -1,93 +1,26 @@
 {
-  "generated_at": "2026-09-04T10:00:36.222695Z",
+  "generated_at": "2026-09-05T09:30:10.975528Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0HGX9Y2JH",
-      "title": "Mscsikqqp Dolly Memorial Country Music Legend Tribute T-Shirt | Front & Back Print, Soft & Breathable, Vintage Graphic Tee, S",
-      "link": "https://www.amazon.com/Mscsikqqp-Memorial-Country-Tribute-T-Shirt/dp/B0HGX9Y2JH/ref=zg_bs_g_9056987011_d_sccl_14/133-5370647-4014721",
-      "current_rank": 14,
+      "asin": "B0DR6JLRBS",
+      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
+      "link": "https://www.amazon.com/TeeUnion-T-Shirt-Classic-Concert-Festival/dp/B0DR6JLRBS/ref=zg_bs_g_9056987011_d_sccl_17/140-8838815-8343524",
+      "current_rank": 17,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-04T10:00:36.154201Z",
+      "first_seen": "2026-09-05T09:30:10.862634Z",
       "keywords": [
-        "mscsikqqp",
-        "dolly",
-        "memorial",
-        "country",
-        "music",
-        "legend",
-        "tribute",
-        "front",
-        "back",
-        "print",
-        "soft",
-        "breathable"
+        "teeunion",
+        "tuxedo",
+        "party",
+        "concert",
+        "festival",
+        "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: mscsikqqp, dolly, memorial, country, music, legend, tribute, front, back, print, soft, breathable. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FTY3TGXK",
-      "title": "Freedom Shirt Simple Freedom Text Patriotic T-Shirt for Men & Women | Patriotic Graphic Apparel for Men and Women, American L",
-      "link": "https://www.amazon.com/Freedom-Shirt-Charlie-Signature-Patriotic/dp/B0FTY3TGXK/ref=zg_bs_g_9056987011_d_sccl_26/133-5370647-4014721",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-09-04T10:00:36.154201Z",
-      "keywords": [
-        "freedom",
-        "simple",
-        "text",
-        "patriotic",
-        "women",
-        "american"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, patriotic, women, american. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0B9ZQRWBK",
-      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
-      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZQRWBK/ref=zg_bs_g_9056987011_d_sccl_27/133-5370647-4014721",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-09-04T10:00:36.154201Z",
-      "keywords": [
-        "awesome",
-        "like",
-        "daughter",
-        "sarcastic",
-        "saying",
-        "humor",
-        "dad",
-        "joke",
-        "father",
-        "grandpa",
-        "daddy"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B08K85P5PJ",
-      "title": "That's a Horrible Idea What Time T-Shirt Funny Tee | Funny Sarcastic Graphic Tee for Men Women, Novelty Gift Shirt",
-      "link": "https://www.amazon.com/Horrible-T-Shirt-Sarcastic-Drinking-Heather/dp/B08K85P5PJ/ref=zg_bs_g_9056987011_d_sccl_30/133-5370647-4014721",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-09-04T10:00:36.154201Z",
-      "keywords": [
-        "that's",
-        "horrible",
-        "idea",
-        "what",
-        "time",
-        "sarcastic",
-        "women",
-        "gift"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: that's, horrible, idea, what, time, sarcastic, women, gift. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
