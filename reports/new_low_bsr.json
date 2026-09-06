@@ -1,26 +1,53 @@
 {
-  "generated_at": "2026-09-05T09:30:10.975528Z",
+  "generated_at": "2026-09-06T09:44:19.755055Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DR6JLRBS",
-      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
-      "link": "https://www.amazon.com/TeeUnion-T-Shirt-Classic-Concert-Festival/dp/B0DR6JLRBS/ref=zg_bs_g_9056987011_d_sccl_17/140-8838815-8343524",
-      "current_rank": 17,
+      "asin": "B0BT725J2G",
+      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
+      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Graphic/dp/B0BT725J2G/ref=zg_bs_g_9056987011_d_sccl_21/144-0180607-6625332",
+      "current_rank": 21,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-05T09:30:10.862634Z",
+      "first_seen": "2026-09-06T09:44:19.658888Z",
       "keywords": [
-        "teeunion",
-        "tuxedo",
-        "party",
-        "concert",
-        "festival",
-        "costume"
+        "tees",
+        "art",
+        "shirts",
+        "soft",
+        "4xl",
+        "hand",
+        "drawn",
+        "anime",
+        "edm",
+        "abstract"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07XPF7F1T",
+      "title": "Customized T-Shirt, Upload Photos, Type Text, Custom Gifts, Personalized with Your Own Design",
+      "link": "https://www.amazon.com/Custom-Shirts-Personalized-Unisex-Cotton/dp/B07XPF7F1T/ref=zg_bs_g_9056987011_d_sccl_24/144-0180607-6625332",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-06T09:44:19.658888Z",
+      "keywords": [
+        "customized",
+        "upload",
+        "photos",
+        "type",
+        "text",
+        "custom",
+        "gifts",
+        "personalized",
+        "your",
+        "own",
+        "design"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: customized, upload, photos, type, text, custom, gifts, personalized, your, own, design. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
