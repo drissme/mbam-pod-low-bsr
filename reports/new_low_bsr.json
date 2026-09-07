@@ -1,53 +1,51 @@
 {
-  "generated_at": "2026-09-06T09:44:19.755055Z",
+  "generated_at": "2026-09-07T10:47:35.838076Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BT725J2G",
-      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
-      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Graphic/dp/B0BT725J2G/ref=zg_bs_g_9056987011_d_sccl_21/144-0180607-6625332",
-      "current_rank": 21,
+      "asin": "B0B9ZTP9F7",
+      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
+      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZTP9F7/ref=zg_bs_g_9056987011_d_sccl_23/133-1117367-2269954",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-06T09:44:19.658888Z",
+      "first_seen": "2026-09-07T10:47:35.719135Z",
       "keywords": [
-        "tees",
-        "art",
-        "shirts",
-        "soft",
-        "4xl",
-        "hand",
-        "drawn",
-        "anime",
-        "edm",
-        "abstract"
+        "awesome",
+        "like",
+        "daughter",
+        "sarcastic",
+        "saying",
+        "humor",
+        "dad",
+        "joke",
+        "father",
+        "grandpa",
+        "daddy"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07XPF7F1T",
-      "title": "Customized T-Shirt, Upload Photos, Type Text, Custom Gifts, Personalized with Your Own Design",
-      "link": "https://www.amazon.com/Custom-Shirts-Personalized-Unisex-Cotton/dp/B07XPF7F1T/ref=zg_bs_g_9056987011_d_sccl_24/144-0180607-6625332",
-      "current_rank": 24,
+      "asin": "B0HFWL8W56",
+      "title": "25th Anniversary September 11 2001 Memorial Day USA Flag T-Shirt",
+      "link": "https://www.amazon.com/Anniversary-September-11-2001-Memorial/dp/B0HFWL8W56/ref=zg_bs_g_9056987011_d_sccl_26/133-1117367-2269954",
+      "current_rank": 26,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-06T09:44:19.658888Z",
+      "first_seen": "2026-09-07T10:47:35.719135Z",
       "keywords": [
-        "customized",
-        "upload",
-        "photos",
-        "type",
-        "text",
-        "custom",
-        "gifts",
-        "personalized",
-        "your",
-        "own",
-        "design"
+        "25th",
+        "anniversary",
+        "september",
+        "2001",
+        "memorial",
+        "day",
+        "usa",
+        "flag"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: customized, upload, photos, type, text, custom, gifts, personalized, your, own, design. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: 25th, anniversary, september, 2001, memorial, day, usa, flag. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
