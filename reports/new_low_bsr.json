@@ -1,40 +1,94 @@
 {
-  "generated_at": "2026-09-07T10:47:35.838076Z",
+  "generated_at": "2026-09-08T10:08:02.890881Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0B9ZTP9F7",
-      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
-      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZTP9F7/ref=zg_bs_g_9056987011_d_sccl_23/133-1117367-2269954",
-      "current_rank": 23,
+      "asin": "B09XFGJ191",
+      "title": "Grunt Style American 1776 Flag Men's Graphic Tee",
+      "link": "https://www.amazon.com/Grunt-Style-T-Shirt-Military-XLarge/dp/B09XFGJ191/ref=zg_bs_g_9056987011_d_sccl_14/138-4266685-7005556",
+      "current_rank": 14,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-07T10:47:35.719135Z",
+      "first_seen": "2026-09-08T10:08:02.777534Z",
       "keywords": [
-        "awesome",
-        "like",
-        "daughter",
-        "sarcastic",
-        "saying",
-        "humor",
-        "dad",
-        "joke",
-        "father",
-        "grandpa",
-        "daddy"
+        "grunt",
+        "style",
+        "american",
+        "1776",
+        "flag"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, american, 1776, flag. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0HFWL8W56",
-      "title": "25th Anniversary September 11 2001 Memorial Day USA Flag T-Shirt",
-      "link": "https://www.amazon.com/Anniversary-September-11-2001-Memorial/dp/B0HFWL8W56/ref=zg_bs_g_9056987011_d_sccl_26/133-1117367-2269954",
-      "current_rank": 26,
+      "asin": "B0BT749BL9",
+      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
+      "link": "https://www.amazon.com/INTO-AM-Beach-Bungalow-Tshirt/dp/B0BT749BL9/ref=zg_bs_g_9056987011_d_sccl_17/138-4266685-7005556",
+      "current_rank": 17,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-07T10:47:35.719135Z",
+      "first_seen": "2026-09-08T10:08:02.777534Z",
+      "keywords": [
+        "tees",
+        "art",
+        "shirts",
+        "soft",
+        "4xl",
+        "hand",
+        "drawn",
+        "anime",
+        "edm",
+        "abstract"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DR6JBLKV",
+      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
+      "link": "https://www.amazon.com/TeeUnion-Classic-Concert-Festival-Costume/dp/B0DR6JBLKV/ref=zg_bs_g_9056987011_d_sccl_27/138-4266685-7005556",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-08T10:08:02.777534Z",
+      "keywords": [
+        "teeunion",
+        "tuxedo",
+        "party",
+        "concert",
+        "festival",
+        "costume"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0H5X7K3M2",
+      "title": "Never Forget September 11 2001 Memorial Day America Flag T-Shirt",
+      "link": "https://www.amazon.com/Never-Forget-September-2001-Memorial/dp/B0H5X7K3M2/ref=zg_bs_g_9056987011_d_sccl_29/138-4266685-7005556",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-08T10:08:02.777534Z",
+      "keywords": [
+        "never",
+        "forget",
+        "september",
+        "2001",
+        "memorial",
+        "day",
+        "america",
+        "flag"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: never, forget, september, 2001, memorial, day, america, flag. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0HFYGK3N4",
+      "title": "25th Anniversary September 11 2001 Memorial Day USA Flag T-Shirt",
+      "link": "https://www.amazon.com/Anniversary-September-11-2001-Memorial/dp/B0HFYGK3N4/ref=zg_bs_g_9056987011_d_sccl_30/138-4266685-7005556",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-08T10:08:02.777534Z",
       "keywords": [
         "25th",
         "anniversary",
