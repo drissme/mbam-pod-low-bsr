@@ -1,66 +1,100 @@
 {
-  "generated_at": "2026-09-09T10:10:23.187515Z",
+  "generated_at": "2026-09-10T10:05:48.816685Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0HF3SR3FS",
-      "title": "Never Forget 25th Years September 11 US Flag Memorial Day T-Shirt",
-      "link": "https://www.amazon.com/September-11-Memorial-Day-T-Shirt/dp/B0HF3SR3FS/ref=zg_bs_g_9056987011_d_sccl_19/131-2661200-9077661",
-      "current_rank": 19,
+      "asin": "B0H6JV4ZDL",
+      "title": "Make Your Mark Happy Dot Day Girls Boys Colorful Polka Dot T-Shirt",
+      "link": "https://www.amazon.com/Happy-Dot-Day-Colorful-T-Shirt/dp/B0H6JV4ZDL/ref=zg_bs_g_9056987011_d_sccl_9/131-6007730-9894225",
+      "current_rank": 9,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-09T10:10:23.076697Z",
+      "first_seen": "2026-09-10T10:05:48.700983Z",
       "keywords": [
-        "never",
-        "forget",
-        "25th",
-        "years",
-        "september",
-        "flag",
-        "memorial",
-        "day"
+        "make",
+        "your",
+        "mark",
+        "happy",
+        "dot",
+        "day",
+        "girls",
+        "boys",
+        "colorful",
+        "polka"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: never, forget, 25th, years, september, flag, memorial, day. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: make, your, mark, happy, dot, day, girls, boys, colorful, polka. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0HCWPJMYH",
-      "title": "25th Anniversary September 11 2001 Memorial Day T-Shirt",
-      "link": "https://www.amazon.com/25th-Anniversary-September-2001-Memorial/dp/B0HCWPJMYH/ref=zg_bs_g_9056987011_d_sccl_21/131-2661200-9077661",
-      "current_rank": 21,
+      "asin": "B0FVMD613D",
+      "title": "uideazone Mens 3D Funny Graphic T Shirt Novelty Short Sleeve Costume Tees | Lightweight Breathable Fabric, Funny Pattern, No",
+      "link": "https://www.amazon.com/uideazone-Humorous-T-Shirt-Parties-Cosplay/dp/B0FVMD613D/ref=zg_bs_g_9056987011_d_sccl_18/131-6007730-9894225",
+      "current_rank": 18,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-09T10:10:23.076697Z",
+      "first_seen": "2026-09-10T10:05:48.700983Z",
+      "keywords": [
+        "uideazone",
+        "mens",
+        "costume",
+        "tees",
+        "breathable",
+        "fabric",
+        "pattern"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, costume, tees, breathable, fabric, pattern. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0HGDRPFDH",
+      "title": "25th Anniversary September 11 2001 Memorial Day USA Flag T-Shirt",
+      "link": "https://www.amazon.com/Anniversary-September-11-2001-Memorial/dp/B0HGDRPFDH/ref=zg_bs_g_9056987011_d_sccl_22/131-6007730-9894225",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-10T10:05:48.700983Z",
       "keywords": [
         "25th",
         "anniversary",
         "september",
         "2001",
         "memorial",
-        "day"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: 25th, anniversary, september, 2001, memorial, day. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DGFL28D4",
-      "title": "Never Forget September 11 2001 Memorial Day American Flag T-Shirt",
-      "link": "https://www.amazon.com/Never-Forget-September-11-2001/dp/B0DGFL28D4/ref=zg_bs_g_9056987011_d_sccl_28/131-2661200-9077661",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-09-09T10:10:23.076697Z",
-      "keywords": [
-        "never",
-        "forget",
-        "september",
-        "2001",
-        "memorial",
         "day",
-        "american",
+        "usa",
         "flag"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: never, forget, september, 2001, memorial, day, american, flag. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: 25th, anniversary, september, 2001, memorial, day, usa, flag. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0HCPKVX3H",
+      "title": "Practical Magic Midnight Margaritas T-Shirt",
+      "link": "https://www.amazon.com/Practical-Magic-Midnight-Margaritas-T-Shirt/dp/B0HCPKVX3H/ref=zg_bs_g_9056987011_d_sccl_25/131-6007730-9894225",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-10T10:05:48.700983Z",
+      "keywords": [
+        "practical",
+        "magic",
+        "midnight",
+        "margaritas"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: practical, magic, midnight, margaritas. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0HCP9ZQ6J",
+      "title": "Practical Magic Poster T-Shirt",
+      "link": "https://www.amazon.com/Practical-Magic-Poster-T-Shirt/dp/B0HCP9ZQ6J/ref=zg_bs_g_9056987011_d_sccl_29/131-6007730-9894225",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-10T10:05:48.700983Z",
+      "keywords": [
+        "practical",
+        "magic",
+        "poster"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: practical, magic, poster. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
