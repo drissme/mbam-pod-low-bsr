@@ -1,35 +1,119 @@
 {
-  "generated_at": "2026-09-11T10:03:09.881134Z",
+  "generated_at": "2026-09-12T09:39:19.042773Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0FQPL3RSH",
-      "title": "Freedom Shirt Simple Freedom Text Patriotic T-Shirt for Men & Women | Patriotic Graphic Apparel for Men and Women, American L",
-      "link": "https://www.amazon.com/Freedom-Shirt-Patriotic-Tshirts-Graphic/dp/B0FQPL3RSH/ref=zg_bs_g_9056987011_d_sccl_7/146-1152581-1657325",
-      "current_rank": 7,
+      "asin": "B0FJLDZ8CQ",
+      "title": "Happy Dot Day Colorful Rainbow Polka Dot Boys Girls Youth T-Shirt",
+      "link": "https://www.amazon.com/Happy-Dot-Day-Colorful-Girls/dp/B0FJLDZ8CQ/ref=zg_bs_g_9056987011_d_sccl_9/145-9576898-0496761",
+      "current_rank": 9,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-11T10:03:09.769654Z",
+      "first_seen": "2026-09-12T09:39:18.931716Z",
       "keywords": [
-        "freedom",
-        "simple",
-        "text",
-        "patriotic",
-        "women",
-        "american"
+        "happy",
+        "dot",
+        "day",
+        "colorful",
+        "rainbow",
+        "polka",
+        "boys",
+        "girls"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: freedom, simple, text, patriotic, women, american. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: happy, dot, day, colorful, rainbow, polka, boys, girls. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09NJJSHVT",
-      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
-      "link": "https://www.amazon.com/Goodstoworld-Sleeve-Printed-Clothing-X-Large/dp/B09NJJSHVT/ref=zg_bs_g_9056987011_d_sccl_28/146-1152581-1657325",
-      "current_rank": 28,
+      "asin": "B0CBKY7WSQ",
+      "title": "Make Mark Day Colorful Dots International Dot Boys Kids Girl T-Shirt",
+      "link": "https://www.amazon.com/Colorful-International-Dot-Day-Kids/dp/B0CBKY7WSQ/ref=zg_bs_g_9056987011_d_sccl_15/145-9576898-0496761",
+      "current_rank": 15,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-11T10:03:09.769654Z",
+      "first_seen": "2026-09-12T09:39:18.931716Z",
+      "keywords": [
+        "make",
+        "mark",
+        "day",
+        "colorful",
+        "dots",
+        "international",
+        "dot",
+        "boys",
+        "girl"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: make, mark, day, colorful, dots, international, dot, boys, girl. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FPZ13C13",
+      "title": "Happy Dot Day Colorful Polka Dot Dinosaur Toddler Boys Kids T-Shirt",
+      "link": "https://www.amazon.com/Dot-Day-Colorful-Polka-Dinosaur/dp/B0FPZ13C13/ref=zg_bs_g_9056987011_d_sccl_16/145-9576898-0496761",
+      "current_rank": 16,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-12T09:39:18.931716Z",
+      "keywords": [
+        "happy",
+        "dot",
+        "day",
+        "colorful",
+        "polka",
+        "dinosaur",
+        "toddler",
+        "boys"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: happy, dot, day, colorful, polka, dinosaur, toddler, boys. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CCWLW4YH",
+      "title": "Graphic Tees for Men Cool Art Short Sleeve T-Shirts Soft Slim Fit S-4XL | Hand-drawn anime, EDM & abstract art - soft slim fi",
+      "link": "https://www.amazon.com/INTO-AM-Meta-Beach-Graphic/dp/B0CCWLW4YH/ref=zg_bs_g_9056987011_d_sccl_23/145-9576898-0496761",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-12T09:39:18.931716Z",
+      "keywords": [
+        "tees",
+        "art",
+        "shirts",
+        "soft",
+        "4xl",
+        "hand",
+        "drawn",
+        "anime",
+        "edm",
+        "abstract"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tees, art, shirts, soft, 4xl, hand, drawn, anime, edm, abstract. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CBKW8WJL",
+      "title": "Make Mark Day Planets International Dot Men Boys Kids T-Shirt",
+      "link": "https://www.amazon.com/International-Dot-Day-Men-Kids/dp/B0CBKW8WJL/ref=zg_bs_g_9056987011_d_sccl_25/145-9576898-0496761",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-12T09:39:18.931716Z",
+      "keywords": [
+        "make",
+        "mark",
+        "day",
+        "planets",
+        "international",
+        "dot",
+        "boys"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: make, mark, day, planets, international, dot, boys. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09NKLPNTS",
+      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
+      "link": "https://www.amazon.com/Goodstoworld-Muscle-Sleeve-Printed-Clothing/dp/B09NKLPNTS/ref=zg_bs_g_9056987011_d_sccl_26/145-9576898-0496761",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-12T09:39:18.931716Z",
       "keywords": [
         "goodstoworld",
         "unisex",
