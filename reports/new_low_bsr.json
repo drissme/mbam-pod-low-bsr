@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-09-14T11:00:53.441485Z",
+  "generated_at": "2026-09-15T10:31:30.941768Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B09GMDDM34",
+      "title": "RAISEVERN Unisex Summer T-Shirts Fake Abs Short Sleeve Graphic Tees Shirt",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMDDM34/ref=zg_bs_g_9056987011_d_sccl_28/146-0332487-4486331",
+      "current_rank": 28,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-15T10:31:30.856298Z",
+      "keywords": [
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "fake",
+        "abs",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, fake, abs, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09PWDR8NQ",
+      "title": "Spongebob Big Face Expressions Collection Unisex Adult T Shirt",
+      "link": "https://www.amazon.com/Popfunk-Classic-Spongebob-Unisex-Yellow/dp/B09PWDR8NQ/ref=zg_bs_g_9056987011_d_sccl_30/146-0332487-4486331",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-15T10:31:30.856298Z",
+      "keywords": [
+        "spongebob",
+        "big",
+        "face",
+        "expressions",
+        "collection",
+        "unisex"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: spongebob, big, face, expressions, collection, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
