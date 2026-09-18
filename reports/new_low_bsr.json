@@ -1,63 +1,46 @@
 {
-  "generated_at": "2026-09-17T10:29:55.786656Z",
+  "generated_at": "2026-09-18T10:06:24.920293Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DJHGYJLM",
-      "title": "Find Out Who You are T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Find-Out-T-Shirt/dp/B0DJHGYJLM/ref=zg_bs_g_9056987011_d_sccl_17/141-1754312-6898758",
-      "current_rank": 17,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-09-17T10:29:55.696568Z",
-      "keywords": [
-        "find",
-        "out",
-        "who",
-        "you",
-        "are"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: find, out, who, you, are. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DD1JRFH6",
-      "title": "Sesame Street Full Face Costume Unisex Adult T Shirt Collection",
-      "link": "https://www.amazon.com/Popfunk-Sesame-Street-Unisex-T-Shirt/dp/B0DD1JRFH6/ref=zg_bs_g_9056987011_d_sccl_21/141-1754312-6898758",
-      "current_rank": 21,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-09-17T10:29:55.696568Z",
-      "keywords": [
-        "sesame",
-        "street",
-        "full",
-        "face",
-        "costume",
-        "unisex",
-        "collection"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sesame, street, full, face, costume, unisex, collection. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FDGWZM7H",
-      "title": "Tires Valley Forge Automotive Costume Netflix Official Merch T-Shirt",
-      "link": "https://www.amazon.com/Valley-Automotive-Officially-Licensed-T-Shirt/dp/B0FDGWZM7H/ref=zg_bs_g_9056987011_d_sccl_23/141-1754312-6898758",
+      "asin": "B0B9ZTP9F7",
+      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
+      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZTP9F7/ref=zg_bs_g_9056987011_d_sccl_23/136-4883495-8930757",
       "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-17T10:29:55.696568Z",
+      "first_seen": "2026-09-18T10:06:24.807085Z",
       "keywords": [
-        "tires",
-        "valley",
-        "forge",
-        "automotive",
-        "costume",
-        "netflix",
-        "merch"
+        "awesome",
+        "like",
+        "daughter",
+        "sarcastic",
+        "saying",
+        "humor",
+        "dad",
+        "joke",
+        "father",
+        "grandpa",
+        "daddy"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tires, valley, forge, automotive, costume, netflix, merch. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09GYRRVDH",
+      "title": "Bluey Matching Family Short Sleeve T-Shirt",
+      "link": "https://www.amazon.com/Bluey-Graphic-T-Shirt-Bandit-X-Small/dp/B09GYRRVDH/ref=zg_bs_g_9056987011_d_sccl_27/136-4883495-8930757",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-18T10:06:24.807085Z",
+      "keywords": [
+        "bluey",
+        "matching",
+        "family"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: bluey, matching, family. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
