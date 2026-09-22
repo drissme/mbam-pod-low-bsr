@@ -1,45 +1,67 @@
 {
-  "generated_at": "2026-09-21T11:10:26.985094Z",
+  "generated_at": "2026-09-22T10:24:06.507068Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0HK3CCJLM",
-      "title": "Hey Sista It’s Really Really Nice to Meet Ya Retro Quote T-Shirt",
-      "link": "https://www.amazon.com/Hey-Sista-Really-Nice-Meet/dp/B0HK3CCJLM/ref=zg_bs_g_9056987011_d_sccl_9/130-1372829-5250028",
-      "current_rank": 9,
+      "asin": "B0GM2X1TBG",
+      "title": "Dolly Parton Wildflowers Don't Care Where They Grow Floral T-Shirt",
+      "link": "https://www.amazon.com/Dolly-Parton-Wildflowers-Floral-T-Shirt/dp/B0GM2X1TBG/ref=zg_bs_g_9056987011_d_sccl_22/139-7863832-9566660",
+      "current_rank": 22,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-21T11:10:26.900647Z",
-      "keywords": [
-        "hey",
-        "sista",
-        "really",
-        "nice",
-        "meet",
-        "quote"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: hey, sista, really, nice, meet, quote. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0HGK4H17L",
-      "title": "Dolly Parton Iconic White Suit Distressed Portrait T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Distressed-Portrait-T-Shirt/dp/B0HGK4H17L/ref=zg_bs_g_9056987011_d_sccl_28/130-1372829-5250028",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-09-21T11:10:26.900647Z",
+      "first_seen": "2026-09-22T10:24:06.389254Z",
       "keywords": [
         "dolly",
         "parton",
-        "iconic",
-        "white",
-        "suit",
-        "distressed",
-        "portrait"
+        "wildflowers",
+        "don't",
+        "care",
+        "where",
+        "they",
+        "grow",
+        "floral"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, iconic, white, suit, distressed, portrait. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, wildflowers, don't, care, where, they, grow, floral. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GM2223SH",
+      "title": "Dolly Parton 70's Retro Text Vintage Style Music Poster T-Shirt",
+      "link": "https://www.amazon.com/Dolly-Parton-Vintage-Poster-T-Shirt/dp/B0GM2223SH/ref=zg_bs_g_9056987011_d_sccl_24/139-7863832-9566660",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-22T10:24:06.389254Z",
+      "keywords": [
+        "dolly",
+        "parton",
+        "70's",
+        "text",
+        "style",
+        "music",
+        "poster"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, 70's, text, style, music, poster. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09DFPR59M",
+      "title": "Grunt Style Basic Crew Men's Everyday Essential T-Shirt Pack",
+      "link": "https://www.amazon.com/Grunt-Style-Ghost-T-Shirt-3-Pack/dp/B09DFPR59M/ref=zg_bs_g_9056987011_d_sccl_30/139-7863832-9566660",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-22T10:24:06.389254Z",
+      "keywords": [
+        "grunt",
+        "style",
+        "basic",
+        "crew",
+        "everyday",
+        "essential",
+        "pack"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, basic, crew, everyday, essential, pack. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
