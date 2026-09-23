@@ -1,67 +1,80 @@
 {
-  "generated_at": "2026-09-22T10:24:06.507068Z",
+  "generated_at": "2026-09-23T10:19:27.398247Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0GM2X1TBG",
-      "title": "Dolly Parton Wildflowers Don't Care Where They Grow Floral T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Wildflowers-Floral-T-Shirt/dp/B0GM2X1TBG/ref=zg_bs_g_9056987011_d_sccl_22/139-7863832-9566660",
-      "current_rank": 22,
+      "asin": "B07S7BH1QN",
+      "title": "uideazone Mens 3D Funny Graphic T Shirt Novelty Short Sleeve Costume Tees | Lightweight Breathable Fabric, Funny Pattern, No",
+      "link": "https://www.amazon.com/uideazone-Printed-Sleeve-T-Shirt-Casual/dp/B07S7BH1QN/ref=zg_bs_g_9056987011_d_sccl_16/147-2799693-8452127",
+      "current_rank": 16,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-22T10:24:06.389254Z",
+      "first_seen": "2026-09-23T10:19:27.285030Z",
+      "keywords": [
+        "uideazone",
+        "mens",
+        "costume",
+        "tees",
+        "breathable",
+        "fabric",
+        "pattern"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, costume, tees, breathable, fabric, pattern. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DD148WFY",
+      "title": "Sesame Street Full Face Costume Unisex Adult T Shirt Collection",
+      "link": "https://www.amazon.com/Popfunk-Sesame-Street-Monster-T-Shirt/dp/B0DD148WFY/ref=zg_bs_g_9056987011_d_sccl_21/147-2799693-8452127",
+      "current_rank": 21,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-23T10:19:27.285030Z",
+      "keywords": [
+        "sesame",
+        "street",
+        "full",
+        "face",
+        "costume",
+        "unisex",
+        "collection"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: sesame, street, full, face, costume, unisex, collection. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07TRP43G2",
+      "title": "Dolly Parton Denim Smile T-Shirt",
+      "link": "https://www.amazon.com/Dolly-Parton-Denim-Smile/dp/B07TRP43G2/ref=zg_bs_g_9056987011_d_sccl_25/147-2799693-8452127",
+      "current_rank": 25,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-09-23T10:19:27.285030Z",
       "keywords": [
         "dolly",
         "parton",
-        "wildflowers",
-        "don't",
-        "care",
-        "where",
-        "they",
-        "grow",
-        "floral"
+        "denim",
+        "smile"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, wildflowers, don't, care, where, they, grow, floral. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, denim, smile. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GM2223SH",
-      "title": "Dolly Parton 70's Retro Text Vintage Style Music Poster T-Shirt",
-      "link": "https://www.amazon.com/Dolly-Parton-Vintage-Poster-T-Shirt/dp/B0GM2223SH/ref=zg_bs_g_9056987011_d_sccl_24/139-7863832-9566660",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-09-22T10:24:06.389254Z",
-      "keywords": [
-        "dolly",
-        "parton",
-        "70's",
-        "text",
-        "style",
-        "music",
-        "poster"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, 70's, text, style, music, poster. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09DFPR59M",
-      "title": "Grunt Style Basic Crew Men's Everyday Essential T-Shirt Pack",
-      "link": "https://www.amazon.com/Grunt-Style-Ghost-T-Shirt-3-Pack/dp/B09DFPR59M/ref=zg_bs_g_9056987011_d_sccl_30/139-7863832-9566660",
+      "asin": "B07XQR2XKB",
+      "title": "Dolly Parton. Live. Laugh. Love. T-Shirt Small",
+      "link": "https://www.amazon.com/Dolly-Parton-Live-Laugh-T-Shirt/dp/B07XQR2XKB/ref=zg_bs_g_9056987011_d_sccl_30/147-2799693-8452127",
       "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-22T10:24:06.389254Z",
+      "first_seen": "2026-09-23T10:19:27.285030Z",
       "keywords": [
-        "grunt",
-        "style",
-        "basic",
-        "crew",
-        "everyday",
-        "essential",
-        "pack"
+        "dolly",
+        "parton",
+        "live",
+        "laugh",
+        "love",
+        "small"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, basic, crew, everyday, essential, pack. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: dolly, parton, live, laugh, love, small. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
