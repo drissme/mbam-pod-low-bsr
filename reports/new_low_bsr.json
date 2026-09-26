@@ -1,59 +1,50 @@
 {
-  "generated_at": "2026-09-25T10:37:07.065339Z",
+  "generated_at": "2026-09-26T10:20:49.353404Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DD1FMPW2",
-      "title": "Sesame Street Full Face Costume Unisex Adult T Shirt Collection",
-      "link": "https://www.amazon.com/Popfunk-Sesame-Street-Unisex-T-Shirt/dp/B0DD1FMPW2/ref=zg_bs_g_9056987011_d_sccl_21/141-5850637-4290822",
-      "current_rank": 21,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-09-25T10:37:06.949269Z",
-      "keywords": [
-        "sesame",
-        "street",
-        "full",
-        "face",
-        "costume",
-        "unisex",
-        "collection"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sesame, street, full, face, costume, unisex, collection. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B079PYLZTM",
-      "title": "Dr. Seuss Thing 2 Emblem T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Thing-Emblem-T-shirt/dp/B079PYLZTM/ref=zg_bs_g_9056987011_d_sccl_24/141-5850637-4290822",
+      "asin": "B09GMFDVC8",
+      "title": "RAISEVERN Unisex Summer T-Shirts Fake Abs Short Sleeve Graphic Tees Shirt",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMFDVC8/ref=zg_bs_g_9056987011_d_sccl_24/145-3748614-6657064",
       "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-25T10:37:06.949269Z",
+      "first_seen": "2026-09-26T10:20:49.268839Z",
       "keywords": [
-        "seuss",
-        "thing",
-        "emblem"
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "fake",
+        "abs",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, thing, emblem. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, fake, abs, tees. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B08FCXMHTX",
-      "title": "Crayon Tshirt Halloween Costume for Men Women Adult Size | Funny Cool Shirt idea | Graphic tee",
-      "link": "https://www.amazon.com/Crayon-Halloween-Costume-Tshirt-Graphic/dp/B08FCXMHTX/ref=zg_bs_g_9056987011_d_sccl_28/141-5850637-4290822",
-      "current_rank": 28,
+      "asin": "B0B9ZLDRKS",
+      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
+      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZLDRKS/ref=zg_bs_g_9056987011_d_sccl_30/145-3748614-6657064",
+      "current_rank": 30,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-09-25T10:37:06.949269Z",
+      "first_seen": "2026-09-26T10:20:49.268839Z",
       "keywords": [
-        "crayon",
-        "halloween",
-        "costume",
-        "women",
-        "idea"
+        "awesome",
+        "like",
+        "daughter",
+        "sarcastic",
+        "saying",
+        "humor",
+        "dad",
+        "joke",
+        "father",
+        "grandpa",
+        "daddy"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: crayon, halloween, costume, women, idea. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
