@@ -1,83 +1,46 @@
 {
-  "generated_at": "2026-10-01T11:52:46.259879Z",
+  "generated_at": "2026-10-02T11:25:02.966649Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0CMBT646W",
-      "title": "Nations of the World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
-      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBT646W/ref=zg_bs_g_9056987011_d_sccl_13/142-0878686-1241458",
-      "current_rank": 13,
+      "asin": "B0HJZTNVGB",
+      "title": "Captain Save a Hoe Shirt for Men and Women T-Shirt",
+      "link": "https://www.amazon.com/Captain-Shirt-Women-T-Shirt-Medium/dp/B0HJZTNVGB/ref=zg_bs_g_9056987011_d_sccl_25/138-3206679-9027334",
+      "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-01T11:52:46.152761Z",
+      "first_seen": "2026-10-02T11:25:02.847898Z",
       "keywords": [
-        "nations",
-        "world",
-        "national",
-        "pride",
-        "flag",
-        "symbol",
-        "arms",
-        "unisex",
+        "captain",
+        "save",
+        "hoe",
         "women"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: captain, save, hoe, women. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DR6JBLKV",
-      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
-      "link": "https://www.amazon.com/TeeUnion-Classic-Concert-Festival-Costume/dp/B0DR6JBLKV/ref=zg_bs_g_9056987011_d_sccl_18/142-0878686-1241458",
-      "current_rank": 18,
+      "asin": "B0H7BFZ5GV",
+      "title": "Halloween Shirt - Reading Tshirt - Back to School Teacher T-Shirts | Pumpkin Couple Shirt - Gift for Halloween - Witchcraft S",
+      "link": "https://www.amazon.com/InterStellux-Witch-Shirt-Halloween-Witchcraft/dp/B0H7BFZ5GV/ref=zg_bs_g_9056987011_d_sccl_29/138-3206679-9027334",
+      "current_rank": 29,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-01T11:52:46.152761Z",
+      "first_seen": "2026-10-02T11:25:02.847898Z",
       "keywords": [
-        "teeunion",
-        "tuxedo",
-        "party",
-        "concert",
-        "festival",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GF22PR8K",
-      "title": "TMNT Classic Front Back Print Unisex Adult T Shirt",
-      "link": "https://www.amazon.com/Popfunk-Teenage-Mutant-Turtles-Donatello/dp/B0GF22PR8K/ref=zg_bs_g_9056987011_d_sccl_23/142-0878686-1241458",
-      "current_rank": 23,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-01T11:52:46.152761Z",
-      "keywords": [
-        "tmnt",
-        "front",
-        "back",
-        "print",
-        "unisex"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tmnt, front, back, print, unisex. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FH9LX1PK",
-      "title": "SightYoung Fake Muscle Pirate T-Shirt,Halloween Animal Patriotic Shirt Men",
-      "link": "https://www.amazon.com/SightYoung-T-Shirts-Muscle-T-Shirt-Novelty/dp/B0FH9LX1PK/ref=zg_bs_g_9056987011_d_sccl_28/142-0878686-1241458",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-01T11:52:46.152761Z",
-      "keywords": [
-        "sightyoung",
-        "fake",
-        "muscle",
-        "pirate",
         "halloween",
-        "animal",
-        "patriotic"
+        "reading",
+        "back",
+        "school",
+        "teacher",
+        "shirts",
+        "pumpkin",
+        "couple",
+        "gift",
+        "witchcraft"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sightyoung, fake, muscle, pirate, halloween, animal, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: halloween, reading, back, school, teacher, shirts, pumpkin, couple, gift, witchcraft. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
