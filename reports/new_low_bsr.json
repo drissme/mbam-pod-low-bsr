@@ -1,131 +1,17 @@
 {
-  "generated_at": "2026-10-09T12:08:20.335304Z",
+  "generated_at": "2026-10-10T11:25:44.137376Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B08FCWWZ9B",
-      "title": "Crayon Tshirt Halloween Costume for Men Women Adult Size | Funny Cool Shirt idea | Graphic tee",
-      "link": "https://www.amazon.com/Crayon-Halloween-Costume-Tshirt-Graphic/dp/B08FCWWZ9B/ref=zg_bs_g_9056987011_d_sccl_11/135-1049240-9482761",
-      "current_rank": 11,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-09T12:08:20.256416Z",
-      "keywords": [
-        "crayon",
-        "halloween",
-        "costume",
-        "women",
-        "idea"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: crayon, halloween, costume, women, idea. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09DFPR59M",
-      "title": "Grunt Style Basic Crew Men's Everyday Essential T-Shirt Pack",
-      "link": "https://www.amazon.com/Grunt-Style-Ghost-T-Shirt-3-Pack/dp/B09DFPR59M/ref=zg_bs_g_9056987011_d_sccl_16/135-1049240-9482761",
-      "current_rank": 16,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-09T12:08:20.256416Z",
-      "keywords": [
-        "grunt",
-        "style",
-        "basic",
-        "crew",
-        "everyday",
-        "essential",
-        "pack"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, basic, crew, everyday, essential, pack. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0G92R3MT2",
-      "title": "FEEGO Thickened Cotton Short Sleeve Custom T-Shirts,Front & Back Print,Personalized with Your Photo,Fit for Men Women",
-      "link": "https://www.amazon.com/FEEGO-Thickened-Cotton-T-Shirts-Personalized/dp/B0G92R3MT2/ref=zg_bs_g_9056987011_d_sccl_18/135-1049240-9482761",
+      "asin": "B0GVKM9H2G",
+      "title": "Horse Shoe Bend Auto Club Project Movie Ringer T-Shirt Unisex | Halloween Costume, Adult Tee Shirt, Unisex Fit",
+      "link": "https://www.amazon.com/TeesAndTankYou-Horse-Project-Ringer-Unisex/dp/B0GVKM9H2G/ref=zg_bs_g_9056987011_d_sccl_18/146-7452697-0072943",
       "current_rank": 18,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-09T12:08:20.256416Z",
-      "keywords": [
-        "feego",
-        "thickened",
-        "cotton",
-        "custom",
-        "shirts",
-        "front",
-        "back",
-        "print",
-        "personalized",
-        "your",
-        "photo",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: feego, thickened, cotton, custom, shirts, front, back, print, personalized, your, photo, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0D8JWPG5T",
-      "title": "Disney Silly Symphonies The Skeleton Dance Vintage Logo T-Shirt",
-      "link": "https://www.amazon.com/Disney-Symphonies-Skeleton-Vintage-T-Shirt/dp/B0D8JWPG5T/ref=zg_bs_g_9056987011_d_sccl_25/135-1049240-9482761",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-09T12:08:20.256416Z",
-      "keywords": [
-        "disney",
-        "silly",
-        "symphonies",
-        "skeleton",
-        "dance",
-        "logo"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: disney, silly, symphonies, skeleton, dance, logo. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GF1N841Z",
-      "title": "TMNT Classic Front Back Print Unisex Adult T Shirt",
-      "link": "https://www.amazon.com/Popfunk-Teenage-Mutant-Turtles-Raphael/dp/B0GF1N841Z/ref=zg_bs_g_9056987011_d_sccl_28/135-1049240-9482761",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-09T12:08:20.256416Z",
-      "keywords": [
-        "tmnt",
-        "front",
-        "back",
-        "print",
-        "unisex"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tmnt, front, back, print, unisex. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09GMBP8H9",
-      "title": "RAISEVERN Unisex Summer T-Shirts Fake Abs Short Sleeve Graphic Tees Shirt",
-      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMBP8H9/ref=zg_bs_g_9056987011_d_sccl_29/135-1049240-9482761",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-09T12:08:20.256416Z",
-      "keywords": [
-        "raisevern",
-        "unisex",
-        "summer",
-        "shirts",
-        "fake",
-        "abs",
-        "tees"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, fake, abs, tees. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0GVKMZ86D",
-      "title": "Horse Shoe Bend Auto Club Project Movie Ringer T-Shirt Unisex | Halloween Costume, Adult Tee Shirt, Unisex Fit",
-      "link": "https://www.amazon.com/TeesAndTankYou-Project-Ringer-Unisex-Medium/dp/B0GVKMZ86D/ref=zg_bs_g_9056987011_d_sccl_30/135-1049240-9482761",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-09T12:08:20.256416Z",
+      "first_seen": "2026-10-10T11:25:44.019648Z",
       "keywords": [
         "horse",
         "shoe",
@@ -140,6 +26,25 @@
         "costume"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: horse, shoe, bend, auto, club, project, movie, ringer, unisex, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07GK2B88J",
+      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
+      "link": "https://www.amazon.com/Teenage-Turtles-Costume-T-Shirt-Nickelodeon/dp/B07GK2B88J/ref=zg_bs_g_9056987011_d_sccl_22/146-7452697-0072943",
+      "current_rank": 22,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-10T11:25:44.019648Z",
+      "keywords": [
+        "teenage",
+        "mutant",
+        "ninja",
+        "turtles",
+        "tmnt",
+        "mens",
+        "costume"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
