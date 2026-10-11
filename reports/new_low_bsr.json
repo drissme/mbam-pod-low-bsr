@@ -1,50 +1,80 @@
 {
-  "generated_at": "2026-10-10T11:25:44.137376Z",
+  "generated_at": "2026-10-11T11:39:14.380208Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0GVKM9H2G",
-      "title": "Horse Shoe Bend Auto Club Project Movie Ringer T-Shirt Unisex | Halloween Costume, Adult Tee Shirt, Unisex Fit",
-      "link": "https://www.amazon.com/TeesAndTankYou-Horse-Project-Ringer-Unisex/dp/B0GVKM9H2G/ref=zg_bs_g_9056987011_d_sccl_18/146-7452697-0072943",
-      "current_rank": 18,
+      "asin": "B0DW2X8VT5",
+      "title": "Disney Matching Family Cosplay Short Sleeve Hooded T-Shirt",
+      "link": "https://www.amazon.com/Disney-Matching-Cosplay-T-Shirt-X-Large/dp/B0DW2X8VT5/ref=zg_bs_g_9056987011_d_sccl_24/135-4166808-4685847",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-10T11:25:44.019648Z",
+      "first_seen": "2026-10-11T11:39:14.260208Z",
       "keywords": [
-        "horse",
-        "shoe",
-        "bend",
-        "auto",
-        "club",
-        "project",
-        "movie",
-        "ringer",
-        "unisex",
-        "halloween",
-        "costume"
+        "disney",
+        "matching",
+        "family",
+        "cosplay",
+        "hooded"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: horse, shoe, bend, auto, club, project, movie, ringer, unisex, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: disney, matching, family, cosplay, hooded. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B07GK2B88J",
-      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
-      "link": "https://www.amazon.com/Teenage-Turtles-Costume-T-Shirt-Nickelodeon/dp/B07GK2B88J/ref=zg_bs_g_9056987011_d_sccl_22/146-7452697-0072943",
-      "current_rank": 22,
+      "asin": "B097Z7QLCP",
+      "title": "Disney and Pixar’s Toy Story Sid Skull Black T-Shirt",
+      "link": "https://www.amazon.com/Disney-Pixars-Story-Skull-T-Shirt/dp/B097Z7QLCP/ref=zg_bs_g_9056987011_d_sccl_28/135-4166808-4685847",
+      "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-10T11:25:44.019648Z",
+      "first_seen": "2026-10-11T11:39:14.260208Z",
       "keywords": [
-        "teenage",
-        "mutant",
-        "ninja",
-        "turtles",
-        "tmnt",
-        "mens",
-        "costume"
+        "disney",
+        "pixar",
+        "toy",
+        "story",
+        "sid",
+        "skull",
+        "black"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: disney, pixar, toy, story, sid, skull, black. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0HK7LG6BX",
+      "title": "AstralWardrobe Halloween Shirts - Shirts for Halloween | Halloween Graphic Shirt - Fall Holiday T-Shirt - Gifts for Halloween",
+      "link": "https://www.amazon.com/Candy-Custom-Shirt-Halloween-Costumes/dp/B0HK7LG6BX/ref=zg_bs_g_9056987011_d_sccl_29/135-4166808-4685847",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-11T11:39:14.260208Z",
+      "keywords": [
+        "astralwardrobe",
+        "halloween",
+        "shirts",
+        "fall",
+        "holiday",
+        "gifts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: astralwardrobe, halloween, shirts, fall, holiday, gifts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0F9FNXRWY",
+      "title": "Power Rangers New Uniforms Halloween Costume Adult T Shirt Collection",
+      "link": "https://www.amazon.com/Popfunk-Rangers-Ranger-Uniform-Unisex/dp/B0F9FNXRWY/ref=zg_bs_g_9056987011_d_sccl_30/135-4166808-4685847",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-11T11:39:14.260208Z",
+      "keywords": [
+        "power",
+        "rangers",
+        "uniforms",
+        "halloween",
+        "costume",
+        "collection"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: power, rangers, uniforms, halloween, costume, collection. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
