@@ -1,36 +1,85 @@
 {
-  "generated_at": "2026-10-12T13:36:13.688008Z",
+  "generated_at": "2026-10-13T12:59:46.159207Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0BSV62XWT",
-      "title": "Diary of a Wimpy Kid LÖDED DIPER Distressed Logo T-Shirt",
-      "link": "https://www.amazon.com/Diary-Wimpy-Kid-Distressed-T-Shirt/dp/B0BSV62XWT/ref=zg_bs_g_9056987011_d_sccl_27/147-9455654-7403040",
-      "current_rank": 27,
+      "asin": "B08FCVRM9R",
+      "title": "Crayon Tshirt Halloween Costume for Men Women Adult Size | Funny Cool Shirt idea | Graphic tee",
+      "link": "https://www.amazon.com/Crayon-Halloween-Costume-Tshirt-Graphic/dp/B08FCVRM9R/ref=zg_bs_g_9056987011_d_sccl_8/145-4994375-1887744",
+      "current_rank": 8,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-12T13:36:13.562004Z",
+      "first_seen": "2026-10-13T12:59:46.027851Z",
       "keywords": [
-        "diary",
-        "wimpy",
-        "kid",
-        "ded",
-        "diper",
-        "distressed",
-        "logo"
+        "crayon",
+        "halloween",
+        "costume",
+        "women",
+        "idea"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: diary, wimpy, kid, ded, diper, distressed, logo. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: crayon, halloween, costume, women, idea. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0FH9KYJKS",
+      "asin": "B015G0FCKQ",
+      "title": "I'm Fine Shirt Bloody Halloween Costume Funny Horror Graphic Novelty Tshirt",
+      "link": "https://www.amazon.com/Feelin-Good-Tees-Halloween-Costume/dp/B015G0FCKQ/ref=zg_bs_g_9056987011_d_sccl_17/145-4994375-1887744",
+      "current_rank": 17,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-13T12:59:46.027851Z",
+      "keywords": [
+        "i'm",
+        "fine",
+        "bloody",
+        "halloween",
+        "costume",
+        "horror"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: i'm, fine, bloody, halloween, costume, horror. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B000YY2NFM",
+      "title": "Peanuts Charlie Brown Costume T-Shirt",
+      "link": "https://www.amazon.com/Peanuts-Charlie-Brown-Costume-T-Shirt/dp/B000YY2NFM/ref=zg_bs_g_9056987011_d_sccl_19/145-4994375-1887744",
+      "current_rank": 19,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-13T12:59:46.027851Z",
+      "keywords": [
+        "peanuts",
+        "charlie",
+        "brown",
+        "costume"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: peanuts, charlie, brown, costume. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DW1TNL91",
+      "title": "Disney Matching Family Cosplay Short Sleeve Hooded T-Shirt",
+      "link": "https://www.amazon.com/Disney-Winnie-Matching-Cosplay-T-Shirt/dp/B0DW1TNL91/ref=zg_bs_g_9056987011_d_sccl_24/145-4994375-1887744",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-13T12:59:46.027851Z",
+      "keywords": [
+        "disney",
+        "matching",
+        "family",
+        "cosplay",
+        "hooded"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: disney, matching, family, cosplay, hooded. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FH9JDDCB",
       "title": "SightYoung Fake Muscle Pirate T-Shirt,Halloween Animal Patriotic Shirt Men",
-      "link": "https://www.amazon.com/SightYoung-T-Shirts-Muscle-T-Shirt-Novelty/dp/B0FH9KYJKS/ref=zg_bs_g_9056987011_d_sccl_28/147-9455654-7403040",
+      "link": "https://www.amazon.com/SightYoung-T-Shirts-Muscle-T-Shirt-Novelty/dp/B0FH9JDDCB/ref=zg_bs_g_9056987011_d_sccl_28/145-4994375-1887744",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-12T13:36:13.562004Z",
+      "first_seen": "2026-10-13T12:59:46.027851Z",
       "keywords": [
         "sightyoung",
         "fake",
@@ -41,42 +90,6 @@
         "patriotic"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: sightyoung, fake, muscle, pirate, halloween, animal, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B01LY8Y1AY",
-      "title": "Popfunk Superman Classic Distressed Logo Halloween Costume T-Shirt",
-      "link": "https://www.amazon.com/Popfunk-Superman-Classic-Distressed-Heather/dp/B01LY8Y1AY/ref=zg_bs_g_9056987011_d_sccl_29/147-9455654-7403040",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-12T13:36:13.562004Z",
-      "keywords": [
-        "popfunk",
-        "superman",
-        "distressed",
-        "logo",
-        "halloween",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, superman, distressed, logo, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0F9FR82NT",
-      "title": "Power Rangers New Uniforms Halloween Costume Adult T Shirt Collection",
-      "link": "https://www.amazon.com/Popfunk-Rangers-Ranger-Uniform-Unisex/dp/B0F9FR82NT/ref=zg_bs_g_9056987011_d_sccl_30/147-9455654-7403040",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-12T13:36:13.562004Z",
-      "keywords": [
-        "power",
-        "rangers",
-        "uniforms",
-        "halloween",
-        "costume",
-        "collection"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: power, rangers, uniforms, halloween, costume, collection. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
