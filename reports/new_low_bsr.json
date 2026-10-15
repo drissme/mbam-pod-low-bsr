@@ -1,41 +1,45 @@
 {
-  "generated_at": "2026-10-14T10:40:07.223942Z",
+  "generated_at": "2026-10-15T10:24:06.728018Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B01MDMAIQ7",
-      "title": "Batman Classic Logo Halloween Costume T Shirt",
-      "link": "https://www.amazon.com/Batman-Classic-Shirt-Large-Black/dp/B01MDMAIQ7/ref=zg_bs_g_9056987011_d_sccl_28/147-1883539-2386108",
-      "current_rank": 28,
+      "asin": "B01LYKR8T3",
+      "title": "Popfunk Superman Classic Distressed Logo Halloween Costume T-Shirt",
+      "link": "https://www.amazon.com/Popfunk-Superman-Classic-Distressed-Heather/dp/B01LYKR8T3/ref=zg_bs_g_9056987011_d_sccl_13/135-3774548-4373004",
+      "current_rank": 13,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-14T10:40:07.074780Z",
+      "first_seen": "2026-10-15T10:24:06.601963Z",
       "keywords": [
-        "batman",
+        "popfunk",
+        "superman",
+        "distressed",
         "logo",
         "halloween",
         "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: batman, logo, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, superman, distressed, logo, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GF29JR5V",
-      "title": "TMNT Classic Front Back Print Unisex Adult T Shirt",
-      "link": "https://www.amazon.com/Popfunk-Teenage-Mutant-Turtles-Leonardo/dp/B0GF29JR5V/ref=zg_bs_g_9056987011_d_sccl_30/147-1883539-2386108",
-      "current_rank": 30,
+      "asin": "B01NAAFVGM",
+      "title": "Popfunk Sesame Street Cookie Monster Halloween Costume T-Shirt",
+      "link": "https://www.amazon.com/Sesame-Street-Monster-Exclusive-Stickers/dp/B01NAAFVGM/ref=zg_bs_g_9056987011_d_sccl_25/135-3774548-4373004",
+      "current_rank": 25,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-14T10:40:07.074780Z",
+      "first_seen": "2026-10-15T10:24:06.601963Z",
       "keywords": [
-        "tmnt",
-        "front",
-        "back",
-        "print",
-        "unisex"
+        "popfunk",
+        "sesame",
+        "street",
+        "cookie",
+        "monster",
+        "halloween",
+        "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tmnt, front, back, print, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, sesame, street, cookie, monster, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
