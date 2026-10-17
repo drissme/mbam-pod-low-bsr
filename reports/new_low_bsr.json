@@ -1,43 +1,29 @@
 {
-  "generated_at": "2026-10-16T10:11:16.339997Z",
+  "generated_at": "2026-10-17T09:45:41.434292Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B01N457Q6T",
-      "title": "Popfunk Sesame Street Cookie Monster Halloween Costume T-Shirt",
-      "link": "https://www.amazon.com/Sesame-Street-Monster-Exclusive-Stickers/dp/B01N457Q6T/ref=zg_bs_g_9056987011_d_sccl_18/142-5178326-0449634",
-      "current_rank": 18,
+      "asin": "B09DSH864L",
+      "title": "Funny World Men's Cotton Striped T-Shirt Crew Neck Short Sleeves Basic Casual Top",
+      "link": "https://www.amazon.com/Funny-World-Yellow-Striped-T-Shirts/dp/B09DSH864L/ref=zg_bs_g_9056987011_d_sccl_28/143-6784933-5095742",
+      "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-16T10:11:16.210272Z",
+      "first_seen": "2026-10-17T09:45:41.310168Z",
       "keywords": [
-        "popfunk",
-        "sesame",
-        "street",
-        "cookie",
-        "monster",
-        "halloween",
-        "costume"
+        "world",
+        "cotton",
+        "striped",
+        "crew",
+        "neck",
+        "sleeves",
+        "basic",
+        "casual",
+        "top"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, sesame, street, cookie, monster, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B000YY6HV8",
-      "title": "Peanuts Charlie Brown Costume T-Shirt",
-      "link": "https://www.amazon.com/Peanuts-Charlie-Brown-Costume-T-Shirt/dp/B000YY6HV8/ref=zg_bs_g_9056987011_d_sccl_19/142-5178326-0449634",
-      "current_rank": 19,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-16T10:11:16.210272Z",
-      "keywords": [
-        "peanuts",
-        "charlie",
-        "brown",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: peanuts, charlie, brown, costume. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: world, cotton, striped, crew, neck, sleeves, basic, casual, top. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
