@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-21T10:39:27.110383Z",
+  "generated_at": "2026-10-22T10:42:27.410540Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07GK1CZPS",
+      "asin": "B07GJXTJFL",
       "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
-      "link": "https://www.amazon.com/Teenage-Turtles-Costume-Leonardo-Nickelodeon/dp/B07GK1CZPS/ref=zg_bs_g_9056987011_d_sccl_9/130-6080847-1988805",
-      "current_rank": 9,
+      "link": "https://www.amazon.com/Teenage-Turtles-Costume-Michelangelo-Nickelodeon/dp/B07GJXTJFL/ref=zg_bs_g_9056987011_d_sccl_8/139-8905493-7081935",
+      "current_rank": 8,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-21T10:39:26.985881Z",
+      "first_seen": "2026-10-22T10:42:27.310155Z",
       "keywords": [
         "teenage",
         "mutant",
@@ -22,45 +22,6 @@
         "costume"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B01NCMLW9J",
-      "title": "Popfunk Sesame Street Elmo Face Halloween Costume T-Shirt",
-      "link": "https://www.amazon.com/Popfunk-Halloween-Costume-T-Shirt-Stickers/dp/B01NCMLW9J/ref=zg_bs_g_9056987011_d_sccl_23/130-6080847-1988805",
-      "current_rank": 23,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-21T10:39:26.985881Z",
-      "keywords": [
-        "popfunk",
-        "sesame",
-        "street",
-        "elmo",
-        "face",
-        "halloween",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, sesame, street, elmo, face, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B078HWRRXB",
-      "title": "Fire & Rescue Maltese Cross | Firefighter Fire Honor & Courage for Men Women T-Shirt",
-      "link": "https://www.amazon.com/Rescue-Maltese-Firefighter-Courage-T-Shirt/dp/B078HWRRXB/ref=zg_bs_g_9056987011_d_sccl_25/130-6080847-1988805",
-      "current_rank": 25,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-21T10:39:26.985881Z",
-      "keywords": [
-        "fire",
-        "rescue",
-        "maltese",
-        "cross",
-        "firefighter",
-        "honor",
-        "courage",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: fire, rescue, maltese, cross, firefighter, honor, courage, women. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
