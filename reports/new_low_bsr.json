@@ -1,70 +1,73 @@
 {
-  "generated_at": "2026-10-24T09:52:20.789394Z",
+  "generated_at": "2026-10-25T10:12:49.313773Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B01NAAFVGM",
-      "title": "Popfunk Sesame Street Cookie Monster Halloween Costume T-Shirt",
-      "link": "https://www.amazon.com/Sesame-Street-Monster-Exclusive-Stickers/dp/B01NAAFVGM/ref=zg_bs_g_9056987011_d_sccl_8/137-2140942-6450037",
-      "current_rank": 8,
+      "asin": "B01MD1CK6T",
+      "title": "Popfunk Superman Classic Logo T-Shirt",
+      "link": "https://www.amazon.com/Superman-Classic-Logo-Shirt-Medium/dp/B01MD1CK6T/ref=zg_bs_g_9056987011_d_sccl_1/133-9199495-2396468",
+      "current_rank": 1,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-24T09:52:20.668198Z",
+      "first_seen": "2026-10-25T10:12:49.208154Z",
       "keywords": [
         "popfunk",
-        "sesame",
-        "street",
-        "cookie",
-        "monster",
-        "halloween",
-        "costume"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, sesame, street, cookie, monster, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0C1HYYQ79",
-      "title": "Superman Classic Logo Shield T-Shirt",
-      "link": "https://www.amazon.com/Superman-Classic-Logo-Shield-T-Shirt/dp/B0C1HYYQ79/ref=zg_bs_g_9056987011_d_sccl_21/137-2140942-6450037",
-      "current_rank": 21,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-10-24T09:52:20.668198Z",
-      "keywords": [
         "superman",
-        "logo",
-        "shield"
+        "logo"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: superman, logo, shield. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, superman, logo. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B01MU13FZW",
-      "title": "Popfunk Sesame Street Elmo Face Halloween Costume T-Shirt",
-      "link": "https://www.amazon.com/Popfunk-Halloween-Costume-T-Shirt-Stickers/dp/B01MU13FZW/ref=zg_bs_g_9056987011_d_sccl_22/137-2140942-6450037",
-      "current_rank": 22,
+      "asin": "B08JXJ68Y7",
+      "title": "DC Comics Superman Classic Chest Logo T-Shirt Small",
+      "link": "https://www.amazon.com/DC-Comics-Superman-Classic-T-Shirt/dp/B08JXJ68Y7/ref=zg_bs_g_9056987011_d_sccl_19/133-9199495-2396468",
+      "current_rank": 19,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-24T09:52:20.668198Z",
+      "first_seen": "2026-10-25T10:12:49.208154Z",
       "keywords": [
-        "popfunk",
-        "sesame",
-        "street",
-        "elmo",
-        "face",
-        "halloween",
-        "costume"
+        "comics",
+        "superman",
+        "chest",
+        "logo",
+        "small"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, sesame, street, elmo, face, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: comics, superman, chest, logo, small. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09PXL2KYL",
-      "title": "TMNT Teenage Mutant Ninja Turtles Halloween Costume Adult Tshirt Collection",
-      "link": "https://www.amazon.com/Popfunk-Classic-Teenage-Turtles-Donatello/dp/B09PXL2KYL/ref=zg_bs_g_9056987011_d_sccl_29/137-2140942-6450037",
-      "current_rank": 29,
+      "asin": "B0FVP5ZNK3",
+      "title": "Feelin Good Tees Crayon Shirt for Women Men Kids | Costume for Halloween Party Unisex Matching Colorful Art Teacher T-Shirt",
+      "link": "https://www.amazon.com/Feelin-Good-Tees-Halloween-Matching/dp/B0FVP5ZNK3/ref=zg_bs_g_9056987011_d_sccl_23/133-9199495-2396468",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-24T09:52:20.668198Z",
+      "first_seen": "2026-10-25T10:12:49.208154Z",
+      "keywords": [
+        "feelin",
+        "good",
+        "tees",
+        "crayon",
+        "women",
+        "costume",
+        "halloween",
+        "party",
+        "unisex",
+        "matching",
+        "colorful",
+        "art"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: feelin, good, tees, crayon, women, costume, halloween, party, unisex, matching, colorful, art. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B09PX5RWN1",
+      "title": "TMNT Teenage Mutant Ninja Turtles Halloween Costume Adult Tshirt Collection",
+      "link": "https://www.amazon.com/Popfunk-Classic-Teenage-Turtles-Michelangelo/dp/B09PX5RWN1/ref=zg_bs_g_9056987011_d_sccl_24/133-9199495-2396468",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-25T10:12:49.208154Z",
       "keywords": [
         "tmnt",
         "teenage",
@@ -76,6 +79,25 @@
         "collection"
       ],
       "idea_prompt": "Create an original, text-forward T-shirt design around: tmnt, teenage, mutant, ninja, turtles, halloween, costume, collection. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FH9KYJKS",
+      "title": "SightYoung Fake Muscle Pirate T-Shirt,Halloween Animal Patriotic Shirt Men",
+      "link": "https://www.amazon.com/SightYoung-T-Shirts-Muscle-T-Shirt-Novelty/dp/B0FH9KYJKS/ref=zg_bs_g_9056987011_d_sccl_27/133-9199495-2396468",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-25T10:12:49.208154Z",
+      "keywords": [
+        "sightyoung",
+        "fake",
+        "muscle",
+        "pirate",
+        "halloween",
+        "animal",
+        "patriotic"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: sightyoung, fake, muscle, pirate, halloween, animal, patriotic. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
