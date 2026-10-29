@@ -1,60 +1,139 @@
 {
-  "generated_at": "2026-10-28T11:42:26.579576Z",
+  "generated_at": "2026-10-29T11:50:11.282656Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B09PXHYYJG",
-      "title": "TMNT Teenage Mutant Ninja Turtles Halloween Costume Adult Tshirt Collection",
-      "link": "https://www.amazon.com/Popfunk-Classic-Teenage-Turtles-Leonardo/dp/B09PXHYYJG/ref=zg_bs_g_9056987011_d_sccl_17/132-9416192-1275943",
-      "current_rank": 17,
+      "asin": "B0BB79VL4V",
+      "title": "Care Bears Belly Badge Halloween Costume Collection Adult T Shirt",
+      "link": "https://www.amazon.com/Bears-Grumpy-Belly-Unisex-Adult/dp/B0BB79VL4V/ref=zg_bs_g_9056987011_d_sccl_8/134-8428690-4557322",
+      "current_rank": 8,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-28T11:42:26.453606Z",
+      "first_seen": "2026-10-29T11:50:11.162928Z",
       "keywords": [
-        "tmnt",
-        "teenage",
-        "mutant",
-        "ninja",
-        "turtles",
+        "care",
+        "bears",
+        "belly",
+        "badge",
         "halloween",
         "costume",
         "collection"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tmnt, teenage, mutant, ninja, turtles, halloween, costume, collection. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: care, bears, belly, badge, halloween, costume, collection. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0C1JYJJD9",
-      "title": "Superman New 52 Logo Shield T-Shirt",
-      "link": "https://www.amazon.com/Superman-New-Logo-Shield-T-Shirt/dp/B0C1JYJJD9/ref=zg_bs_g_9056987011_d_sccl_24/132-9416192-1275943",
+      "asin": "B07GK2B88J",
+      "title": "Teenage Mutant Ninja Turtles TMNT Mens Costume T-Shirt",
+      "link": "https://www.amazon.com/Teenage-Turtles-Costume-T-Shirt-Nickelodeon/dp/B07GK2B88J/ref=zg_bs_g_9056987011_d_sccl_10/134-8428690-4557322",
+      "current_rank": 10,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-29T11:50:11.162928Z",
+      "keywords": [
+        "teenage",
+        "mutant",
+        "ninja",
+        "turtles",
+        "tmnt",
+        "mens",
+        "costume"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: teenage, mutant, ninja, turtles, tmnt, mens, costume. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0HF7L6FRB",
+      "title": "Superman Legendary Classic Logo T-Shirt",
+      "link": "https://www.amazon.com/Superman-Legendary-Classic-T-Shirt-Royal/dp/B0HF7L6FRB/ref=zg_bs_g_9056987011_d_sccl_16/134-8428690-4557322",
+      "current_rank": 16,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-29T11:50:11.162928Z",
+      "keywords": [
+        "superman",
+        "legendary",
+        "logo"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: superman, legendary, logo. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B01KVYXDP8",
+      "title": "Holiday Costume Tees - Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
+      "link": "https://www.amazon.com/Glow-Dark-Jack-Lantern-Face/dp/B01KVYXDP8/ref=zg_bs_g_9056987011_d_sccl_23/134-8428690-4557322",
+      "current_rank": 23,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-29T11:50:11.162928Z",
+      "keywords": [
+        "holiday",
+        "costume",
+        "tees",
+        "fun",
+        "christmas",
+        "shirts",
+        "unisex"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0D3SRRCRN",
+      "title": "Security Shirts For Men Concert Festival Event Guard Uniform",
+      "link": "https://www.amazon.com/Security-Shirts-Guard-Uniform-T-Shirt/dp/B0D3SRRCRN/ref=zg_bs_g_9056987011_d_sccl_24/134-8428690-4557322",
       "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-28T11:42:26.453606Z",
+      "first_seen": "2026-10-29T11:50:11.162928Z",
       "keywords": [
-        "superman",
-        "logo",
-        "shield"
+        "security",
+        "shirts",
+        "concert",
+        "festival",
+        "event",
+        "guard",
+        "uniform"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: superman, logo, shield. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: security, shirts, concert, festival, event, guard, uniform. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0D5DRRX44",
-      "title": "Care Bears Classic Halloween Costume Unisex Adult T Shirt",
-      "link": "https://www.amazon.com/Care-Bears-Classic-Funshine-Costume/dp/B0D5DRRX44/ref=zg_bs_g_9056987011_d_sccl_28/132-9416192-1275943",
+      "asin": "B07HWW2ZRY",
+      "title": "Popfunk Superman Classic Logo Long Sleeve T-Shirt (Royal Blue)",
+      "link": "https://www.amazon.com/Superman-Classic-Sleeve-T-Shirt-X-Large/dp/B07HWW2ZRY/ref=zg_bs_g_9056987011_d_sccl_26/134-8428690-4557322",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-10-29T11:50:11.162928Z",
+      "keywords": [
+        "popfunk",
+        "superman",
+        "logo",
+        "royal",
+        "blue"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, superman, logo, royal, blue. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B00G97GO30",
+      "title": "Ann Arbor T-shirt Co. Lifeguard - Red Lifeguarding Unisex Uniform Costume Life Guard T-Shirt for Men Women",
+      "link": "https://www.amazon.com/LIFEGUARD-Lifeguarding-Uniform-Costume-T-shirt/dp/B00G97GO30/ref=zg_bs_g_9056987011_d_sccl_28/134-8428690-4557322",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-10-28T11:42:26.453606Z",
+      "first_seen": "2026-10-29T11:50:11.162928Z",
       "keywords": [
-        "care",
-        "bears",
-        "halloween",
+        "ann",
+        "arbor",
+        "lifeguard",
+        "red",
+        "lifeguarding",
+        "unisex",
+        "uniform",
         "costume",
-        "unisex"
+        "life",
+        "guard",
+        "women"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: care, bears, halloween, costume, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: ann, arbor, lifeguard, red, lifeguarding, unisex, uniform, costume, life, guard, women. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
