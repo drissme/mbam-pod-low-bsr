@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-07T11:57:30.886474Z",
+  "generated_at": "2026-11-08T12:15:42.524757Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B00PKMIMF8",
+      "asin": "B00PKMIOAQ",
       "title": "Holiday Costume Tees - Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
-      "link": "https://www.amazon.com/Costume-Novelty-Christmas-Holiday-T-shirt-Adult/dp/B00PKMIMF8/ref=zg_bs_g_9056987011_d_sccl_7/133-8712603-7973444",
+      "link": "https://www.amazon.com/Costume-Novelty-Christmas-Holiday-T-shirt-Adult/dp/B00PKMIOAQ/ref=zg_bs_g_9056987011_d_sccl_7/136-1226807-2533248",
       "current_rank": 7,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-11-07T11:57:30.764096Z",
+      "first_seen": "2026-11-08T12:15:42.423108Z",
       "keywords": [
         "holiday",
         "costume",
@@ -24,85 +24,23 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09ZJ94PDH",
-      "title": "Food Jokes - Foodie Snack Sayings Funny Food Lover T Shirt for Men | Funny T Shirts, Graphic Shirts for Men, Cool Food Short",
-      "link": "https://www.amazon.com/Synonym-Rolls-Grammar-Funny-Shirt/dp/B09ZJ94PDH/ref=zg_bs_g_9056987011_d_sccl_18/133-8712603-7973444",
-      "current_rank": 18,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-11-07T11:57:30.764096Z",
-      "keywords": [
-        "food",
-        "jokes",
-        "foodie",
-        "snack",
-        "sayings",
-        "lover",
-        "shirts"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: food, jokes, foodie, snack, sayings, lover, shirts. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0CMBFSTTB",
-      "title": "Nations of the World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
-      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBFSTTB/ref=zg_bs_g_9056987011_d_sccl_20/133-8712603-7973444",
-      "current_rank": 20,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-11-07T11:57:30.764096Z",
-      "keywords": [
-        "nations",
-        "world",
-        "national",
-        "pride",
-        "flag",
-        "symbol",
-        "arms",
-        "unisex",
-        "women"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0DR6JBLKV",
-      "title": "TeeUnion Tuxedo T-Shirt Classic Party Tee Funny Concert Festival Costume Shirt",
-      "link": "https://www.amazon.com/TeeUnion-Classic-Concert-Festival-Costume/dp/B0DR6JBLKV/ref=zg_bs_g_9056987011_d_sccl_28/133-8712603-7973444",
+      "asin": "B01N457Q6T",
+      "title": "Popfunk Sesame Street Cookie Monster Halloween Costume T-Shirt",
+      "link": "https://www.amazon.com/Sesame-Street-Monster-Exclusive-Stickers/dp/B01N457Q6T/ref=zg_bs_g_9056987011_d_sccl_28/136-1226807-2533248",
       "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-11-07T11:57:30.764096Z",
+      "first_seen": "2026-11-08T12:15:42.423108Z",
       "keywords": [
-        "teeunion",
-        "tuxedo",
-        "party",
-        "concert",
-        "festival",
+        "popfunk",
+        "sesame",
+        "street",
+        "cookie",
+        "monster",
+        "halloween",
         "costume"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teeunion, tuxedo, party, concert, festival, costume. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0HKP19J51",
-      "title": "Woke Up Handsome Again This is Getting Ridiculous Sarcastic Tee Shirt Men | Ann Arbor Funny Graphic Humor T-shirt, Gift for H",
-      "link": "https://www.amazon.com/Ridiculous-Ann-Arbor-Sarcastic-Christmas/dp/B0HKP19J51/ref=zg_bs_g_9056987011_d_sccl_30/133-8712603-7973444",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-11-07T11:57:30.764096Z",
-      "keywords": [
-        "woke",
-        "handsome",
-        "again",
-        "this",
-        "getting",
-        "ridiculous",
-        "sarcastic",
-        "ann",
-        "arbor",
-        "humor",
-        "gift"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: woke, handsome, again, this, getting, ridiculous, sarcastic, ann, arbor, humor, gift. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: popfunk, sesame, street, cookie, monster, halloween, costume. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
