@@ -1,49 +1,107 @@
 {
-  "generated_at": "2026-11-12T14:01:28.854281Z",
+  "generated_at": "2026-11-13T13:28:34.334141Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B00PKMIR76",
-      "title": "Holiday Costume Tees - Fun and Funny Christmas Novelty Shirts Unisex T-Shirts for Men",
-      "link": "https://www.amazon.com/Costume-Novelty-Christmas-Holiday-T-shirt-Adult/dp/B00PKMIR76/ref=zg_bs_g_9056987011_d_sccl_4/146-7917671-7549023",
-      "current_rank": 4,
+      "asin": "B0FVMD9573",
+      "title": "uideazone Mens 3D Funny Graphic T Shirt Novelty Short Sleeve Costume Tees | Lightweight Breathable Fabric, Funny Pattern, No",
+      "link": "https://www.amazon.com/uideazone-Lightweight-Breathable-Gatherings-Activities/dp/B0FVMD9573/ref=zg_bs_g_9056987011_d_sccl_7/144-5703591-1198616",
+      "current_rank": 7,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-11-12T14:01:28.728323Z",
+      "first_seen": "2026-11-13T13:28:34.208966Z",
       "keywords": [
-        "holiday",
+        "uideazone",
+        "mens",
         "costume",
         "tees",
-        "fun",
-        "christmas",
-        "shirts",
-        "unisex"
+        "breathable",
+        "fabric",
+        "pattern"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: holiday, costume, tees, fun, christmas, shirts, unisex. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: uideazone, mens, costume, tees, breathable, fabric, pattern. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B09NJJSHVT",
-      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
-      "link": "https://www.amazon.com/Goodstoworld-Sleeve-Printed-Clothing-X-Large/dp/B09NJJSHVT/ref=zg_bs_g_9056987011_d_sccl_13/146-7917671-7549023",
-      "current_rank": 13,
+      "asin": "B0HKNYWMYZ",
+      "title": "Woke Up Handsome Again This is Getting Ridiculous Sarcastic Tee Shirt Men | Ann Arbor Funny Graphic Humor T-shirt, Gift for H",
+      "link": "https://www.amazon.com/Ridiculous-Sarcastic-Ann-Arbor-Christmas/dp/B0HKNYWMYZ/ref=zg_bs_g_9056987011_d_sccl_24/144-5703591-1198616",
+      "current_rank": 24,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-11-12T14:01:28.728323Z",
+      "first_seen": "2026-11-13T13:28:34.208966Z",
       "keywords": [
-        "goodstoworld",
-        "unisex",
-        "fake",
-        "abs",
-        "shirts",
-        "shredded",
-        "chest",
-        "printed",
-        "costume",
-        "tees"
+        "woke",
+        "handsome",
+        "again",
+        "this",
+        "getting",
+        "ridiculous",
+        "sarcastic",
+        "ann",
+        "arbor",
+        "humor",
+        "gift"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: woke, handsome, again, this, getting, ridiculous, sarcastic, ann, arbor, humor, gift. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CMBT646W",
+      "title": "Nations of the World | National Pride Flag Symbol Arms Tee Unisex T-Shirt for Men or Women",
+      "link": "https://www.amazon.com/USA-Tee-Shirt-American-Patriotic/dp/B0CMBT646W/ref=zg_bs_g_9056987011_d_sccl_26/144-5703591-1198616",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-13T13:28:34.208966Z",
+      "keywords": [
+        "nations",
+        "world",
+        "national",
+        "pride",
+        "flag",
+        "symbol",
+        "arms",
+        "unisex",
+        "women"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nations, world, national, pride, flag, symbol, arms, unisex, women. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0H4HP5FPP",
+      "title": "Official Olivia Rodrigo Pink Swing T-Shirt",
+      "link": "https://www.amazon.com/Official-Olivia-Rodrigo-Swing-T-Shirt/dp/B0H4HP5FPP/ref=zg_bs_g_9056987011_d_sccl_29/144-5703591-1198616",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-13T13:28:34.208966Z",
+      "keywords": [
+        "olivia",
+        "rodrigo",
+        "pink",
+        "swing"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: olivia, rodrigo, pink, swing. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0FKRDT8RJ",
+      "title": "Kpop Demon Hunters Huntrix Heroic Poses Group Shot T-Shirt",
+      "link": "https://www.amazon.com/Demon-Hunters-Huntrix-Heroic-T-Shirt/dp/B0FKRDT8RJ/ref=zg_bs_g_9056987011_d_sccl_30/144-5703591-1198616",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-13T13:28:34.208966Z",
+      "keywords": [
+        "kpop",
+        "demon",
+        "hunters",
+        "huntrix",
+        "heroic",
+        "poses",
+        "group",
+        "shot"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: kpop, demon, hunters, huntrix, heroic, poses, group, shot. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
