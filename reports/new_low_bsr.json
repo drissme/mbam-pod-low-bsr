@@ -1,45 +1,7 @@
 {
-  "generated_at": "2026-11-15T13:00:00.866424Z",
+  "generated_at": "2026-11-16T14:03:30.335980Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": [
-    {
-      "asin": "B0FRGTQT4B",
-      "title": "Dr. Seuss Grinch Face | Officially Licensed Christmas Grinch T-Shirt",
-      "link": "https://www.amazon.com/Grinch-Face-Officially-Licensed-T-Shirt/dp/B0FRGTQT4B/ref=zg_bs_g_9056987011_d_sccl_24/134-0682484-3718032",
-      "current_rank": 24,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-11-15T13:00:00.765539Z",
-      "keywords": [
-        "seuss",
-        "grinch",
-        "face",
-        "officially",
-        "licensed",
-        "christmas"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, grinch, face, officially, licensed, christmas. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B084JYGTCM",
-      "title": "Star Wars Gingerbread Cookies Galactic Empire Holiday T-Shirt",
-      "link": "https://www.amazon.com/Star-Wars-Gingerbread-Cookies-Galactic/dp/B084JYGTCM/ref=zg_bs_g_9056987011_d_sccl_30/134-0682484-3718032",
-      "current_rank": 30,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-11-15T13:00:00.765539Z",
-      "keywords": [
-        "star",
-        "wars",
-        "gingerbread",
-        "cookies",
-        "galactic",
-        "empire",
-        "holiday"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, gingerbread, cookies, galactic, empire, holiday. Use clear fonts and simple iconography. Avoid trademarks."
-    }
-  ]
+  "items": []
 }
