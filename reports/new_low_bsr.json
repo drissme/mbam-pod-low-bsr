@@ -1,7 +1,78 @@
 {
-  "generated_at": "2026-11-17T14:57:13.273345Z",
+  "generated_at": "2026-11-18T14:37:40.829919Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B09GMFDVC8",
+      "title": "RAISEVERN Unisex Summer T-Shirts Fake Abs Short Sleeve Graphic Tees Shirt",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-Graphic-Fashion-Tshirts/dp/B09GMFDVC8/ref=zg_bs_g_9056987011_d_sccl_14/134-4339625-6984718",
+      "current_rank": 14,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-18T14:37:40.731731Z",
+      "keywords": [
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "fake",
+        "abs",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, fake, abs, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DBLKGF65",
+      "title": "Goodstoworld Unisex 3D Fake Abs T Shirts Shredded Chest Printed Short Sleeve Costume Novelty Tees Shirt",
+      "link": "https://www.amazon.com/Thanksgiving-Cospaly-Festivals-Graphic-Outfits/dp/B0DBLKGF65/ref=zg_bs_g_9056987011_d_sccl_17/134-4339625-6984718",
+      "current_rank": 17,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-18T14:37:40.731731Z",
+      "keywords": [
+        "goodstoworld",
+        "unisex",
+        "fake",
+        "abs",
+        "shirts",
+        "shredded",
+        "chest",
+        "printed",
+        "costume",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: goodstoworld, unisex, fake, abs, shirts, shredded, chest, printed, costume, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0BZQCBZMP",
+      "title": "Peanuts - Thanksgiving Scene T-Shirt",
+      "link": "https://www.amazon.com/Peanuts-Thanksgiving-Scene-T-Shirt/dp/B0BZQCBZMP/ref=zg_bs_g_9056987011_d_sccl_29/134-4339625-6984718",
+      "current_rank": 29,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-18T14:37:40.731731Z",
+      "keywords": [
+        "peanuts",
+        "thanksgiving",
+        "scene"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: peanuts, thanksgiving, scene. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0H8DVSH42",
+      "title": "Haymitch Portrait T-Shirt",
+      "link": "https://www.amazon.com/The-Hunger-Games-Haymitch-Portrait/dp/B0H8DVSH42/ref=zg_bs_g_9056987011_d_sccl_30/134-4339625-6984718",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-18T14:37:40.731731Z",
+      "keywords": [
+        "haymitch",
+        "portrait"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: haymitch, portrait. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
