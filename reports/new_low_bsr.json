@@ -1,88 +1,46 @@
 {
-  "generated_at": "2026-11-19T14:44:28.522246Z",
+  "generated_at": "2026-11-20T14:26:02.587586Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0DHGFL99K",
-      "title": "TEERAPHIQUE Christmas Pajamas for Family, Couples Xmas PJS Matching Sets | Xmas Jammies for Couples.T-Shirts and Pants",
-      "link": "https://www.amazon.com/Christmas-Pajamas-Holiday-Matching-Jammies/dp/B0DHGFL99K/ref=zg_bs_g_9056987011_d_sccl_15/141-2178002-2439130",
-      "current_rank": 15,
+      "asin": "B09ZJ94PDH",
+      "title": "Food Jokes - Foodie Snack Sayings Funny Food Lover T Shirt for Men | Funny T Shirts, Graphic Shirts for Men, Cool Food Short",
+      "link": "https://www.amazon.com/Synonym-Rolls-Grammar-Funny-Shirt/dp/B09ZJ94PDH/ref=zg_bs_g_9056987011_d_sccl_11/146-5375049-8184623",
+      "current_rank": 11,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-11-19T14:44:28.424070Z",
+      "first_seen": "2026-11-20T14:26:02.467020Z",
       "keywords": [
-        "teeraphique",
-        "christmas",
-        "pajamas",
-        "family",
+        "food",
+        "jokes",
+        "foodie",
+        "snack",
+        "sayings",
+        "lover",
+        "shirts"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: food, jokes, foodie, snack, sayings, lover, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0G36TQR3J",
+      "title": "Sweet Potato and Kind of Rude Potato Cute Couples - Pair 2 T-Shirt",
+      "link": "https://www.amazon.com/Sweet-Potato-Kind-Rude-Couples/dp/B0G36TQR3J/ref=zg_bs_g_9056987011_d_sccl_24/146-5375049-8184623",
+      "current_rank": 24,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-20T14:26:02.467020Z",
+      "keywords": [
+        "sweet",
+        "potato",
+        "kind",
+        "rude",
+        "cute",
         "couples",
-        "xmas",
-        "pjs",
-        "matching",
-        "sets",
-        "jammies",
-        "shirts",
-        "pants"
+        "pair"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teeraphique, christmas, pajamas, family, couples, xmas, pjs, matching, sets, jammies, shirts, pants. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B09JFDBPXG",
-      "title": "Tipsy Elves Funny Men's Thanksgiving Shirts - Hilarious Turkey Day and Friendsgiving Tees for Men",
-      "link": "https://www.amazon.com/Tipsy-Elves-Thanksgiving-Turkey-X-Large/dp/B09JFDBPXG/ref=zg_bs_g_9056987011_d_sccl_22/141-2178002-2439130",
-      "current_rank": 22,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-11-19T14:44:28.424070Z",
-      "keywords": [
-        "tipsy",
-        "elves",
-        "thanksgiving",
-        "shirts",
-        "hilarious",
-        "turkey",
-        "day",
-        "friendsgiving",
-        "tees"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tipsy, elves, thanksgiving, shirts, hilarious, turkey, day, friendsgiving, tees. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B07KW25YKL",
-      "title": "Dr. Seuss Grinch and Max | Whoville Grinchmas Christmas T-Shirt",
-      "link": "https://www.amazon.com/Dr-Seuss-Grinch-Sleigh-T-shirt/dp/B07KW25YKL/ref=zg_bs_g_9056987011_d_sccl_26/141-2178002-2439130",
-      "current_rank": 26,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-11-19T14:44:28.424070Z",
-      "keywords": [
-        "seuss",
-        "grinch",
-        "max",
-        "whoville",
-        "grinchmas",
-        "christmas"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: seuss, grinch, max, whoville, grinchmas, christmas. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0BDXYHL9P",
-      "title": "Peanuts - Snoopy Woodstock Christmas Lights T-Shirt",
-      "link": "https://www.amazon.com/Peanuts-Snoopy-Woodstock-Christmas-T-Shirt/dp/B0BDXYHL9P/ref=zg_bs_g_9056987011_d_sccl_28/141-2178002-2439130",
-      "current_rank": 28,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-11-19T14:44:28.424070Z",
-      "keywords": [
-        "peanuts",
-        "snoopy",
-        "woodstock",
-        "christmas",
-        "lights"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: peanuts, snoopy, woodstock, christmas, lights. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: sweet, potato, kind, rude, cute, couples, pair. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
