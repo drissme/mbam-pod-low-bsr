@@ -1,46 +1,67 @@
 {
-  "generated_at": "2026-11-20T14:26:02.587586Z",
+  "generated_at": "2026-11-21T13:45:23.414937Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B09ZJ94PDH",
-      "title": "Food Jokes - Foodie Snack Sayings Funny Food Lover T Shirt for Men | Funny T Shirts, Graphic Shirts for Men, Cool Food Short",
-      "link": "https://www.amazon.com/Synonym-Rolls-Grammar-Funny-Shirt/dp/B09ZJ94PDH/ref=zg_bs_g_9056987011_d_sccl_11/146-5375049-8184623",
-      "current_rank": 11,
+      "asin": "B0B9ZQRWBK",
+      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
+      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZQRWBK/ref=zg_bs_g_9056987011_d_sccl_8/147-3873990-5780465",
+      "current_rank": 8,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-11-20T14:26:02.467020Z",
+      "first_seen": "2026-11-21T13:45:23.318131Z",
       "keywords": [
-        "food",
-        "jokes",
-        "foodie",
-        "snack",
-        "sayings",
-        "lover",
-        "shirts"
+        "awesome",
+        "like",
+        "daughter",
+        "sarcastic",
+        "saying",
+        "humor",
+        "dad",
+        "joke",
+        "father",
+        "grandpa",
+        "daddy"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: food, jokes, foodie, snack, sayings, lover, shirts. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0G36TQR3J",
-      "title": "Sweet Potato and Kind of Rude Potato Cute Couples - Pair 2 T-Shirt",
-      "link": "https://www.amazon.com/Sweet-Potato-Kind-Rude-Couples/dp/B0G36TQR3J/ref=zg_bs_g_9056987011_d_sccl_24/146-5375049-8184623",
-      "current_rank": 24,
+      "asin": "B08K861XCX",
+      "title": "That's a Horrible Idea What Time T-Shirt Funny Tee | Funny Sarcastic Graphic Tee for Men Women, Novelty Gift Shirt",
+      "link": "https://www.amazon.com/Horrible-T-Shirt-Sarcastic-Drinking-Heather/dp/B08K861XCX/ref=zg_bs_g_9056987011_d_sccl_14/147-3873990-5780465",
+      "current_rank": 14,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-11-20T14:26:02.467020Z",
+      "first_seen": "2026-11-21T13:45:23.318131Z",
       "keywords": [
-        "sweet",
-        "potato",
-        "kind",
-        "rude",
-        "cute",
-        "couples",
-        "pair"
+        "that's",
+        "horrible",
+        "idea",
+        "what",
+        "time",
+        "sarcastic",
+        "women",
+        "gift"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: sweet, potato, kind, rude, cute, couples, pair. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: that's, horrible, idea, what, time, sarcastic, women, gift. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0GL4FPYYS",
+      "title": "Off to Commit Shenanigans Frog T-Shirt",
+      "link": "https://www.amazon.com/Off-Commit-Shenanigans-Frog-T-Shirt/dp/B0GL4FPYYS/ref=zg_bs_g_9056987011_d_sccl_26/147-3873990-5780465",
+      "current_rank": 26,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-21T13:45:23.318131Z",
+      "keywords": [
+        "off",
+        "commit",
+        "shenanigans",
+        "frog"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: off, commit, shenanigans, frog. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
