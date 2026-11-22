@@ -1,40 +1,17 @@
 {
-  "generated_at": "2026-11-21T13:45:23.414937Z",
+  "generated_at": "2026-11-22T13:39:11.183071Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B0B9ZQRWBK",
-      "title": "Awesome Like My Daughter | Funny Tee Shirt, Sarcastic Saying Humor Dad Joke T-Shirt for Father Grandpa Daddy",
-      "link": "https://www.amazon.com/Awesome-Daughter-Sarcastic-T-Shirt-Grandpa/dp/B0B9ZQRWBK/ref=zg_bs_g_9056987011_d_sccl_8/147-3873990-5780465",
-      "current_rank": 8,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-11-21T13:45:23.318131Z",
-      "keywords": [
-        "awesome",
-        "like",
-        "daughter",
-        "sarcastic",
-        "saying",
-        "humor",
-        "dad",
-        "joke",
-        "father",
-        "grandpa",
-        "daddy"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: awesome, like, daughter, sarcastic, saying, humor, dad, joke, father, grandpa, daddy. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B08K861XCX",
+      "asin": "B08K85P5PJ",
       "title": "That's a Horrible Idea What Time T-Shirt Funny Tee | Funny Sarcastic Graphic Tee for Men Women, Novelty Gift Shirt",
-      "link": "https://www.amazon.com/Horrible-T-Shirt-Sarcastic-Drinking-Heather/dp/B08K861XCX/ref=zg_bs_g_9056987011_d_sccl_14/147-3873990-5780465",
-      "current_rank": 14,
+      "link": "https://www.amazon.com/Horrible-T-Shirt-Sarcastic-Drinking-Heather/dp/B08K85P5PJ/ref=zg_bs_g_9056987011_d_sccl_10/130-7044566-1659162",
+      "current_rank": 10,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-11-21T13:45:23.318131Z",
+      "first_seen": "2026-11-22T13:39:11.066379Z",
       "keywords": [
         "that's",
         "horrible",
@@ -48,20 +25,64 @@
       "idea_prompt": "Create an original, text-forward T-shirt design around: that's, horrible, idea, what, time, sarcastic, women, gift. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0GL4FPYYS",
-      "title": "Off to Commit Shenanigans Frog T-Shirt",
-      "link": "https://www.amazon.com/Off-Commit-Shenanigans-Frog-T-Shirt/dp/B0GL4FPYYS/ref=zg_bs_g_9056987011_d_sccl_26/147-3873990-5780465",
-      "current_rank": 26,
+      "asin": "B0CCS3QRSB",
+      "title": "RAISEVERN Unisex Summer T-Shirts Fake Abs Short Sleeve Graphic Tees Shirt",
+      "link": "https://www.amazon.com/RAISEVERN-Muscle-T-Shirt-Graphic-Festival/dp/B0CCS3QRSB/ref=zg_bs_g_9056987011_d_sccl_12/130-7044566-1659162",
+      "current_rank": 12,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-11-21T13:45:23.318131Z",
+      "first_seen": "2026-11-22T13:39:11.066379Z",
       "keywords": [
-        "off",
-        "commit",
-        "shenanigans",
-        "frog"
+        "raisevern",
+        "unisex",
+        "summer",
+        "shirts",
+        "fake",
+        "abs",
+        "tees"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: off, commit, shenanigans, frog. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: raisevern, unisex, summer, shirts, fake, abs, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0DHYKJDWV",
+      "title": "Grunt Style Basic Mens T-Shirts - Everyday Essential Mens Shirts Pack S-3XL | Soft Crew Neck T Shirts for Men Packs of 3-5 Co",
+      "link": "https://www.amazon.com/Grunt-Style-Standard-T-Shirt-5-Pack/dp/B0DHYKJDWV/ref=zg_bs_g_9056987011_d_sccl_19/130-7044566-1659162",
+      "current_rank": 19,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-22T13:39:11.066379Z",
+      "keywords": [
+        "grunt",
+        "style",
+        "basic",
+        "mens",
+        "shirts",
+        "everyday",
+        "essential",
+        "pack",
+        "3xl",
+        "soft",
+        "crew",
+        "neck"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, basic, mens, shirts, everyday, essential, pack, 3xl, soft, crew, neck. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B07B5GZ7ZK",
+      "title": "Peanuts Holiday Snoopy and Woodstock Stocking T-Shirt",
+      "link": "https://www.amazon.com/Peanuts-Snoopy-Woodstock-Stocking-T-shirt/dp/B07B5GZ7ZK/ref=zg_bs_g_9056987011_d_sccl_27/130-7044566-1659162",
+      "current_rank": 27,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-22T13:39:11.066379Z",
+      "keywords": [
+        "peanuts",
+        "holiday",
+        "snoopy",
+        "woodstock",
+        "stocking"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: peanuts, holiday, snoopy, woodstock, stocking. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
