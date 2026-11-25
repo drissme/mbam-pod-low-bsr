@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-24T16:31:46.332393Z",
+  "generated_at": "2026-11-25T16:12:04.673130Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
-  "items": []
+  "items": [
+    {
+      "asin": "B09JFGSLZX",
+      "title": "Tipsy Elves Funny Men's Thanksgiving Shirts - Hilarious Turkey Day and Friendsgiving Tees for Men",
+      "link": "https://www.amazon.com/Tipsy-Elves-Funny-Thanksgiving-Turkey/dp/B09JFGSLZX/ref=zg_bs_g_9056987011_d_sccl_7/134-3827966-8119723",
+      "current_rank": 7,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-25T16:12:04.552975Z",
+      "keywords": [
+        "tipsy",
+        "elves",
+        "thanksgiving",
+        "shirts",
+        "hilarious",
+        "turkey",
+        "day",
+        "friendsgiving",
+        "tees"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: tipsy, elves, thanksgiving, shirts, hilarious, turkey, day, friendsgiving, tees. Use clear fonts and simple iconography. Avoid trademarks."
+    },
+    {
+      "asin": "B0CYJG6TCR",
+      "title": "Grunt Style 1776 Flag Long Sleeve Men's Graphic Tee",
+      "link": "https://www.amazon.com/Grunt-Style-Sleeve-T-Shirt-XLarge/dp/B0CYJG6TCR/ref=zg_bs_g_9056987011_d_sccl_30/134-3827966-8119723",
+      "current_rank": 30,
+      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
+      "days_seen": 1,
+      "first_seen": "2026-11-25T16:12:04.552975Z",
+      "keywords": [
+        "grunt",
+        "style",
+        "1776",
+        "flag"
+      ],
+      "idea_prompt": "Create an original, text-forward T-shirt design around: grunt, style, 1776, flag. Use clear fonts and simple iconography. Avoid trademarks."
+    }
+  ]
 }
