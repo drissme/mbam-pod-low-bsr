@@ -1,96 +1,45 @@
 {
-  "generated_at": "2026-11-26T15:51:38.200257Z",
+  "generated_at": "2026-11-27T15:40:06.928519Z",
   "window_days": 7,
   "max_rank": 50,
   "new_only": true,
   "items": [
     {
-      "asin": "B07JBCVXMM",
-      "title": "Tipsy Elves Funny Men's Thanksgiving Shirts - Hilarious Turkey Day and Friendsgiving Tees for Men",
-      "link": "https://www.amazon.com/TipsyElves-Plucks-Given-Thanksgiving-Shirt/dp/B07JBCVXMM/ref=zg_bs_g_9056987011_d_sccl_8/146-8420627-5092327",
-      "current_rank": 8,
+      "asin": "B07CY6K2FD",
+      "title": "I Paused My Game to Be Here - Funny Video Gamer Humor Joke for Men Women T-Shirt",
+      "link": "https://www.amazon.com/Paused-My-Game-Be-Here/dp/B07CY6K2FD/ref=zg_bs_g_9056987011_d_sccl_23/134-4751924-2781309",
+      "current_rank": 23,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-11-26T15:51:38.113715Z",
+      "first_seen": "2026-11-27T15:40:06.824283Z",
       "keywords": [
-        "tipsy",
-        "elves",
-        "thanksgiving",
-        "shirts",
-        "hilarious",
-        "turkey",
-        "day",
-        "friendsgiving",
-        "tees"
+        "paused",
+        "game",
+        "here",
+        "video",
+        "gamer",
+        "humor",
+        "joke",
+        "women"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: tipsy, elves, thanksgiving, shirts, hilarious, turkey, day, friendsgiving, tees. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: paused, game, here, video, gamer, humor, joke, women. Use clear fonts and simple iconography. Avoid trademarks."
     },
     {
-      "asin": "B0DHGG9F5X",
-      "title": "TEERAPHIQUE Christmas Pajamas for Family, Couples Xmas PJS Matching Sets | Xmas Jammies for Couples.T-Shirts and Pants",
-      "link": "https://www.amazon.com/Christmas-Pajamas-Holiday-Matching-Jammies/dp/B0DHGG9F5X/ref=zg_bs_g_9056987011_d_sccl_16/146-8420627-5092327",
-      "current_rank": 16,
+      "asin": "B07PGHW7SZ",
+      "title": "Nintendo Zelda Ocarina of Time Classic Logo Graphic T-Shirt T-Shirt",
+      "link": "https://www.amazon.com/Nintendo-Zelda-Ocarina-Classic-Graphic/dp/B07PGHW7SZ/ref=zg_bs_g_9056987011_d_sccl_28/134-4751924-2781309",
+      "current_rank": 28,
       "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
       "days_seen": 1,
-      "first_seen": "2026-11-26T15:51:38.113715Z",
+      "first_seen": "2026-11-27T15:40:06.824283Z",
       "keywords": [
-        "teeraphique",
-        "christmas",
-        "pajamas",
-        "family",
-        "couples",
-        "xmas",
-        "pjs",
-        "matching",
-        "sets",
-        "jammies",
-        "shirts",
-        "pants"
+        "nintendo",
+        "zelda",
+        "ocarina",
+        "time",
+        "logo"
       ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: teeraphique, christmas, pajamas, family, couples, xmas, pjs, matching, sets, jammies, shirts, pants. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0FVTZ3MZ6",
-      "title": "Personalized Christmas Initial T-Shirt, Custom Name Holiday Design with Reindeer Antlers, Multiple Colors Available, Family M",
-      "link": "https://www.amazon.com/Personalized-Christmas-Reindeer-Multiple-Available/dp/B0FVTZ3MZ6/ref=zg_bs_g_9056987011_d_sccl_27/146-8420627-5092327",
-      "current_rank": 27,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-11-26T15:51:38.113715Z",
-      "keywords": [
-        "personalized",
-        "christmas",
-        "initial",
-        "custom",
-        "name",
-        "holiday",
-        "design",
-        "reindeer",
-        "antlers",
-        "multiple",
-        "available",
-        "family"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: personalized, christmas, initial, custom, name, holiday, design, reindeer, antlers, multiple, available, family. Use clear fonts and simple iconography. Avoid trademarks."
-    },
-    {
-      "asin": "B0934BM6KC",
-      "title": "Star Wars Christmas AT-AT Walker Dashing Through The Snow T-Shirt",
-      "link": "https://www.amazon.com/Christmas-Walker-Dashing-Through-T-Shirt/dp/B0934BM6KC/ref=zg_bs_g_9056987011_d_sccl_29/146-8420627-5092327",
-      "current_rank": 29,
-      "category_url": "https://www.amazon.com/Best-Sellers-Men%27s-Novelty-T-Shirts/zgbs/fashion/9056987011",
-      "days_seen": 1,
-      "first_seen": "2026-11-26T15:51:38.113715Z",
-      "keywords": [
-        "star",
-        "wars",
-        "christmas",
-        "walker",
-        "dashing",
-        "through",
-        "snow"
-      ],
-      "idea_prompt": "Create an original, text-forward T-shirt design around: star, wars, christmas, walker, dashing, through, snow. Use clear fonts and simple iconography. Avoid trademarks."
+      "idea_prompt": "Create an original, text-forward T-shirt design around: nintendo, zelda, ocarina, time, logo. Use clear fonts and simple iconography. Avoid trademarks."
     }
   ]
 }
